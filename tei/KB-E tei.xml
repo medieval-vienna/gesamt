@@ -23835,14 +23835,16 @@ Julian: Summa wirklich durchgestrichen? JA
 				</p>
 			</div>
 
-			<div type="entry" n="452-2">
-				<p facs="#facs_452_TextRegion_1644219915684_1835">
+		</div>
+
+		<div type="section-temporal">
+		<note>1429</note>
+			<head facs="#facs_452_TextRegion_1644219915684_1835" type="heading-temporal">
 					<lb facs="#facs_452_r2l9" n="N001"/>Hanns Steger Caspar
 					<lb facs="#facs_452_r2l10" n="N002"/>Pirchvelder
-				</p>
-			</div>
+			</head>
 
-			<div type="entry" n="452-3">
+			<div type="entry" n="452-2">
 				<p facs="#facs_452_TextRegion_1644219915014_1831">
 					<lb facs="#facs_452_r2l11" n="N001"/>Oswalt Reicholf hat abtreten und ubergeben seinen kindern Oswalten Jorgen
 					<lb facs="#facs_452_r2l12" n="N002"/>Clarn und Dorotheen seiner leibgeding und alle seine Recht so er hat ge-
