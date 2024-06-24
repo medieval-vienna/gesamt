@@ -1979,8 +1979,10 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_629_r2l45" n="N007"/>stet <date>Actum an Freytag vor sand Maria Magdalen tag Anno etc. lxvº</date>
 
 					<lb facs="#facs_629_r2l46" n="N008"/>lxxii
-ist die Summa
 				</p>
+				<ab type="kommentar">
+lxxii ist die Summa
+				</ab>
 			</div>
 
 				<pb facs="#facs_630" n="630" xml:id="img_0630"/>
@@ -3152,7 +3154,6 @@ P2+P5 vererben D1 an P1+P2, Datum, Gebühr
 					<lb facs="#facs_665_r2l43" n="N010"/>Anno etc xlᵈº</date>
 
 					<lb facs="#facs_665_r2l42" n="N011"/>vii s. xvi d.
-ist die Summa
 				</p>
 			</div>
 
@@ -6539,8 +6540,10 @@ stimmt das korrigierte Jahr?
 					<lb facs="#facs_719_r2l7" n="N007"/><del>Summa v s. xiiii d.</del>
 
 					<lb facs="#facs_719_r1l1" n="N008"/>erratum est
-Eintrag gelöscht, oder nur Summa?
 				</p>
+				<ab type="kommentar">
+Eintrag gelöscht, oder nur Summa?
+				</ab>
 			</div>
 
 			<div type="entry" n="0719-2">
@@ -9842,8 +9845,10 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_761_r2l45" n="N012"/>Nota die egnant fraw in das heus von paufelligkait wegen
 					<lb facs="#facs_761_line_1659453657176_713" n="N013"/>verkauffen mussen und der kinds tail wider an Ir haus verpaut
 					<lb facs="#facs_761_r2l42" n="N014"/>habet cedulam
-Eintrag gelöscht, oder nur Summa?
 				</p>
+				<ab type="kommentar">
+Eintrag gelöscht, oder nur Summa?
+				</ab>
 			</div>
 
 			<div type="entry" n="0761-5">
@@ -12635,6 +12640,7 @@ Eintrag gelöscht?
 					<lb facs="#facs_797_r1l10" n="N012"/>schaffen machen und geben wem er wil nach der Stat Rechten zu Wienn <date>Actum
 					<lb facs="#facs_797_r1l11" n="N013"/>an an Mitichen vor Purificacionis Marie Anno etc. lxxᵐº</date>
 					<lb facs="#facs_797_r1l12" n="N014"/>Summa ½ tl. xxiiii d.
+
 					<lb facs="#facs_797_r1l13" n="N015"/>M habet cedulam
 				</p>
 			</div>
@@ -13489,6 +13495,7 @@ Eintrag gelöscht?
 					<lb facs="#facs_808_r1l6" n="N004"/>des obgenant Turner seligen kindern versaczt sein <date>Actum an Mitichen nach sand Thomans
 					<lb facs="#facs_808_r1l7" n="N005"/>tag Appostoli Anno domini etc. lxxiiiº</date>
 					<lb facs="#facs_808_r1l8" n="N006"/>Summa lxxii
+
 					<lb facs="#facs_808_r1l9" n="N007"/>Nota das vorgenant zymer und gemech hat Paul Englhart sneider anstat Magdalnn seiner
 					<lb facs="#facs_808_r1l10" n="N008"/>hausfrawn der gewalt Er gehabt von der Sey wegnn so darauf gestanden sein vor dem
 					<lb facs="#facs_808_r1l11" n="N009"/>StatRichter In der Burgerschrann mit Recht Erlangt laut der gerichtz und Urlaubbrief zum
@@ -14604,8 +14611,10 @@ Eintrag gelöscht?
 
 					<lb facs="#facs_827_r2l1" n="N008"/>erratuem
 					<lb facs="#facs_827_line_1642076911464_1026" n="N009"/>est
-Eintrag gelöscht, oder nur Summa?
 				</p>
+				<ab type="kommentar">
+Eintrag gelöscht, oder nur Summa?
+				</ab>
 			</div>
 
 				<pb facs="#facs_828" n="828" xml:id="img_0828"/>
@@ -15906,6 +15915,7 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_842_line_1642078989823_1594" n="N001"/>und mugen als gesambter hannd und der Stat zu Wienn Recht ist getreulich und ungeverlich
 					<lb facs="#facs_842_r1l4" n="N002"/><date>Actum an Montag vor sand Lucein und Otilien tag Anno domini etc. lxviiiᵛº</date>
 					<lb facs="#facs_842_r1l6" n="N003"/>Summa iiii s. xiiii d.
+
 					<lb facs="#facs_842_r1l8" n="N004"/>ipse <unclear>quiges</unclear> habent cedulam
 				</p>
 			</div>
@@ -21237,11 +21247,17 @@ vor verschriben sein: wohin im Text?
 					<lb facs="#facs_964_r2l25" n="N008"/>die bemelten pekhen und sein egemelt miterben lediclich gevallen und komen sein Innhalt
 					<lb facs="#facs_964_r2l26" n="N009"/>irer beweisten frewntschafft im Statpuch zu Wienn geschriben <date>Actum an Phincztag sand Thomans
 					<lb facs="#facs_964_line_1642416128831_2201" n="N010"/>abent appostoli Anno etc. lxxᵐº</date>
-					<lb facs="#facs_964_line_1656330618665_102" n="N011"/>Tempore dominorum herrn Niclasen Erensst consulis
-					<lb facs="#facs_964_line_1656330631031_110" n="N012"/>Cristan Schonnperger Anno etc. lxxiᵐº
 					<lb facs="#facs_964_line_1642416068679_2177" n="N013"/>Summa xii s. d.
 				</p>
 			</div>
+
+			</div>
+
+			<div type="section-temporal">
+				<head facs="#facs_964_TextRegion_1656329949198_36" type="heading-temporal">
+					<lb facs="#facs_964_line_1656330618665_102" n="N011"/>Tempore dominorum herrn Niclasen Erensst consulis
+					<lb facs="#facs_964_line_1656330631031_110" n="N012"/>Cristan Schonnperger Anno etc. lxxiᵐº
+				</head>
 
 			<div type="entry" n="0964-4">
 				<p facs="#facs_964_TextRegion_1656329944058_32">
@@ -25459,9 +25475,12 @@ sollte º sein?
 					<lb facs="#facs_1047_line_1654695461426_235" n="N024"/>Lempekh habet cedulam
 					<lb facs="#facs_1047_r2l31" n="N025"/>Nota ain zedl aus dem gruntpuch umb die gewer Ulrichs Gundlochs und Kristina
 					<lb facs="#facs_1047_r2l32" n="N026"/>Englhartsteterin seligen ist verlegt unversert vorhannden und darumb wann man mit
-					<lb facs="#facs_1047_r2l33" n="N027"/>dem obgenant hawss verrer hanndeln will <hi style="vertical-align: superscript;">so</hi> sol man das puch von der egenant zetel wegen
+					<lb facs="#facs_1047_r2l33" n="N027"/>dem obgenant hawss verrer hanndeln will so sol man das puch von der egenant zetel wegen
 					<lb facs="#facs_1047_line_1654695151089_135" n="N028"/>versorgen nach notdurft
 				</p>
+				<ab type="kommentar">
+dem obgenant hawss verrer hanndeln will so sol man das puch von der egenant zetel wegen: "so" ist hochgestellt
+				</ab>
 			</div>
 
 			<div type="entry" n="1047-3">
@@ -27436,8 +27455,10 @@ sollte º sein?
 					<lb facs="#facs_1080_r1l44" n="N006"/><del>Summa iiii s. xxii d.</del>
 
 					<lb facs="#facs_1080_r1l39" n="N007"/>erratum est
-Eintrag gelöscht, oder nur Summa?
 				</p>
+				<ab type="kommentar">
+Eintrag gelöscht, oder nur Summa?
+				</ab>
 			</div>
 
 			<div type="entry" n="1080-4">
@@ -27531,12 +27552,14 @@ Eintrag gelöscht, oder nur Summa?
 
 				<pb facs="#facs_1082" n="1082" xml:id="img_1082"/>
 
-			<div type="entry" n="1082-1">
-				<p facs="#facs_1082_r2">
+				<note facs="#facs_1082_r2">
 					<lb facs="#facs_1082_r2l2" n="N001"/><unclear>Inwusa</unclear> uber das haus folio 871 (furstain Nischrub)
 					<lb facs="#facs_1082_r2l3" n="N002"/>Folio 540 6
 					<lb facs="#facs_1082_r2l4" n="N003"/>Ibidem D folio 540
+				</note>
 
+			<div type="entry" n="1082-1">
+				<p facs="#facs_1082_r2">
 					<lb facs="#facs_1082_r2l5" n="N004"/>Dechant und das Capitl allerheiligen Tumkirchen das sand Steffan zu Wienn habent empfangen nucz
 					<lb facs="#facs_1082_r2l6" n="N005"/>und gewer ais hauss auf sand Steffans freithof am egkk pei dem Tor gegen Munsshof uber gelegen
 					<lb facs="#facs_1082_r2l7" n="N006"/>das mit abgang fraun Annen Symons Vivianczen witiben an sy komen und ledig worden ist Also das
@@ -27557,10 +27580,18 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_1082_r2l22" n="N021"/>
 					<lb facs="#facs_1082_r2l23" n="N022"/>
 					<lb facs="#facs_1082_r2l24" n="N023"/>
-
-was passiert hier? ist der Eintrag vollständig, was ist mit den letzten drei Zeilen? gehört die Notiz zu diesem Eintrag? warum ist facs so kurz?
 				</p>
+				<ab type="kommentar">
+gehört die Notiz davor zu diesem Eintrag? 
+warum ist facs so kurz?
+				</ab>
 			</div>
+
+				<note facs="#facs_1082_r2">
+					<lb facs="#facs_1082_r2l22" n="N021"/>(Spätere Notiz, nicht transkribiert)
+					<lb facs="#facs_1082_r2l23" n="N022"/>
+					<lb facs="#facs_1082_r2l24" n="N023"/>
+				</note>
 
 				<pb facs="#facs_1083" n="1083" xml:id="img_1083"/>
 
@@ -31178,9 +31209,7 @@ was steht hier?
 					<lb facs="#facs_1138_r1l10" n="N028"/>die gewer schol
 					<lb facs="#facs_1138_r1l11" n="N029"/>nicht abgethan
 					<lb facs="#facs_1138_r1l12" n="N030"/>sein und krafft
-					<lb facs="#facs_1138_r1l13" n="N031"/>haben 
-
-					et erratum
+					<lb facs="#facs_1138_r1l13" n="N031"/>haben et erratum
 					<lb facs="#facs_1138_r1l14" n="N032"/>est
 				</p>
 			</div>
@@ -32401,6 +32430,7 @@ was steht hier?
 					<lb facs="#facs_1161_r2l12" n="N012"/>Recht noch Recht darein ze pawn ut littera sonat <date>Actum an
 					<lb facs="#facs_1161_line_1653038964959_105" n="N013"/>Mitichen vor Bartholomei Anno etc. xliiᵈº</date>
 					<lb facs="#facs_1161_r2l16" n="N014"/>Summa v s. x d.
+
 					<lb facs="#facs_1161_line_1653038964959_104" n="N015"/>des hawss stet Hanns
 					<lb facs="#facs_1161_r2l14" n="N016"/>Mertinger nucz und gwer ut patet libro Novo E folio x
 					<lb facs="#facs_1161_r2l15" n="N017"/>Noa daz vorgenant purkrecht hat Wilhalm Mertinger
@@ -35465,8 +35495,10 @@ Eintrag gelöscht? U statt W
 					<lb facs="#facs_1203_r1l7" n="N005"/>gesambter hannd und der Stat zu Wienn Recht ist <date>Actum an Mitichen vor Pauli conversionis
 					<lb facs="#facs_1203_r1l8" n="N006"/>Anno domini etc. lxxᵐº</date>
 					<lb facs="#facs_1203_r1l9" n="N007"/>Summa ½ tl. xxiii d.
-wo ist der erste Teil dieses Eintrags?
 				</p>
+				<ab type="kommentar">
+wo ist der erste Teil dieses Eintrags?
+				</ab>
 			</div>
 
 			<div type="entry" n="1203-2">

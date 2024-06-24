@@ -3187,9 +3187,7 @@ obtinuit residuum folio 433
 					<lb facs="#facs_129_r2l26" n="N019"/>gemaurten stokchen in dem hof mit der gemaurten kuchen und mit allen den ge-
 					<lb facs="#facs_129_r2l27" n="N020"/>mechen die unden und oben darin sind von grunt auf uber die decher Auch sol Sy
 					<lb facs="#facs_129_r2l28" n="N021"/>die Tur vermaurn lassen die auf den gankch get
-					<lb facs="#facs_129_r2l16" n="N022"/>vendidit purkrecht folio 182
-					<lb facs="#facs_129_r2l19" n="N023"/>obtinuit purkrecht
-					<lb facs="#facs_129_line_1634477617726_5393" n="N024"/>folio 185
+
 					<lb facs="#facs_129_r2l29" n="N025"/>Dawider ist der vorgenant Junkchfrawn Annen gevallen der drittail des egenant hauss
 					<lb facs="#facs_129_r2l30" n="N026"/>der tail der da stosst an des Rukchendorffer haus darczu sol gehoren der hinder
 					<lb facs="#facs_129_r2l31" n="N027"/>keller in dem hof mit dem kellerhals und das gancz zymer darob mit allen
@@ -3202,10 +3200,18 @@ obtinuit residuum folio 433
 					<lb facs="#facs_129_r2l38" n="N034"/>Andres tag Anno domini Mº ccccº xxiiº</date>
 					<lb facs="#facs_129_r2l41" n="N035"/>Summa von allen tailen
 					<lb facs="#facs_129_r2l43" n="N036"/>vii s. vi d.
+
+					<lb facs="#facs_129_r2l16" n="N022"/>vendidit purkrecht folio 182
+					<lb facs="#facs_129_r2l19" n="N023"/>obtinuit purkrecht
+					<lb facs="#facs_129_line_1634477617726_5393" n="N024"/>folio 185
+
 					<lb facs="#facs_129_r2l39" n="N037"/>Nota die benant Anna hat Irer obgenant Muter
 					<lb facs="#facs_129_r2l40" n="N038"/>Irn tail haus ubergegeben ut littera sonat sicut
 					<lb facs="#facs_129_r2l42" n="N039"/>patet libro isto folio 9
 				</p>
+				<ab type="kommentar">
+Zeilen umsortiert
+				</ab>
 			</div>
 
 			<div type="entry" n="129-2">
@@ -9128,9 +9134,11 @@ obtinuit residuum folio 433
 					<lb facs="#facs_205_r2l9" n="N010"/>Simonis etJude Anno etc. xxxº</date>
 					<lb facs="#facs_205_r2l11" n="N011"/>Summa nulla
 					<lb facs="#facs_205_r2l12" n="N012"/>propter priorem
+				</p>
 			</div>
 
 			<div type="entry" n="205-2">
+				<p facs="#facs_205_TextRegion_1644490993426_344">
 					<lb facs="#facs_205_r2l13" n="N013"/>Jorig Haug von Prugk der kursner hat emphangen nucz und gewer ains halben hauss
 					<lb facs="#facs_205_r2l14" n="N014"/>das gancz gelegen ist under den Satlern zu Wienn und ist der Erst tail desselb hauss
 					<lb facs="#facs_205_r2l15" n="N015"/>zenagst des vorlauffs haus mit allen den stukhen und <del>gemainen</del> gemechen so nach
@@ -15348,7 +15356,7 @@ obtinuit residuum folio 433
 					<lb facs="#facs_311_r3l32" n="N007"/>andern halbetail derselb Reinsmid der benant Magdalen weilnt seiner hausfrawn
 					<lb facs="#facs_311_r3l33" n="N008"/>geschafft hat und darnach dieselb Magdalen dasselb haws mitsambt
 					<lb facs="#facs_311_r3l34" n="N009"/>anderm Irm gut den benant Thoman swarcz Irm mann auch lediklichen
-					<lb facs="#facs_311_r3l35" n="N010"/>geschafft hat nach laut Irs geschefftzs daz im Statbuch geschriben stetdoch
+					<lb facs="#facs_311_r3l35" n="N010"/>geschafft hat nach laut Irs geschefftzs daz im Statbuch geschriben stet doch
 					<lb facs="#facs_311_r3l36" n="N011"/>vnvergriffen der ccc und xvi tl. d. darumb das genant haws Hainreichs
 					<lb facs="#facs_311_r3l37" n="N012"/>des Reinsmids seligen nagsten erben versaczt ist <date>Actum feria quarta
 					<lb facs="#facs_311_r3l38" n="N013"/>ante Thome Apostoli Anno etc. xxxviᵗº</date>
