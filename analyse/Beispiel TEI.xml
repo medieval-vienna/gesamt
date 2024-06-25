@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+<teiHeader>
+  <fileDesc>
+    <titleStmt><title type="main">Gewerbuch D 1438-1473</title></titleStmt>
+    <publicationStmt><publisher></publisher></publicationStmt>
+    <seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
+    <sourceDesc>
+      <bibl><title type="main">Gewerbuch D 1438-1473</title><idno type="Transkribus">811993</idno></bibl>
+    </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+    <unitDecl>
+      <unitDef xml:id="Wiener-Pfennig" type="currency">
+        <label>x</label>
+       </unitDef>
+    </unitDecl>
+  </encodingDesc>
+
+</teiHeader>
+<text>
+  <body>
+    <div>
+ 
+      <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+      
+      <head facs="#facs_2_TextRegion_1647861970390_60" type="heading-main">
+        <lb facs="#facs_2_r1l1" n="N001"/>Iste liber Incipid ab Anno
+        <lb facs="#facs_2_r1l3" n="N002"/>1438
+        <lb facs="#facs_2_line_1647861908074_14" n="N003"/>D
+        <lb facs="#facs_2_r1l4" n="N004"/>GRDB.
+        <lb facs="#facs_2_r1l5" n="N005"/>WIEN.
+        <lb facs="#facs_2_line_1647861962856_54" n="N006"/>17
+      </head>
+ 
+      <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+      
+      <fw facs="#facs_4_TextRegion_1647862092254_107">
+        <lb facs="#facs_4_r3l1" n="N001"/>1
+        <lb facs="#facs_4_line_1647862098045_111" n="N002"/>I
+      </fw>
+      
+      <div type="section-alphabetical">
+        <head facs="#facs_4_TextRegion_1647862087540_103" type="heading-alphabetical">
+          <lb facs="#facs_4_line_1646323284401_191" n="N001"/>A Anno domini Mccccxxxviiiᵛº
+        </head>
+        
+ 
+      <div type="entry" n="0027-3">
+         
+        <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+        
+        <fw facs="#facs_28_TextRegion_1646407136492_373">
+          <lb facs="#facs_28_r2l1" n="N001"/>13
+          <lb facs="#facs_28_r2l2" n="N002"/>xiii
+        </fw>
+        
+    </div>
+     
+        <div type="section-temporal">
+          <head facs="#facs_28_TextRegion_1646407131062_366" type="heading-temporal">
+            <lb facs="#facs_28_line_1646931181377_638" n="N001"/>Tempore dominorum Andre Gundorffer consul
+            <lb facs="#facs_28_r2l14" n="N002"/>et Niclas Purger Anno etc. xlviᵗº
+          </head>
+
+<div>
+          <head type="ergänzt">Eintrag 0028-1 von 1446-03-14: Freithof der Weißen Brüder</head>
+ <p>
+          <rs type="an">Anna Hannsen des pusmer hausfraw</rs> 
+          hat emphangen nucz und gewer
+          
+          <rs type="objekt" ref="DB1040">ains hauss
+            <rs type="nachbar" ref="DB1046">gelegen gegen der padstuben uber genant zu den Rorn</rs> 
+            <rs type="nachbar" ref="DB1039">zenagst Niclasen des krug haus an aim tail</rs> 
+            <rs type="lage" ref="Freithof der Weißen Brüder">und stosst auch mit dem andern tail auf der Weissenpruder freithof</rs> 
+          </rs> 
+          
+          <rs type="von">Als das vor Niclasen Graid</rs> 
+   <measure type="preis" quantity="228-0-0" unit="Wiener-Pfennig">umb zwaihundert achtundzwanczig pfund phenning</measure> 
+          <rs type="ereignis" subtype="kauf">mit kauf an sey komen ist</rs> 
+          
+          ut littera sonat
+   <date when="1446-03-14" when-custom="2. Fastensonntag: Ostern = 17.4.1446, -35 = 13.3. (Sonntag) / Montag nach Sonntag: 1 Tag">Actum an Montag nach Reminiscere in der vassten Anno etc. xlviᵗº</date>
+   <measure type="gebühr" quantity="0-40-6" unit="Wiener-Pfennig">Summa xv s. vi d.</measure>
+ </p>
+</div> 
+
+<div type="entry" n="0028-1">
+  <head type="ergänzt">Eintrag 0028-1 von 1446-03-14: Freithof der Weißen Brüder</head>
+  <p facs="#facs_28_TextRegion_1646407129472_362">
+    <lb facs="#facs_28_r2l15" n="N001"/><rs type="an">Anna Hannsen des pusmer hausfraw</rs> hat emphangen nucz und gewer <rs type="objekt" ref="DB1040">ains hauss
+      <lb facs="#facs_28_r2l16" n="N002"/><rs type="nachbar" ref="DB1046">gelegen gegen der padstuben uber genant zu den Rorn</rs>  <rs type="nachbar" ref="DB1039">zenagst Niclasen des krug
+        <lb facs="#facs_28_r2l17" n="N003"/>haus an aim tail</rs>  <rs type="lage" ref="Freithof der Weißen Brüder">und stosst auch mit dem andern tail auf der Weissenpruder freithof</rs></rs> 
+    <lb facs="#facs_28_r2l18" n="N004"/><rs type="von">Als das vor Niclasen Graid</rs>  <measure quantity="228-0-0" unit="Wiener-Pfennig">umb zwaihundert achtundzwanczig pfund phenning</measure> 
+    <lb facs="#facs_28_r2l19" n="N005"/><rs type="ereignis" subtype="kauf">mit kauf an sey komen ist</rs>  ut littera sonat <date when="1446-03-14" when-custom="2. Fastensonntag: Ostern = 17.4.1446, -35 = 13.3. (Sonntag) / Montag nach Sonntag: 1 Tag">Actum an Montag nach Reminiscere in der
+      <lb facs="#facs_28_r2l20" n="N006"/>vassten Anno etc. xlviᵗº</date> 
+    <lb facs="#facs_28_r2l22" n="N007"/><measure type="gebühr" quantity="0-40-6" unit="Wiener-Pfennig">Summa <del>xiii s. x d.</del> xv s. vi d.</measure> 
+  </p>
+</div>
+
+        </div>
+ 
+        </div>
+        
+        </div>
+  </body>
+ </text>
+ 
+</TEI>
