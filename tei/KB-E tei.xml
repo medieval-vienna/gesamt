@@ -2639,7 +2639,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_46_r2l2" n="N001"/>Anna Maister Hainreichs des Stolln lerer in der Erczney hausfraw
 					<lb facs="#facs_46_r2l3" n="N002"/>hat verkaufft Ir haws gelegen im Schulhof zenagst herrn
 					<lb facs="#facs_46_r2l4" n="N003"/>Wilhalms von Puchaim haws an aim tail und an dem
-					<lb facs="#facs_46_r2l5" n="N004"/>andern zenagst Stephans des Nechleins haus daz auch vor
+					<lb facs="#facs_46_r2l5" n="N004"/>andern zenagst Stephans des Nechleins haus daz auch vor-
 					<lb facs="#facs_46_r2l6" n="N005"/>maln Ir gewesen ist umb i½ᶜ tl. d. dem erbern Wolfgangen
 					<lb facs="#facs_46_r2l7" n="N006"/>Kolpekchen dem verber Irm pruder <del>und</del> Barbara seiner hausfraw
 					<lb facs="#facs_46_r2l8" n="N007"/>und seinen erben doch also daz derselb Wolfgang alzeit
@@ -4563,12 +4563,10 @@ ist Summa durchgestrichen oder nicht?
 				</p>
 			</div>
 
-			<div type="entry" n="080-4">
-				<p facs="#facs_80_TextRegion_1647527404955_1619">
+				<note facs="#facs_80_TextRegion_1647527404955_1619">
 					<lb facs="#facs_80_r2l29" n="N001"/>Wolfharts von Pusewl gewer quaere
 					<lb facs="#facs_80_r2l30" n="N002"/>in libro isto super K folio 172
-				</p>
-			</div>
+				</note>
 
 				<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_081.jpg" n="81" xml:id="img_0081"/>
 
@@ -7711,7 +7709,7 @@ ist Summa durchgestrichen oder nicht?
 
 			<div type="entry" n="144-2">
 				<p facs="#facs_144_TextRegion_1643366690360_872">
-					<lb facs="#facs_144_r2l18" n="N001"/>Elsbet Levi von prag des Stainmeczen hausfraw hat verchauft Ir haus gelegen
+					<lb facs="#facs_144_r2l18" n="N001"/>Elsbet Jeni von prag des Stainmeczen hausfraw hat verchauft Ir haus gelegen
 					<lb facs="#facs_144_r2l19" n="N002"/>vor Widmertor in der Newlukchen zenagst Linharts haberland haus davon
 					<lb facs="#facs_144_r2l20" n="N003"/>man Jerleich dint hincz sand Maria Magdalen ½ tl. d. und den Capplen
 					<lb facs="#facs_144_r2l21" n="N004"/>Hansen des Reichleins mess auf dem letter hincz sant Michl ze Wienn
@@ -8389,7 +8387,7 @@ ist Summa durchgestrichen oder nicht?
 			<div type="entry" n="164-1">
 				<p facs="#facs_164_TextRegion_1643369279116_1140">
 					<lb facs="#facs_164_r1l5" n="N001"/>Francz Kren hat verchaufft ain haus das In von Thoman Kren
-					<lb facs="#facs_164_r1l7" n="N002"/>seinem bruder ist anerstorben gelgen am Hohenmarkht undern Went
+					<lb facs="#facs_164_r1l7" n="N002"/>seinem bruder ist anerstorben gelgen am Hohenmarkht undern Went-
 					<lb facs="#facs_164_r1l9" n="N003"/>kremen zenagst der guten Kunradein haws umb cc lx tl. d.
 					<lb facs="#facs_164_r1l10" n="N004"/>dem erbern Symon von Eslorn dem Wachsgiesser Margreten seiner
 					<lb facs="#facs_164_r1l11" n="N005"/>hausfrawn und Irn baiden erben ut littera sonat <date>Actum an Freitag
@@ -9562,7 +9560,7 @@ ist Summa durchgestrichen oder nicht?
 
 			<div type="entry" n="194-3">
 				<p facs="#facs_194_TextRegion_1643370044002_1540">
-					<lb facs="#facs_194_r2l35" n="N001"/>Herman Hesl purger ze Wienn hat verchaufft sein haus gelegen am Altenfleisch
+					<lb facs="#facs_194_r2l35" n="N001"/>Herman Hesl purger ze Wienn hat verchaufft sein haus gelegen am Altenfleisch-
 					<lb facs="#facs_194_r2l36" n="N002"/>markcht ze Wienn zenegst der geistlichen herren von Grewn haus umb drewhundert
 					<lb facs="#facs_194_r2l37" n="N003"/>und funfczehen phunt Wienner phenning dem erbern mann Mertten dem Tunkchl
 					<lb facs="#facs_194_r2l38" n="N004"/>Agnesen seiner hausfrawn und Iren erben ledichleich und freileich zehaben und
@@ -9694,16 +9692,16 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_196_r3l14" n="N001"/>Hanns Asparer ze Wienn hat verkaufft sein halbs haus das ganczes ge-
 					<lb facs="#facs_196_r3l15" n="N002"/>legen ist in der Kernerstrass gegen sannd Claren uber zenegst dem haws
 					<lb facs="#facs_196_r3l16" n="N003"/>genant die Alt Kanczley das Im und seiner Swester Kathrein Philipps des
-					<lb facs="#facs_196_r3l17" n="N004"/>pinter hausfrawn ir Muter Clar Chunrats von Asparn seligen witib mitein
+					<lb facs="#facs_196_r3l17" n="N004"/>pinter hausfrawn ir Muter Clar Chunrats von Asparn seligen witib mitein-
 					<lb facs="#facs_196_r3l18" n="N005"/>ander in geleichen tail geschafft hat und das Im darnach gegen derselben sein
 					<lb facs="#facs_196_r3l19" n="N006"/>Swester an Rechter tailung mit furczicht und los gevallen ist und ist der ander
-					<lb facs="#facs_196_r3l20" n="N007"/>tail desselben hauss zenegst der Pippungerstrass darczu gehort der Keller ze
+					<lb facs="#facs_196_r3l20" n="N007"/>tail desselben hauss zenegst der Pippungerstrass darczu gehort der Keller ze-
 					<lb facs="#facs_196_r3l21" n="N008"/>negst dem Egk mit dem Stublein und laden daran und der keller der daran
 					<lb facs="#facs_196_r3l22" n="N009"/>ist hinden Im hof under der grassen kembnaten mit allen gemechen die darob
 					<lb facs="#facs_196_r3l23" n="N010"/>sein mitsambt dem dach auch gehort darczu der laden zenegst dem Tor und
 					<lb facs="#facs_196_r3l24" n="N011"/>das Stubl daneben an das kemrl davor under dem gang das ober Stubl mitsambt
 					<lb facs="#facs_196_r3l25" n="N012"/>dem hulczein gang davor durchlanngs und die werichstat halbe der tail zenegst
-					<lb facs="#facs_196_r3l26" n="N013"/>dem hindern tor als das ausgeczaigt ist an der Mawr mit ainem Krewcz mit
+					<lb facs="#facs_196_r3l26" n="N013"/>dem hindern tor als das ausgeczaigt ist an der Mawr mit ainem Krewcz mit-
 					<lb facs="#facs_196_r3l27" n="N014"/>sambt den gemainen stukchen so zu demselben haus gehornt und seinem gegentail
 					<lb facs="#facs_196_r3l28" n="N015"/>nach Innhaltung der tailbrief daruber gegeben daman von demselben halben
 					<lb facs="#facs_196_r3l29" n="N016"/>haus Jerleich dint hincz sand Claren ze Wienn vier phunt ze purkrecht und
@@ -9922,7 +9920,7 @@ ist Summa durchgestrichen oder nicht?
 				<p facs="#facs_199_TextRegion_1643370226368_1652">
 					<lb facs="#facs_199_r5l32" n="N001"/>Hanns Gerbestorffer hat verkaufft ain haus gelegen bey Kernertor hinder der
 					<lb facs="#facs_199_r5l33" n="N002"/>Rinkchmauer zenegst des Ladendorffer haus an aim tail und an dem andern
-					<lb facs="#facs_199_r5l34" n="N003"/>tail zenegst Kristoffen des Dechsenpekchen haus das weilent der von Alten
+					<lb facs="#facs_199_r5l34" n="N003"/>tail zenegst Kristoffen des Dechsenpekchen haus das weilent der von Alten-
 					<lb facs="#facs_199_r5l35" n="N004"/>burg gewesen ist umb Achthalbs undzwainczigk phunt Wienner phenning dem
 					<lb facs="#facs_199_r5l36" n="N005"/>vorgenant Kristoffen dem Dechsenpekchen frawn Wendlein seiner hausfrawn und
 					<lb facs="#facs_199_r5l37" n="N006"/>Ir baider erben furbaser ledichleich und freileich zuhaben und allen irn frumen
@@ -11741,7 +11739,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_223_r3l12" n="N006"/>egenant Otten des Weissen gewesen ist gelegen gegen dem Rathaus uber an
 					<lb facs="#facs_223_r3l13" n="N007"/>dem Egk als man zu unser frawn geet zenegst unser frawn haus pharrhof
 					<lb facs="#facs_223_r3l14" n="N008"/>an ainem tail und zenegst des waiczen haus der ander zenegst unser frawn
-					<lb facs="#facs_223_r3l15" n="N009"/>pharrhof das mitsambt dem Gartten und der Alton dabey und aller ander zuge
+					<lb facs="#facs_223_r3l15" n="N009"/>pharrhof das mitsambt dem Gartten und der Alton dabey und aller ander zuge-
 					<lb facs="#facs_223_r3l16" n="N010"/>horung So zu demselben haus gehoret umb Sybenhundert und umb funfczig phunt
 					<lb facs="#facs_223_r3l17" n="N011"/>die zuvolfurung des egenant Ott Weissen geschefft gevallen sind dem erbern mann
 					<lb facs="#facs_223_r3l18" n="N012"/>Hainreichen dem haiden und seinen erben ut littera sonat <date>Actum an Eritag vor
@@ -13356,9 +13354,14 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_252_r2l18" n="N003"/>des hansgrafen haus umb lxx tl. d. dem erbern weisen hern Andren
 					<lb facs="#facs_252_r2l19" n="N004"/>Hiltprant von Meran dieczeit ainer des Rats und seinen erben ut littera
 					<lb facs="#facs_252_r2l20" n="N005"/>sonat <date>Actum an Montag vor sand Mathias tag Anno etc. xxxvº</date>
-					<lb facs="#facs_252_r2l21" n="N006"/>des gwant gewelbs ist Albrecht von Meran Summa ½ xx d.
+					<lb facs="#facs_252_r2l21" n="N006"/>Summa ½ xx d.
+
+					<lb facs="#facs_252_r2l21" n="N006"/>des gwant gewelbs ist Albrecht von Meran
 					<lb facs="#facs_252_r2l22" n="N007"/>an die gewer komen ut patet folio 19
 				</p>
+				<ab type="kommentar">
+Zeile N006 aufteilen?
+				</ab>
 			</div>
 
 				<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_253.jpg" n="253" xml:id="img_0253"/>
@@ -13858,7 +13861,7 @@ ist Summa durchgestrichen oder nicht?
 
 			<div type="entry" n="262-3">
 				<p facs="#facs_262_TextRegion_1643373297031_2996">
-					<lb facs="#facs_262_r3l21" n="N001"/>Hanns frankch ze Wienn hat verkaufft sein haws gelegen in der Kater
+					<lb facs="#facs_262_r3l21" n="N001"/>Hanns frankch ze Wienn hat verkaufft sein haws gelegen in der Kater-
 					<lb facs="#facs_262_r3l22" n="N002"/>lukchen ze Wienn zenagst Jorgen des kuttner haws umb xiiii tl. Wienner d.
 					<lb facs="#facs_262_r3l23" n="N003"/>dem erbern Hannsen Schechinger dem Ziegeldekcher ze Wienn Breiden seiner
 					<lb facs="#facs_262_r3l24" n="N004"/>hausfraun und Irn baiden erben doch daz derselb Schechinger allczeit ganczen
@@ -14472,7 +14475,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_272_r2l24" n="N005"/>der Stat zeWienn und all vr ausrichter des Gescheffts das
 					<lb facs="#facs_272_r2l25" n="N006"/>weilent Maister Peter Etter seliger getan hat ut liber Civitatis sonat
 					<lb facs="#facs_272_r2l26" n="N007"/>habent verkaufft ain haws das des vorgenant Maister Peter Ettern
-					<lb facs="#facs_272_r2l27" n="N008"/>gewesen ist gelegen in der vordern pekchenstrass zenagst der Geist
+					<lb facs="#facs_272_r2l27" n="N008"/>gewesen ist gelegen in der vordern pekchenstrass zenagst der Geist-
 					<lb facs="#facs_272_r2l28" n="N009"/>lichen herren von Pawmgartenperg haus an ainem tail und an
 					<lb facs="#facs_272_r2l29" n="N010"/>dem andern zenagst Jorgen von Gelestorf haws umb vᶜxx tl. Wienner d.
 					<lb facs="#facs_272_r2l30" n="N011"/>dem erbern Thoman dem Zetter burger ze Wienn Barbaren seiner hausfraw
@@ -14829,10 +14832,10 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_289_r2l40" n="N002"/>Ir solbens und irer geswistred Hannsen und Ludweigen die Innerlannds dieczeit nicht gewesen
 					<lb facs="#facs_289_r2l41" n="N003"/>sind und Junkchfrawn Annen irer Swester die zu der zeit nicht gevogt was dafur Sy sich wissentleich
 					<lb facs="#facs_289_r2l42" n="N004"/>mit dem brief mit vollem gewalt annement iren drittail hauss das Sy von Irem vettern Rugern
-					<lb facs="#facs_289_r2l43" n="N005"/>dem Grafen seligen ist anerstorben davon man Jerleich dint den geistleichen klosterfrawn dacz sand -
+					<lb facs="#facs_289_r2l43" n="N005"/>dem Grafen seligen ist anerstorben davon man Jerleich dint den geistleichen klosterfrawn dacz sand
 					<lb facs="#facs_289_r2l44" n="N006"/>Clarn ze Wienn zway phunt Wienner phenning <del>und nicht</del> purkchrecht und nicht mer und leit dasselb
 					<lb facs="#facs_289_r2l45" n="N007"/>haus ganczes am Altenfleischmart ze Wienn und hat die andern zwen tail Jacob plesperger und Kathrey
-					<lb facs="#facs_289_r2l46" n="N008"/>seiner hausfraw umb zway und virczig phunt Wienner phenning der zway phunt gevallen sind fur ver ¬
+					<lb facs="#facs_289_r2l46" n="N008"/>seiner hausfraw umb zway und virczig phunt Wienner phenning der zway phunt gevallen sind fur ver¬
 					<lb facs="#facs_289_r2l47" n="N009"/>sessen dinst und in die Schatstewr und fur brief und verttigung und dem obgenant Jorgen vorkusch und
 					<lb facs="#facs_289_r2l48" n="N010"/>Claren seiner Swester yedem acht phunt phenning und den vorgenant Iren geswistreiden yedem acht phunt phenning
 					<lb facs="#facs_289_r2l49" n="N011"/>die man an ander erbguter wider an legen sol und an wen Sy gelegt werdent das sol dem vorgenant drittail
@@ -14929,7 +14932,7 @@ ist Summa durchgestrichen oder nicht?
 				</p>
 			</div>
 
-			<div type="entry" n="291-2">
+			<div type="entry-deleted">
 				<p facs="#facs_291_TextRegion_1643373757871_3318">
 					<lb facs="#facs_291_r1l14" n="N001"/>Jorg Hegenawer hat verkaufft ain halbs haws genant der Langkeller das ganczes gelegen ist under den
 					<lb facs="#facs_291_r1l15" n="N002"/>spenglern ze Wienn zenegst der hern von Mawrbach haws das In von seiner Muter Agnesen Hannsen
@@ -15004,7 +15007,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_292_r2l42" n="N001"/>Jorg Pretnagl ze Wienn und Agnes sein hausfraw habent verkaufft ir haws gelegen
 					<lb facs="#facs_292_r2l43" n="N002"/>In der Newlukchen zenegst Pilgreims des hettler haws davon man Jerleich dint Otten
 					<lb facs="#facs_292_r2l44" n="N003"/>von freising und seinen erben zway phunt Wienner phenning ze purkrecht und nicht mer umb
-					<lb facs="#facs_292_r2l45" n="N004"/>vir phunt Wienner phenning dem erbern mann Cholman dem leczelder ze Wienn frawn mar
+					<lb facs="#facs_292_r2l45" n="N004"/>vir phunt Wienner phenning dem erbern mann Cholman dem leczelder ze Wienn frawn mar-
 					<lb facs="#facs_292_r2l46" n="N005"/>greten seiner hausfrawn und Ir baider erben furbas ledigleich und freileich zehaben und
 					<lb facs="#facs_292_r2l47" n="N006"/>allen Irn frumen damit zeschaffen und sullen mit der Stat ze Wienn leiden als ander
 					<lb facs="#facs_292_r2l48" n="N007"/>mitburger daselbs ut littera sonat <date>Actum an Montag vor sand Johanns tag ze Sunbenten
@@ -15612,7 +15615,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_301_r1l27" n="N011"/>littera sonat <date>Actum an Eritag nach Katherine Anno etc. xxxiᵐº</date>
 					<lb facs="#facs_301_r1l31" n="N012"/>Summa i tl. x d.
 					<lb facs="#facs_301_r1l28" n="N013"/>Nota der egenant fliehenaschn hat den
-					<lb facs="#facs_301_line_1625666342789_2658" n="N014"/>vordern tail des egenant hawss hindan ver
+					<lb facs="#facs_301_line_1625666342789_2658" n="N014"/>vordern tail des egenant hawss hindan ver-
 					<lb facs="#facs_301_line_1625666347309_2663" n="N015"/>chaufft Wolfharten Remer secundum litteram
 				</p>
 			</div>
@@ -15907,7 +15910,7 @@ ist Summa durchgestrichen oder nicht?
 					<lb facs="#facs_307_r2l17" n="N022"/>vorgenant haus dennoch bei dem andern seinem geswistreid ledikleich bleiben
 					<lb facs="#facs_307_r2l18" n="N023"/>wer aber das die benant zwai geswistreid Ulreich und Kristein baide
 					<lb facs="#facs_307_r2l19" n="N024"/>mit dem tod abgingen ee denn Si vogtber wurden da got vor sey oder
-					<lb facs="#facs_307_r2l20" n="N025"/>ed Si vogtber wurden und das vorgenant haus unverschafftz und unver
+					<lb facs="#facs_307_r2l20" n="N025"/>ed Si vogtber wurden und das vorgenant haus unverschafftz und unver-
 					<lb facs="#facs_307_r2l21" n="N026"/>kumert hinder In liessen so sol denn dasselb haus ledikleich erben auf Marxen
 					<lb facs="#facs_307_line_1650963769036_752" n="N027"/>den gundloch irn pruder ob er dieselb zeit in leben ist wer
 					<lb facs="#facs_307_line_1650963769036_751" n="N029"/>aber
@@ -17168,7 +17171,7 @@ Julian: Summa wirklich durchgestrichen? JA
 			<div type="entry" n="342-2">
 				<p facs="#facs_342_TextRegion_1643376303942_4062">
 					<lb facs="#facs_342_r3l15" n="N001"/>Kathrey Hannsens von Mertterstorffer hausfraw Stephans herworten
-					<lb facs="#facs_342_r3l16" n="N002"/>des zingiesser witib hat verkaufft Ir haus gelegen oberthalb der prant
+					<lb facs="#facs_342_r3l16" n="N002"/>des zingiesser witib hat verkaufft Ir haus gelegen oberthalb der prant-
 					<lb facs="#facs_342_r3l17" n="N003"/>stat zenegst Ulreichs prewnreichs haus daz Ir der egnant Ir wirt der
 					<lb facs="#facs_342_r3l18" n="N004"/>Erer geschafft hat sicut liber Civitatis sonat umb zwaihundert phund
 					<lb facs="#facs_342_r3l19" n="N005"/>phenning Petern Obrechten dem zingiesser Margreth seiner hausfraw und Ir
@@ -17520,7 +17523,7 @@ Julian: Summa wirklich durchgestrichen? JA
 			<div type="entry" n="348-1">
 				<p facs="#facs_348_TextRegion_1643376422702_4186">
 					<lb facs="#facs_348_r1l5" n="N001"/>Kathrey Symons Potenhover des Trogler ze Wienn hausfraw die emalen Steffan
-					<lb facs="#facs_348_r1l6" n="N002"/>Plumenstingl den Gurtler auch Elichen gehabt hat hat geben Niclasen plumen
+					<lb facs="#facs_348_r1l6" n="N002"/>Plumenstingl den Gurtler auch Elichen gehabt hat hat geben Niclasen plumen-
 					<lb facs="#facs_348_r1l8" n="N003"/>stingl Irm Steufsun und Junkfrawn Berblein Irer seiner tochter die Er bey
 					<lb facs="#facs_348_r1l10" n="N004"/>weilent Martha seiner hausfraw Kristans des Smids seligen tochter gehabt hat
 					<lb facs="#facs_348_r1l12" n="N005"/>ain haus gelegen undern Spenglern bey dem Eysneingatern zenagst Micheln
@@ -17556,7 +17559,7 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_348_r1l38" n="N003"/>Pekchenstrass ze Wienn die des vorgenant Irs mannes seligen von den hansgraven gekauffts
 					<lb facs="#facs_348_r1l39" n="N004"/>gut gewesen ist und Ir darnach mit andern seinem gut ledichlichen geschafft hat nach
 					<lb facs="#facs_348_r1l40" n="N005"/>Inhaldung seins Gescheffts das in dem Statpuch ze Wienn geschriben stet den erbern weisen
-					<lb facs="#facs_348_r1l41" n="N006"/>Wolfgangen Aczing erArnolten Galander dieczeit des Rats der Stat ze Wienn Niclasen Newgruner
+					<lb facs="#facs_348_r1l41" n="N006"/>Wolfgangen Aczinger Arnolten Galander dieczeit des Rats der Stat ze Wienn Niclasen Newgruner
 					<lb facs="#facs_348_r1l42" n="N007"/>und Ulreichen von Meczleinstorf dem Jungern baid Burger daselbs und zu den zeiten all vier
 					<lb facs="#facs_348_r1l43" n="N008"/>der Kaufleut ze Wienn vierer und den Kaufleuten gemainchleich und Irer Bruderschafft
 					<lb facs="#facs_348_r1l44" n="N009"/>daselbs und Irn Nachkomen umb drew phunt Wienner phenning Ewigs gelts die Sy Ir oder wem
@@ -17970,7 +17973,7 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_354_r2l23" n="N002"/>unser franwn kappellen auf der Stetten ze Wienn zenagst des von Passaw haus
 					<lb facs="#facs_354_r2l25" n="N003"/>das ettwenn des Grunpekchen gewesen ist an ainem tail das Ir mit abgang frawn
 					<lb facs="#facs_354_r2l27" n="N004"/>Magdalen Wolfharts des Schermiczer witiben Irer Muemen seligen ledig ist worden
-					<lb facs="#facs_354_r2l28" n="N005"/>und von Stephan dem leyttner Irem Een seligen ledikleich ist anerstorben und ange
+					<lb facs="#facs_354_r2l28" n="N005"/>und von Stephan dem leyttner Irem Een seligen ledikleich ist anerstorben und ange-
 					<lb facs="#facs_354_r2l29" n="N006"/>erbt nach ausweisung seins gescheffts umb vi½ tl. d. dem erbern weisen
 					<lb facs="#facs_354_r2l30" n="N007"/>Niclasen dem purger dieczeit des Rats der Stat ze Wienn Kathrein seiner hausfraun
 					<lb facs="#facs_354_r2l31" n="N008"/>und Irn baiden erben doch also das der egenant Niclas purger alzeit ganczen und vollen
@@ -18707,14 +18710,16 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_365_line_1644216893746_159" n="N002"/>Clxxxii
 				</fw>
 
-			<div type="entry" n="365-1">
-				<p facs="#facs_365_TextRegion_1644216901806_163">
+		</div>
+
+		<div type="section-temporal">
+		<note>1427</note>
+			<head facs="#facs_365_TextRegion_1644216901806_163">
 					<lb facs="#facs_365_r3l1" n="N001"/>Hanns Mustrer Caspar Pirchvelder
 					<lb facs="#facs_365_r3l3" n="N002"/>Anno domini Millimo Quadringenᵐº vicesimoseptimo
-				</p>
-			</div>
+			</head>
 
-			<div type="entry" n="365-2">
+			<div type="entry" n="365-1">
 				<p facs="#facs_365_TextRegion_1644216901806_162">
 					<lb facs="#facs_365_r3l5" n="N001"/>Lucey Berchtolts Amberger witib hat verkaufft ainen Stadel gelegen in der
 					<lb facs="#facs_365_r3l6" n="N002"/>Scheffstrass zenagst der Mul genant der Slifstain umb xxv tl. d. frawn
@@ -18734,7 +18739,7 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_365_r3l12" n="N002"/>Anno domini etc. ccccº xxviiiº
 			</head>
 
-			<div type="entry" n="365-3">
+			<div type="entry" n="365-2">
 				<p facs="#facs_365_TextRegion_1644216884107_147">
 					<lb facs="#facs_365_r3l13" n="N001"/>Lienhart Ulmer und Clara sein hausfraw habent verkaufft Ir halbs haus
 					<lb facs="#facs_365_line_1625756206637_1966" n="N002"/>ganczes gelegen under den Vischern den tail zenegst der padstuben des gegen¬
@@ -18746,7 +18751,7 @@ Julian: Summa wirklich durchgestrichen? JA
 				</p>
 			</div>
 
-			<div type="entry" n="365-4">
+			<div type="entry" n="365-3">
 				<p facs="#facs_365_TextRegion_1644216882867_143">
 					<lb facs="#facs_365_r3l21" n="N001"/>Bruder Lienhart Pryor zu Maurbach des ordens von karthus und der Convent
 					<lb facs="#facs_365_r3l22" n="N002"/>gemain daselbs habent verkaufft Irn grossen gwantkeler gelegen under den
@@ -18767,7 +18772,7 @@ Julian: Summa wirklich durchgestrichen? JA
 				</p>
 			</div>
 
-			<div type="entry" n="365-5">
+			<div type="entry" n="365-4">
 				<p facs="#facs_365_TextRegion_1644216875836_139">
 					<lb facs="#facs_365_line_1625756233499_1990" n="N001"/>Lucas Wiczinger hat verkaufft sein haus gelegen am Kyenmarkcht zenegst des Gew¬
 					<lb facs="#facs_365_r3l32" n="N002"/>kramer haus daz weilent Hannsen des Staindel ist gewesen umb hundert und lxxxxvi
@@ -18787,7 +18792,7 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_365_r3l38" n="N001"/>Tempore dominorum Stephan Wirsing Caspar Pirchvelder
 			</head>
 
-			<div type="entry" n="365-6">
+			<div type="entry" n="365-5">
 				<p facs="#facs_365_TextRegion_1644216873868_131">
 					<lb facs="#facs_365_r3l39" n="N001"/>Lienhart Kastner Burgermaister zu der Newnstat und der Rat gemain daselbs und
 					<lb facs="#facs_365_r3l40" n="N002"/>auch ausrichter und volfurer des gescheffts So Hanns Hekchl Ir mitburger getan hat
@@ -21984,7 +21989,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 				</p>
 			</div>
 
-			<div type="entry" n="416-2">
+			<div type="entry-deleted">
 				<p facs="#facs_416_TextRegion_1644218834310_1207">
 					<lb facs="#facs_416_r2l11" n="N001"/>Niclas Reyndl von Nus
 				</p>
@@ -22084,7 +22089,7 @@ Julian: Summa wirklich durchgestrichen? JA
 
 			<div type="entry" n="418-2">
 				<p facs="#facs_418_TextRegion_1644218893438_1251">
-					<lb facs="#facs_418_r2l9" n="N001"/>Niclas Roster gesessen zu sand Veit auf der Wienn und Helena sein hausfraw habent ver
+					<lb facs="#facs_418_r2l9" n="N001"/>Niclas Roster gesessen zu sand Veit auf der Wienn und Helena sein hausfraw habent ver-
 					<lb facs="#facs_418_r2l10" n="N002"/>kaufft ain haws gelegen vor Kernertor auf der Mietstat zenegst weilent Hannsen des
 					<lb facs="#facs_418_r2l11" n="N003"/>vascziecher haws das die egenant Helenen und ir Swester Kristein Michels des Sneider von lach
 					<lb facs="#facs_418_r2l12" n="N004"/>hausfrawn von Irm vettern Niclasen dem Mullner von Mewrling ist anerstorben und ledig
@@ -23013,7 +23018,7 @@ Julian: Summa wirklich durchgestrichen? JA
 					<lb facs="#facs_431_r2l1" n="N002"/>CCxv
 				</fw>
 
-			<div type="entry" n="431-1">
+			<div type="entry-deleted">
 				<p facs="#facs_431_TextRegion_1644219507349_1565">
 					<lb facs="#facs_431_r2l3" n="N001"/>Steffan Tenkch der kursner hat emphangen nucz und gewer ains hauss gelegen
 					<lb facs="#facs_431_r2l4" n="N002"/>vor Stubentor bey der Wienn nagst Hannsen des Greczer haus daz Er in der
@@ -23021,7 +23026,7 @@ Julian: Summa wirklich durchgestrichen? JA
 				</p>
 			</div>
 
-			<div type="entry" n="431-2">
+			<div type="entry" n="431-1">
 				<p facs="#facs_431_TextRegion_1644219506023_1561">
 					<lb facs="#facs_431_r2l6" n="N001"/>Niclas Raid der furer ze Wienn hat verkaufft sein haus und Garten daran mit seiner
 					<lb facs="#facs_431_r2l7" n="N002"/>zugehorung gelegen vor Werdertor ze Wienn zenagst weilent Conrads des Gerstler
@@ -23032,7 +23037,7 @@ Julian: Summa wirklich durchgestrichen? JA
 				</p>
 			</div>
 
-			<div type="entry" n="431-3">
+			<div type="entry" n="431-2">
 				<p facs="#facs_431_TextRegion_1644219504963_1557">
 					<lb facs="#facs_431_r2l12" n="N001"/>Niclas und Hanns gepruder die zusserl vom hawsleitten die fleischhakcherknecht
 					<lb facs="#facs_431_r2l13" n="N002"/>Anna Hannsen von Eyczestal des pinter hausfraw und Elen Erharts des Velschel
@@ -23105,10 +23110,10 @@ Julian: Summa wirklich durchgestrichen? JA
 				<p facs="#facs_432_TextRegion_1644219524594_1573">
 					<lb facs="#facs_432_r2l26" n="N001"/>Her Niclas Brobst des Goczhauss dacz sand Dorothen ze Wienn Maister Andre
 					<lb facs="#facs_432_r2l27" n="N002"/>Mausar pharrer Im Alderspach und Oswalt Oberndorffer all drey
-					<lb facs="#facs_432_r2l28" n="N003"/>ausrichter und volfurer des Gescheffts das Andre an sand Peters
+					<lb facs="#facs_432_r2l28" n="N003"/>ausrichter und volfurer des Gescheffts das Andre an sand Peters-
 					<lb facs="#facs_432_r2l29" n="N004"/>freithof ettwen kellermaister getan hat habent verkaufft ain haus das
 					<lb facs="#facs_432_r2l30" n="N005"/>weilent der obgenant Andre an sand Petersfreithof auf drey tail geschaff
-					<lb facs="#facs_432_r2l31" n="N006"/>hat gelegen mit ainem tail in der Spenglergassen ynnerhalb Peyler
+					<lb facs="#facs_432_r2l31" n="N006"/>hat gelegen mit ainem tail in der Spenglergassen ynnerhalb Peyler-
 					<lb facs="#facs_432_r2l32" n="N007"/>tor zenagst Niclas plumenstingl des Gurtler haus und an dem andern
 					<lb facs="#facs_432_r2l33" n="N008"/>tail in der Kurbawnerstrasz zenagst Micheln des Auflaufs haus dem
 					<lb facs="#facs_432_r2l34" n="N009"/>erbern weisen Ulreichen dem Schrot dieczeit des hochgeborn fursten
@@ -23703,7 +23708,7 @@ Julian: Summa wirklich durchgestrichen? JA
 			<div type="entry" n="450-2">
 				<p facs="#facs_450_TextRegion_1644219844031_1779">
 					<lb facs="#facs_450_r2l18" n="N001"/>Ott von Freysing burger ze Wienn hat verkaufft sein haus In der Newlukchen ze
-					<lb facs="#facs_450_r2l19" n="N002"/>Wienn ze nechst Pylgreims des Hetler haus umb sechczechen pfunt Wienner pfenning
+					<lb facs="#facs_450_r2l19" n="N002"/>Wienn ze- nechst Pylgreims des Hetler haus umb sechczechen pfunt Wienner pfenning
 					<lb facs="#facs_450_r2l20" n="N003"/>Jorgen dem Pretnagl ze Wienn und Agnesen seiner hausfrawn und iren erben furbaser
 					<lb facs="#facs_450_r2l21" n="N004"/>ledichleich und freileich ze haben und allen Iren frumen damit zeschaffen doch
 					<lb facs="#facs_450_r2l22" n="N005"/>das der vorgnant Jorg Pretnagl pey der egenanten seiner hausfrawn lebtagen und
@@ -24717,7 +24722,7 @@ Julian: Summa wirklich durchgestrichen? JA
 				<p facs="#facs_465_TextRegion_1644220352554_2127">
 					<lb facs="#facs_465_r1l7" n="N001"/>Paul Hebl zu Sand Veit hat verkaufft ain halbs haus das gancz gelegen ist in der Kerner¬
 					<lb facs="#facs_465_r1l8" n="N002"/>strass ze Wienn genant ‧‧ des Schonknechts haus zenagst Seifridts Warnhover haus
-					<lb facs="#facs_465_r1l9" n="N003"/>daz Erharts des Ju sten gewesen ist und daz er fur sein geltschuld in der Burgerschrann
+					<lb facs="#facs_465_r1l9" n="N003"/>daz Erharts des Justen gewesen ist und daz er fur sein geltschuld in der Burgerschrann
 					<lb facs="#facs_465_r1l10" n="N004"/>vor dem StatRichter ze Wienn mit dem Rechten behabt und erlangt hat sicut littera Judicis
 					<lb facs="#facs_465_r1l11" n="N005"/>sonat umb zwaihundert und Achczigk pfund Wienner phenning Jacoben dem Sakch dieczeit
 					<lb facs="#facs_465_r1l12" n="N006"/>Richter zu Haimburgk Barbaren seiner hausfrawn und Ir baider erben sicut littera sonat
@@ -25274,10 +25279,10 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 
 			<div type="entry" n="472-3">
 				<p facs="#facs_472_TextRegion_1644220536878_2301">
-					<lb facs="#facs_472_r2l29" n="N001"/>Paul und Jacob gepruder die kewnspies habent verkaufft ain halbe fleisch
+					<lb facs="#facs_472_r2l29" n="N001"/>Paul und Jacob gepruder die kewnspies habent verkaufft ain halbe fleisch-
 					<lb facs="#facs_472_r2l30" n="N002"/>pankch gelegen under den fleischpencken an dem Liechtensteg an ainem tail ze-
-					<lb facs="#facs_472_r2l31" n="N003"/>nagst der Morin zunagst Thomans des Bayrs fleischpanck die Sy von wei
-					<lb facs="#facs_472_r2l32" n="N004"/>lent frawn Helenen Hannsen des Oczestorffer hausfrawn unser Swester aner
+					<lb facs="#facs_472_r2l31" n="N003"/>nagst der Morin zunagst Thomans des Bayrs fleischpanck die Sy von wei-
+					<lb facs="#facs_472_r2l32" n="N004"/>lent frawn Helenen Hannsen des Oczestorffer hausfrawn unser Swester aner-
 					<lb facs="#facs_472_r2l33" n="N005"/>storben und darnach mit ainem rechten von dem Rat nach lautt ains gerichtbrief
 					<lb facs="#facs_472_r2l34" n="N006"/>gevallen und zugesprochen ist umb Newnczig phund Wienner phenning dem
 					<lb facs="#facs_472_r2l35" n="N007"/>erbern Kunraden dem Oczestorffer und seinen erben oder wem er dieselb halb
@@ -25306,14 +25311,14 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 				</p>
 			</div>
 
-			<div type="entry" n="473-2">
+			<div type="entry-deleted">
 				<p facs="#facs_473_TextRegion_1644220569131_2329">
 					<lb facs="#facs_473_r3l10" n="N001"/>Peter Walther und Margreth sein hausfraw habent verkaufft ain haus
 					<lb facs="#facs_473_line_1625834311391_6869" n="N002"/>die hofstat
 				</p>
 			</div>
 
-			<div type="entry" n="473-3">
+			<div type="entry" n="473-2">
 				<p facs="#facs_473_TextRegion_1644220567617_2325">
 					<lb facs="#facs_473_r3l12" n="N001"/>Peter Potl der Ryemer Helen sein hausfraw habent verkaufft ain halbs haus
 					<lb facs="#facs_473_r3l13" n="N002"/>ganczes gelegen In der Sinngerstrass den tail zenagst Kristans von Menhe
@@ -25324,7 +25329,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 				</p>
 			</div>
 
-			<div type="entry" n="473-4">
+			<div type="entry" n="473-3">
 				<p facs="#facs_473_TextRegion_1644220564907_2321">
 					<lb facs="#facs_473_r3l19" n="N001"/>Peter Walcher Margreth sein hausfraw habent verkaufft Ir haus die hofstat
 					<lb facs="#facs_473_r3l20" n="N002"/>weingarten und den Saffran Garten hinden daran und was darczu gehoret
@@ -25335,7 +25340,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 				</p>
 			</div>
 
-			<div type="entry" n="473-5">
+			<div type="entry" n="473-4">
 				<p facs="#facs_473_TextRegion_1644220558476_2317">
 					<lb facs="#facs_473_r3l25" n="N001"/>Paul Wurffl zu den zeiten Burgermaister und der Rat gemain der Stat ze Wienn
 					<lb facs="#facs_473_r3l26" n="N002"/>habent geben und verlihen das haws gelegen am Hohenmarkht zenagst weilent
@@ -25993,14 +25998,14 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 				</p>
 			</div>
 
-			<div type="entry" n="485-3">
+			<div type="entry-deleted">
 				<p facs="#facs_485_TextRegion_1644221460834_2551">
 					<lb facs="#facs_485_r4l25" n="N001"/>Paul Newnkircher der zingiesser ze Wienn Maister Erharts des zingiesser seligen Sun
 					<lb facs="#facs_485_r4l26" n="N002"/>vergich fur mich und all meine erben und tun kund offenlich mit dem brief
 				</p>
 			</div>
 
-			<div type="entry" n="485-4">
+			<div type="entry" n="485-3">
 				<p facs="#facs_485_TextRegion_1644221459956_2547">
 					<lb facs="#facs_485_r4l28" n="N001"/>Paul Newnkircher der zingiesser ze Wienn Maister Erharts des zingiesser seligen Sun
 					<lb facs="#facs_485_r4l29" n="N002"/>hat verkaufft seinen tail und gerechtigkait So Er gehabt hat an dem haws gelegen
