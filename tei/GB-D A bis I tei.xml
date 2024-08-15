@@ -1378,8 +1378,9 @@ Summa wirklich durchgestrichen?
 					<lb facs="#facs_25_r1l9" n="N009"/>hat an rechter tailung gevallen ist allen Irn frumen damit zuschaffen
 					<lb facs="#facs_25_r1l10" n="N010"/>nach lautt des tailbriefs den sy darumb hat <date>Actum an Mittichen
 					<lb facs="#facs_25_r1l12" n="N011"/>ante Letare in der vassten Anno etc. xlvᵗº</date>
-					<lb facs="#facs_25_r1l11" n="N012"/>habet cedulam
 					<lb facs="#facs_25_r1l13" n="N013"/>Summa lxxii d.
+
+					<lb facs="#facs_25_r1l11" n="N012"/>habet cedulam
 				</p>
 			</div>
 
@@ -1868,7 +1869,7 @@ erste Zeile prüfen
 					<lb facs="#facs_32_r2l19" n="N001"/>Junkfraw Anna Hainreichs Unverdrossen des schuster seligen tochter ist nucz und gewer
 					<lb facs="#facs_32_r2l20" n="N002"/>pracht worden ains halben hauss ganczes gelegen am Hohenmarkt undern Wendtkremen
 					<lb facs="#facs_32_r2l21" n="N003"/>zenagst Niclasen Sawr des schuster haus an aim tail und an dem andern zenagst weilent
-					<lb facs="#facs_32_r2l22" n="N004"/>des plesperger haus das der obgenant Unverdrossen Ir vater seliger Ir und Kathrein Irer Muter wencz
+					<lb facs="#facs_32_r2l22" n="N004"/>des plesperger haus das der obgenant Unverdrossen Ir vater seliger Ir und Kathrein Irer Muter wencz-
 					<lb facs="#facs_32_r2l23" n="N005"/>laben Grat des schuster hausfrawn in geleihentail geschafft hat und das darnach derselben
 					<lb facs="#facs_32_r2l24" n="N006"/>Junkfrawn Annen gegen der egnant Kathre Irer huer mit furczicht und mit los an rechter tailung
 					<lb facs="#facs_32_r2l25" n="N007"/>gevallen ist und ist der andertail desselben hauss darczu sol gehorn die stuben auf der kram die
@@ -2067,7 +2068,7 @@ erste Zeile prüfen
 					<lb facs="#facs_35_r1l15" n="N001"/>Anna Lewpolcz hutz mitburger zu Wienn hausfraw hat empfangen
 					<lb facs="#facs_35_r1l17" n="N002"/>nucz und gewer ains hauss gelegen in der hindern Pekchenstrass zenagst
 					<lb facs="#facs_35_r1l18" n="N003"/>weilent des Mosprunner Widhof das Sy und Ir erer man Jacob
-					<lb facs="#facs_35_line_1649435337516_1103" n="N004"/>Spiczenpart der partenburcher seliger auf uberleben mitein ander ge-
+					<lb facs="#facs_35_line_1649435337516_1103" n="N004"/><surplus>Spiczenpart der partenburcher seliger auf uberleben mitein ander ge-</surplus>
 					<lb facs="#facs_35_line_1649435337516_1102" n="N005"/>Spiczenpart der partenburher seliger auf uberleben mitein ander ge-
 					<lb facs="#facs_35_r1l20" n="N006"/>kauft haben und mit abgang desselben Irs Erern Manns lediclich
 					<lb facs="#facs_35_r1l21" n="N007"/>an sey komen ist <date>Actum an Freitag vor sand Johans tag zu Sunbenden
@@ -2360,7 +2361,7 @@ erste Zeile prüfen
 				<p facs="#facs_38_TextRegion_1646408375741_557">
 					<lb facs="#facs_38_r1l59" n="N001"/>Anna Erasms von Klausenburg hausfrau die emaln Walasch von Funfkirchen auch elichen gehabt hat
 					<lb facs="#facs_38_r1l60" n="N002"/>hat emphangen nucz und gewer Ir und Irn erben ains hauss gelegen bey den Predigern zu Wienn
-					<lb facs="#facs_38_r1l61" n="N003"/>genant des Kranfogl haus zenagst weilnt Pauln des Wagendrusels haus Als das von Wolf
+					<lb facs="#facs_38_r1l61" n="N003"/>genant des Kranfogl haus zenagst weilnt Pauln des Wagendrusels haus Als das von Wolf-
 					<lb facs="#facs_38_r1l62" n="N004"/>gangen Holczer umb hundert und funfundzwainczig phunt phenning mit kauff an sy komen ist ut littera
 					<lb facs="#facs_38_r1l63" n="N005"/><date>Actum an Mitichen nach sand Urbans tag Anno etc. liᵐº</date>
 					<lb facs="#facs_38_line_1647001457034_354" n="N006"/>Summa i tl. d.
@@ -2762,6 +2763,7 @@ erste Zeile prüfen
 					<lb facs="#facs_43_r3l39" n="N017"/>stent damit das dieselben sechs venster furbaser unverpaut beleiben ungeverlich
 					<lb facs="#facs_43_r3l40" n="N018"/><date>Actum an Montag post Letare in der vasten Anno etc. liiiiᵗº</date>
 					<lb facs="#facs_43_r3l41" n="N019"/>Summa vii s. vi d.
+
 					<lb facs="#facs_43_r1l2" n="N020"/>obtinuit folio 12
 					<lb facs="#facs_43_r1l3" n="N021"/>vendiderunt purkrecht folio 13
 					<lb facs="#facs_43_r1l4" n="N022"/>vendiderunt purkrecht folio 14
@@ -2903,7 +2905,7 @@ erste Zeile prüfen
 			</div>
 
 			<div type="entry" n="0045-2">
-				<p facs="#facs_45_TextRegion_1646409967000_835">
+				<p facs="#facs_45_TextRegion_1646409967000_835" part="I">
 					<lb facs="#facs_45_r3l13" n="N001"/>Affra und Margreth Oswalts Wolfger des kramer und Ursulen weilent
 					<lb facs="#facs_45_r3l14" n="N002"/>seiner hausfraun die Hainreiches Wielant den kramer seligen auch elichen gehabt
 					<lb facs="#facs_45_r3l15" n="N003"/>hat seligen kinder sind nucz und gewer pracht worden Ains halben hauss
@@ -2912,11 +2914,14 @@ erste Zeile prüfen
 					<lb facs="#facs_45_r3l18" n="N006"/>vorgnant Ire kinder komen ist <date>Actum an Montag vor sand Lucein tag Anno etc. liiiiᵗº</date>
 					<lb facs="#facs_45_line_1646409941800_831" n="N007"/>Summa ½ tl. d.
 				</p>
+
+				<p facs="#facs_45_TextRegion_1646409941692_827" part="F">
+					<lb facs="#facs_45_r1l2" n="N001"/>obtinuit folio 15
+				</p>
 			</div>
 
 			<div type="entry" n="0045-3">
 				<p facs="#facs_45_TextRegion_1646409941692_827">
-					<lb facs="#facs_45_r1l2" n="N001"/>obtinuit folio 15
 					<lb facs="#facs_45_r3l20" n="N002"/>Anna Steffans Kisling hausfrau Maister Petern des Volczian seligen tochter hat
 					<lb facs="#facs_45_r3l21" n="N003"/>nucz und gewer empfangen des vordern tail hauss gelegen in der Sinnger-
 					<lb facs="#facs_45_r3l22" n="N004"/>strass gegen sant Steffans freithof tor uber zenagst Erharts Wolsstain
@@ -3219,7 +3224,7 @@ erste Zeile prüfen
 					<lb facs="#facs_48_r2l45" n="N005"/>habent und das Ir darnach halbs gegen Irn kindern Margrethen und Hedweigen die sy pey
 					<lb facs="#facs_48_r2l46" n="N006"/>dem benant Grunawg gehabt hat anrechter tailung gevallen ist und ist der erst tail desselben
 					<lb facs="#facs_48_r2l47" n="N007"/>hauss mit allen den gemechen und gemainen stukchen die nach lautt der tailbrief darczu ge-
-					<lb facs="#facs_48_r2l48" n="N008"/>hornt <date>Actum an Mittichen nach sand Niclas tag Anno domini etc.lviᵗº</date>
+					<lb facs="#facs_48_r2l48" n="N008"/>hornt <date>Actum an Mittichen nach sand Niclas tag Anno domini etc. lviᵗº</date>
 					<lb facs="#facs_48_r2l49" n="N009"/>Summa lxxii d.
 					<lb facs="#facs_48_line_1647260934590_978" n="N010"/>fecit dotalicium viro
 					<lb facs="#facs_48_r1l7" n="N011"/>libro isto folio 2º sequenti
@@ -4402,8 +4407,8 @@ erste Zeile prüfen
 			<div type="entry" n="0062-3">
 				<p facs="#facs_62_TextRegion_1649675425574_627">
 					<lb facs="#facs_62_r1l38" n="N001"/>Anndre Schonnprugkner dieczeit des Rats der Stat zu Wienn hat emphangen
-					<lb facs="#facs_62_r1l39" n="N002"/>nucz und gewer ainer halben hofstat und Garten daran da auf derselben hof
-					<lb facs="#facs_62_r1l40" n="N003"/>stat vormalen ain haus und Stadl gestanden ist ganczes gelegen vor Schotten
+					<lb facs="#facs_62_r1l39" n="N002"/>nucz und gewer ainer halben hofstat und Garten daran da auf derselben hof-
+					<lb facs="#facs_62_r1l40" n="N003"/>stat vormalen ain haus und Stadl gestanden ist ganczes gelegen vor Schotten-
 					<lb facs="#facs_62_r1l41" n="N004"/>tor auf der Newnburgerstrass und stosset dieselb halb hofstat und Garten
 					<lb facs="#facs_62_r1l42" n="N005"/>an etwenn Jorgen koler haus das yecz des obgenanten Schonnprugkner ist
 					<lb facs="#facs_62_r1l43" n="N006"/>an ainer seitten und endet sich mit der Mawr die darczu gehort und der ob
@@ -4411,7 +4416,7 @@ erste Zeile prüfen
 					<lb facs="#facs_62_r1l45" n="N008"/>von der erbern frawn Kathrein Thoman kroner hausfraun die emalen Thoman
 					<lb facs="#facs_62_r1l46" n="N009"/>Egkenperger seligen auch elichen gehabt hat an stat Irselbs und von derselben
 					<lb facs="#facs_62_r1l47" n="N010"/>fraun Kathrein und dem erbern weisen Hannsen Kanstorffer als Geschefftleu
-					<lb facs="#facs_62_r1l48" n="N011"/>in des obgenanten Thomas Egkenperger seligen Gescheffts und als Gerha
+					<lb facs="#facs_62_r1l48" n="N011"/>in des obgenanten Thomas Egkenperger seligen Gescheffts und als Gerha-
 					<lb facs="#facs_62_r1l49" n="N012"/>bn Bernhardin und Ursulen die noch ungevogt sind der obgenanten fraun
 					<lb facs="#facs_62_r1l50" n="N013"/>Kathrein und Thoman Egkenpger seligen kinder umb zehen phunt phenning
 					<lb facs="#facs_62_r1l51" n="N014"/>mit kauf an In komen ist allen seinen frumen damit zeschaffen ungeverlich
@@ -4690,7 +4695,7 @@ erste Zeile prüfen
 					<lb facs="#facs_66_r2l37" n="N009"/>den nagsten dinst damit nach lautt ains purkrichtsbrief und nicht
 					<lb facs="#facs_66_r2l38" n="N010"/>mer Als das von Hannsen freitl und Elspethen seiner hausfrawn
 					<lb facs="#facs_66_r2l39" n="N011"/>umb lxxx tl. d. mit kauff an Sy komen ist ut littera sonat <date>Actum an Freitag
-					<lb facs="#facs_66_line_1651148720895_342" n="N012"/>sand Alechsen tag Anno domini etc. lxviimo</date>
+					<lb facs="#facs_66_line_1651148720895_342" n="N012"/>sand Alechsen tag Anno domini etc. lxviiᵐº</date>
 					<lb facs="#facs_66_r2l41" n="N013"/>Summa vi s. x d.
 					<lb facs="#facs_66_r1l1" n="N014"/>obtinuit folio 19
 					<lb facs="#facs_66_r1l2" n="N015"/>obtinuit folio 19
@@ -5521,7 +5526,7 @@ erste Zeile prüfen
 					<lb facs="#facs_78_r1l4" n="N003"/>weilent Petern Gehinger des Slosser seligen hawss an ainem tail und an dem andern zenagst Niclasen
 					<lb facs="#facs_78_r1l5" n="N004"/>Lambacher hawss Als das von Linharten Ryener an stat sein selbs Bertlmen Sachs zu Menlestorff
 					<lb facs="#facs_78_r1l6" n="N005"/>und Micheln Temhofer an stat hern Larenczen vicar zu Wolffpoich auch Agnesen des egenanten Sachsen
-					<lb facs="#facs_78_r1l7" n="N006"/>hausfrawn und Elspethen des vorgenanten Temhofer hausfrawn und Irer miterben der gwalt Sy ha
+					<lb facs="#facs_78_r1l7" n="N006"/>hausfrawn und Elspethen des vorgenanten Temhofer hausfrawn und Irer miterben der gwalt Sy ha-
 					<lb facs="#facs_78_r1l8" n="N007"/>ben mit lediger ubergab an Sy komen ist nach lautt ains gwaltbriefs So darumb bey der Statgunt
 					<lb facs="#facs_78_r1l9" n="N008"/>puch ligt allen Irn frumen frumen damit zeschaffen nach der Stat Rechten zu Wienn In der maynung das
 					<lb facs="#facs_78_r1l10" n="N009"/>Sy und alle die daz obgenant hawss Innhaben und besiczen mit der Stat daselbs davon leiden als ander
@@ -6705,7 +6710,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_95_r1l53" n="N002"/>den leinbater seligen auch elichen gehabt hat hat empfangen nucz und gewer
 					<lb facs="#facs_95_r1l54" n="N003"/>ains hawss mit seiner zugehorng gelegen pey dem Rotenturn gegen weilent
 					<lb facs="#facs_95_r1l55" n="N004"/>des Sniczer haws uber und stosset unden an der geistlichen herren hof von
-					<lb facs="#facs_95_r1l56" n="N005"/>Geminkch mit allen desselben hawss umbfengen gemewr Ingengen auf
+					<lb facs="#facs_95_r1l56" n="N005"/>Geminkch mit allen desselben hawss umbfengen gemewr Ingengen auf-
 					<lb facs="#facs_95_r1l57" n="N006"/>gengen und ander gerechtikait die der alt kaufbrief der in dem Rat ligt
 					<lb facs="#facs_95_r1l58" n="N007"/>nenlichen ausweist Als dasselb haws von dem egnant Steffan Holfues
 					<lb facs="#facs_95_r1l59" n="N008"/>Irm Mann seligen mit geschefft an sey komen ist ut liber Civitatis sonat
@@ -7321,7 +7326,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_102_r2l34" n="N003"/>nucz und gewer ains hawss das zu Maister Fridreichs pucharczt Mess auf Goczleich
 					<lb facs="#facs_102_r2l35" n="N004"/>nambs altar in sand Steffans kirchen gehort hat gelegen hinder der Newen Schrann
 					<lb facs="#facs_102_r2l36" n="N005"/>pey den Tuchlawben im gesslein gegen irm haws das des Dietram seligen gewesen
-					<lb facs="#facs_102_r2l37" n="N006"/>ist uber ze nagst des Spitals haws darumb der obgenant Hanns Marchart und
+					<lb facs="#facs_102_r2l37" n="N006"/>ist uber ze- nagst des Spitals haws darumb der obgenant Hanns Marchart und
 					<lb facs="#facs_102_r2l38" n="N007"/>die benant Barbara seiner hausfraw vormaln miteinander nucz und gwer geschriben ge-
 					<lb facs="#facs_102_r2l39" n="N008"/>wesen sein und das In her Paul der Amman dieselb czeit kapplan der egenanten Mess
 					<lb facs="#facs_102_r2l40" n="N009"/>fur sich und sein nachkomen zu aim steten auswechsel lediclich gegeben hat nach lautt
@@ -7542,7 +7547,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_105_r1l39" n="N003"/>nucz und gewer der ubertewrung des benant Talhaimer Irs mans
 					<lb facs="#facs_105_r1l40" n="N004"/>hauss gelegen am Harmarkht zenagst Petern Gwerlich hawss an
 					<lb facs="#facs_105_r1l41" n="N005"/>aim tail uber die zway hundert phunt phenning haimstewr die Annen
-					<lb facs="#facs_105_r1l42" n="N006"/>Hannsen Golden tochtr seiner erern hausfraw seligen vormalen darauf ver
+					<lb facs="#facs_105_r1l42" n="N006"/>Hannsen Golden tochtr seiner erern hausfraw seligen vormalen darauf ver-
 					<lb facs="#facs_105_r1l43" n="N007"/>schriben sind und uber die zway hundert phunt phenning haimstewr
 					<lb facs="#facs_105_r1l44" n="N008"/>und zwayhundert phunt phenning morgengab die nachmaln der ob
 					<lb facs="#facs_105_r1l45" n="N009"/>berurten Barbaran darauf verschriben sein Als dieselb ubertewrung
@@ -8650,7 +8655,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_134_r2l38" n="N012"/>habent und dasselb haws halbs den egenant Kunraden
 					<lb facs="#facs_134_r2l39" n="N013"/>Oczestorffer und die vorgenant ungevogten kinder sein
 					<lb facs="#facs_134_r2l40" n="N014"/>miterben von der benant Cecilien mit der Sy geswistreid
-					<lb facs="#facs_134_r2l41" n="N015"/>kinder gewesen sein nach laut Irer beweisten freuntschafft aner
+					<lb facs="#facs_134_r2l41" n="N015"/>kinder gewesen sein nach laut Irer beweisten freuntschafft aner-
 					<lb facs="#facs_134_r2l42" n="N016"/>storben und In darnach gegen Annen des vorgenant Nymmervols
 					<lb facs="#facs_134_r2l43" n="N017"/>tochter die er mit Ursulen seiner lessten hausfraun gehabt hat
 					<lb facs="#facs_134_r2l44" n="N018"/>mit furczicht und mit los an Rechter tailung gevallen ist
@@ -9658,7 +9663,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_151_r2l12" n="N005"/>Nustorffer und Elspeten seiner swester in der Burgerschrann mit gericht
 					<lb facs="#facs_151_r2l13" n="N006"/>anerlangt und behabt hat nach der gerichtt und anbotbrief sag
 					<lb facs="#facs_151_r2l14" n="N007"/>darumb ausgangen Als dasselb haus von dem egenant kirchmaister
-					<lb facs="#facs_151_r2l15" n="N008"/>umb lxxx tl. d. mit kauf an sy komen ist der viii tl. fur i tl. purk
+					<lb facs="#facs_151_r2l15" n="N008"/>umb lxxx tl. d. mit kauf an sy komen ist der viii tl. fur i tl. purk-
 					<lb facs="#facs_151_r2l16" n="N009"/>recht der egnant kirchen und aber viii tl. fur i tl. purkrecht den geistlichen
 					<lb facs="#facs_151_r2l17" n="N010"/>fraun zu sant Larenczen so sy darauf gehabt habent gevallen sind
 					<lb facs="#facs_151_r2l18" n="N011"/>und die ubrigen lxiiii tl. habent gepurt der Stat von wegen der
@@ -9785,7 +9790,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_153_r1l11" n="N002"/>nucz und gewer ains hauss und hofstat weingarten daran
 					<lb facs="#facs_153_r1l12" n="N003"/>gelegen vor Stubentor gegen dem Paradeis uber zwischen
 					<lb facs="#facs_153_r1l13" n="N004"/>Hannsen Haringseer und Jacoben von Ofen des weger hewser
-					<lb facs="#facs_153_r1l14" n="N005"/>Als das von Margreten Steffans Galhaimer des huter haus
+					<lb facs="#facs_153_r1l14" n="N005"/>Als das von Margreten Steffans Galhaimer des huter haus-
 					<lb facs="#facs_153_r1l15" n="N006"/>frawn umb xxxi tl. d. mit kauff an sew komen ist <date>Actum an
 					<lb facs="#facs_153_r1l17" n="N007"/>sant Thomans abent appostoli Anno etc. xlvᵗº</date>
 					<lb facs="#facs_153_r1l18" n="N008"/>Summa lxii d.
@@ -9925,7 +9930,7 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_155_r2l29" n="N012"/>Wissinger allczeit ganczen gewalt haben sol Es sey bey der egnant seiner
 					<lb facs="#facs_155_r2l30" n="N013"/>hausfraun lebttegen oder hirnnach mit dem egnant haus allen seinen
 					<lb facs="#facs_155_r2l31" n="N014"/>frumen zuschaffen wie In verlust ut littera sonat <date>Actum an Montag
-					<lb facs="#facs_155_r2l32" n="N015"/>nach sand Elspeten tag Anno etc. xlvito</date>
+					<lb facs="#facs_155_r2l32" n="N015"/>nach sand Elspeten tag Anno etc. xlviᵗº</date>
 					<lb facs="#facs_155_line_1652104218317_2073" n="N016"/>Summa vii tl. vi s. x d.
 				</p>
 			</div>
@@ -10225,8 +10230,8 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_160_r2l11" n="N003"/>Anna gemacht hat Also ist das Sy mit tod abget ee dann derselb Kristan
 					<lb facs="#facs_160_r2l12" n="N004"/>Ir Man So sol Er dann das egenant haws lediclich haben Ging aber Er
 					<lb facs="#facs_160_r2l13" n="N005"/>ab mit tod Ee wan Sy So ist Ir dann das egenant haws genczlich wider
-					<lb facs="#facs_160_r2l14" n="N006"/>ledig ut littera sonat <date>Actum an Mantag vor sand Stephans tag im Snit</date>
-					<lb facs="#facs_160_r2l15" n="N007"/><date>Anno domini etc. xlviiiᵛº</date>
+					<lb facs="#facs_160_r2l14" n="N006"/>ledig ut littera sonat <date>Actum an Mantag vor sand Stephans tag im Snit
+					<lb facs="#facs_160_r2l15" n="N007"/>Anno domini etc. xlviiiᵛº</date>
 					<lb facs="#facs_160_r2l16" n="N008"/>Summa lxxii d.
 				</p>
 			</div>
@@ -10524,6 +10529,11 @@ vi d.: wirklich gelöscht?
 					<lb facs="#facs_163_r1l36" n="N008"/>Snit Anno etc. liº</date>
 					<lb facs="#facs_163_r1l35" n="N009"/>Summa i tl. xvi d.
 					<lb facs="#facs_163_r1l26" n="N010"/>obtinuit folio 60
+				</p>
+			</div>
+
+			<div type="entry-deleted">
+				<p facs="#facs_163_TextRegion_1649940357304_813">
 					<lb facs="#facs_163_r1l38" n="N011"/>Her Conrat Abtt zu Altenburg der Convent gemain daselbs habent
 					<lb facs="#facs_163_line_1649940351399_811" n="N012"/>emphangen nucz und gewer
 				</p>
@@ -11168,7 +11178,7 @@ Doch unvergriffen etc.: wirklich gelöscht?
 
 			<div type="entry" n="0170-5">
 				<p facs="#facs_170_TextRegion_1649942296883_1081">
-					<lb facs="#facs_170_r1l35" n="N001"/>Caspar und Thoman gepruder die kroner Magdalen Ir Swester Hannsen des Gotschalhinger haus
+					<lb facs="#facs_170_r1l35" n="N001"/>Caspar und Thoman gepruder die kroner Magdalen Ir Swester Hannsen des Gotschalhinger haus-
 					<lb facs="#facs_170_r1l36" n="N002"/>frau und Hennsl Ulreichs des volkleins Sun alle vire geswistreid Muterhalben habent nucz
 					<lb facs="#facs_170_r1l37" n="N003"/>und gewer empfangen ains halben hawss ganczes gelegen in der vordern Pekchenstrass
 					<lb facs="#facs_170_r1l38" n="N004"/>zenagst Micheln von Pirpawm haws und ist der erst tail des vorgnant hauss mit allen
@@ -11936,7 +11946,7 @@ Doch unvergriffen etc.: wirklich gelöscht?
 					<lb facs="#facs_180_r2l24" n="N002"/>hauss gelegen in der Munnsserstrass zu Wienn zunagst dem Gesslein als man
 					<lb facs="#facs_180_r2l25" n="N003"/>in den Kamhof geet an aim tail und an dem andern zenagst weilent Hannsen
 					<lb facs="#facs_180_r2l26" n="N004"/>Haringseer zuhaus Als das von Jacoben Munich fur sichselbs und an stat
-					<lb facs="#facs_180_r2l27" n="N005"/>Mathesen seins Suns der noch nicht vogtper ist dafur er sich genczlich angeno
+					<lb facs="#facs_180_r2l27" n="N005"/>Mathesen seins Suns der noch nicht vogtper ist dafur er sich genczlich angeno-
 					<lb facs="#facs_180_r2l28" n="N006"/>men hat und von Thoman Schoberl mitburger zu Wienn umb drewhundert
 					<lb facs="#facs_180_r2l29" n="N007"/>und Newnczigk phunt phenning mit kauf an In komen ist allen seinen frumen damit
 					<lb facs="#facs_180_r2l30" n="N008"/>zeschaffen verkauffen verseczen schaffen machen und geben wem er wil an menigelichs
@@ -13330,7 +13340,7 @@ Seitenumbruch: Rings- wegkhl
 					<lb facs="#facs_213_r1l26" n="N004"/>auf die Slachprugk get und ist der nider tail zenagst der pank
 					<lb facs="#facs_213_r1l27" n="N005"/>die weilent der Angelpekch hat Inngehabt die Sy und Ire ge-
 					<lb facs="#facs_213_r1l28" n="N006"/>swistreid Steffan Kufusser Anna Hannsen des prunner hausfrau
-					<lb facs="#facs_213_r1l29" n="N007"/>und Dorothe Ir Mum Hannsen Schewher des fleischhaker haus
+					<lb facs="#facs_213_r1l29" n="N007"/>und Dorothe Ir Mum Hannsen Schewher des fleischhaker haus-
 					<lb facs="#facs_213_r1l30" n="N008"/>frau und Michel derselben Dorothen pruder Otten des Scheibeben
 					<lb facs="#facs_213_r1l31" n="N009"/>sun Ir vetter von dem obgenant Philippen Kufusser seligen Irm vater
 					<lb facs="#facs_213_r1l32" n="N010"/>und Een seligen geerbt und darnach die egnant Steffan Kufusser
@@ -13689,7 +13699,7 @@ Seitenumbruch: aner- storben
 					<lb facs="#facs_2_tr_2_tl_20" n="N007"/>die SindramInn auf allerheiligen altar In sand Steffan gestifft hat ain pfund phenning
 					<lb facs="#facs_2_tr_2_tl_21" n="N008"/>alles zu purkrecht und nicht mer das des obgnant Fridreichs Eisner seligen gewesn ist
 					<lb facs="#facs_2_tr_2_tl_22" n="N009"/><del>und halbs der egnant seiner hausfrawn geschafft hat und Ir darnach</del> und der egnant Dorothen
-					<lb facs="#facs_2_tr_2_tl_23" n="N010"/>seiner hausfraun und Steffan seim Sun geschafft hat in gleihen tail nach lautt seins ge
+					<lb facs="#facs_2_tr_2_tl_23" n="N010"/>seiner hausfraun und Steffan seim Sun geschafft hat in gleihen tail nach lautt seins ge-
 					<lb facs="#facs_2_tr_2_tl_24" n="N011"/>scheffts und Ir darnach halbs gegen demselben Irm Sun mit furczicht und mit los
 					<lb facs="#facs_2_tr_2_tl_25" n="N012"/>an rechter tailung gevallen ist nach lautt der tailbrief darumb gegeben und ist der erst
 					<lb facs="#facs_2_tr_2_tl_26" n="N013"/>tail des vorgnant hauss mit allen den gemechen und gemainen stukchen die nach lautt
@@ -15313,7 +15323,7 @@ Eintrag gelöscht? oder nur Summa?
 				<p facs="#facs_253_TextRegion_1650348363937_513">
 					<lb facs="#facs_253_r2l15" n="N001"/>Erasm Ponhaimer hat empfangen nucz und gewer ains hauss gelegen
 					<lb facs="#facs_253_r2l16" n="N002"/>vor Schottentor zenagst Hannsen des smids haus davon man Jerlich
-					<lb facs="#facs_253_r2l17" n="N003"/>dint zu der ewigen mess so Hanns Rewhl gesessen hinder sant Pan
+					<lb facs="#facs_253_r2l17" n="N003"/>dint zu der ewigen mess so Hanns Rewhl gesessen hinder sant Pan-
 					<lb facs="#facs_253_r2l18" n="N004"/>greczen hincz sand Michel auf sant Barbara und sand Dorothe
 					<lb facs="#facs_253_r2l19" n="N005"/>altar auf dem newen letter zustifften geschafft hat drew pfunt und
 					<lb facs="#facs_253_r2l20" n="N006"/>dreissig pfenning und Hannsen Hofkircher verweser sant Peter und sant Pauls
@@ -15998,7 +16008,7 @@ Eintrag gelöscht? oder nur Summa?
 				<p facs="#facs_262_TextRegion_1652795142788_313">
 					<lb facs="#facs_262_r3l34" n="N001"/>Erhart Marbacher der Smid und Barbara sein hausfraw die emalen Steffan Holfus auch
 					<lb facs="#facs_262_r3l35" n="N002"/>elichen gehabt hat habent empfangen nucz und gewer ains hauss mit seiner zugehorung
-					<lb facs="#facs_262_r3l36" n="N003"/>gelegen pey dem Rotenturn gegen weilent des Sniczer haus uber und stosst unden an der geist
+					<lb facs="#facs_262_r3l36" n="N003"/>gelegen pey dem Rotenturn gegen weilent des Sniczer haus uber und stosst unden an der geist-
 					<lb facs="#facs_262_r3l37" n="N004"/>lichen herren hof von Gemnyk mit allen desselben hawss umbfengen gemeur Ingengen
 					<lb facs="#facs_262_r3l38" n="N005"/>ausgengen und ander gerechtikait die der alt kaufbrief der in dem Rat ligt nemlichen
 					<lb facs="#facs_262_r3l39" n="N006"/>ausweist Als das der egenant Steffan Holfus der egnant Barbaren weilent seiner hausfrawn
@@ -19732,7 +19742,7 @@ Eintrag gelöscht? oder nur Summa?
 					<lb facs="#facs_342_r5l41" n="N004"/>auf des heiligen Kreucz altar zu sand Steffan gestifft hat vi s. d. zu purkrecht und
 					<lb facs="#facs_342_r5l42" n="N005"/>nicht mer Als das von Jorgen koch zun Predigern umb xxii tl. d. mit
 					<lb facs="#facs_342_r5l43" n="N006"/>kauf an sy komen ist ut littera sonat <date>Actum feria sexta post Ascensionem domini <del>li</del> Anno eiusdem
-					<lb facs="#facs_342_r5l44" n="N007"/>Mo cccc xxxviiiº</date>
+					<lb facs="#facs_342_r5l44" n="N007"/>Mº cccc xxxviiiº</date>
 					<lb facs="#facs_342_r5l45" n="N008"/>Summa xliiii d.
 					<lb facs="#facs_342_r1l3" n="N009"/>obtinuit folio 142
 					<lb facs="#facs_342_r1l4" n="N010"/>obtinuit folio 144
@@ -22290,7 +22300,7 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_381_r2l22" n="N010"/>solich Messe und selgret auf den Grunten nicht habent vertigen
 					<lb facs="#facs_381_r2l23" n="N011"/>wellen darumb so hat die egenant Anna die HerbartInn und
 					<lb facs="#facs_381_r2l24" n="N012"/>Hanns Herbart Ir Sun als des egenant Petern nagst freunt das
-					<lb facs="#facs_381_r2l25" n="N013"/>egenant haus dem obgenant Hannsen Vederler Dorotheen seiner haus
+					<lb facs="#facs_381_r2l25" n="N013"/>egenant haus dem obgenant Hannsen Vederler Dorotheen seiner haus-
 					<lb facs="#facs_381_r2l26" n="N014"/>frawn und irn baiden erben zuchauffen gegeben umb hundert und
 					<lb facs="#facs_381_r2l27" n="N015"/>Newnczig pfunt phenning der Sy hundert pfund geben haben ‧‧ dem
 					<lb facs="#facs_381_r2l28" n="N016"/>Spitalmaister das er nu furbas die Montagmesse in dem Newen
@@ -22299,6 +22309,7 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_381_r2l31" n="N019"/>sol ut littera vendicionis sonat <date>Actum an unser frawn abend als Sy geporen ist
 					<lb facs="#facs_381_r2l32" n="N020"/>Anno domini etc. xliiiº</date>
 					<lb facs="#facs_381_r2l33" n="N021"/>Summa xii s. xx d.
+
 					<lb facs="#facs_381_r1l1" n="N022"/>obtinuit folio 156
 				</p>
 			</div>
@@ -24274,7 +24285,7 @@ prüfen!
 					<lb facs="#facs_413_r2l26" n="N005"/>dint dem kaplan der mess die Hanns Poll auf sand Mertten altar zu sant
 					<lb facs="#facs_413_r2l27" n="N006"/>Steffan gestifft hat drew pfunt pfenning und Maister Hainreichen Senfft
 					<lb facs="#facs_413_r2l28" n="N007"/>leben obristen kaplan unser frawn Cappellen hern Otten und Haymen
-					<lb facs="#facs_413_r2l29" n="N008"/>stifftung in der purger Rathaus gelegen vir pfunt pfenning alles zu purk
+					<lb facs="#facs_413_r2l29" n="N008"/>stifftung in der purger Rathaus gelegen vir pfunt pfenning alles zu purk-
 					<lb facs="#facs_413_r2l30" n="N009"/>recht und nicht mer Als das von Hannsen und Petern geprudern den
 					<lb facs="#facs_413_r2l31" n="N010"/>Fechtern umb hundert virundfunfczig pfund phenning mit kauf an sy
 					<lb facs="#facs_413_r2l32" n="N011"/>komen ist mit der gerechtikait als hernachbegriffen wirdet vonersten
@@ -25878,9 +25889,9 @@ prüfen!
 			<div type="entry" n="0435-4">
 				<p facs="#facs_435_TextRegion_1654697457857_557">
 					<lb facs="#facs_435_r1l30" n="N001"/>Hainreich Hiltprant Andres Hiltprants von Meran seligen Sun
-					<lb facs="#facs_435_r1l31" n="N002"/>ist nucz und gewer pracht worden Ains hauss mit aller seiner zuge
+					<lb facs="#facs_435_r1l31" n="N002"/>ist nucz und gewer pracht worden Ains hauss mit aller seiner zuge-
 					<lb facs="#facs_435_r1l33" n="N003"/>horung gelegen am Hohenmarkcht zenagst dem Hunrngessel an aim
-					<lb facs="#facs_435_r1l35" n="N004"/>tail und an dem andern zenagst Hainreichs Stornschacz des hant
+					<lb facs="#facs_435_r1l35" n="N004"/>tail und an dem andern zenagst Hainreichs Stornschacz des hant-
 					<lb facs="#facs_435_r1l37" n="N005"/>schuster haus und stosset auch mit dem hindern tail in die Lantskron
 					<lb facs="#facs_435_r1l39" n="N006"/>das des obgenant Andres von Meran seligen gekauffts gut gewesen
 					<lb facs="#facs_435_line_1664108144841_535" n="N007"/>ist nach lautt ains besiglten kaufbriefs der noch unverserter vorhanden
@@ -25895,7 +25906,7 @@ prüfen!
 					<lb facs="#facs_435_r1l38" n="N016"/>gewer geschriben worden
 					<lb facs="#facs_435_r1l40" n="N017"/>ex Iussu consilii als
 					<lb facs="#facs_435_line_1641227497430_868" n="N018"/>das dieselb gewer Innhelt
-					<lb facs="#facs_435_r1l48" n="N019"/>Nota wenn der egenant Hainreich mit dem haus ichts handln wolt oder unge
+					<lb facs="#facs_435_r1l48" n="N019"/>Nota wenn der egenant Hainreich mit dem haus ichts handln wolt oder unge-
 					<lb facs="#facs_435_r1l50" n="N020"/>vogter abging so sol man zu der vertigung den kaufbrief vordern und
 					<lb facs="#facs_435_line_1654697449026_555" n="N021"/>das geschefft darczu aigentlich ansehen
 					<lb facs="#facs_435_line_1664107466956_456" n="N022"/>Nota der kaufbrief den Andre von
@@ -26210,7 +26221,7 @@ prüfen!
 			<div type="entry" n="0439-2">
 				<p facs="#facs_439_TextRegion_1655808507079_635">
 					<lb facs="#facs_439_r1l24" n="N001"/>Hanns von Geraw und Kunigund sein hausfrau habent emphangen nucz
-					<lb facs="#facs_439_r1l25" n="N002"/>und gewer Ainshaws gelegen am alten Fleischmarkt zenagst Steffans
+					<lb facs="#facs_439_r1l25" n="N002"/>und gewer Ains haws gelegen am alten Fleischmarkt zenagst Steffans
 					<lb facs="#facs_439_r1l26" n="N003"/>des peler haws an aim tail und an dem andern zenagst Larenczen des
 					<lb facs="#facs_439_r1l27" n="N004"/>underkeuffl haws Als das von Hannsen Gisler und Barbara seiner haus
 					<lb facs="#facs_439_r1l28" n="N005"/>fraun umb funfhundert phund phenning mit kauff an sew komen ist doch also
@@ -26481,7 +26492,7 @@ prüfen!
 					<lb facs="#facs_442_r1l22" n="N001"/>Hanns Ponhaimer und Jorg Talhaimer habent emphangen nucz und gewer zwair hewslein
 					<lb facs="#facs_442_r1l23" n="N002"/>ains das weilent Hannsen Zigenhals des Slosser gewesen ist gelegen vor Schottentor und
 					<lb facs="#facs_442_r1l24" n="N003"/>des hindern heusleins gartens und stedelleins daran das ettwan Andres Nusner ist gewesen
-					<lb facs="#facs_442_r1l25" n="N004"/>gelegen daselbs vor Schottentor auf der Alsserstrass under den laden zenagst des Seiden
+					<lb facs="#facs_442_r1l25" n="N004"/>gelegen daselbs vor Schottentor auf der Alsserstrass under den laden zenagst des Seiden-
 					<lb facs="#facs_442_r1l26" n="N005"/>nater haws und garten an aim tail und stosset mit dem vordern tail an Pauln des Rinkler
 					<lb facs="#facs_442_r1l27" n="N006"/>haws und sol auch der prunn der zwischen den benant zwain hewslein dem vordern und dem
 					<lb facs="#facs_442_r1l28" n="N007"/>hindern stet paiden taillen und dem egnant haws das ettwan Hannsen Zigenhals des slosser
@@ -26491,6 +26502,7 @@ prüfen!
 					<lb facs="#facs_442_r1l32" n="N011"/>Ponhaimer Irm freunt seligen mit geschefft an sew komen sind nach lautt seins geschefftbriefs
 					<lb facs="#facs_442_r1l33" n="N012"/>der im Statpuch zu Wienn geschriben stet <date>Actum an Montag vor sand Lucein tag Anno etc. liiᵈº</date>
 					<lb facs="#facs_442_r1l35" n="N013"/>Summa ½ tl. xxiiii d.
+
 					<lb facs="#facs_442_r1l34" n="N014"/>habent cedulam
 				</p>
 			</div>
@@ -26536,7 +26548,7 @@ prüfen!
 					<lb facs="#facs_443_r2l4" n="N004"/>die nach lautt der tailbrief zu demselben halben haus gehorent das
 					<lb facs="#facs_443_r2l5" n="N005"/>Ir der vorgenant Ir man Steffan Awer gemacht hat In solher maynung Ist
 					<lb facs="#facs_443_r2l6" n="N006"/>das er mit dem tod abgeet ee dann dieselb sein hausfrau Helen und
-					<lb facs="#facs_443_r2l7" n="N007"/>das Si In uberlebt So sol Si dann das egenant halb haus mit seiner zuge
+					<lb facs="#facs_443_r2l7" n="N007"/>das Si In uberlebt So sol Si dann das egenant halb haus mit seiner zuge-
 					<lb facs="#facs_443_r2l8" n="N008"/>horung lediclich und freilich Innhaben nuczen und niessen und allen Irn
 					<lb facs="#facs_443_r2l9" n="N009"/>frumen damit schaffen verchauffen verseczen schaffen machen oder
 					<lb facs="#facs_443_r2l10" n="N010"/>geben wem sy wil an aller seiner erben und freund Irrung und hindernuss
@@ -26551,7 +26563,7 @@ prüfen!
 					<lb facs="#facs_443_r1l2" n="N019"/>den Stephan Awer
 					<lb facs="#facs_443_r1l3" n="N020"/>seiner hawsfrawn Helen
 					<lb facs="#facs_443_r1l4" n="N021"/>geben hat dieselb sein
-					<lb facs="#facs_443_r1l5" n="N022"/>hawsfraw noch unver
+					<lb facs="#facs_443_r1l5" n="N022"/>hawsfraw noch unver-
 					<lb facs="#facs_443_r1l6" n="N023"/>serten bey Irn hanndten
 					<lb facs="#facs_443_r1l7" n="N024"/>und ist umb das halb
 					<lb facs="#facs_443_r1l8" n="N025"/>haws an nucz und gwer
@@ -29290,7 +29302,7 @@ ist der Eintrag gelöscht?
 					<lb facs="#facs_475_r1l36" n="N006"/>phenning und dem kirchmaister zu sand Michel zu Petern underm Pirpawm
 					<lb facs="#facs_475_r1l37" n="N007"/>Jartag auch drew phunt phenning alles zu purkrecht und nicht mer Als
 					<lb facs="#facs_475_r1l38" n="N008"/>das von Sebastian Notlich Jorgen des Notlich seligen Sun umb hundert
-					<lb facs="#facs_475_r1l39" n="N009"/>und funf phunt phenning mit kauf an In komen ist ut littera sonat an <date>Montag
+					<lb facs="#facs_475_r1l39" n="N009"/>und funf phunt phenning mit kauf an In komen ist ut littera sonat <date>an Montag
 					<lb facs="#facs_475_r1l40" n="N010"/>sand Tiburczen und sand Valerians tag Anno etc. lviiiiº</date>
 					<lb facs="#facs_475_r1l42" n="N011"/>Summa vii s. d.
 					<lb facs="#facs_475_r1l41" n="N012"/>die vorgenant zway purkrecht sind abkaufft ut ablosbrief sonat eodem anno ut supra
@@ -30791,7 +30803,7 @@ ist der Eintrag gelöscht?
 			<div type="entry" n="0494-2">
 				<p facs="#facs_494_TextRegion_1656414727270_706">
 					<lb facs="#facs_494_r1l19" n="N001"/>Herman Mulstain hat emphangen nucz und gwer ains haws gelegen zenagst
-					<lb facs="#facs_494_r1l20" n="N002"/>Valtin Liepharten Munnsmaister haws an aim tail und an dem anndern ze
+					<lb facs="#facs_494_r1l20" n="N002"/>Valtin Liepharten Munnsmaister haws an aim tail und an dem anndern ze-
 					<lb facs="#facs_494_r1l21" n="N003"/>nagst des benanten Herman Mulstain unnderen haws Als das von Anndren
 					<lb facs="#facs_494_r1l22" n="N004"/>Peter umb zway hundert und zwainczigk phunt phenning mit kauf an In
 					<lb facs="#facs_494_r1l23" n="N005"/>komen ist Allen seinen frumen damit zeschaffen wie In des verlust an irrung
@@ -30966,17 +30978,17 @@ ist der Eintrag gelöscht?
 				<p facs="#facs_496_TextRegion_1656414773310_738">
 					<lb facs="#facs_496_r2l36" n="N001"/>Hanns Kasschawer der Maler mitburger zu Wienn hat emphanngen
 					<lb facs="#facs_496_r2l37" n="N002"/>nucz und geweer ains hauss vor Widmertor mitsambt dem Stadl
-					<lb facs="#facs_496_r2l38" n="N003"/>daran auf dem Graben zenagst Pangreczen Jeger haus an aim tail dar
+					<lb facs="#facs_496_r2l38" n="N003"/>daran auf dem Graben zenagst Pangreczen Jeger haus an aim tail dar-
 					<lb facs="#facs_496_r2l39" n="N004"/>umb Jacob Kasschawer der Maler burger zu Wienn sein vater seliger
 					<lb facs="#facs_496_r2l40" n="N005"/>und Margreth sein hausfraw sein Muter auf uberleben miteinan¬
 					<lb facs="#facs_496_r2l41" n="N006"/>der nucz und geweer geschriben gewesen sind und von demselben Jacoben
 					<lb facs="#facs_496_r2l42" n="N007"/>Kasschawer seinem vater mit wissen und willen der bemelten Margrethen
 					<lb facs="#facs_496_r2l43" n="N008"/>seiner hausfrawn mit Geschefft an In komen ist nach lautt seins Ge-
-					<lb facs="#facs_496_r2l44" n="N009"/>scheffts das im Statpuch zu Wienn geschriben stet <date>Actum an Samb
+					<lb facs="#facs_496_r2l44" n="N009"/>scheffts das im Statpuch zu Wienn geschriben stet <date>Actum an Samb-
 					<lb facs="#facs_496_line_1656576633149_693" n="N010"/>stag <del>nach</del>
 					<lb facs="#facs_496_r2l46" n="N011"/>vor
-					<lb facs="#facs_496_line_1656576661496_699" n="N012"/>sand <del>Dorotheen</del> </date>
-					<lb facs="#facs_496_r2l47" n="N013"/><date>Lucein
+					<lb facs="#facs_496_line_1656576661496_699" n="N012"/>sand <del>Dorotheen</del>
+					<lb facs="#facs_496_r2l47" n="N013"/>Lucein
 					<lb facs="#facs_496_line_1656576661495_698" n="N014"/>tag Anno domini etc. lxviiiᵗº</date>
 					<lb facs="#facs_496_r2l48" n="N015"/>Summa lxxii d.
 				</p>
@@ -31005,7 +31017,7 @@ ist der Eintrag gelöscht?
 					<lb facs="#facs_497_r2l11" n="N009"/>ledigclich seinen frumen zeschaffen an menigclichs Irrung ungeverlich
 					<lb facs="#facs_497_r2l12" n="N010"/>und nu der obgemelt Hanns Zeyringer die egemelten Margrethen seinen
 					<lb facs="#facs_497_r2l13" n="N011"/>hausfraun aus sunder kendlicher trew und lieb umb das egemelt
-					<lb facs="#facs_497_r2l14" n="N012"/>haus mitsambt Im in gesambter hanndsweis nucz und geweer zeschrei
+					<lb facs="#facs_497_r2l14" n="N012"/>haus mitsambt Im in gesambter hanndsweis nucz und geweer zeschrei-
 					<lb facs="#facs_497_r2l15" n="N013"/>ben geschafft hat allen Irn frumen damit zeschaffen und zetun wie
 					<lb facs="#facs_497_r2l16" n="N014"/>Sy verlusst an meniglichs Irrung ungeverlich <date>Actum an Freitag vor
 					<lb facs="#facs_497_r2l17" n="N015"/>Sand Mathias tag apostoli Anno etc. lxvᵗº</date>
@@ -31317,7 +31329,7 @@ ist der Eintrag gelöscht?
 					<lb facs="#facs_501_r1l36" n="N023"/>tail hawss mit der egenanten Stat zu Wienn davon leiden <del>sullen</del> als
 					<lb facs="#facs_501_r1l37" n="N024"/>ander mitburger daselbs Als das obgenant hawss an die bemelten baid
 					<lb facs="#facs_501_r1l38" n="N025"/>tail von Mathesen Angerfelder umb ain Summa gelts mit kauff an
-					<lb facs="#facs_501_r1l39" n="N026"/>Sy komen ist ut littera sonat an <date>Eritag nach des heiligen Krewcz tag In¬
+					<lb facs="#facs_501_r1l39" n="N026"/>Sy komen ist ut littera sonat <date>an Eritag nach des heiligen Krewcz tag In¬
 					<lb facs="#facs_501_r1l42" n="N027"/>vencionis Anno domini etc. lxviᵗº</date>
 					<lb facs="#facs_501_r1l45" n="N028"/>Summa iii tl. lxxx d.
 					<lb facs="#facs_501_r1l44" n="N029"/>Nota her Sigmund von Eyczing hat als gerhab der egenant Junkhfraw
@@ -31559,7 +31571,7 @@ ist der Eintrag gelöscht?
 				<p facs="#facs_505_TextRegion_1656415012311_898">
 					<lb facs="#facs_505_line_1641477775138_915" n="N001"/>Fraw Helen Stephans Awer weilent burger zu Wienn seligen witib hat
 					<lb facs="#facs_505_r2l15" n="N002"/>emphangen nucz und gwer ains halben haws ganczes gelegen
-					<lb facs="#facs_505_r2l16" n="N003"/>am graben ze nagst weilent Casparn Apotegker haws an aim
+					<lb facs="#facs_505_r2l16" n="N003"/>am graben ze- nagst weilent Casparn Apotegker haws an aim
 					<lb facs="#facs_505_r2l17" n="N004"/>tail und ist der Erst tail des obgenanten gannczen haws mit
 					<lb facs="#facs_505_r2l18" n="N005"/>allen den gmechen und gemain stukhen die nach lautt der Tail
 					<lb facs="#facs_505_r2l19" n="N006"/>brief darczu gehornt das Ir vormallen der obgenant Ir Man
@@ -32283,7 +32295,7 @@ ist der Eintrag gelöscht?
 			<div type="entry" n="0516-1">
 				<p facs="#facs_516_TextRegion_1656575471143_244">
 					<lb facs="#facs_516_r2l3" n="N001"/>Hanns Herdung der fleischagkher mitburger zu Wienn und Waltpurg sein hausfraw
-					<lb facs="#facs_516_r2l4" n="N002"/>habend emphangen nucz und gwer Ains hawss gelegen am allten Fleischmarkt ze
+					<lb facs="#facs_516_r2l4" n="N002"/>habend emphangen nucz und gwer Ains hawss gelegen am allten Fleischmarkt ze-
 					<lb facs="#facs_516_r2l5" n="N003"/>nagst Ulreichs Drosendorffer seligen hawss an ainem tail darumb vormalen der
 					<lb facs="#facs_516_r2l6" n="N004"/>vorgenant Herdung allain nucz und gwer geschriben gewesen ist und Nun die
 					<lb facs="#facs_516_r2l7" n="N005"/>berurtten sein hausfrawn Waltpurgen durch sunder lieb und von kendlicher trew wegen
@@ -33420,9 +33432,9 @@ ist der Eintrag gelöscht?
 					<lb facs="#facs_532_r1l4" n="N001"/>Helen Jorgen Stettner hausfraw hat emphangen nucz und gwer ains hawss gelegen am alten
 					<lb facs="#facs_532_r1l5" n="N002"/>Fleischmarkt zenagst weylennd Ulreichs Drosendorffer haws an aim tail des Sy vormaln
 					<lb facs="#facs_532_r1l6" n="N003"/>halbs auf Tailung nucz und gwer gestanden und der annder halb tail desselben hawss von Mar¬
-					<lb facs="#facs_532_r1l7" n="N004"/>grethen Petern Weyler hausfrawn irer Mumen mit lediger uber gab an sey komen ist furbaser
+					<lb facs="#facs_532_r1l7" n="N004"/>grethen Petern Weyler hausfrawn irer Mumen mit lediger uber- gab an sey komen ist furbaser
 					<lb facs="#facs_532_r1l8" n="N005"/>mit dem gannczen haws lediclich allen irn frumen damit zeschaffen wye sey verlust doch also
-					<lb facs="#facs_532_line_1641560291005_825" n="N006"/>das Sy mit der Stat zu Wienn davon leyden sol als annder mitburger daselbs nach lautt ains uber
+					<lb facs="#facs_532_line_1641560291005_825" n="N006"/>das Sy mit der Stat zu Wienn davon leyden sol als annder mitburger daselbs nach lautt ains uber-
 					<lb facs="#facs_532_r1l11" n="N007"/>gabriefs <date>Actum an Montag nach des heiligen Krewcz tag exaltacionis Anno domini etc. lxxiᵐº</date>
 					<lb facs="#facs_532_r1l13" n="N008"/>Summa lxxii d.
 					<lb facs="#facs_532_r1l12" n="N009"/>Nota die gwer ist umb geschriben in das new puch folio 52
@@ -33696,8 +33708,8 @@ ist der Eintrag gelöscht?
 					<lb facs="#facs_535_r1l28" n="N001"/>Hanns Lainbacher weilent Niclasen Lainbacher burger zu Wienn seligen Sun hat emphangen
 					<lb facs="#facs_535_r1l29" n="N002"/>nucz und gwer Ains hawss gelegen Im goltsmidgesslein bey sand Steffan hie am Egkh
 					<lb facs="#facs_535_r1l30" n="N003"/>zenagst weilent Steffans Pusenperger seligen hawss an ainem tail davon man Jerlich dint
-					<lb facs="#facs_535_r1l31" n="N004"/>dem obristen kapplan sand Jorgen Cappellen Im Tumbbrosthof ain phunt phenning gelts purk
-					<lb facs="#facs_535_r1l32" n="N005"/>rechts und ist abzulosen mit viii tl. und lx d. nach lautt ains purkrechtbrieffs und unver
+					<lb facs="#facs_535_r1l31" n="N004"/>dem obristen kapplan sand Jorgen Cappellen Im Tumbbrosthof ain phunt phenning gelts purk-
+					<lb facs="#facs_535_r1l32" n="N005"/>rechts und ist abzulosen mit viii tl. und lx d. nach lautt ains purkrechtbrieffs und unver-
 					<lb facs="#facs_535_r1l33" n="N006"/>griffen den i½ᶜ tl. d. haimstewr die der egenant Niclas Lainbacher weilent seiner hausfrawn Bar¬
 					<lb facs="#facs_535_r1l34" n="N007"/>baren Hannsen Hebrein seligen tochten des egenant seins Suns StewffMuter nach lautt Ains
 					<lb facs="#facs_535_r1l35" n="N008"/>Gemechtbrieffs der hinder dem Ersamen Rat der Stat hie ligt und unvergriffen den ii½ tl. d.
@@ -34592,7 +34604,7 @@ Eintrag gelöscht, oder nur Summa?
 			<div type="entry" n="0548-1">
 				<p facs="#facs_548_TextRegion_1656853875818_1101">
 					<lb facs="#facs_548_r2l2" n="N001"/>Jorg Slaher Margret Conrats Rayer hausfraw und Barbara Ulreichs
-					<lb facs="#facs_548_r2l3" n="N002"/>Meichsner hausfraw habent emphangen nucz und gewains hauss gelegen
+					<lb facs="#facs_548_r2l3" n="N002"/>Meichsner hausfraw habent emphangen nucz und gew ains hauss gelegen
 					<lb facs="#facs_548_r2l4" n="N003"/>vor Kernertor zenagst Andres verber seligen haus an ainem tail und an dem
 					<lb facs="#facs_548_r2l5" n="N004"/>andern zenagst des Seczenwein haus Als das von Hansen Slaher Irm
 					<lb facs="#facs_548_r2l6" n="N005"/>vater seligen erblich an Si komen ist <date>Actum an Mitichen nach sand Merten tag
@@ -35256,7 +35268,7 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_558_r2l20" n="N004"/>Swebleins tochter seligen seiner swester Muterhalben nach lautt seiner beweisten freunt-
 					<lb facs="#facs_558_r2l21" n="N005"/>schafft in dem Statpuch geschriben geerbt hat und Im darnach Gegen Jorgen
 					<lb facs="#facs_558_r2l22" n="N006"/>und Pernharten geprudern den Hidlern von Schaticz Annen Mertten des Hidler zu
-					<lb facs="#facs_558_r2l23" n="N007"/>Inczestorff hausfraun und Cristein Niclasen Swarcz des schuster zu Wienn haus
+					<lb facs="#facs_558_r2l23" n="N007"/>Inczestorff hausfraun und Cristein Niclasen Swarcz des schuster zu Wienn haus-
 					<lb facs="#facs_558_line_1666689355589_170" n="N008"/>fraun
 					<lb facs="#facs_558_r1l1" n="N009"/>Irn swestern
 					<lb facs="#facs_558_line_1666689355589_169" n="N010"/>die den andern halfftentail auch von der egnant Junkfraun Barbaren mit der
@@ -36899,7 +36911,7 @@ Eintrag gelöscht, oder nur Summa?
 					<lb facs="#facs_578_r2l50" n="N002"/>seiner Mumen empfangen nucz und gewer Ains hauss gelegen in sand Johansstrass zenagst des
 					<lb facs="#facs_578_line_1666525585841_1800" n="N003"/>Franawer haws an aim tail Als das von Elspethen Erharts Rudlieb von Winkchl witiben fraun
 					<lb facs="#facs_578_r2l52" n="N004"/>Annen der Weissenpekchin seiner Muter Albrechts enenkchl hausfraun und Kathrein Irr Swester
-					<lb facs="#facs_578_r2l53" n="N005"/>Englbrechts Franhofer hausfrawn paid des egnant Erharts Rudlieb seligen Swestern mit lediger uber
+					<lb facs="#facs_578_r2l53" n="N005"/>Englbrechts Franhofer hausfrawn paid des egnant Erharts Rudlieb seligen Swestern mit lediger uber-
 					<lb facs="#facs_578_r2l54" n="N006"/>gab an sew komen ist doch also das Sy und alle die das vorgnant haws Innhabent und besiczent
 					<lb facs="#facs_578_r2l55" n="N007"/>mit der Stat zu Wienn davon leiden sullen als ander mitpurger daselbs <date>Actum an Mitichen ante Bartholomei
 					<lb facs="#facs_578_r2l56" n="N008"/>Anno domini etc. lviᵗº</date>
@@ -37426,7 +37438,7 @@ Eintrag gelöscht, oder nur Summa?
 			<div type="entry" n="0584-6">
 				<p facs="#facs_584_TextRegion_1656869606434_3260">
 					<lb facs="#facs_584_r1l52" n="N001"/>Jacob Himel der kursner Barbara sein hausfraw oder welichs under In paiden das ander uberlebt
-					<lb facs="#facs_584_r1l53" n="N002"/>und Hanns Laaer der Schuster und Dorothe sein hausfraw pder wellichs under In baiden das
+					<lb facs="#facs_584_r1l53" n="N002"/>und Hanns Laaer der Schuster und Dorothe sein hausfraw oder wellichs under In baiden das
 					<lb facs="#facs_584_r1l54" n="N003"/>ander uberlebt habent emphangen nucz und gewer ains hawss yeder tail halben tail welher
 					<lb facs="#facs_584_r1l55" n="N004"/>tail dann an Rechtter tailung gepurt gelegen am alten Kolmarkt zenagst Kunrats PhuntImaschen
 					<lb facs="#facs_584_r1l56" n="N005"/>haws mit der Nidern seitten und mit der obern zenagst Hannsen Meichsner des Schuster haws
