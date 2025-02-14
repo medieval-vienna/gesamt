@@ -8321,7 +8321,7 @@ vi d.: wirklich gelöscht?
 <div type="entry" n="0115-4">
 	<p facs="#facs_115_TextRegion_1649851757073_1921">
 		<lb facs="#facs_115_r1l47" n="N001"/>Wernhardin Frueaff Wennczaben Frueauf des pinter seligen Sun und Anna sein
-		<lb facs="#facs_115_r1l49" n="N002"/>Swester habent emphangen nucz und gwer Ains hawss gelegen vor Stu
+		<lb facs="#facs_115_r1l49" n="N002"/>Swester habent emphangen nucz und gwer Ains hawss gelegen vor Stu-
 		<lb facs="#facs_115_r1l51" n="N003"/>bentor In der Schefstrass zenagst weilent Petern Een seligen haws mitsambt
 		<lb facs="#facs_115_r1l52" n="N004"/>den zwain Stedlen dapey Als das von dem obgenanten Wennczlaben Frueauf
 		<lb facs="#facs_115_r1l53" n="N005"/>Irm vater seligen an Sy und weilent Jorgen Iren prueder der ungevogt mit tod ab
@@ -17836,7 +17836,7 @@ Eintrag gelöscht? oder nur Summa?
 <div type="entry" n="0289-2">
 	<p facs="#facs_289_TextRegion_1653377844156_824">
 		<lb facs="#facs_289_r2l10" n="N001"/>Fridreich Strauss und Margret sein hausfrau habent emphangen nucz
-		<lb facs="#facs_289_r2l11" n="N002"/>und gewer ains hauss und der hofstat weingarten daran gelegen vor Stu
+		<lb facs="#facs_289_r2l11" n="N002"/>und gewer ains hauss und der hofstat weingarten daran gelegen vor Stu-
 		<lb facs="#facs_289_r2l12" n="N003"/>bentor im Gereutt zenagst Fridreichs des kochs haus das wellent Paulen
 		<lb facs="#facs_289_r2l13" n="N004"/>von Lengpach der obgenant Margreten und frawn Annen Micheln des
 		<lb facs="#facs_289_r2l14" n="N005"/>Mandl hausfraun vater und fraun Elspeten seiner hausfraun Irer Muter
@@ -22055,7 +22055,7 @@ ganzer Eintrag gelöscht, oder nur Summa?
 	</p>
 </div>
 
-<div type="entry" n="0377-4">
+<div type="entry-deleted">
 	<p facs="#facs_377_TextRegion_1653904776692_1694">
 		<lb facs="#facs_377_r3l34" n="N001"/>Fridreich Piberstain hat emphangen nucz und gewer ainer oden <del>hofsta</del> hofmarch
 		<lb facs="#facs_377_r3l35" n="N002"/>gelegen auf der Alsserstrass vor Schottertor zenagst Niclasen
@@ -22066,9 +22066,6 @@ ganzer Eintrag gelöscht, oder nur Summa?
 
 		<lb facs="#facs_377_r2l1" n="N007"/>erratum est
 	</p>
-	<ab type="kommentar">
-Eintrag gelöscht, oder nur Summa?
-	</ab>
 </div>
 
 	<pb facs="#facs_378" n="378" xml:id="img_0378"/>
@@ -25288,7 +25285,7 @@ prüfen!
 		<lb facs="#facs_428_r1l15" n="N002"/>der Newen Melgrub an dem Newnmarkt gelegen zenagst der Stat Meczengadem davon man Jerlich
 		<lb facs="#facs_428_r1l16" n="N003"/>dint den geistlichen frawn hincz sand Klarn zu der ewigen mess die Andre huber in demselben
 		<lb facs="#facs_428_r1l17" n="N004"/>kloster zustifften geschafft hat vi tl. und lx d. zu purkrecht und nicht mer Als das von Hannsen
-		<lb facs="#facs_428_r1l18" n="N005"/>dem winkchler umb dreuhundert und schenczig phunt phenning mit kauf an Sy komen ist doch
+		<lb facs="#facs_428_r1l18" n="N005"/>dem winkchler umb dreuhundert und sibenczig phunt phenning mit kauf an Sy komen ist doch
 		<lb facs="#facs_428_r1l19" n="N006"/>also das der egenant Hanns Hirss allczeit ganczen gewalt sol haben mit dem egenant haws allen
 		<lb facs="#facs_428_r1l20" n="N007"/>seinen frumen zuschaffen ut littera sonat <date>Actum an Freitag vor sand Merten tag Anno etc. xlviiiiº</date>
 		<lb facs="#facs_428_r1l24" n="N008"/><del>Summa xiiii s. xx d.</del>
@@ -25771,7 +25768,7 @@ prüfen!
 	<p facs="#facs_434_TextRegion_1654696631900_541">
 		<lb facs="#facs_434_r2l3" n="N001"/>Hanns Weidelhaimer Goltslaher hat emphangen nucz und gewer ains hauss an der
 		<lb facs="#facs_434_r2l4" n="N002"/>Melczeil zenagst weilent Hannsen Triestrer des Stainmeczen haus gelegen davon man
-		<lb facs="#facs_434_r2l5" n="N003"/>Jerlichen dint dem hof und den armen leuten zu sand Johannis in der Siehenalss vor Schoten
+		<lb facs="#facs_434_r2l5" n="N003"/>Jerlichen dint dem hof und den armen leuten zu sand Johannis in der Siehenalss vor Schoten-
 		<lb facs="#facs_434_r2l6" n="N004"/>tor dren phund phenning zu purkrecht die abczulosen sind mit dreinunddreissig phund phenningen
 		<lb facs="#facs_434_r2l7" n="N005"/>nach lautt ains purkrechtbriefs und nicht mer Als das von Petern Weidlhaimer zimerman
 		<lb facs="#facs_434_r2l8" n="N006"/>seinm vater erblichen an In komen ist daran Im auch sein Steufmuter frau Elspeth weilnt des
@@ -30160,7 +30157,7 @@ ist der Eintrag gelöscht?
 		<lb facs="#facs_485_r1l30" n="N016"/>obtinuit residuum folio 208
 		<lb facs="#facs_485_r1l32" n="N017"/>obtinuit Residuum libro Novo C folio 103
 		<lb facs="#facs_485_line_1656414379803_508" n="N018"/>Nota das obbemelt Hannsen Veyalrosl haws Ist von gemainer Stat von wegen versessner Stewer
-		<lb facs="#facs_485_line_1657176354599_193" n="N019"/>anslag auch das es pawfellig unnd zw frembder hannd gelegen umb hundert hundert
+		<lb facs="#facs_485_line_1657176354599_193" n="N019"/>anslag auch das es pawfellig unnd zw frembder hannd gelegen umb hundert phunndt
 		<lb facs="#facs_485_line_1657176354615_196" n="N020"/>pfennig verchaufft worden davon sein erlegt
 		<lb facs="#facs_485_line_1656414379803_514" n="N021"/>hundert d. Wienner Steffan Vorchtenawer Statschreiber
 		<lb facs="#facs_485_line_1656414379803_516" n="N022"/>seligen sechzig phundt pfenning und durch des
@@ -38443,7 +38440,7 @@ eigentlich Mar- greten
 	<p facs="#facs_597_TextRegion_1657185956743_154">
 		<lb facs="#facs_597_line_1657185956819_157" n="N001"/>Jorg Kern Messrer <unclear>grl</unclear> und Barbara sein hausfraw habend emphangen Nucz und
 		<lb facs="#facs_597_r4l14" n="N002"/>gwer Ains hawss gelegen In der Walichstrass zenagst Ulreichs Perawer hawss
-		<lb facs="#facs_597_r4l15" n="N003"/>das von Petern Walgchuet <del>und</del> umb xlviii d. mit kauff an Sy komen ist
+		<lb facs="#facs_597_r4l15" n="N003"/>das von Petern Walgchuet <del>und</del> umb xlvi tl. d. mit kauff an Sy komen ist
 		<lb facs="#facs_597_r4l16" n="N004"/>doch also das er alczeit gannczen gwalt haben sol mit dem egenant seinem hawss
 		<lb facs="#facs_597_r4l17" n="N005"/>allen seinen frumen zeschaffen wie zu verlusst an Irrung ut littera sonat <date>Actum an
 		<lb facs="#facs_597_r4l18" n="N006"/>Freitag nach sand Mathias tag Anno domini etc. lxviiiº</date>
@@ -38669,7 +38666,7 @@ eigentlich Mar- greten
 	<p facs="#facs_600_TextRegion_1657186406058_227">
 		<lb facs="#facs_600_r2l12" n="N001"/>Jacob Staubhorn mitburger zu Wienn und Anna sein hausfraw habend emphangen nucz und gwer
 		<lb facs="#facs_600_r2l13" n="N002"/>Ains hawss gelegen bey den Predigern genant des Krevogl hawss zenagst Pauln Wagendrussl hawss
-		<lb facs="#facs_600_r2l14" n="N003"/>an ainem tail Als das von Kathrein Giligen Zeller hausfrawn umb zwayundsibeirczigkh
+		<lb facs="#facs_600_r2l14" n="N003"/>an ainem tail Als das von Kathrein Giligen Zeller hausfrawn umb zwayundsibenczigkh
 		<lb facs="#facs_600_r2l15" n="N004"/>phunt phenning mit kauff an Sy komen ist ut littera sonat <date>Actum an Freitag nach sand
 		<lb facs="#facs_600_r2l16" n="N005"/>Jacobs tag Im Snytt Anno domini etc. lxviiiiiⁿº</date>
 		<lb facs="#facs_600_r2l17" n="N006"/>Summa iiii s. xxiiii d.

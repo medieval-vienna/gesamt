@@ -17,11 +17,11 @@
 		<body>
 			<div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_001.jpg" n="1" xml:id="img_0001"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_001.jpg" n="1" xml:id="img_001"/>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_002.jpg" n="2" xml:id="img_0002"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_002.jpg" n="2" xml:id="img_002"/>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_003.jpg" n="3" xml:id="img_0003"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_003.jpg" n="3" xml:id="img_003"/>
 
 	<head facs="#facs_3_r1" type="heading-main">
 		<lb facs="#facs_3_r1l2" n="N001"/>Das puech der Kewff . 1420 ..
@@ -30,9 +30,9 @@
 		<lb facs="#facs_3_r1l6" n="N004"/>16
 	</head>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_004.jpg" n="4" xml:id="img_0004"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_004.jpg" n="4" xml:id="img_004"/>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_005.jpg" n="5" xml:id="img_0005"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_005.jpg" n="5" xml:id="img_005"/>
 
 	<fw facs="#facs_5_TextRegion_1643286403993_5">
 		<lb facs="#facs_5_r1l3" n="N001"/>1
@@ -115,7 +115,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_006.jpg" n="6" xml:id="img_0006"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_006.jpg" n="6" xml:id="img_006"/>
 
 	<fw facs="#facs_6_TextRegion_1647867480258_23">
 		<lb facs="#facs_6_r1l1" n="N001"/>1
@@ -179,7 +179,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_007.jpg" n="7" xml:id="img_0007"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_007.jpg" n="7" xml:id="img_007"/>
 
 	<fw facs="#facs_7_TextRegion_1644416111495_1807">
 		<lb facs="#facs_7_r3l1" n="N001"/>2
@@ -242,7 +242,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_008.jpg" n="8" xml:id="img_0008"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_008.jpg" n="8" xml:id="img_008"/>
 
 	<fw facs="#facs_8_TextRegion_1647513500425_170">
 		<lb facs="#facs_8_r1l1" n="N001"/>2
@@ -323,7 +323,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_009.jpg" n="9" xml:id="img_0009"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_009.jpg" n="9" xml:id="img_009"/>
 
 	<fw facs="#facs_9_TextRegion_1647604825832_963">
 		<lb facs="#facs_9_r1l5" n="N001"/>3
@@ -388,7 +388,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_010.jpg" n="10" xml:id="img_0010"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_010.jpg" n="10" xml:id="img_010"/>
 
 	<fw facs="#facs_10_TextRegion_1647513582896_209">
 		<lb facs="#facs_10_r1l1" n="N001"/>iiii
@@ -445,7 +445,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_011.jpg" n="11" xml:id="img_0011"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_011.jpg" n="11" xml:id="img_011"/>
 
 	<fw facs="#facs_11_TextRegion_1647513652172_233">
 		<lb facs="#facs_11_r2l1" n="N001"/>4
@@ -524,7 +524,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_012.jpg" n="12" xml:id="img_0012"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_012.jpg" n="12" xml:id="img_012"/>
 
 	<fw facs="#facs_12_TextRegion_1647513688049_249">
 		<lb facs="#facs_12_line_1635843281124_211" n="N001"/>4
@@ -596,14 +596,13 @@
 		<lb facs="#facs_12_r3l50" n="N025"/>hat
 	</p>
 </div>
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_013.jpg" n="13" xml:id="img_0013"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_013.jpg" n="13" xml:id="img_013"/>
 
 	<fw facs="#facs_13_TextRegion_1647513823783_277">
 		<lb facs="#facs_13_r1l1" n="N001"/>5
 	</fw>
 
 <div type="entry" n="013-1">
-	<head>Eintrag 013-1 von 1422-07-03</head>
 	<p facs="#facs_13_TextRegion_1647513823783_278">
 		<lb facs="#facs_13_r1l2" n="N001"/>Ann Hannsen des Snepfen des Tuchscherer seligen witib ze Wienn Philipp und Michel
 		<lb facs="#facs_13_r1l3" n="N002"/>gebruder die Snephen ir Sun habent verkaufft ain haws das die obgenant Ann mit dem
@@ -618,7 +617,6 @@
 </div>
 
 <div type="entry" n="013-2">
-	<head>Eintrag 013-2 von 1422-07-30</head>
 	<p facs="#facs_13_TextRegion_1647513813992_273">
 		<lb facs="#facs_13_r1l11" n="N001"/>Andre Tischer ze Wienn hat verkaufft allen seinen tail Eribschaft Rechten vordrung und
 		<lb facs="#facs_13_r1l12" n="N002"/>wertung So er hat an dem haws das ganczes gelegen ist pey sannd Petersfreithof ze Wienn
@@ -635,7 +633,6 @@
 </div>
 
 <div type="entry" n="013-3">
-	<head>Eintrag 013-3 von 1422-08-21</head>
 	<p facs="#facs_13_TextRegion_1647513735001_269">
 		<lb facs="#facs_13_r1l22" n="N001"/>Agnes von Lincz hat verkaufft ain haus gelegen vor Widmertor ze Wienn zenegst
 		<lb facs="#facs_13_r1l23" n="N002"/>Jacobin der Paugkerin haus umb vier und zwainczig phunt Wienner phenning dem erbern
@@ -647,7 +644,6 @@
 </div>
 
 <div type="entry" n="013-4">
-	<head>Eintrag 013-4 von 1422-11-23</head>
 	<p facs="#facs_13_TextRegion_1647513727885_263">
 		<lb facs="#facs_13_line_1647605950032_1330" n="N001"/>Andre Hofmaister der kursner hat verkaufft sein
 		<lb facs="#facs_13_r1l28" n="N002"/>haus
@@ -660,7 +656,6 @@
 </div>
 
 <div type="entry" n="013-5">
-	<head>Eintrag 013-5 von 1422-12-09</head>
 	<p facs="#facs_13_TextRegion_1647513704176_256">
 		<lb facs="#facs_13_r1l34" n="N001"/>Andre Schafswol der Tuchmacher ze Wienn hat verkaufft sein zuheusl das
 		<lb facs="#facs_13_r1l35" n="N002"/>gemaurt stokchl gegen seinem tail hauss uber gelegen in der Traibatenstrass
@@ -674,7 +669,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_014.jpg" n="14" xml:id="img_0014"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_014.jpg" n="14" xml:id="img_014"/>
 
 	<fw facs="#facs_14_TextRegion_1647513883528_306">
 		<lb facs="#facs_14_line_1635843380246_228" n="N001"/>5
@@ -767,7 +762,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_015.jpg" n="15" xml:id="img_0015"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_015.jpg" n="15" xml:id="img_015"/>
 
 	<fw facs="#facs_15_TextRegion_1647513929224_329">
 		<lb facs="#facs_15_r2l2" n="N001"/>6
@@ -847,7 +842,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_016.jpg" n="16" xml:id="img_0016"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_016.jpg" n="16" xml:id="img_016"/>
 
 	<fw facs="#facs_16_TextRegion_1647513962687_354">
 		<lb facs="#facs_16_r1l1" n="N001"/>6
@@ -924,7 +919,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_017.jpg" n="17" xml:id="img_0017"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_017.jpg" n="17" xml:id="img_017"/>
 
 	<fw facs="#facs_17_TextRegion_1647514008087_381">
 		<lb facs="#facs_17_r1l4" n="N001"/>7
@@ -1003,7 +998,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_018.jpg" n="18" xml:id="img_0018"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_018.jpg" n="18" xml:id="img_018"/>
 
 	<fw facs="#facs_18_TextRegion_1647514066698_416">
 		<lb facs="#facs_18_line_1635845146922_274" n="N001"/>7
@@ -1085,7 +1080,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_019.jpg" n="19" xml:id="img_0019"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_019.jpg" n="19" xml:id="img_019"/>
 
 	<fw facs="#facs_19_TextRegion_1647514098367_442">
 		<lb facs="#facs_19_line_1647868458237_242" n="N001"/>8
@@ -1154,7 +1149,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_020.jpg" n="20" xml:id="img_0020"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_020.jpg" n="20" xml:id="img_020"/>
 
 	<fw facs="#facs_20_TextRegion_1647514139886_466">
 		<lb facs="#facs_20_line_1635845260685_301" n="N001"/>8
@@ -1224,7 +1219,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_021.jpg" n="21" xml:id="img_0021"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_021.jpg" n="21" xml:id="img_021"/>
 
 	<fw facs="#facs_21_TextRegion_1647514194802_494">
 		<lb facs="#facs_21_r3l1" n="N001"/>9
@@ -1306,7 +1301,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_022.jpg" n="22" xml:id="img_0022"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_022.jpg" n="22" xml:id="img_022"/>
 
 	<fw facs="#facs_22_TextRegion_1647514319070_522">
 		<lb facs="#facs_22_r1l1" n="N001"/>9
@@ -1389,7 +1384,7 @@
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_023.jpg" n="23" xml:id="img_0023"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_023.jpg" n="23" xml:id="img_023"/>
 
 	<fw facs="#facs_23_TextRegion_1647514398947_561">
 		<lb facs="#facs_23_r3l1" n="N001"/>10
@@ -1482,7 +1477,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_024.jpg" n="24" xml:id="img_0024"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_024.jpg" n="24" xml:id="img_024"/>
 
 	<fw facs="#facs_24_TextRegion_1647514459398_591">
 		<lb facs="#facs_24_r1l2" n="N001"/>10
@@ -1555,7 +1550,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_025.jpg" n="25" xml:id="img_0025"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_025.jpg" n="25" xml:id="img_025"/>
 
 	<fw facs="#facs_25_TextRegion_1647515189573_614">
 		<lb facs="#facs_25_r4l1" n="N001"/>11
@@ -1629,7 +1624,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_026.jpg" n="26" xml:id="img_0026"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_026.jpg" n="26" xml:id="img_026"/>
 
 	<fw facs="#facs_26_TextRegion_1647515301668_635">
 		<lb facs="#facs_26_r1l1" n="N001"/>11
@@ -1696,7 +1691,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_027.jpg" n="27" xml:id="img_0027"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_027.jpg" n="27" xml:id="img_027"/>
 
 	<fw facs="#facs_27_TextRegion_1647515426210_653">
 		<lb facs="#facs_27_r4l1" n="N001"/>12
@@ -1749,7 +1744,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_028.jpg" n="28" xml:id="img_0028"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_028.jpg" n="28" xml:id="img_028"/>
 
 	<fw facs="#facs_28_TextRegion_1647515451908_667">
 		<lb facs="#facs_28_line_1626173321838_2358" n="N001"/>12
@@ -1781,7 +1776,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_029.jpg" n="29" xml:id="img_0029"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_029.jpg" n="29" xml:id="img_029"/>
 
 	<fw facs="#facs_29_TextRegion_1647515483930_687">
 		<lb facs="#facs_29_r4l1" n="N001"/>13
@@ -1836,7 +1831,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_030.jpg" n="30" xml:id="img_0030"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_030.jpg" n="30" xml:id="img_030"/>
 
 	<fw facs="#facs_30_TextRegion_1647515605607_699">
 		<lb facs="#facs_30_r1l1" n="N001"/>13
@@ -1887,7 +1882,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_031.jpg" n="31" xml:id="img_0031"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_031.jpg" n="31" xml:id="img_031"/>
 
 	<fw facs="#facs_31_TextRegion_1647515674682_706">
 		<lb facs="#facs_31_r2l1" n="N001"/>14
@@ -1906,7 +1901,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_032.jpg" n="32" xml:id="img_0032"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_032.jpg" n="32" xml:id="img_032"/>
 
 	<fw facs="#facs_32_TextRegion_1647515728308_733">
 		<lb facs="#facs_32_r1l1" n="N001"/>14
@@ -1971,7 +1966,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_033.jpg" n="33" xml:id="img_0033"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_033.jpg" n="33" xml:id="img_033"/>
 
 	<fw facs="#facs_33_TextRegion_1647515834217_746">
 		<lb facs="#facs_33_r3l1" n="N001"/>15
@@ -2024,7 +2019,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_034.jpg" n="34" xml:id="img_0034"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_034.jpg" n="34" xml:id="img_034"/>
 
 	<fw facs="#facs_34_TextRegion_1647515884653_766">
 		<lb facs="#facs_34_r1l2" n="N001"/>15
@@ -2083,7 +2078,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_035.jpg" n="35" xml:id="img_0035"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_035.jpg" n="35" xml:id="img_035"/>
 
 	<fw facs="#facs_35_TextRegion_1647515944879_781">
 		<lb facs="#facs_35_r2l1" n="N001"/>16
@@ -2138,7 +2133,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_036.jpg" n="36" xml:id="img_0036"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_036.jpg" n="36" xml:id="img_036"/>
 
 	<fw facs="#facs_36_TextRegion_1647516191918_791">
 		<lb facs="#facs_36_r1l1" n="N001"/>16
@@ -2171,7 +2166,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_037.jpg" n="37" xml:id="img_0037"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_037.jpg" n="37" xml:id="img_037"/>
 
 	<fw facs="#facs_37_TextRegion_1647516226042_802">
 		<lb facs="#facs_37_r1l4" n="N001"/>17
@@ -2221,7 +2216,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_038.jpg" n="38" xml:id="img_0038"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_038.jpg" n="38" xml:id="img_038"/>
 
 	<fw facs="#facs_38_TextRegion_1647516264242_819">
 		<lb facs="#facs_38_r1l1" n="N001"/>17
@@ -2278,7 +2273,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_039.jpg" n="39" xml:id="img_0039"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_039.jpg" n="39" xml:id="img_039"/>
 
 	<fw facs="#facs_39_TextRegion_1647516362533_840">
 		<lb facs="#facs_39_line_1647516362641_843" n="N001"/>18
@@ -2332,7 +2327,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_040.jpg" n="40" xml:id="img_0040"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_040.jpg" n="40" xml:id="img_040"/>
 
 	<fw facs="#facs_40_TextRegion_1647516402894_858">
 		<lb facs="#facs_40_r1l1" n="N001"/>18
@@ -2388,7 +2383,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_041.jpg" n="41" xml:id="img_0041"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_041.jpg" n="41" xml:id="img_041"/>
 
 	<fw facs="#facs_41_TextRegion_1647517843776_874">
 		<lb facs="#facs_41_line_1647517843861_877" n="N001"/>19
@@ -2442,14 +2437,14 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_042.jpg" n="42" xml:id="img_0042"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_042.jpg" n="42" xml:id="img_042"/>
 
 	<fw facs="#facs_42_TextRegion_1636029622540_241">
 		<lb facs="#facs_42_r2l1" n="N001"/>19
 		<lb facs="#facs_42_r3l1" n="N002"/>xx
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_043.jpg" n="43" xml:id="img_0043"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_043.jpg" n="43" xml:id="img_043"/>
 
 	<fw facs="#facs_43_TextRegion_1647517893097_903">
 		<lb facs="#facs_43_r2l1" n="N001"/>20
@@ -2512,7 +2507,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_044.jpg" n="44" xml:id="img_0044"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_044.jpg" n="44" xml:id="img_044"/>
 
 	<fw facs="#facs_44_TextRegion_1647517943008_919">
 		<lb facs="#facs_44_r1l1" n="N001"/>20
@@ -2570,7 +2565,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_045.jpg" n="45" xml:id="img_0045"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_045.jpg" n="45" xml:id="img_045"/>
 
 	<fw facs="#facs_45_TextRegion_1647517970032_939">
 		<lb facs="#facs_45_r3l1" n="N001"/>21
@@ -2628,7 +2623,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_046.jpg" n="46" xml:id="img_0046"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_046.jpg" n="46" xml:id="img_046"/>
 
 	<fw facs="#facs_46_TextRegion_1647517989400_951">
 		<lb facs="#facs_46_r1l1" n="N001"/>21
@@ -2678,7 +2673,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_047.jpg" n="47" xml:id="img_0047"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_047.jpg" n="47" xml:id="img_047"/>
 
 	<fw facs="#facs_47_TextRegion_1647518043367_967">
 		<lb facs="#facs_47_r2l1" n="N001"/>22
@@ -2731,7 +2726,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_048.jpg" n="48" xml:id="img_0048"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_048.jpg" n="48" xml:id="img_048"/>
 
 	<fw facs="#facs_48_TextRegion_1647518091366_991">
 		<lb facs="#facs_48_r1l1" n="N001"/>22
@@ -2789,7 +2784,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_049.jpg" n="49" xml:id="img_0049"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_049.jpg" n="49" xml:id="img_049"/>
 
 	<fw facs="#facs_49_TextRegion_1647518209867_1011">
 		<lb facs="#facs_49_line_1647518209965_1014" n="N001"/>23
@@ -2846,7 +2841,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_050.jpg" n="50" xml:id="img_0050"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_050.jpg" n="50" xml:id="img_050"/>
 
 	<fw facs="#facs_50_TextRegion_1647518250159_1021">
 		<lb facs="#facs_50_r1l1" n="N001"/>23
@@ -2868,39 +2863,39 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_051.jpg" n="51" xml:id="img_0051"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_051.jpg" n="51" xml:id="img_051"/>
 
 	<fw facs="#facs_51_r2">
 		<lb facs="#facs_51_r2l1" n="N001"/>24
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_052.jpg" n="52" xml:id="img_0052"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_052.jpg" n="52" xml:id="img_052"/>
 
 	<fw facs="#facs_52_TextRegion_1636029987201_346">
 		<lb facs="#facs_52_r1l1" n="N001"/>24
 		<lb facs="#facs_52_r2l1" n="N002"/>xxv
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_053.jpg" n="53" xml:id="img_0053"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_053.jpg" n="53" xml:id="img_053"/>
 
 	<fw facs="#facs_53_region_1624543785664_1647">
 		<lb facs="#facs_53_line_1624543795708_1653" n="N001"/>25
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_054.jpg" n="54" xml:id="img_0054"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_054.jpg" n="54" xml:id="img_054"/>
 
 	<fw facs="#facs_54_TextRegion_1636030011670_356">
 		<lb facs="#facs_54_r1l1" n="N001"/>25
 		<lb facs="#facs_54_r2l1" n="N002"/>xxvi
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_055.jpg" n="55" xml:id="img_0055"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_055.jpg" n="55" xml:id="img_055"/>
 
 	<fw facs="#facs_55_region_1624543868540_1683">
 		<lb facs="#facs_55_line_1624543868557_1686" n="N001"/>26
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_056.jpg" n="56" xml:id="img_0056"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_056.jpg" n="56" xml:id="img_056"/>
 
 	<fw facs="#facs_56_TextRegion_1636030042241_367">
 		<lb facs="#facs_56_r1l1" n="N001"/>26
@@ -2910,7 +2905,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_057.jpg" n="57" xml:id="img_0057"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_057.jpg" n="57" xml:id="img_057"/>
 
 	<fw facs="#facs_57_TextRegion_1647518550339_1058">
 		<lb facs="#facs_57_line_1647518550540_1061" n="N001"/>27
@@ -3001,7 +2996,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_058.jpg" n="58" xml:id="img_0058"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_058.jpg" n="58" xml:id="img_058"/>
 
 	<fw facs="#facs_58_TextRegion_1647518657754_1086">
 		<lb facs="#facs_58_r2l1" n="N001"/>27
@@ -3073,7 +3068,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_059.jpg" n="59" xml:id="img_0059"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_059.jpg" n="59" xml:id="img_059"/>
 
 	<fw facs="#facs_59_TextRegion_1647518706336_1113">
 		<lb facs="#facs_59_r3l2" n="N001"/>28
@@ -3147,7 +3142,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_060.jpg" n="60" xml:id="img_0060"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_060.jpg" n="60" xml:id="img_060"/>
 
 	<fw facs="#facs_60_TextRegion_1647525915520_1126">
 		<lb facs="#facs_60_r1l1" n="N001"/>28
@@ -3175,7 +3170,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_061.jpg" n="61" xml:id="img_0061"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_061.jpg" n="61" xml:id="img_061"/>
 
 	<fw facs="#facs_61_TextRegion_1647525946765_1145">
 		<lb facs="#facs_61_r2l1" n="N001"/>29
@@ -3235,7 +3230,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_062.jpg" n="62" xml:id="img_0062"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_062.jpg" n="62" xml:id="img_062"/>
 
 	<fw facs="#facs_62_TextRegion_1647525976172_1162">
 		<lb facs="#facs_62_r1l1" n="N001"/>29
@@ -3286,7 +3281,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_063.jpg" n="63" xml:id="img_0063"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_063.jpg" n="63" xml:id="img_063"/>
 
 	<fw facs="#facs_63_TextRegion_1647526013153_1182">
 		<lb facs="#facs_63_r4l1" n="N001"/>30
@@ -3349,7 +3344,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_064.jpg" n="64" xml:id="img_0064"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_064.jpg" n="64" xml:id="img_064"/>
 
 	<fw facs="#facs_64_TextRegion_1647526039693_1194">
 		<lb facs="#facs_64_r1l1" n="N001"/>30
@@ -3392,7 +3387,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_065.jpg" n="65" xml:id="img_0065"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_065.jpg" n="65" xml:id="img_065"/>
 
 	<fw facs="#facs_65_TextRegion_1647526104915_1227">
 		<lb facs="#facs_65_r2l1" n="N001"/>31
@@ -3468,14 +3463,14 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_066.jpg" n="66" xml:id="img_0066"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_066.jpg" n="66" xml:id="img_066"/>
 
 	<fw facs="#facs_66_TextRegion_1636030483497_496">
 		<lb facs="#facs_66_r1l1" n="N001"/>31
 		<lb facs="#facs_66_r2l1" n="N002"/>xxxii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_067.jpg" n="67" xml:id="img_0067"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_067.jpg" n="67" xml:id="img_067"/>
 
 	<fw facs="#facs_67_TextRegion_1647526146384_1249">
 		<lb facs="#facs_67_r1l1" n="N001"/>32
@@ -3540,7 +3535,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_068.jpg" n="68" xml:id="img_0068"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_068.jpg" n="68" xml:id="img_068"/>
 
 	<fw facs="#facs_68_TextRegion_1647526194283_1266">
 		<lb facs="#facs_68_r1l1" n="N001"/>32
@@ -3610,7 +3605,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_069.jpg" n="69" xml:id="img_0069"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_069.jpg" n="69" xml:id="img_069"/>
 
 	<fw facs="#facs_69_TextRegion_1647526248062_1299">
 		<lb facs="#facs_69_r1l1" n="N001"/>33
@@ -3683,7 +3678,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_070.jpg" n="70" xml:id="img_0070"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_070.jpg" n="70" xml:id="img_070"/>
 
 	<fw facs="#facs_70_TextRegion_1647526296603_1327">
 		<lb facs="#facs_70_r1l1" n="N001"/>33
@@ -3773,7 +3768,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_071.jpg" n="71" xml:id="img_0071"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_071.jpg" n="71" xml:id="img_071"/>
 
 	<fw facs="#facs_71_TextRegion_1647526539302_1362">
 		<lb facs="#facs_71_r2l1" n="N001"/>34
@@ -3859,7 +3854,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_072.jpg" n="72" xml:id="img_0072"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_072.jpg" n="72" xml:id="img_072"/>
 
 	<fw facs="#facs_72_TextRegion_1647526651087_1390">
 		<lb facs="#facs_72_r1l1" n="N001"/>34
@@ -3941,7 +3936,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_72_r2l46" n="N003"/>Kaspar Pirchvelder
 	</head>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_073.jpg" n="73" xml:id="img_0073"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_073.jpg" n="73" xml:id="img_073"/>
 
 	<fw facs="#facs_73_TextRegion_1647527005088_1414">
 		<lb facs="#facs_73_r10l1" n="N001"/>35
@@ -4021,7 +4016,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_074.jpg" n="74" xml:id="img_0074"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_074.jpg" n="74" xml:id="img_074"/>
 
 	<fw facs="#facs_74_TextRegion_1647527087881_1445">
 		<lb facs="#facs_74_r1l2" n="N001"/>35
@@ -4099,7 +4094,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_075.jpg" n="75" xml:id="img_0075"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_075.jpg" n="75" xml:id="img_075"/>
 
 	<fw facs="#facs_75_TextRegion_1647527130441_1469">
 		<lb facs="#facs_75_r1l1" n="N001"/>36
@@ -4166,7 +4161,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_076.jpg" n="76" xml:id="img_0076"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_076.jpg" n="76" xml:id="img_076"/>
 
 	<fw facs="#facs_76_TextRegion_1647527208157_1504">
 		<lb facs="#facs_76_r2l1" n="N001"/>36
@@ -4254,7 +4249,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_077.jpg" n="77" xml:id="img_0077"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_077.jpg" n="77" xml:id="img_077"/>
 
 	<fw facs="#facs_77_TextRegion_1647527261631_1532">
 		<lb facs="#facs_77_line_1647527261691_1535" n="N001"/>37
@@ -4326,7 +4321,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_078.jpg" n="78" xml:id="img_0078"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_078.jpg" n="78" xml:id="img_078"/>
 
 	<fw facs="#facs_78_TextRegion_1647527337321_1580">
 		<lb facs="#facs_78_r1l2" n="N001"/>37
@@ -4428,7 +4423,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_079.jpg" n="79" xml:id="img_0079"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_079.jpg" n="79" xml:id="img_079"/>
 
 	<fw facs="#facs_79_TextRegion_1647527388261_1612">
 		<lb facs="#facs_79_r2l1" n="N001"/>38
@@ -4505,7 +4500,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_080.jpg" n="80" xml:id="img_0080"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_080.jpg" n="80" xml:id="img_080"/>
 
 	<fw facs="#facs_80_TextRegion_1647527429116_1636">
 		<lb facs="#facs_80_r1l1" n="N001"/>38
@@ -4569,7 +4564,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_80_r2l30" n="N002"/>in libro isto super K folio 172
 	</note>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_081.jpg" n="81" xml:id="img_0081"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_081.jpg" n="81" xml:id="img_081"/>
 
 	<fw facs="#facs_81_TextRegion_1647527461810_1656">
 		<lb facs="#facs_81_r3l1" n="N001"/>39
@@ -4628,14 +4623,14 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_082.jpg" n="82" xml:id="img_0082"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_082.jpg" n="82" xml:id="img_082"/>
 
 	<fw facs="#facs_82_TextRegion_1636031273716_681">
 		<lb facs="#facs_82_line_1624798555192_156" n="N001"/>39
 		<lb facs="#facs_82_r1l1" n="N002"/>xl
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_083.jpg" n="83" xml:id="img_0083"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_083.jpg" n="83" xml:id="img_083"/>
 
 	<fw facs="#facs_83_TextRegion_1647527522614_1682">
 		<lb facs="#facs_83_r2l1" n="N001"/>40
@@ -4707,7 +4702,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_084.jpg" n="84" xml:id="img_0084"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_084.jpg" n="84" xml:id="img_084"/>
 
 	<fw facs="#facs_84_TextRegion_1647527538464_1691">
 		<lb facs="#facs_84_r1l1" n="N001"/>40
@@ -4730,7 +4725,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_085.jpg" n="85" xml:id="img_0085"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_085.jpg" n="85" xml:id="img_085"/>
 
 	<fw facs="#facs_85_TextRegion_1647527586434_1711">
 		<lb facs="#facs_85_r3l1" n="N001"/>41
@@ -4790,7 +4785,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_086.jpg" n="86" xml:id="img_0086"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_086.jpg" n="86" xml:id="img_086"/>
 
 	<fw facs="#facs_86_TextRegion_1647527614944_1733">
 		<lb facs="#facs_86_r2l1" n="N001"/>41
@@ -4853,7 +4848,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_087.jpg" n="87" xml:id="img_0087"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_087.jpg" n="87" xml:id="img_087"/>
 
 	<fw facs="#facs_87_TextRegion_1647527640789_1749">
 		<lb facs="#facs_87_r5l1" n="N001"/>42
@@ -4904,7 +4899,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_088.jpg" n="88" xml:id="img_0088"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_088.jpg" n="88" xml:id="img_088"/>
 
 	<fw facs="#facs_88_TextRegion_1647527672424_1765">
 		<lb facs="#facs_88_r1l1" n="N001"/>42
@@ -4957,7 +4952,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_089.jpg" n="89" xml:id="img_0089"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_089.jpg" n="89" xml:id="img_089"/>
 
 	<fw facs="#facs_89_TextRegion_1647528016673_1785">
 		<lb facs="#facs_89_line_1647528016713_1788" n="N001"/>43
@@ -5014,7 +5009,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_090.jpg" n="90" xml:id="img_0090"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_090.jpg" n="90" xml:id="img_090"/>
 
 	<fw facs="#facs_90_TextRegion_1647528045658_1807">
 		<lb facs="#facs_90_r1l1" n="N001"/>43
@@ -5072,7 +5067,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_091.jpg" n="91" xml:id="img_0091"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_091.jpg" n="91" xml:id="img_091"/>
 
 	<fw facs="#facs_91_TextRegion_1647528077078_1823">
 		<lb facs="#facs_91_r3l1" n="N001"/>44
@@ -5118,7 +5113,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_092.jpg" n="92" xml:id="img_0092"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_092.jpg" n="92" xml:id="img_092"/>
 
 	<fw facs="#facs_92_TextRegion_1647528378448_1835">
 		<lb facs="#facs_92_r1l1" n="N001"/>44
@@ -5155,7 +5150,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_093.jpg" n="93" xml:id="img_0093"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_093.jpg" n="93" xml:id="img_093"/>
 
 	<fw facs="#facs_93_TextRegion_1647528404572_1854">
 		<lb facs="#facs_93_r4l1" n="N001"/>45
@@ -5227,7 +5222,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_094.jpg" n="94" xml:id="img_0094"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_094.jpg" n="94" xml:id="img_094"/>
 
 	<fw facs="#facs_94_TextRegion_1647528426140_1875">
 		<lb facs="#facs_94_r1l1" n="N001"/>45
@@ -5282,7 +5277,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_095.jpg" n="95" xml:id="img_0095"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_095.jpg" n="95" xml:id="img_095"/>
 
 	<fw facs="#facs_95_TextRegion_1647528457846_1898">
 		<lb facs="#facs_95_r5l1" n="N001"/>46
@@ -5327,7 +5322,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_096.jpg" n="96" xml:id="img_0096"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_096.jpg" n="96" xml:id="img_096"/>
 
 	<fw facs="#facs_96_TextRegion_1647528506829_1917">
 		<lb facs="#facs_96_r2l1" n="N001"/>46
@@ -5381,7 +5376,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_097.jpg" n="97" xml:id="img_0097"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_097.jpg" n="97" xml:id="img_097"/>
 
 	<fw facs="#facs_97_TextRegion_1647528540658_1937">
 		<lb facs="#facs_97_r5l1" n="N001"/>47
@@ -5441,7 +5436,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_098.jpg" n="98" xml:id="img_0098"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_098.jpg" n="98" xml:id="img_098"/>
 
 	<fw facs="#facs_98_TextRegion_1647528557801_1953">
 		<lb facs="#facs_98_r1l1" n="N001"/>47
@@ -5496,52 +5491,52 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_099.jpg" n="99" xml:id="img_0099"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_099.jpg" n="99" xml:id="img_099"/>
 
 	<fw facs="#facs_99_r2">
 		<lb facs="#facs_99_r2l1" n="N001"/>48
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_100.jpg" n="100" xml:id="img_0100"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_100.jpg" n="100" xml:id="img_100"/>
 
 	<fw facs="#facs_100_TextRegion_1636031934384_910">
 		<lb facs="#facs_100_r1l1" n="N001"/>48
 		<lb facs="#facs_100_r2l1" n="N002"/>xlviiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_101.jpg" n="101" xml:id="img_0101"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_101.jpg" n="101" xml:id="img_101"/>
 
 	<fw facs="#facs_101_region_1624802031690_1243">
 		<lb facs="#facs_101_line_1624802031705_1246" n="N001"/>49
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_102.jpg" n="102" xml:id="img_0102"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_102.jpg" n="102" xml:id="img_102"/>
 
 	<fw facs="#facs_102_TextRegion_1636053760101_13">
 		<lb facs="#facs_102_r1l1" n="N001"/>49
 		<lb facs="#facs_102_r2l1" n="N002"/>l
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_103.jpg" n="103" xml:id="img_0103"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_103.jpg" n="103" xml:id="img_103"/>
 
 	<fw facs="#facs_103_region_1624802065406_1259">
 		<lb facs="#facs_103_line_1624802065422_1262" n="N001"/>50
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_104.jpg" n="104" xml:id="img_0104"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_104.jpg" n="104" xml:id="img_104"/>
 
 	<fw facs="#facs_104_TextRegion_1636053832451_34">
 		<lb facs="#facs_104_line_1624802090157_1274" n="N001"/>50
 		<lb facs="#facs_104_line_1624802095503_1282" n="N002"/>li
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_105.jpg" n="105" xml:id="img_0105"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_105.jpg" n="105" xml:id="img_105"/>
 
 	<fw facs="#facs_105_region_1624802116375_1290">
 		<lb facs="#facs_105_line_1624802116391_1293" n="N001"/>51
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_106.jpg" n="106" xml:id="img_0106"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_106.jpg" n="106" xml:id="img_106"/>
 
 	<fw facs="#facs_106_TextRegion_1636053896431_53">
 		<lb facs="#facs_106_line_1624802135700_1304" n="N001"/>51
@@ -5551,7 +5546,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_107.jpg" n="107" xml:id="img_0107"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_107.jpg" n="107" xml:id="img_107"/>
 
 	<fw facs="#facs_107_TextRegion_1643365123920_26">
 		<lb facs="#facs_107_r2l1" n="N001"/>52
@@ -5600,7 +5595,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_108.jpg" n="108" xml:id="img_0108"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_108.jpg" n="108" xml:id="img_108"/>
 
 	<fw facs="#facs_108_TextRegion_1643365167287_46">
 		<lb facs="#facs_108_r1l1" n="N001"/>52
@@ -5667,7 +5662,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_109.jpg" n="109" xml:id="img_0109"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_109.jpg" n="109" xml:id="img_109"/>
 
 	<fw facs="#facs_109_TextRegion_1643365208544_64">
 		<lb facs="#facs_109_r1l2" n="N001"/>53
@@ -5749,7 +5744,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_110.jpg" n="110" xml:id="img_0110"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_110.jpg" n="110" xml:id="img_110"/>
 
 	<fw facs="#facs_110_TextRegion_1643365280078_97">
 		<lb facs="#facs_110_r1l1" n="N001"/>53
@@ -5814,7 +5809,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_111.jpg" n="111" xml:id="img_0111"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_111.jpg" n="111" xml:id="img_111"/>
 
 	<fw facs="#facs_111_TextRegion_1643365325037_126">
 		<lb facs="#facs_111_r2l2" n="N001"/>54
@@ -5911,7 +5906,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_112.jpg" n="112" xml:id="img_0112"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_112.jpg" n="112" xml:id="img_112"/>
 
 	<fw facs="#facs_112_TextRegion_1643365399896_175">
 		<lb facs="#facs_112_r1l1" n="N001"/>54
@@ -5965,7 +5960,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_113.jpg" n="113" xml:id="img_0113"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_113.jpg" n="113" xml:id="img_113"/>
 
 	<fw facs="#facs_113_TextRegion_1643365432631_198">
 		<lb facs="#facs_113_line_1643365432653_201" n="N001"/>55
@@ -6007,7 +6002,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_114.jpg" n="114" xml:id="img_0114"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_114.jpg" n="114" xml:id="img_114"/>
 
 	<fw facs="#facs_114_TextRegion_1643365555510_218">
 		<lb facs="#facs_114_r1l1" n="N001"/>55
@@ -6035,7 +6030,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_115.jpg" n="115" xml:id="img_0115"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_115.jpg" n="115" xml:id="img_115"/>
 
 	<fw facs="#facs_115_TextRegion_1643365606946_237">
 		<lb facs="#facs_115_r3l1" n="N001"/>56
@@ -6091,7 +6086,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_116.jpg" n="116" xml:id="img_0116"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_116.jpg" n="116" xml:id="img_116"/>
 
 	<fw facs="#facs_116_TextRegion_1643365684729_260">
 		<lb facs="#facs_116_r1l1" n="N001"/>56
@@ -6110,7 +6105,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_117.jpg" n="117" xml:id="img_0117"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_117.jpg" n="117" xml:id="img_117"/>
 
 	<fw facs="#facs_117_TextRegion_1643365716235_268">
 		<lb facs="#facs_117_r3l1" n="N001"/>57
@@ -6166,7 +6161,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_118.jpg" n="118" xml:id="img_0118"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_118.jpg" n="118" xml:id="img_118"/>
 
 	<fw facs="#facs_118_TextRegion_1643365740512_282">
 		<lb facs="#facs_118_r1l1" n="N001"/>57
@@ -6241,7 +6236,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_119.jpg" n="119" xml:id="img_0119"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_119.jpg" n="119" xml:id="img_119"/>
 
 	<fw facs="#facs_119_TextRegion_1643365828435_310">
 		<lb facs="#facs_119_r3l1" n="N001"/>58
@@ -6299,7 +6294,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_120.jpg" n="120" xml:id="img_0120"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_120.jpg" n="120" xml:id="img_120"/>
 
 	<fw facs="#facs_120_TextRegion_1643365862109_329">
 		<lb facs="#facs_120_r1l1" n="N001"/>58
@@ -6368,13 +6363,13 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_121.jpg" n="121" xml:id="img_0121"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_121.jpg" n="121" xml:id="img_121"/>
 
 	<fw facs="#facs_121_region_1625057540506_1014">
 		<lb facs="#facs_121_line_1625057540523_1017" n="N001"/>59
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_122.jpg" n="122" xml:id="img_0122"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_122.jpg" n="122" xml:id="img_122"/>
 
 	<fw facs="#facs_122_TextRegion_1636054429803_206">
 		<lb facs="#facs_122_r1l1" n="N001"/>59
@@ -6384,7 +6379,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_123.jpg" n="123" xml:id="img_0123"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_123.jpg" n="123" xml:id="img_123"/>
 
 	<fw facs="#facs_123_TextRegion_1643365911041_360">
 		<lb facs="#facs_123_line_1625057634798_1071" n="N001"/>60
@@ -6455,7 +6450,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_124.jpg" n="124" xml:id="img_0124"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_124.jpg" n="124" xml:id="img_124"/>
 
 	<fw facs="#facs_124_TextRegion_1643365942492_380">
 		<lb facs="#facs_124_r1l1" n="N001"/>60
@@ -6522,7 +6517,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_125.jpg" n="125" xml:id="img_0125"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_125.jpg" n="125" xml:id="img_125"/>
 
 	<fw facs="#facs_125_TextRegion_1643365975948_398">
 		<lb facs="#facs_125_line_1625057875149_1255" n="N001"/>61
@@ -6585,7 +6580,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_126.jpg" n="126" xml:id="img_0126"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_126.jpg" n="126" xml:id="img_126"/>
 
 	<fw facs="#facs_126_TextRegion_1643366014935_416">
 		<lb facs="#facs_126_line_1643366014981_419" n="N001"/>61
@@ -6648,7 +6643,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_127.jpg" n="127" xml:id="img_0127"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_127.jpg" n="127" xml:id="img_127"/>
 
 	<fw facs="#facs_127_TextRegion_1643366037036_437">
 		<lb facs="#facs_127_r1l1" n="N001"/>62
@@ -6718,7 +6713,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_128.jpg" n="128" xml:id="img_0128"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_128.jpg" n="128" xml:id="img_128"/>
 
 	<fw facs="#facs_128_TextRegion_1643366067713_455">
 		<lb facs="#facs_128_r1l1" n="N001"/>62
@@ -6786,7 +6781,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_129.jpg" n="129" xml:id="img_0129"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_129.jpg" n="129" xml:id="img_129"/>
 
 	<fw facs="#facs_129_TextRegion_1643366098149_484">
 		<lb facs="#facs_129_r3l1" n="N001"/>63
@@ -6845,7 +6840,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_130.jpg" n="130" xml:id="img_0130"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_130.jpg" n="130" xml:id="img_130"/>
 
 	<fw facs="#facs_130_TextRegion_1643366135737_509">
 		<lb facs="#facs_130_r1l1" n="N001"/>63
@@ -6927,7 +6922,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_131.jpg" n="131" xml:id="img_0131"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_131.jpg" n="131" xml:id="img_131"/>
 
 	<fw facs="#facs_131_TextRegion_1643366194123_544">
 		<lb facs="#facs_131_r1l1" n="N001"/>64
@@ -7008,7 +7003,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_132.jpg" n="132" xml:id="img_0132"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_132.jpg" n="132" xml:id="img_132"/>
 
 	<fw facs="#facs_132_TextRegion_1643366236882_580">
 		<lb facs="#facs_132_r1l1" n="N001"/>64
@@ -7093,7 +7088,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_133.jpg" n="133" xml:id="img_0133"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_133.jpg" n="133" xml:id="img_133"/>
 
 	<fw facs="#facs_133_TextRegion_1643366314975_632">
 		<lb facs="#facs_133_r4l1" n="N001"/>65
@@ -7166,7 +7161,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_134.jpg" n="134" xml:id="img_0134"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_134.jpg" n="134" xml:id="img_134"/>
 
 	<fw facs="#facs_134_TextRegion_1643366356090_661">
 		<lb facs="#facs_134_r2l1" n="N001"/>65
@@ -7222,7 +7217,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_135.jpg" n="135" xml:id="img_0135"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_135.jpg" n="135" xml:id="img_135"/>
 
 	<fw facs="#facs_135_TextRegion_1643366384127_681">
 		<lb facs="#facs_135_r1l1" n="N001"/>66
@@ -7285,7 +7280,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_136.jpg" n="136" xml:id="img_0136"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_136.jpg" n="136" xml:id="img_136"/>
 
 	<fw facs="#facs_136_TextRegion_1643366415764_705">
 		<lb facs="#facs_136_r1l1" n="N001"/>66
@@ -7305,7 +7300,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_137.jpg" n="137" xml:id="img_0137"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_137.jpg" n="137" xml:id="img_137"/>
 
 	<fw facs="#facs_137_TextRegion_1643366429666_713">
 		<lb facs="#facs_137_r3l1" n="N001"/>67
@@ -7360,7 +7355,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_138.jpg" n="138" xml:id="img_0138"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_138.jpg" n="138" xml:id="img_138"/>
 
 	<fw facs="#facs_138_TextRegion_1643366464181_736">
 		<lb facs="#facs_138_r1l1" n="N001"/>67
@@ -7381,7 +7376,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_139.jpg" n="139" xml:id="img_0139"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_139.jpg" n="139" xml:id="img_139"/>
 
 	<fw facs="#facs_139_TextRegion_1643366477984_746">
 		<lb facs="#facs_139_r1l1" n="N001"/>68
@@ -7442,7 +7437,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_140.jpg" n="140" xml:id="img_0140"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_140.jpg" n="140" xml:id="img_140"/>
 
 	<fw facs="#facs_140_TextRegion_1643366522567_774">
 		<lb facs="#facs_140_r1l1" n="N001"/>68
@@ -7505,7 +7500,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_141.jpg" n="141" xml:id="img_0141"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_141.jpg" n="141" xml:id="img_141"/>
 
 </div>
 
@@ -7564,7 +7559,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_142.jpg" n="142" xml:id="img_0142"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_142.jpg" n="142" xml:id="img_142"/>
 
 	<fw facs="#facs_142_TextRegion_1643366606993_816">
 		<lb facs="#facs_142_r2l1" n="N001"/>69
@@ -7625,7 +7620,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_143.jpg" n="143" xml:id="img_0143"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_143.jpg" n="143" xml:id="img_143"/>
 
 	<fw facs="#facs_143_TextRegion_1643366643952_839">
 		<lb facs="#facs_143_r4l1" n="N001"/>70
@@ -7683,7 +7678,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_144.jpg" n="144" xml:id="img_0144"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_144.jpg" n="144" xml:id="img_144"/>
 
 	<fw facs="#facs_144_TextRegion_1643366679300_862">
 		<lb facs="#facs_144_r1l1" n="N001"/>70
@@ -7741,7 +7736,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_145.jpg" n="145" xml:id="img_0145"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_145.jpg" n="145" xml:id="img_145"/>
 
 	<fw facs="#facs_145_TextRegion_1643366712483_881">
 		<lb facs="#facs_145_r6l1" n="N001"/>71
@@ -7778,59 +7773,59 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_146.jpg" n="146" xml:id="img_0146"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_146.jpg" n="146" xml:id="img_146"/>
 
 	<fw facs="#facs_146_TextRegion_1636055929419_465">
 		<lb facs="#facs_146_r1l1" n="N001"/>71
 		<lb facs="#facs_146_r2l1" n="N002"/>lxxii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_147.jpg" n="147" xml:id="img_0147"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_147.jpg" n="147" xml:id="img_147"/>
 
 	<fw facs="#facs_147_region_1625060899493_2749">
 		<lb facs="#facs_147_line_1625060899493_2752" n="N001"/>72
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_148.jpg" n="148" xml:id="img_0148"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_148.jpg" n="148" xml:id="img_148"/>
 
 	<fw facs="#facs_148_TextRegion_1636055951727_476">
 		<lb facs="#facs_148_r1l1" n="N001"/>72
 		<lb facs="#facs_148_r2l1" n="N002"/>lxiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_149.jpg" n="149" xml:id="img_0149"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_149.jpg" n="149" xml:id="img_149"/>
 
 	<fw facs="#facs_149_region_1625060929024_2763">
 		<lb facs="#facs_149_line_1625060929039_2766" n="N001"/>73
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_150.jpg" n="150" xml:id="img_0150"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_150.jpg" n="150" xml:id="img_150"/>
 
 	<fw facs="#facs_150_TextRegion_1636055988387_489">
 		<lb facs="#facs_150_r1l1" n="N001"/>73
 		<lb facs="#facs_150_r2l1" n="N002"/>lxxiiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_151.jpg" n="151" xml:id="img_0151"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_151.jpg" n="151" xml:id="img_151"/>
 
 	<fw facs="#facs_151_region_1625060964800_2779">
 		<lb facs="#facs_151_line_1625060964800_2782" n="N001"/>74
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_152.jpg" n="152" xml:id="img_0152"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_152.jpg" n="152" xml:id="img_152"/>
 
 	<fw facs="#facs_152_TextRegion_1636056024427_500">
 		<lb facs="#facs_152_r1l1" n="N001"/>74
 		<lb facs="#facs_152_r2l1" n="N002"/>lxxv
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_153.jpg" n="153" xml:id="img_0153"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_153.jpg" n="153" xml:id="img_153"/>
 
 	<fw facs="#facs_153_region_1625061009782_2798">
 		<lb facs="#facs_153_line_1625061009798_2801" n="N001"/>75
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_154.jpg" n="154" xml:id="img_0154"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_154.jpg" n="154" xml:id="img_154"/>
 
 	<fw facs="#facs_154_TextRegion_1636056050727_511">
 		<lb facs="#facs_154_r1l1" n="N001"/>75
@@ -7840,7 +7835,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_155.jpg" n="155" xml:id="img_0155"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_155.jpg" n="155" xml:id="img_155"/>
 
 	<fw facs="#facs_155_TextRegion_1643366808839_922">
 		<lb facs="#facs_155_r1l5" n="N001"/>76
@@ -7913,7 +7908,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_155_r1l49" n="N013"/>Rote das privet miteinander Rawmen durch desselben Jorig Roten zuhaus zu sol ainem
 	</p>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_156.jpg" n="156" xml:id="img_0156"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_156.jpg" n="156" xml:id="img_156"/>
 
 	<fw facs="#facs_156_TextRegion_1643366838869_942">
 		<lb facs="#facs_156_r1l1" n="N001"/>76
@@ -7964,7 +7959,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_157.jpg" n="157" xml:id="img_0157"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_157.jpg" n="157" xml:id="img_157"/>
 
 	<fw facs="#facs_157_TextRegion_1643366860791_954">
 		<lb facs="#facs_157_r2l3" n="N001"/>77
@@ -8044,7 +8039,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_158.jpg" n="158" xml:id="img_0158"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_158.jpg" n="158" xml:id="img_158"/>
 
 	<fw facs="#facs_158_TextRegion_1643366915403_983">
 		<lb facs="#facs_158_line_1643366915478_986" n="N001"/>77
@@ -8121,7 +8116,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_159.jpg" n="159" xml:id="img_0159"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_159.jpg" n="159" xml:id="img_159"/>
 
 	<fw facs="#facs_159_TextRegion_1643366977587_1017">
 		<lb facs="#facs_159_r5l1" n="N001"/>78
@@ -8187,7 +8182,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_160.jpg" n="160" xml:id="img_0160"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_160.jpg" n="160" xml:id="img_160"/>
 
 	<fw facs="#facs_160_TextRegion_1643367017648_1046">
 		<lb facs="#facs_160_r1l1" n="N001"/>78
@@ -8215,7 +8210,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_161.jpg" n="161" xml:id="img_0161"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_161.jpg" n="161" xml:id="img_161"/>
 
 	<fw facs="#facs_161_TextRegion_1643367062945_1056">
 		<lb facs="#facs_161_r4l1" n="N001"/>79
@@ -8255,7 +8250,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_162.jpg" n="162" xml:id="img_0162"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_162.jpg" n="162" xml:id="img_162"/>
 
 	<fw facs="#facs_162_TextRegion_1643367096854_1075">
 		<lb facs="#facs_162_r1l1" n="N001"/>79
@@ -8320,7 +8315,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_163.jpg" n="163" xml:id="img_0163"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_163.jpg" n="163" xml:id="img_163"/>
 
 	<fw facs="#facs_163_TextRegion_1643369222283_1103">
 		<lb facs="#facs_163_r3l1" n="N001"/>80
@@ -8369,7 +8364,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_164.jpg" n="164" xml:id="img_0164"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_164.jpg" n="164" xml:id="img_164"/>
 
 	<fw facs="#facs_164_TextRegion_1643369270634_1130">
 		<lb facs="#facs_164_r1l2" n="N001"/>80
@@ -8421,26 +8416,26 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_165.jpg" n="165" xml:id="img_0165"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_165.jpg" n="165" xml:id="img_165"/>
 
 	<fw facs="#facs_165_region_1625063929825_3448">
 		<lb facs="#facs_165_line_1625063929825_3451" n="N001"/>81
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_166.jpg" n="166" xml:id="img_0166"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_166.jpg" n="166" xml:id="img_166"/>
 
 	<fw facs="#facs_166_TextRegion_1636057121764_642">
 		<lb facs="#facs_166_r1l1" n="N001"/>81
 		<lb facs="#facs_166_r2l1" n="N002"/>lxxxii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_167.jpg" n="167" xml:id="img_0167"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_167.jpg" n="167" xml:id="img_167"/>
 
 	<fw facs="#facs_167_region_1625063962404_3466">
 		<lb facs="#facs_167_line_1625063962404_3469" n="N001"/>82
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_168.jpg" n="168" xml:id="img_0168"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_168.jpg" n="168" xml:id="img_168"/>
 
 	<fw facs="#facs_168_r1">
 		<lb facs="#facs_168_r1l1" n="N001"/>82
@@ -8450,13 +8445,13 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_168_r2l1" n="N001"/>lxxxiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_169.jpg" n="169" xml:id="img_0169"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_169.jpg" n="169" xml:id="img_169"/>
 
 	<fw facs="#facs_169_region_1625063993926_3482">
 		<lb facs="#facs_169_line_1625063993926_3485" n="N001"/>83
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_170.jpg" n="170" xml:id="img_0170"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_170.jpg" n="170" xml:id="img_170"/>
 
 	<fw facs="#facs_170_TextRegion_1636057156984_655">
 		<lb facs="#facs_170_r1l1" n="N001"/>83
@@ -8466,7 +8461,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_171.jpg" n="171" xml:id="img_0171"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_171.jpg" n="171" xml:id="img_171"/>
 
 	<fw facs="#facs_171_TextRegion_1643369377753_1168">
 		<lb facs="#facs_171_line_1643369377793_1171" n="N001"/>84
@@ -8555,7 +8550,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_172.jpg" n="172" xml:id="img_0172"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_172.jpg" n="172" xml:id="img_172"/>
 
 	<fw facs="#facs_172_TextRegion_1643369432573_1205">
 		<lb facs="#facs_172_r1l1" n="N001"/>84
@@ -8582,7 +8577,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_173.jpg" n="173" xml:id="img_0173"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_173.jpg" n="173" xml:id="img_173"/>
 
 	<fw facs="#facs_173_TextRegion_1643369450183_1218">
 		<lb facs="#facs_173_r3l1" n="N001"/>85
@@ -8648,7 +8643,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_174.jpg" n="174" xml:id="img_0174"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_174.jpg" n="174" xml:id="img_174"/>
 
 	<fw facs="#facs_174_TextRegion_1643369485163_1241">
 		<lb facs="#facs_174_r1l1" n="N001"/>85
@@ -8700,7 +8695,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_175.jpg" n="175" xml:id="img_0175"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_175.jpg" n="175" xml:id="img_175"/>
 
 	<fw facs="#facs_175_TextRegion_1643369518374_1264">
 		<lb facs="#facs_175_r3l1" n="N001"/>86
@@ -8743,7 +8738,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_175_r3l20" n="N002"/>seligen geschefftleut habent verkaufft von der geltschuld wegsen die der egenant
 		<lb facs="#facs_175_r3l21" n="N003"/>Peter Unger zugelten hinder sein gelassen und von allem seinem gut ausczurichten
 		<lb facs="#facs_175_r3l22" n="N004"/>geschafft hat ain haus mitsambt dem Stadel und garten hinden daran das
-		<lb facs="#facs_175_r3l23" n="N005"/>desselben Petern seligen gewesen ist gelegen auf der Newnburgerstrass vor Schotten
+		<lb facs="#facs_175_r3l23" n="N005"/>desselben Petern seligen gewesen ist gelegen auf der Newnburgerstrass vor Schotten-
 		<lb facs="#facs_175_r3l24" n="N006"/>tor ze Wienn zenagst Fridreich des Sachsen haws umb xxxii tl. d. die des
 		<lb facs="#facs_175_r3l25" n="N007"/>benant Petern Unger seligen geltern gevallen sein dem erbern Micheln dem Rothut
 		<lb facs="#facs_175_r3l26" n="N008"/>burger ze Wienn und seinen erben ut littera sonat <date>Actum feria sexta ante Jeorii Anno etc.
@@ -8752,46 +8747,46 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_176.jpg" n="176" xml:id="img_0176"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_176.jpg" n="176" xml:id="img_176"/>
 
 	<fw facs="#facs_176_TextRegion_1636057426838_733">
 		<lb facs="#facs_176_r1l1" n="N001"/>86
 		<lb facs="#facs_176_r2l1" n="N002"/>lxxxvii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_177.jpg" n="177" xml:id="img_0177"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_177.jpg" n="177" xml:id="img_177"/>
 
 	<fw facs="#facs_177_region_1625064462387_3831">
 		<lb facs="#facs_177_line_1625064462402_3834" n="N001"/>87
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_178.jpg" n="178" xml:id="img_0178"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_178.jpg" n="178" xml:id="img_178"/>
 
 	<fw facs="#facs_178_TextRegion_1636057452827_746">
 		<lb facs="#facs_178_r1l1" n="N001"/>87
 		<lb facs="#facs_178_r2l1" n="N002"/>lxxxviii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_179.jpg" n="179" xml:id="img_0179"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_179.jpg" n="179" xml:id="img_179"/>
 
 	<fw facs="#facs_179_region_1625064488838_3847">
 		<lb facs="#facs_179_line_1625064488838_3850" n="N001"/>88
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_180.jpg" n="180" xml:id="img_0180"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_180.jpg" n="180" xml:id="img_180"/>
 
 	<fw facs="#facs_180_TextRegion_1636057482756_759">
 		<lb facs="#facs_180_r1l1" n="N001"/>88
 		<lb facs="#facs_180_r2l1" n="N002"/>lxxxviiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_181.jpg" n="181" xml:id="img_0181"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_181.jpg" n="181" xml:id="img_181"/>
 
 	<fw facs="#facs_181_region_1625064517553_3863">
 		<lb facs="#facs_181_line_1625064517568_3866" n="N001"/>89
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_182.jpg" n="182" xml:id="img_0182"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_182.jpg" n="182" xml:id="img_182"/>
 
 	<fw facs="#facs_182_TextRegion_1636057511127_769">
 		<lb facs="#facs_182_r1l1" n="N001"/>89
@@ -8801,7 +8796,7 @@ ist Summa durchgestrichen oder nicht?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_183.jpg" n="183" xml:id="img_0183"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_183.jpg" n="183" xml:id="img_183"/>
 
 	<fw facs="#facs_183_TextRegion_1643369652012_1304">
 		<lb facs="#facs_183_line_1643369652072_1307" n="N001"/>90
@@ -8883,7 +8878,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_184.jpg" n="184" xml:id="img_0184"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_184.jpg" n="184" xml:id="img_184"/>
 
 	<fw facs="#facs_184_TextRegion_1643369718443_1343">
 		<lb facs="#facs_184_r2l1" n="N002"/>lxxxxi
@@ -8954,7 +8949,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_185.jpg" n="185" xml:id="img_0185"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_185.jpg" n="185" xml:id="img_185"/>
 
 	<fw facs="#facs_185_TextRegion_1643369749593_1362">
 		<lb facs="#facs_185_r2l1" n="N001"/>91
@@ -9026,7 +9021,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_186.jpg" n="186" xml:id="img_0186"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_186.jpg" n="186" xml:id="img_186"/>
 
 	<fw facs="#facs_186_TextRegion_1643369805333_1387">
 		<lb facs="#facs_186_r1l1" n="N001"/>91
@@ -9085,7 +9080,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_187.jpg" n="187" xml:id="img_0187"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_187.jpg" n="187" xml:id="img_187"/>
 
 	<fw facs="#facs_187_TextRegion_1643369831473_1405">
 		<lb facs="#facs_187_r2l1" n="N001"/>92
@@ -9141,7 +9136,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_188.jpg" n="188" xml:id="img_0188"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_188.jpg" n="188" xml:id="img_188"/>
 
 	<fw facs="#facs_188_TextRegion_1643369866503_1423">
 		<lb facs="#facs_188_line_1643369866553_1426" n="N001"/>92
@@ -9208,7 +9203,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_189.jpg" n="189" xml:id="img_0189"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_189.jpg" n="189" xml:id="img_189"/>
 
 </div>
 
@@ -9276,7 +9271,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_189_r1l1" n="N001"/>93
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_190.jpg" n="190" xml:id="img_0190"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_190.jpg" n="190" xml:id="img_190"/>
 
 	<fw facs="#facs_190_TextRegion_1643369941994_1472">
 		<lb facs="#facs_190_r1l1" n="N001"/>93
@@ -9336,7 +9331,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_191.jpg" n="191" xml:id="img_0191"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_191.jpg" n="191" xml:id="img_191"/>
 
 	<fw facs="#facs_191_TextRegion_1643369967909_1492">
 		<lb facs="#facs_191_r1l1" n="N001"/>94
@@ -9395,7 +9390,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_191_r1l45" n="N024"/>schicht zu pessern da sol ain tail alsvil zu geben als der ander angever umb
 	</p>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_192.jpg" n="192" xml:id="img_0192"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_192.jpg" n="192" xml:id="img_192"/>
 
 	<fw facs="#facs_192_TextRegion_1643369990027_1505">
 		<lb facs="#facs_192_r1l1" n="N001"/>94
@@ -9453,7 +9448,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_193.jpg" n="193" xml:id="img_0193"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_193.jpg" n="193" xml:id="img_193"/>
 
 	<fw facs="#facs_193_TextRegion_1643370003613_1513">
 		<lb facs="#facs_193_r1l1" n="N001"/>95
@@ -9514,7 +9509,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_194.jpg" n="194" xml:id="img_0194"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_194.jpg" n="194" xml:id="img_194"/>
 
 	<fw facs="#facs_194_TextRegion_1643370022562_1523">
 		<lb facs="#facs_194_r1l1" n="N001"/>95
@@ -9591,7 +9586,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_195.jpg" n="195" xml:id="img_0195"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_195.jpg" n="195" xml:id="img_195"/>
 
 	<fw facs="#facs_195_TextRegion_1643370065273_1549">
 		<lb facs="#facs_195_r2l1" n="N001"/>96
@@ -9659,7 +9654,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_196.jpg" n="196" xml:id="img_0196"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_196.jpg" n="196" xml:id="img_196"/>
 
 	<fw facs="#facs_196_TextRegion_1643370097863_1568">
 		<lb facs="#facs_196_line_1643370097912_1571" n="N001"/>96
@@ -9734,7 +9729,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_197.jpg" n="197" xml:id="img_0197"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_197.jpg" n="197" xml:id="img_197"/>
 
 	<fw facs="#facs_197_TextRegion_1643370136382_1595">
 		<lb facs="#facs_197_r1l1" n="N001"/>97
@@ -9806,7 +9801,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_198.jpg" n="198" xml:id="img_0198"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_198.jpg" n="198" xml:id="img_198"/>
 
 	<fw facs="#facs_198_TextRegion_1643370176783_1620">
 		<lb facs="#facs_198_r1l1" n="N001"/>97
@@ -9867,7 +9862,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_199.jpg" n="199" xml:id="img_0199"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_199.jpg" n="199" xml:id="img_199"/>
 
 	<fw facs="#facs_199_TextRegion_1643370213043_1643">
 		<lb facs="#facs_199_r5l1" n="N001"/>98
@@ -9933,7 +9928,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_200.jpg" n="200" xml:id="img_0200"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_200.jpg" n="200" xml:id="img_200"/>
 
 	<fw facs="#facs_200_TextRegion_1643370249513_1661">
 		<lb facs="#facs_200_r1l1" n="N001"/>98
@@ -10002,7 +9997,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_201.jpg" n="201" xml:id="img_0201"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_201.jpg" n="201" xml:id="img_201"/>
 
 	<fw facs="#facs_201_TextRegion_1643370691869_1680">
 		<lb facs="#facs_201_line_1643370691914_1683" n="N001"/>99
@@ -10079,7 +10074,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_202.jpg" n="202" xml:id="img_0202"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_202.jpg" n="202" xml:id="img_202"/>
 
 	<fw facs="#facs_202_TextRegion_1643370749589_1716">
 		<lb facs="#facs_202_r1l1" n="N001"/>99
@@ -10166,7 +10161,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_203.jpg" n="203" xml:id="img_0203"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_203.jpg" n="203" xml:id="img_203"/>
 
 	<fw facs="#facs_203_TextRegion_1643370808369_1751">
 		<lb facs="#facs_203_r3l2" n="N001"/>100
@@ -10257,7 +10252,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_204.jpg" n="204" xml:id="img_0204"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_204.jpg" n="204" xml:id="img_204"/>
 
 	<fw facs="#facs_204_TextRegion_1643370878774_1792">
 		<lb facs="#facs_204_r1l1" n="N001"/>100
@@ -10345,7 +10340,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_205.jpg" n="205" xml:id="img_0205"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_205.jpg" n="205" xml:id="img_205"/>
 
 	<fw facs="#facs_205_TextRegion_1643370946187_1829">
 		<lb facs="#facs_205_r4l2" n="N001"/>101
@@ -10379,7 +10374,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_205_r4l20" n="N013"/>Hansen dem Swaben Burger ze Wienn Susannen seiner hausfrawn und Ir baider erben doch
 		<lb facs="#facs_205_r4l21" n="N014"/>also daz derselb Hans Swab allczeit vollen gewalt und recht haben sol es sey bey seiner
 		<lb facs="#facs_205_r4l22" n="N015"/>hausfrawn lebtegen oder nach Irm tod mit demselben haus allen seinen frumen zeschaffen umb
-		<lb facs="#facs_205_r4l23" n="N016"/>rie hundert phund Wienner pfenning sicut littera sonat <date>Actum an Freytag vor sand Grego¬
+		<lb facs="#facs_205_r4l23" n="N016"/>vier hundert phund Wienner pfenning sicut littera sonat <date>Actum an Freytag vor sand Grego¬
 		<lb facs="#facs_205_line_1625485044069_239" n="N017"/>ven tag Anno etc. ccccᵐº xxiiiiᵗº</date>
 		<lb facs="#facs_205_r4l26" n="N018"/>Summa iii tl. lxxx d.
 	</p>
@@ -10419,7 +10414,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_206.jpg" n="206" xml:id="img_0206"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_206.jpg" n="206" xml:id="img_206"/>
 
 	<fw facs="#facs_206_TextRegion_1643370981716_1852">
 		<lb facs="#facs_206_r1l1" n="N001"/>101
@@ -10497,7 +10492,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_207.jpg" n="207" xml:id="img_0207"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_207.jpg" n="207" xml:id="img_207"/>
 
 	<fw facs="#facs_207_TextRegion_1643371021974_1881">
 		<lb facs="#facs_207_r4l2" n="N001"/>102
@@ -10563,7 +10558,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_208.jpg" n="208" xml:id="img_0208"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_208.jpg" n="208" xml:id="img_208"/>
 
 	<fw facs="#facs_208_TextRegion_1643371051227_1899">
 		<lb facs="#facs_208_r1l1" n="N001"/>102
@@ -10644,7 +10639,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_209.jpg" n="209" xml:id="img_0209"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_209.jpg" n="209" xml:id="img_209"/>
 
 	<fw facs="#facs_209_TextRegion_1643371099867_1932">
 		<lb facs="#facs_209_r2l1" n="N001"/>103
@@ -10711,7 +10706,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_210.jpg" n="210" xml:id="img_0210"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_210.jpg" n="210" xml:id="img_210"/>
 
 	<fw facs="#facs_210_TextRegion_1643371136717_1961">
 		<lb facs="#facs_210_r1l1" n="N001"/>103
@@ -10788,7 +10783,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_211.jpg" n="211" xml:id="img_0211"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_211.jpg" n="211" xml:id="img_211"/>
 
 	<fw facs="#facs_211_TextRegion_1643371177287_1989">
 		<lb facs="#facs_211_r9l1" n="N001"/>104
@@ -10862,7 +10857,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_212.jpg" n="212" xml:id="img_0212"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_212.jpg" n="212" xml:id="img_212"/>
 
 	<fw facs="#facs_212_TextRegion_1643371212527_2017">
 		<lb facs="#facs_212_r1l1" n="N001"/>104
@@ -10933,7 +10928,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_213.jpg" n="213" xml:id="img_0213"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_213.jpg" n="213" xml:id="img_213"/>
 
 	<fw facs="#facs_213_TextRegion_1643371255727_2045">
 		<lb facs="#facs_213_r4l2" n="N001"/>105
@@ -11003,7 +10998,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_214.jpg" n="214" xml:id="img_0214"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_214.jpg" n="214" xml:id="img_214"/>
 
 	<fw facs="#facs_214_TextRegion_1643371289378_2072">
 		<lb facs="#facs_214_r1l1" n="N001"/>105
@@ -11089,7 +11084,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_215.jpg" n="215" xml:id="img_0215"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_215.jpg" n="215" xml:id="img_215"/>
 
 	<fw facs="#facs_215_TextRegion_1643371356509_2133">
 		<lb facs="#facs_215_r5l1" n="N001"/>106
@@ -11180,7 +11175,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_216.jpg" n="216" xml:id="img_0216"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_216.jpg" n="216" xml:id="img_216"/>
 
 	<fw facs="#facs_216_TextRegion_1643371389945_2157">
 		<lb facs="#facs_216_r1l1" n="N001"/>106
@@ -11268,7 +11263,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_217.jpg" n="217" xml:id="img_0217"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_217.jpg" n="217" xml:id="img_217"/>
 
 	<fw facs="#facs_217_TextRegion_1643371417232_2185">
 		<lb facs="#facs_217_r2l2" n="N001"/>107
@@ -11348,7 +11343,7 @@ ist Summa durchgestrichen oder nicht?
 		<lb facs="#facs_217_r2l44" n="N007"/>Summa xi s. x d.
 	</p>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_218.jpg" n="218" xml:id="img_0218"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_218.jpg" n="218" xml:id="img_218"/>
 
 	<fw facs="#facs_218_TextRegion_1643371448387_2212">
 		<lb facs="#facs_218_r1l3" n="N001"/>107
@@ -11424,7 +11419,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_219.jpg" n="219" xml:id="img_0219"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_219.jpg" n="219" xml:id="img_219"/>
 
 	<fw facs="#facs_219_TextRegion_1643371471147_2233">
 		<lb facs="#facs_219_r6l1" n="N001"/>108
@@ -11500,7 +11495,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_220.jpg" n="220" xml:id="img_0220"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_220.jpg" n="220" xml:id="img_220"/>
 
 	<fw facs="#facs_220_TextRegion_1643371505617_2263">
 		<lb facs="#facs_220_r1l1" n="N001"/>108
@@ -11576,7 +11571,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_221.jpg" n="221" xml:id="img_0221"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_221.jpg" n="221" xml:id="img_221"/>
 
 	<fw facs="#facs_221_TextRegion_1643371537447_2290">
 		<lb facs="#facs_221_r5l4" n="N001"/>109
@@ -11656,7 +11651,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_222.jpg" n="222" xml:id="img_0222"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_222.jpg" n="222" xml:id="img_222"/>
 
 	<fw facs="#facs_222_TextRegion_1643371564677_2315">
 		<lb facs="#facs_222_r1l1" n="N001"/>109
@@ -11714,7 +11709,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_223.jpg" n="223" xml:id="img_0223"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_223.jpg" n="223" xml:id="img_223"/>
 
 	<fw facs="#facs_223_TextRegion_1643371595613_2334">
 		<lb facs="#facs_223_line_1643371595645_2338" n="N001"/>110
@@ -11779,7 +11774,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_224.jpg" n="224" xml:id="img_0224"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_224.jpg" n="224" xml:id="img_224"/>
 
 	<fw facs="#facs_224_TextRegion_1643371621522_2355">
 		<lb facs="#facs_224_r1l1" n="N001"/>110
@@ -11841,7 +11836,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_225.jpg" n="225" xml:id="img_0225"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_225.jpg" n="225" xml:id="img_225"/>
 
 	<fw facs="#facs_225_TextRegion_1643371642639_2371">
 		<lb facs="#facs_225_r1l2" n="N001"/>111
@@ -11864,7 +11859,7 @@ ist Summa durchgestrichen oder nicht?
 	<p facs="#facs_225_TextRegion_1643371641390_2366">
 		<lb facs="#facs_225_r1l11" n="N001"/>Hnns Tuchler von der Hallstat und Anna sein hausfraw habent verkaufft
 		<lb facs="#facs_225_r1l12" n="N002"/>Ir haus gelegen am Salczgries zenagst des Reffenvogl haus servit zu der
-		<lb facs="#facs_225_r1l13" n="N003"/>Ewigen Mess So Steffan dem Helmweig in sand Johans kappeln vor Widmer
+		<lb facs="#facs_225_r1l13" n="N003"/>Ewigen Mess So Steffan dem Helmweig in sand Johans kappeln vor Widmer-
 		<lb facs="#facs_225_r1l14" n="N004"/>tor ze Wienn gestifft hat drew phunt und Sechs schilling Wienner phenning
 		<lb facs="#facs_225_r1l15" n="N005"/>gelts purkchrechts et non plus umb zwayundvierczig phunt dem Erbern
 		<lb facs="#facs_225_r1l16" n="N006"/>Hannsen dem Unger ze Wienn Kristein seiner hausfrawn und Ir baider erben ut
@@ -11896,7 +11891,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_226.jpg" n="226" xml:id="img_0226"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_226.jpg" n="226" xml:id="img_226"/>
 
 	<fw facs="#facs_226_TextRegion_1643372178192_2379">
 		<lb facs="#facs_226_r1l1" n="N001"/>111
@@ -11949,7 +11944,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_227.jpg" n="227" xml:id="img_0227"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_227.jpg" n="227" xml:id="img_227"/>
 
 	<fw facs="#facs_227_TextRegion_1643372256522_2402">
 		<lb facs="#facs_227_r5l1" n="N001"/>112
@@ -12012,7 +12007,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_228.jpg" n="228" xml:id="img_0228"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_228.jpg" n="228" xml:id="img_228"/>
 
 	<fw facs="#facs_228_TextRegion_1643372294433_2431">
 		<lb facs="#facs_228_r1l1" n="N001"/>112
@@ -12055,7 +12050,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_229.jpg" n="229" xml:id="img_0229"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_229.jpg" n="229" xml:id="img_229"/>
 
 	<fw facs="#facs_229_TextRegion_1643372311313_2443">
 		<lb facs="#facs_229_r4l1" n="N001"/>113
@@ -12108,7 +12103,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_230.jpg" n="230" xml:id="img_0230"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_230.jpg" n="230" xml:id="img_230"/>
 
 	<fw facs="#facs_230_TextRegion_1643372323172_2451">
 		<lb facs="#facs_230_r1l1" n="N001"/>113
@@ -12127,7 +12122,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_231.jpg" n="231" xml:id="img_0231"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_231.jpg" n="231" xml:id="img_231"/>
 
 	<fw facs="#facs_231_TextRegion_1643372357969_2472">
 		<lb facs="#facs_231_r3l1" n="N001"/>114
@@ -12186,7 +12181,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_232.jpg" n="232" xml:id="img_0232"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_232.jpg" n="232" xml:id="img_232"/>
 
 	<fw facs="#facs_232_TextRegion_1643372385006_2493">
 		<lb facs="#facs_232_r1l1" n="N001"/>114
@@ -12246,7 +12241,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_233.jpg" n="233" xml:id="img_0233"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_233.jpg" n="233" xml:id="img_233"/>
 
 	<fw facs="#facs_233_TextRegion_1643372418569_2513">
 		<lb facs="#facs_233_r4l2" n="N001"/>115
@@ -12315,7 +12310,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_234.jpg" n="234" xml:id="img_0234"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_234.jpg" n="234" xml:id="img_234"/>
 
 	<fw facs="#facs_234_TextRegion_1643372436029_2525">
 		<lb facs="#facs_234_r1l1" n="N001"/>115
@@ -12372,7 +12367,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_235.jpg" n="235" xml:id="img_0235"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_235.jpg" n="235" xml:id="img_235"/>
 
 	<fw facs="#facs_235_TextRegion_1643372468519_2545">
 		<lb facs="#facs_235_r3l1" n="N001"/>116
@@ -12439,7 +12434,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_236.jpg" n="236" xml:id="img_0236"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_236.jpg" n="236" xml:id="img_236"/>
 
 	<fw facs="#facs_236_TextRegion_1643372487799_2561">
 		<lb facs="#facs_236_r1l1" n="N001"/>116
@@ -12492,7 +12487,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_237.jpg" n="237" xml:id="img_0237"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_237.jpg" n="237" xml:id="img_237"/>
 
 	<fw facs="#facs_237_TextRegion_1643372519364_2569">
 		<lb facs="#facs_237_r4l1" n="N001"/>117
@@ -12557,7 +12552,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_238.jpg" n="238" xml:id="img_0238"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_238.jpg" n="238" xml:id="img_238"/>
 
 	<fw facs="#facs_238_TextRegion_1643372559539_2598">
 		<lb facs="#facs_238_r1l1" n="N001"/>117
@@ -12617,7 +12612,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_239.jpg" n="239" xml:id="img_0239"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_239.jpg" n="239" xml:id="img_239"/>
 
 	<fw facs="#facs_239_TextRegion_1643372576098_2610">
 		<lb facs="#facs_239_r3l2" n="N001"/>118
@@ -12655,7 +12650,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_240.jpg" n="240" xml:id="img_0240"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_240.jpg" n="240" xml:id="img_240"/>
 
 	<fw facs="#facs_240_TextRegion_1643372622357_2634">
 		<lb facs="#facs_240_r1l1" n="N001"/>118
@@ -12721,7 +12716,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_241.jpg" n="241" xml:id="img_0241"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_241.jpg" n="241" xml:id="img_241"/>
 
 	<fw facs="#facs_241_TextRegion_1643372647779_2650">
 		<lb facs="#facs_241_r3l2" n="N001"/>119
@@ -12779,7 +12774,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_242.jpg" n="242" xml:id="img_0242"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_242.jpg" n="242" xml:id="img_242"/>
 
 	<fw facs="#facs_242_TextRegion_1643372674539_2667">
 		<lb facs="#facs_242_r1l1" n="N001"/>119
@@ -12837,7 +12832,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_243.jpg" n="243" xml:id="img_0243"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_243.jpg" n="243" xml:id="img_243"/>
 
 	<fw facs="#facs_243_TextRegion_1643372707679_2684">
 		<lb facs="#facs_243_line_1643372707699_2687" n="N001"/>120
@@ -12886,7 +12881,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_244.jpg" n="244" xml:id="img_0244"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_244.jpg" n="244" xml:id="img_244"/>
 
 	<fw facs="#facs_244_TextRegion_1643372728055_2704">
 		<lb facs="#facs_244_r1l1" n="N001"/>120
@@ -12924,7 +12919,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_245.jpg" n="245" xml:id="img_0245"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_245.jpg" n="245" xml:id="img_245"/>
 
 	<fw facs="#facs_245_TextRegion_1643372765299_2730">
 		<lb facs="#facs_245_r3l1" n="N001"/>121
@@ -12991,7 +12986,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_246.jpg" n="246" xml:id="img_0246"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_246.jpg" n="246" xml:id="img_246"/>
 
 	<fw facs="#facs_246_TextRegion_1643372795615_2749">
 		<lb facs="#facs_246_r1l1" n="N001"/>121
@@ -13058,7 +13053,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_247.jpg" n="247" xml:id="img_0247"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_247.jpg" n="247" xml:id="img_247"/>
 
 	<fw facs="#facs_247_TextRegion_1643372819044_2770">
 		<lb facs="#facs_247_r2l1" n="N001"/>122
@@ -13118,7 +13113,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_248.jpg" n="248" xml:id="img_0248"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_248.jpg" n="248" xml:id="img_248"/>
 
 	<fw facs="#facs_248_TextRegion_1643372842799_2786">
 		<lb facs="#facs_248_r1l1" n="N001"/>122
@@ -13167,7 +13162,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_249.jpg" n="249" xml:id="img_0249"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_249.jpg" n="249" xml:id="img_249"/>
 
 	<fw facs="#facs_249_TextRegion_1643372871800_2802">
 		<lb facs="#facs_249_r3l1" n="N001"/>123
@@ -13218,7 +13213,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_250.jpg" n="250" xml:id="img_0250"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_250.jpg" n="250" xml:id="img_250"/>
 
 	<fw facs="#facs_250_TextRegion_1650894694987_3077">
 		<lb facs="#facs_250_line_1650894695033_3080" n="N001"/>123
@@ -13277,7 +13272,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_251.jpg" n="251" xml:id="img_0251"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_251.jpg" n="251" xml:id="img_251"/>
 
 	<fw facs="#facs_251_TextRegion_1643372949239_2840">
 		<lb facs="#facs_251_r2l2" n="N001"/>124
@@ -13324,7 +13319,7 @@ ist Summa durchgestrichen oder nicht?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_252.jpg" n="252" xml:id="img_0252"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_252.jpg" n="252" xml:id="img_252"/>
 
 	<fw facs="#facs_252_TextRegion_1643373075685_2853">
 		<lb facs="#facs_252_r1l1" n="N001"/>124
@@ -13367,7 +13362,7 @@ Zeile N006 aufteilen?
 	</ab>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_253.jpg" n="253" xml:id="img_0253"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_253.jpg" n="253" xml:id="img_253"/>
 
 	<fw facs="#facs_253_TextRegion_1643373092349_2861">
 		<lb facs="#facs_253_r3l1" n="N001"/>125
@@ -13406,7 +13401,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_254.jpg" n="254" xml:id="img_0254"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_254.jpg" n="254" xml:id="img_254"/>
 
 	<fw facs="#facs_254_TextRegion_1643373110998_2873">
 		<lb facs="#facs_254_r1l1" n="N001"/>125
@@ -13452,7 +13447,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_255.jpg" n="255" xml:id="img_0255"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_255.jpg" n="255" xml:id="img_255"/>
 
 	<fw facs="#facs_255_TextRegion_1643373131162_2889">
 		<lb facs="#facs_255_r3l1" n="N001"/>126
@@ -13502,7 +13497,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_256.jpg" n="256" xml:id="img_0256"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_256.jpg" n="256" xml:id="img_256"/>
 
 	<fw facs="#facs_256_TextRegion_1643373157769_2909">
 		<lb facs="#facs_256_line_1643373157835_2912" n="N001"/>126
@@ -13564,7 +13559,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_257.jpg" n="257" xml:id="img_0257"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_257.jpg" n="257" xml:id="img_257"/>
 
 	<fw facs="#facs_257_TextRegion_1643373182064_2928">
 		<lb facs="#facs_257_r5l1" n="N001"/>127
@@ -13626,7 +13621,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_258.jpg" n="258" xml:id="img_0258"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_258.jpg" n="258" xml:id="img_258"/>
 
 	<fw facs="#facs_258_TextRegion_1643373207961_2945">
 		<lb facs="#facs_258_line_1625659638049_1934" n="N001"/>127
@@ -13676,7 +13671,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_259.jpg" n="259" xml:id="img_0259"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_259.jpg" n="259" xml:id="img_259"/>
 
 	<fw facs="#facs_259_TextRegion_1643373224600_2957">
 		<lb facs="#facs_259_r3l1" n="N001"/>128
@@ -13716,7 +13711,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_260.jpg" n="260" xml:id="img_0260"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_260.jpg" n="260" xml:id="img_260"/>
 
 	<fw facs="#facs_260_TextRegion_1643373244560_2973">
 		<lb facs="#facs_260_r1l1" n="N001"/>128
@@ -13765,7 +13760,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_261.jpg" n="261" xml:id="img_0261"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_261.jpg" n="261" xml:id="img_261"/>
 
 	<fw facs="#facs_261_TextRegion_1643373281427_2989">
 		<lb facs="#facs_261_r6l1" n="N001"/>129
@@ -13827,7 +13822,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_262.jpg" n="262" xml:id="img_0262"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_262.jpg" n="262" xml:id="img_262"/>
 
 	<fw facs="#facs_262_TextRegion_1643373299440_3005">
 		<lb facs="#facs_262_r1l1" n="N001"/>129
@@ -13874,7 +13869,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_263.jpg" n="263" xml:id="img_0263"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_263.jpg" n="263" xml:id="img_263"/>
 
 	<fw facs="#facs_263_TextRegion_1643373328081_3021">
 		<lb facs="#facs_263_r4l1" n="N001"/>130
@@ -13940,7 +13935,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_264.jpg" n="264" xml:id="img_0264"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_264.jpg" n="264" xml:id="img_264"/>
 
 	<fw facs="#facs_264_TextRegion_1643373357106_3045">
 		<lb facs="#facs_264_r1l2" n="N001"/>130
@@ -14014,7 +14009,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_265.jpg" n="265" xml:id="img_0265"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_265.jpg" n="265" xml:id="img_265"/>
 
 	<fw facs="#facs_265_TextRegion_1643373394236_3061">
 		<lb facs="#facs_265_r6l1" n="N001"/>131
@@ -14072,7 +14067,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_266.jpg" n="266" xml:id="img_0266"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_266.jpg" n="266" xml:id="img_266"/>
 
 	<fw facs="#facs_266_TextRegion_1643373416455_3077">
 		<lb facs="#facs_266_r1l1" n="N001"/>131
@@ -14141,7 +14136,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_267.jpg" n="267" xml:id="img_0267"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_267.jpg" n="267" xml:id="img_267"/>
 
 	<fw facs="#facs_267_TextRegion_1643373437060_3090">
 		<lb facs="#facs_267_r3l1" n="N001"/>132
@@ -14198,7 +14193,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_268.jpg" n="268" xml:id="img_0268"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_268.jpg" n="268" xml:id="img_268"/>
 
 	<fw facs="#facs_268_TextRegion_1643373469596_3108">
 		<lb facs="#facs_268_r1l1" n="N001"/>132
@@ -14255,7 +14250,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_269.jpg" n="269" xml:id="img_0269"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_269.jpg" n="269" xml:id="img_269"/>
 
 	<fw facs="#facs_269_TextRegion_1643373489550_3128">
 		<lb facs="#facs_269_r3l1" n="N001"/>133
@@ -14312,7 +14307,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_270.jpg" n="270" xml:id="img_0270"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_270.jpg" n="270" xml:id="img_270"/>
 
 	<fw facs="#facs_270_TextRegion_1643373505810_3144">
 		<lb facs="#facs_270_r1l1" n="N001"/>133
@@ -14371,7 +14366,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_271.jpg" n="271" xml:id="img_0271"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_271.jpg" n="271" xml:id="img_271"/>
 
 	<fw facs="#facs_271_TextRegion_1643373522440_3160">
 		<lb facs="#facs_271_line_1625663992017_1087" n="N001"/>134
@@ -14430,7 +14425,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_272.jpg" n="272" xml:id="img_0272"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_272.jpg" n="272" xml:id="img_272"/>
 
 	<fw facs="#facs_272_TextRegion_1643373537711_3176">
 		<lb facs="#facs_272_r1l1" n="N001"/>134
@@ -14491,7 +14486,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_273.jpg" n="273" xml:id="img_0273"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_273.jpg" n="273" xml:id="img_273"/>
 
 	<fw facs="#facs_273_TextRegion_1643373561818_3193">
 		<lb facs="#facs_273_r6l1" n="N001"/>135
@@ -14542,7 +14537,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_274.jpg" n="274" xml:id="img_0274"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_274.jpg" n="274" xml:id="img_274"/>
 
 	<fw facs="#facs_274_TextRegion_1643373574885_3209">
 		<lb facs="#facs_274_r1l1" n="N001"/>135
@@ -14590,79 +14585,79 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_275.jpg" n="275" xml:id="img_0275"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_275.jpg" n="275" xml:id="img_275"/>
 
 	<fw facs="#facs_275_r2">
 		<lb facs="#facs_275_line_1625664277796_1301" n="N001"/>136
 		<lb facs="#facs_275_line_1625664277796_1302" n="N002"/>Cxxxvii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_276.jpg" n="276" xml:id="img_0276"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_276.jpg" n="276" xml:id="img_276"/>
 
 	<fw facs="#facs_276_region_1625664298358_1308">
 		<lb facs="#facs_276_line_1625664298368_1311" n="N001"/>136
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_277.jpg" n="277" xml:id="img_0277"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_277.jpg" n="277" xml:id="img_277"/>
 
 	<fw facs="#facs_277_r1">
 		<lb facs="#facs_277_line_1625664315378_1320" n="N001"/>137
 		<lb facs="#facs_277_line_1625664315379_1321" n="N002"/>Cxxxviii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_278.jpg" n="278" xml:id="img_0278"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_278.jpg" n="278" xml:id="img_278"/>
 
 	<fw facs="#facs_278_r1">
 		<lb facs="#facs_278_r1l1" n="N001"/>137
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_279.jpg" n="279" xml:id="img_0279"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_279.jpg" n="279" xml:id="img_279"/>
 
 	<fw facs="#facs_279_r1">
 		<lb facs="#facs_279_line_1625664338393_1332" n="N001"/>138
 		<lb facs="#facs_279_line_1625664338393_1333" n="N002"/>Cxxxviiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_280.jpg" n="280" xml:id="img_0280"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_280.jpg" n="280" xml:id="img_280"/>
 
 	<fw facs="#facs_280_region_1625664358704_1339">
 		<lb facs="#facs_280_line_1625664358711_1342" n="N001"/>138
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_281.jpg" n="281" xml:id="img_0281"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_281.jpg" n="281" xml:id="img_281"/>
 
 	<fw facs="#facs_281_TextRegion_1636108758770_1027">
 		<lb facs="#facs_281_r2l1" n="N001"/>139
 		<lb facs="#facs_281_r1l1" n="N002"/>Cxl
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_282.jpg" n="282" xml:id="img_0282"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_282.jpg" n="282" xml:id="img_282"/>
 
 	<fw facs="#facs_282_region_1625664386868_1355">
 		<lb facs="#facs_282_line_1625664386874_1358" n="N001"/>139
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_283.jpg" n="283" xml:id="img_0283"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_283.jpg" n="283" xml:id="img_283"/>
 
 	<fw facs="#facs_283_TextRegion_1636109322595_1038">
 		<lb facs="#facs_283_r2l1" n="N001"/>140
 		<lb facs="#facs_283_r1l1" n="N002"/>Cxli
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_284.jpg" n="284" xml:id="img_0284"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_284.jpg" n="284" xml:id="img_284"/>
 
 	<fw facs="#facs_284_r1">
 		<lb facs="#facs_284_r1l1" n="N001"/>140
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_285.jpg" n="285" xml:id="img_0285"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_285.jpg" n="285" xml:id="img_285"/>
 
 	<fw facs="#facs_285_r1">
 		<lb facs="#facs_285_line_1625664417843_1376" n="N001"/>141
 		<lb facs="#facs_285_line_1625664417843_1377" n="N002"/>Cxlii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_286.jpg" n="286" xml:id="img_0286"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_286.jpg" n="286" xml:id="img_286"/>
 
 	<fw facs="#facs_286_r1">
 		<lb facs="#facs_286_r1l1" n="N001"/>141
@@ -14671,7 +14666,7 @@ Zeile N006 aufteilen?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_287.jpg" n="287" xml:id="img_0287"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_287.jpg" n="287" xml:id="img_287"/>
 
 	<fw facs="#facs_287_TextRegion_1643373698141_3273">
 		<lb facs="#facs_287_line_1643373698186_3276" n="N001"/>142
@@ -14757,7 +14752,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_288.jpg" n="288" xml:id="img_0288"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_288.jpg" n="288" xml:id="img_288"/>
 
 	<fw facs="#facs_288_TextRegion_1643373711560_3283">
 		<lb facs="#facs_288_r1l1" n="N001"/>142
@@ -14779,7 +14774,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_289.jpg" n="289" xml:id="img_0289"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_289.jpg" n="289" xml:id="img_289"/>
 
 	<fw facs="#facs_289_TextRegion_1643373732582_3298">
 		<lb facs="#facs_289_r3l1" n="N001"/>143
@@ -14855,7 +14850,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_290.jpg" n="290" xml:id="img_0290"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_290.jpg" n="290" xml:id="img_290"/>
 
 	<fw facs="#facs_290_TextRegion_1643373746260_3311">
 		<lb facs="#facs_290_r1l1" n="N001"/>143
@@ -14912,7 +14907,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_291.jpg" n="291" xml:id="img_0291"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_291.jpg" n="291" xml:id="img_291"/>
 
 	<fw facs="#facs_291_TextRegion_1643373765201_3323">
 		<lb facs="#facs_291_r1l3" n="N001"/>144
@@ -14942,7 +14937,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_292.jpg" n="292" xml:id="img_0292"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_292.jpg" n="292" xml:id="img_292"/>
 
 	<fw facs="#facs_292_TextRegion_1643373785611_3347">
 		<lb facs="#facs_292_r2l3" n="N001"/>144
@@ -15019,7 +15014,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_293.jpg" n="293" xml:id="img_0293"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_293.jpg" n="293" xml:id="img_293"/>
 
 	<fw facs="#facs_293_TextRegion_1643373801331_3363">
 		<lb facs="#facs_293_line_1625665258985_1869" n="N001"/>145
@@ -15084,7 +15079,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_294.jpg" n="294" xml:id="img_0294"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_294.jpg" n="294" xml:id="img_294"/>
 
 	<fw facs="#facs_294_TextRegion_1643373822646_3391">
 		<lb facs="#facs_294_line_1636988462290_87" n="N001"/>145
@@ -15160,7 +15155,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_295.jpg" n="295" xml:id="img_0295"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_295.jpg" n="295" xml:id="img_295"/>
 
 	<fw facs="#facs_295_TextRegion_1643373850632_3423">
 		<lb facs="#facs_295_line_1625665653311_2094" n="N001"/>146
@@ -15249,7 +15244,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_296.jpg" n="296" xml:id="img_0296"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_296.jpg" n="296" xml:id="img_296"/>
 
 	<fw facs="#facs_296_TextRegion_1643373870823_3442">
 		<lb facs="#facs_296_r1l1" n="N001"/>146
@@ -15328,7 +15323,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_297.jpg" n="297" xml:id="img_0297"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_297.jpg" n="297" xml:id="img_297"/>
 
 	<fw facs="#facs_297_TextRegion_1643373908481_3480">
 		<lb facs="#facs_297_line_1625665949746_2350" n="N001"/>147
@@ -15410,7 +15405,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_298.jpg" n="298" xml:id="img_0298"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_298.jpg" n="298" xml:id="img_298"/>
 
 	<fw facs="#facs_298_TextRegion_1643373931911_3512">
 		<lb facs="#facs_298_r1l1" n="N001"/>147
@@ -15498,7 +15493,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_299.jpg" n="299" xml:id="img_0299"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_299.jpg" n="299" xml:id="img_299"/>
 
 	<fw facs="#facs_299_TextRegion_1643374007575_3528">
 		<lb facs="#facs_299_line_1625666195418_2533" n="N001"/>148
@@ -15554,7 +15549,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_300.jpg" n="300" xml:id="img_0300"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_300.jpg" n="300" xml:id="img_300"/>
 
 	<fw facs="#facs_300_TextRegion_1643374025605_3536">
 		<lb facs="#facs_300_r1l1" n="N001"/>148
@@ -15571,7 +15566,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_301.jpg" n="301" xml:id="img_0301"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_301.jpg" n="301" xml:id="img_301"/>
 
 	<fw facs="#facs_301_TextRegion_1643374052608_3556">
 		<lb facs="#facs_301_line_1625666312195_2615" n="N001"/>149
@@ -15638,7 +15633,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_302.jpg" n="302" xml:id="img_0302"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_302.jpg" n="302" xml:id="img_302"/>
 
 	<fw facs="#facs_302_TextRegion_1643374082306_3568">
 		<lb facs="#facs_302_r1l1" n="N001"/>149
@@ -15663,7 +15658,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_303.jpg" n="303" xml:id="img_0303"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_303.jpg" n="303" xml:id="img_303"/>
 
 	<fw facs="#facs_303_TextRegion_1643374113405_3591">
 		<lb facs="#facs_303_line_1625666445574_2740" n="N001"/>150
@@ -15732,7 +15727,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_304.jpg" n="304" xml:id="img_0304"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_304.jpg" n="304" xml:id="img_304"/>
 
 	<fw facs="#facs_304_TextRegion_1643374127621_3608">
 		<lb facs="#facs_304_r1l1" n="N001"/>150
@@ -15756,7 +15751,7 @@ Zeile N006 aufteilen?
 	<p facs="#facs_304_TextRegion_1643374126535_3603">
 		<lb facs="#facs_304_r4l9" n="N001"/>Jacob Grunawg hat verkaufft sein haus mitsambt dem Stadel und Garten hinden daran
 		<lb facs="#facs_304_r4l10" n="N002"/>gelegen auf der Newburgerstrass vor Schottentor ze Wienn zenagst Fridreichs
-		<lb facs="#facs_304_r4l11" n="N003"/>des Sachsen haus umb xl d. Wienner d. dem erbern Petern dem Unger und seinen
+		<lb facs="#facs_304_r4l11" n="N003"/>des Sachsen haus umb xl tl. Wienner d. dem erbern Petern dem Unger und seinen
 		<lb facs="#facs_304_r4l12" n="N004"/>erben ut littera sonat <date>Actum an Freytag vor sand Ulreichs tag Anno etc. xxxiiiº</date>
 		<lb facs="#facs_304_r4l13" n="N005"/>Summa lxxx d.
 	</p>
@@ -15774,7 +15769,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_305.jpg" n="305" xml:id="img_0305"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_305.jpg" n="305" xml:id="img_305"/>
 
 	<fw facs="#facs_305_TextRegion_1643374146082_3627">
 		<lb facs="#facs_305_line_1625666662761_2862" n="N001"/>151
@@ -15834,7 +15829,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_306.jpg" n="306" xml:id="img_0306"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_306.jpg" n="306" xml:id="img_306"/>
 
 	<fw facs="#facs_306_TextRegion_1643374159236_3644">
 		<lb facs="#facs_306_r1l1" n="N001"/>151
@@ -15880,7 +15875,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_307.jpg" n="307" xml:id="img_0307"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_307.jpg" n="307" xml:id="img_307"/>
 
 	<fw facs="#facs_307_TextRegion_1643374174690_3651">
 		<lb facs="#facs_307_r3l1" n="N001"/>152
@@ -15934,13 +15929,13 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_308.jpg" n="308" xml:id="img_0308"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_308.jpg" n="308" xml:id="img_308"/>
 
 	<fw facs="#facs_308_r1">
 		<lb facs="#facs_308_r1l1" n="N001"/>152
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_309.jpg" n="309" xml:id="img_0309"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_309.jpg" n="309" xml:id="img_309"/>
 
 	<fw facs="#facs_309_TextRegion_1643374197449_3674">
 		<lb facs="#facs_309_line_1625745027906_127" n="N001"/>153
@@ -15996,7 +15991,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_310.jpg" n="310" xml:id="img_0310"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_310.jpg" n="310" xml:id="img_310"/>
 
 	<fw facs="#facs_310_TextRegion_1643374216191_3695">
 		<lb facs="#facs_310_r1l1" n="N001"/>153
@@ -16061,7 +16056,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_311.jpg" n="311" xml:id="img_0311"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_311.jpg" n="311" xml:id="img_311"/>
 
 	<fw facs="#facs_311_TextRegion_1643374277101_3715">
 		<lb facs="#facs_311_line_1625745209504_252" n="N001"/>154
@@ -16125,7 +16120,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_312.jpg" n="312" xml:id="img_0312"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_312.jpg" n="312" xml:id="img_312"/>
 
 	<fw facs="#facs_312_TextRegion_1643374295173_3735">
 		<lb facs="#facs_312_r1l1" n="N001"/>154
@@ -16183,7 +16178,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_313.jpg" n="313" xml:id="img_0313"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_313.jpg" n="313" xml:id="img_313"/>
 
 	<fw facs="#facs_313_TextRegion_1643375160026_3751">
 		<lb facs="#facs_313_r4l1" n="N001"/>155
@@ -16243,7 +16238,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_314.jpg" n="314" xml:id="img_0314"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_314.jpg" n="314" xml:id="img_314"/>
 
 	<fw facs="#facs_314_TextRegion_1643375173061_3759">
 		<lb facs="#facs_314_r1l1" n="N001"/>155
@@ -16262,105 +16257,105 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_315.jpg" n="315" xml:id="img_0315"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_315.jpg" n="315" xml:id="img_315"/>
 
 	<fw facs="#facs_315_r2">
 		<lb facs="#facs_315_line_1625745482078_471" n="N001"/>156
 		<lb facs="#facs_315_line_1625745482078_472" n="N002"/>Clvii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_316.jpg" n="316" xml:id="img_0316"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_316.jpg" n="316" xml:id="img_316"/>
 
 	<fw facs="#facs_316_r1">
 		<lb facs="#facs_316_r1l1" n="N001"/>156
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_317.jpg" n="317" xml:id="img_0317"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_317.jpg" n="317" xml:id="img_317"/>
 
 	<fw facs="#facs_317_r1">
 		<lb facs="#facs_317_line_1625745549447_487" n="N001"/>157
 		<lb facs="#facs_317_line_1625745549447_488" n="N002"/>Clviii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_318.jpg" n="318" xml:id="img_0318"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_318.jpg" n="318" xml:id="img_318"/>
 
 	<fw facs="#facs_318_region_1625745568591_495">
 		<lb facs="#facs_318_line_1625745568591_498" n="N001"/>157
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_319.jpg" n="319" xml:id="img_0319"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_319.jpg" n="319" xml:id="img_319"/>
 
 	<fw facs="#facs_319_r1">
 		<lb facs="#facs_319_line_1625745587969_507" n="N001"/>158
 		<lb facs="#facs_319_line_1625745587969_508" n="N002"/>Clviiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_320.jpg" n="320" xml:id="img_0320"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_320.jpg" n="320" xml:id="img_320"/>
 
 	<fw facs="#facs_320_r1">
 		<lb facs="#facs_320_r1l1" n="N001"/>158
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_321.jpg" n="321" xml:id="img_0321"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_321.jpg" n="321" xml:id="img_321"/>
 
 	<fw facs="#facs_321_r1">
 		<lb facs="#facs_321_line_1625745615416_519" n="N001"/>159
 		<lb facs="#facs_321_line_1625745615432_520" n="N002"/>Clx
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_322.jpg" n="322" xml:id="img_0322"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_322.jpg" n="322" xml:id="img_322"/>
 
 	<fw facs="#facs_322_region_1625745635565_526">
 		<lb facs="#facs_322_line_1625745635581_529" n="N001"/>159
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_323.jpg" n="323" xml:id="img_0323"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_323.jpg" n="323" xml:id="img_323"/>
 
 	<fw facs="#facs_323_r1">
 		<lb facs="#facs_323_line_1625745650800_538" n="N001"/>160
 		<lb facs="#facs_323_line_1625745650800_539" n="N002"/>Clxi
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_324.jpg" n="324" xml:id="img_0324"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_324.jpg" n="324" xml:id="img_324"/>
 
 	<fw facs="#facs_324_region_1625745689043_545">
 		<lb facs="#facs_324_line_1625745689059_548" n="N001"/>160
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_325.jpg" n="325" xml:id="img_0325"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_325.jpg" n="325" xml:id="img_325"/>
 
 	<fw facs="#facs_325_r1">
 		<lb facs="#facs_325_line_1625745702308_557" n="N001"/>161
 		<lb facs="#facs_325_line_1625745702308_558" n="N002"/>Clxii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_326.jpg" n="326" xml:id="img_0326"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_326.jpg" n="326" xml:id="img_326"/>
 
 	<fw facs="#facs_326_r1">
 		<lb facs="#facs_326_r1l1" n="N001"/>161
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_327.jpg" n="327" xml:id="img_0327"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_327.jpg" n="327" xml:id="img_327"/>
 
 	<fw facs="#facs_327_r1">
 		<lb facs="#facs_327_line_1625745725781_569" n="N001"/>162
 		<lb facs="#facs_327_line_1625745725781_570" n="N002"/>Clxiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_328.jpg" n="328" xml:id="img_0328"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_328.jpg" n="328" xml:id="img_328"/>
 
 	<fw facs="#facs_328_r1">
 		<lb facs="#facs_328_r1l1" n="N001"/>162
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_329.jpg" n="329" xml:id="img_0329"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_329.jpg" n="329" xml:id="img_329"/>
 
 	<fw facs="#facs_329_r1">
 		<lb facs="#facs_329_line_1625745743857_582" n="N001"/>163
 		<lb facs="#facs_329_line_1625745743857_583" n="N002"/>Clxiiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_330.jpg" n="330" xml:id="img_0330"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_330.jpg" n="330" xml:id="img_330"/>
 
 	<fw facs="#facs_330_r1">
 		<lb facs="#facs_330_r1l1" n="N001"/>163
@@ -16369,7 +16364,7 @@ Zeile N006 aufteilen?
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_331.jpg" n="331" xml:id="img_0331"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_331.jpg" n="331" xml:id="img_331"/>
 
 	<fw facs="#facs_331_TextRegion_1643375957105_3827">
 		<lb facs="#facs_331_line_1643375957134_3830" n="N001"/>164
@@ -16432,7 +16427,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_332.jpg" n="332" xml:id="img_0332"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_332.jpg" n="332" xml:id="img_332"/>
 
 	<fw facs="#facs_332_TextRegion_1643375985903_3845">
 		<lb facs="#facs_332_r1l1" n="N001"/>164
@@ -16481,7 +16476,7 @@ Zeile N006 aufteilen?
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_333.jpg" n="333" xml:id="img_0333"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_333.jpg" n="333" xml:id="img_333"/>
 
 	<fw facs="#facs_333_TextRegion_1643376065574_3864">
 		<lb facs="#facs_333_r1l3" n="N001"/>165
@@ -16548,7 +16543,7 @@ Zeile N006 aufteilen?
 		<lb facs="#facs_333_r1l42" n="N014"/>Inhaben nuczen und niessen als haimsteur und der Stat ze Wienn Recht ist
 	</p>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_334.jpg" n="334" xml:id="img_0334"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_334.jpg" n="334" xml:id="img_334"/>
 
 	<fw facs="#facs_334_TextRegion_1643376091019_3881">
 		<lb facs="#facs_334_r1l1" n="N001"/>165
@@ -16605,7 +16600,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_335.jpg" n="335" xml:id="img_0335"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_335.jpg" n="335" xml:id="img_335"/>
 
 	<fw facs="#facs_335_TextRegion_1643376121097_3900">
 		<lb facs="#facs_335_r1l4" n="N001"/>166
@@ -16676,7 +16671,7 @@ Julian: Summa wirklich durchgestrichen? JA
 		<lb facs="#facs_335_r1l47" n="N012"/>frawn Barbaren tails hauss Item so sind das gemainen stukch der gang die haustur das hoffl das
 	</p>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_336.jpg" n="336" xml:id="img_0336"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_336.jpg" n="336" xml:id="img_336"/>
 
 	<fw facs="#facs_336_TextRegion_1643376176798_3921">
 		<lb facs="#facs_336_r1l1" n="N001"/>166
@@ -16735,7 +16730,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_337.jpg" n="337" xml:id="img_0337"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_337.jpg" n="337" xml:id="img_337"/>
 
 	<fw facs="#facs_337_TextRegion_1643376216792_3949">
 		<lb facs="#facs_337_r3l2" n="N001"/>167
@@ -16813,7 +16808,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_338.jpg" n="338" xml:id="img_0338"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_338.jpg" n="338" xml:id="img_338"/>
 
 	<fw facs="#facs_338_TextRegion_1643376233688_3975">
 		<lb facs="#facs_338_r1l1" n="N001"/>167
@@ -16893,7 +16888,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_339.jpg" n="339" xml:id="img_0339"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_339.jpg" n="339" xml:id="img_339"/>
 
 	<fw facs="#facs_339_TextRegion_1643376254939_4003">
 		<lb facs="#facs_339_line_1625746863695_594" n="N001"/>168
@@ -16974,7 +16969,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_340.jpg" n="340" xml:id="img_0340"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_340.jpg" n="340" xml:id="img_340"/>
 
 	<fw facs="#facs_340_TextRegion_1643376272854_4031">
 		<lb facs="#facs_340_r1l1" n="N001"/>168
@@ -17062,7 +17057,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_341.jpg" n="341" xml:id="img_0341"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_341.jpg" n="341" xml:id="img_341"/>
 
 	<fw facs="#facs_341_TextRegion_1643376292111_4051">
 		<lb facs="#facs_341_line_1625753687243_92" n="N001"/>169
@@ -17132,7 +17127,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_342.jpg" n="342" xml:id="img_0342"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_342.jpg" n="342" xml:id="img_342"/>
 
 	<fw facs="#facs_342_TextRegion_1643376307213_4075">
 		<lb facs="#facs_342_r1l1" n="N001"/>169
@@ -17204,7 +17199,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_343.jpg" n="343" xml:id="img_0343"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_343.jpg" n="343" xml:id="img_343"/>
 
 	<fw facs="#facs_343_TextRegion_1643376354623_4102">
 		<lb facs="#facs_343_line_1625753904166_278" n="N001"/>170
@@ -17284,7 +17279,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_344.jpg" n="344" xml:id="img_0344"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_344.jpg" n="344" xml:id="img_344"/>
 
 	<fw facs="#facs_344_TextRegion_1643376370187_4123">
 		<lb facs="#facs_344_r2l1" n="N001"/>170
@@ -17347,7 +17342,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_345.jpg" n="345" xml:id="img_0345"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_345.jpg" n="345" xml:id="img_345"/>
 
 	<fw facs="#facs_345_TextRegion_1643376383478_4139">
 		<lb facs="#facs_345_line_1625754058791_415" n="N001"/>171
@@ -17381,7 +17376,7 @@ Julian: Summa wirklich durchgestrichen? JA
 		<lb facs="#facs_345_r4l18" n="N005"/>die weilnt Hannsen H<unclear>e</unclear>ldermach des pader und Elspeten seiner hausfrawn seligen
 		<lb facs="#facs_345_r4l19" n="N006"/>gewesen und halbe der egenant Stat ledig worden ist von der benant Elsbeten
 		<lb facs="#facs_345_r4l20" n="N007"/>wegen darumb das nicht erben da gewesen sind die Sy von Irn wegen
-		<lb facs="#facs_345_r4l21" n="N008"/>Rechtlich hieten geerbt umb t xlvii tl. d. Kunraten von Miltenberg
+		<lb facs="#facs_345_r4l21" n="N008"/>Rechtlich hieten geerbt umb c xlvii tl. d. Kunraten von Miltenberg
 		<lb facs="#facs_345_r4l23" n="N009"/>dem pader zu den Rorn und Hannsen von Miltenberg sein pruder und
 		<lb facs="#facs_345_r4l25" n="N010"/>Irn erben <date>Actum feria sexta post Omnistorum Anno etc. xxxº</date>
 		<lb facs="#facs_345_r4l28" n="N011"/>Summa ½ tl. xxvii d.
@@ -17407,7 +17402,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_346.jpg" n="346" xml:id="img_0346"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_346.jpg" n="346" xml:id="img_346"/>
 
 	<fw facs="#facs_346_TextRegion_1643376399353_4163">
 		<lb facs="#facs_346_r1l1" n="N001"/>171
@@ -17471,7 +17466,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_347.jpg" n="347" xml:id="img_0347"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_347.jpg" n="347" xml:id="img_347"/>
 
 	<fw facs="#facs_347_TextRegion_1643376410980_4175">
 		<lb facs="#facs_347_line_1625754208317_544" n="N001"/>172
@@ -17488,7 +17483,7 @@ Julian: Summa wirklich durchgestrichen? JA
 		<lb facs="#facs_347_r2l7" n="N006"/>haus zu der Ewigen Mess So die Neczoger ad sanctum Steffanum auf sand Mertten
 		<lb facs="#facs_347_r2l8" n="N007"/>Altar gestifft habent i tl. d. und Symon des zechmaister von pestorff und seinen erben
 		<lb facs="#facs_347_r2l9" n="N008"/>iii tl. d. und vi s. d. und der Stat ze Wienn iiii tl. d. alles ze purkrecht und nicht
-		<lb facs="#facs_347_r2l10" n="N009"/>mer umb xviii d. tl. d. der erbern Margreten des obgenant Gilgen wagner hausfraw und
+		<lb facs="#facs_347_r2l10" n="N009"/>mer umb xviii <del>d.</del> tl. d. der erbern Margreten des obgenant Gilgen wagner hausfraw und
 		<lb facs="#facs_347_r2l11" n="N010"/>Irn erben ut littera sonat <date>Actum an Freytag vor Phingsten Anno etc. xxxiᵐº</date>
 		<lb facs="#facs_347_r2l12" n="N011"/>Summa xxxvi d.
 	</p>
@@ -17508,7 +17503,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_348.jpg" n="348" xml:id="img_0348"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_348.jpg" n="348" xml:id="img_348"/>
 
 	<fw facs="#facs_348_TextRegion_1643376424503_4191">
 		<lb facs="#facs_348_r1l2" n="N001"/>172
@@ -17577,7 +17572,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_349.jpg" n="349" xml:id="img_0349"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_349.jpg" n="349" xml:id="img_349"/>
 
 	<fw facs="#facs_349_TextRegion_1643376438666_4211">
 		<lb facs="#facs_349_line_1636136948219_400" n="N001"/>173
@@ -17646,7 +17641,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_350.jpg" n="350" xml:id="img_0350"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_350.jpg" n="350" xml:id="img_350"/>
 
 	<fw facs="#facs_350_TextRegion_1643376451913_4227">
 		<lb facs="#facs_350_r1l1" n="N001"/>173
@@ -17702,7 +17697,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_351.jpg" n="351" xml:id="img_0351"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_351.jpg" n="351" xml:id="img_351"/>
 
 	<fw facs="#facs_351_TextRegion_1643972445411_998">
 		<lb facs="#facs_351_line_1625754599554_854" n="N001"/>174
@@ -17777,7 +17772,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_352.jpg" n="352" xml:id="img_0352"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_352.jpg" n="352" xml:id="img_352"/>
 
 	<fw facs="#facs_352_TextRegion_1643972513263_1031">
 		<lb facs="#facs_352_line_1625754671267_913" n="N001"/>174
@@ -17857,7 +17852,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_353.jpg" n="353" xml:id="img_0353"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_353.jpg" n="353" xml:id="img_353"/>
 
 	<fw facs="#facs_353_TextRegion_1643972568445_1058">
 		<lb facs="#facs_353_line_1625754751287_990" n="N001"/>175
@@ -17930,7 +17925,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_354.jpg" n="354" xml:id="img_0354"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_354.jpg" n="354" xml:id="img_354"/>
 
 	<fw facs="#facs_354_TextRegion_1643972608189_1079">
 		<lb facs="#facs_354_r1l1" n="N001"/>175
@@ -17990,7 +17985,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_355.jpg" n="355" xml:id="img_0355"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_355.jpg" n="355" xml:id="img_355"/>
 
 	<fw facs="#facs_355_TextRegion_1643972647533_1101">
 		<lb facs="#facs_355_r6l1" n="N001"/>176
@@ -18054,7 +18049,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_356.jpg" n="356" xml:id="img_0356"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_356.jpg" n="356" xml:id="img_356"/>
 
 	<fw facs="#facs_356_TextRegion_1643972684959_1122">
 		<lb facs="#facs_356_line_1636137370488_504" n="N001"/>176
@@ -18117,7 +18112,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_357.jpg" n="357" xml:id="img_0357"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_357.jpg" n="357" xml:id="img_357"/>
 
 	<fw facs="#facs_357_TextRegion_1643972782676_1140">
 		<lb facs="#facs_357_line_1625755121259_1318" n="N001"/>177
@@ -18184,7 +18179,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_358.jpg" n="358" xml:id="img_0358"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_358.jpg" n="358" xml:id="img_358"/>
 
 	<fw facs="#facs_358_TextRegion_1643972815506_1161">
 		<lb facs="#facs_358_line_1636137490076_540" n="N001"/>177
@@ -18258,7 +18253,7 @@ Julian: Summa wirklich durchgestrichen? JA
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_359.jpg" n="359" xml:id="img_0359"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_359.jpg" n="359" xml:id="img_359"/>
 
 	<fw facs="#facs_359_TextRegion_1643973278275_1193">
 		<lb facs="#facs_359_r1l2" n="N001"/>178
@@ -18346,7 +18341,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_360.jpg" n="360" xml:id="img_0360"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_360.jpg" n="360" xml:id="img_360"/>
 
 	<fw facs="#facs_360_TextRegion_1643973318872_1216">
 		<lb facs="#facs_360_r1l1" n="N001"/>178
@@ -18422,7 +18417,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_361.jpg" n="361" xml:id="img_0361"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_361.jpg" n="361" xml:id="img_361"/>
 
 	<fw facs="#facs_361_TextRegion_1644216763956_40">
 		<lb facs="#facs_361_r1l3" n="N001"/>179
@@ -18477,7 +18472,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_362.jpg" n="362" xml:id="img_0362"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_362.jpg" n="362" xml:id="img_362"/>
 
 	<fw facs="#facs_362_TextRegion_1644216802296_66">
 		<lb facs="#facs_362_r1l1" n="N001"/>179
@@ -18541,7 +18536,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_363.jpg" n="363" xml:id="img_0363"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_363.jpg" n="363" xml:id="img_363"/>
 
 	<fw facs="#facs_363_TextRegion_1644216830554_95">
 		<lb facs="#facs_363_r2l3" n="N001"/>180
@@ -18628,7 +18623,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_364.jpg" n="364" xml:id="img_0364"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_364.jpg" n="364" xml:id="img_364"/>
 
 	<fw facs="#facs_364_TextRegion_1644216856922_124">
 		<lb facs="#facs_364_r1l1" n="N001"/>180
@@ -18706,7 +18701,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_365.jpg" n="365" xml:id="img_0365"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_365.jpg" n="365" xml:id="img_365"/>
 
 	<fw facs="#facs_365_TextRegion_1644216893676_156">
 		<lb facs="#facs_365_r4l1" n="N001"/>181
@@ -18809,7 +18804,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_366.jpg" n="366" xml:id="img_0366"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_366.jpg" n="366" xml:id="img_366"/>
 
 	<fw facs="#facs_366_TextRegion_1644216948394_187">
 		<lb facs="#facs_366_r1l1" n="N001"/>181
@@ -18883,7 +18878,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_367.jpg" n="367" xml:id="img_0367"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_367.jpg" n="367" xml:id="img_367"/>
 
 	<fw facs="#facs_367_TextRegion_1644216976963_204">
 		<lb facs="#facs_367_line_1625820643196_10" n="N001"/>182
@@ -18924,7 +18919,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_368.jpg" n="368" xml:id="img_0368"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_368.jpg" n="368" xml:id="img_368"/>
 
 	<fw facs="#facs_368_TextRegion_1650968074767_2957">
 		<lb facs="#facs_368_r1l3" n="N001"/>182
@@ -19006,7 +19001,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_369.jpg" n="369" xml:id="img_0369"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_369.jpg" n="369" xml:id="img_369"/>
 
 	<fw facs="#facs_369_TextRegion_1644217083346_257">
 		<lb facs="#facs_369_r3l1" n="N001"/>183
@@ -19081,7 +19076,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_370.jpg" n="370" xml:id="img_0370"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_370.jpg" n="370" xml:id="img_370"/>
 
 	<fw facs="#facs_370_TextRegion_1644217110816_285">
 		<lb facs="#facs_370_r1l1" n="N001"/>183
@@ -19162,7 +19157,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_371.jpg" n="371" xml:id="img_0371"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_371.jpg" n="371" xml:id="img_371"/>
 
 	<fw facs="#facs_371_TextRegion_1644217140458_305">
 		<lb facs="#facs_371_line_1625821081073_285" n="N001"/>184
@@ -19231,7 +19226,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_372.jpg" n="372" xml:id="img_0372"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_372.jpg" n="372" xml:id="img_372"/>
 
 	<fw facs="#facs_372_TextRegion_1644217174595_339">
 		<lb facs="#facs_372_r1l1" n="N001"/>184
@@ -19314,7 +19309,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_373.jpg" n="373" xml:id="img_0373"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_373.jpg" n="373" xml:id="img_373"/>
 
 	<fw facs="#facs_373_TextRegion_1644217332334_363">
 		<lb facs="#facs_373_line_1625821330652_437" n="N001"/>185
@@ -19392,7 +19387,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_374.jpg" n="374" xml:id="img_0374"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_374.jpg" n="374" xml:id="img_374"/>
 
 	<fw facs="#facs_374_TextRegion_1644217373088_388">
 		<lb facs="#facs_374_r1l1" n="N001"/>185
@@ -19468,7 +19463,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_375.jpg" n="375" xml:id="img_0375"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_375.jpg" n="375" xml:id="img_375"/>
 
 	<fw facs="#facs_375_TextRegion_1644217408844_411">
 		<lb facs="#facs_375_line_1644217408904_414" n="N001"/>186
@@ -19551,7 +19546,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_376.jpg" n="376" xml:id="img_0376"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_376.jpg" n="376" xml:id="img_376"/>
 
 	<fw facs="#facs_376_TextRegion_1644217426876_421">
 		<lb facs="#facs_376_line_1644217426891_424" n="N001"/>186
@@ -19569,7 +19564,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_377.jpg" n="377" xml:id="img_0377"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_377.jpg" n="377" xml:id="img_377"/>
 
 	<fw facs="#facs_377_TextRegion_1644217463476_447">
 		<lb facs="#facs_377_line_1625821761088_717" n="N001"/>187
@@ -19654,7 +19649,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_378.jpg" n="378" xml:id="img_0378"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_378.jpg" n="378" xml:id="img_378"/>
 
 	<fw facs="#facs_378_TextRegion_1644217491638_463">
 		<lb facs="#facs_378_r1l1" n="N001"/>187
@@ -19710,7 +19705,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_379.jpg" n="379" xml:id="img_0379"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_379.jpg" n="379" xml:id="img_379"/>
 
 	<fw facs="#facs_379_TextRegion_1644217517071_481">
 		<lb facs="#facs_379_line_1625821950145_844" n="N001"/>188
@@ -19766,7 +19761,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_380.jpg" n="380" xml:id="img_0380"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_380.jpg" n="380" xml:id="img_380"/>
 
 	<fw facs="#facs_380_TextRegion_1644217534638_497">
 		<lb facs="#facs_380_r1l1" n="N001"/>188
@@ -19823,7 +19818,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_381.jpg" n="381" xml:id="img_0381"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_381.jpg" n="381" xml:id="img_381"/>
 
 	<fw facs="#facs_381_TextRegion_1644217568033_526">
 		<lb facs="#facs_381_r2l1" n="N001"/>189
@@ -19904,7 +19899,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_382.jpg" n="382" xml:id="img_0382"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_382.jpg" n="382" xml:id="img_382"/>
 
 	<fw facs="#facs_382_TextRegion_1644217594361_550">
 		<lb facs="#facs_382_r1l1" n="N001"/>189
@@ -19979,7 +19974,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_383.jpg" n="383" xml:id="img_0383"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_383.jpg" n="383" xml:id="img_383"/>
 
 	<fw facs="#facs_383_TextRegion_1644217621762_574">
 		<lb facs="#facs_383_line_1625822252636_1097" n="N001"/>190
@@ -20048,7 +20043,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_384.jpg" n="384" xml:id="img_0384"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_384.jpg" n="384" xml:id="img_384"/>
 
 	<fw facs="#facs_384_TextRegion_1644217646477_598">
 		<lb facs="#facs_384_r1l1" n="N001"/>190
@@ -20124,7 +20119,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_385.jpg" n="385" xml:id="img_0385"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_385.jpg" n="385" xml:id="img_385"/>
 
 	<fw facs="#facs_385_TextRegion_1644217673165_629">
 		<lb facs="#facs_385_r2l3" n="N001"/>191
@@ -20215,7 +20210,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_386.jpg" n="386" xml:id="img_0386"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_386.jpg" n="386" xml:id="img_386"/>
 
 	<fw facs="#facs_386_TextRegion_1644217700236_655">
 		<lb facs="#facs_386_r1l1" n="N001"/>191
@@ -20276,7 +20271,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_387.jpg" n="387" xml:id="img_0387"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_387.jpg" n="387" xml:id="img_387"/>
 
 	<fw facs="#facs_387_TextRegion_1644217733758_686">
 		<lb facs="#facs_387_line_1625822690234_1437" n="N001"/>192
@@ -20374,7 +20369,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_388.jpg" n="388" xml:id="img_0388"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_388.jpg" n="388" xml:id="img_388"/>
 
 	<fw facs="#facs_388_TextRegion_1644217765857_717">
 		<lb facs="#facs_388_r1l1" n="N001"/>192
@@ -20458,7 +20453,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_389.jpg" n="389" xml:id="img_0389"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_389.jpg" n="389" xml:id="img_389"/>
 
 	<fw facs="#facs_389_TextRegion_1644217794093_741">
 		<lb facs="#facs_389_r3l2" n="N001"/>193
@@ -20529,7 +20524,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_390.jpg" n="390" xml:id="img_0390"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_390.jpg" n="390" xml:id="img_390"/>
 
 	<fw facs="#facs_390_TextRegion_1644217828446_765">
 		<lb facs="#facs_390_r1l1" n="N001"/>193
@@ -20602,7 +20597,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_391.jpg" n="391" xml:id="img_0391"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_391.jpg" n="391" xml:id="img_391"/>
 
 	<fw facs="#facs_391_TextRegion_1644217856341_790">
 		<lb facs="#facs_391_r3l4" n="N001"/>194
@@ -20673,7 +20668,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_392.jpg" n="392" xml:id="img_0392"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_392.jpg" n="392" xml:id="img_392"/>
 
 	<fw facs="#facs_392_TextRegion_1644217882402_811">
 		<lb facs="#facs_392_r1l1" n="N001"/>194
@@ -20738,7 +20733,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_393.jpg" n="393" xml:id="img_0393"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_393.jpg" n="393" xml:id="img_393"/>
 
 	<fw facs="#facs_393_TextRegion_1644217909897_828">
 		<lb facs="#facs_393_line_1625824701992_1920" n="N001"/>195
@@ -20789,13 +20784,13 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_394.jpg" n="394" xml:id="img_0394"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_394.jpg" n="394" xml:id="img_394"/>
 
 	<fw facs="#facs_394_r1">
 		<lb facs="#facs_394_r1l1" n="N001"/>195
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_395.jpg" n="395" xml:id="img_0395"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_395.jpg" n="395" xml:id="img_395"/>
 
 	<fw facs="#facs_395_TextRegion_1644217940657_850">
 		<lb facs="#facs_395_r2l2" n="N001"/>196
@@ -20855,7 +20850,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_396.jpg" n="396" xml:id="img_0396"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_396.jpg" n="396" xml:id="img_396"/>
 
 	<fw facs="#facs_396_TextRegion_1644217959478_863">
 		<lb facs="#facs_396_r1l1" n="N001"/>196
@@ -20889,7 +20884,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_397.jpg" n="397" xml:id="img_0397"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_397.jpg" n="397" xml:id="img_397"/>
 
 	<fw facs="#facs_397_TextRegion_1644217989072_887">
 		<lb facs="#facs_397_r3l2" n="N001"/>197
@@ -20969,7 +20964,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_398.jpg" n="398" xml:id="img_0398"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_398.jpg" n="398" xml:id="img_398"/>
 
 	<fw facs="#facs_398_TextRegion_1644218016292_907">
 		<lb facs="#facs_398_r1l1" n="N001"/>197
@@ -21034,7 +21029,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_399.jpg" n="399" xml:id="img_0399"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_399.jpg" n="399" xml:id="img_399"/>
 
 	<fw facs="#facs_399_TextRegion_1644218037771_923">
 		<lb facs="#facs_399_r5l2" n="N001"/>198
@@ -21089,7 +21084,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_400.jpg" n="400" xml:id="img_0400"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_400.jpg" n="400" xml:id="img_400"/>
 
 	<fw facs="#facs_400_TextRegion_1644218059596_943">
 		<lb facs="#facs_400_line_1625825213337_2296" n="N001"/>198
@@ -21142,7 +21137,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_401.jpg" n="401" xml:id="img_0401"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_401.jpg" n="401" xml:id="img_401"/>
 
 	<fw facs="#facs_401_TextRegion_1644218106154_960">
 		<lb facs="#facs_401_r3l1" n="N001"/>199
@@ -21181,7 +21176,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_402.jpg" n="402" xml:id="img_0402"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_402.jpg" n="402" xml:id="img_402"/>
 
 	<fw facs="#facs_402_TextRegion_1644218130102_980">
 		<lb facs="#facs_402_r1l1" n="N001"/>199
@@ -21239,7 +21234,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_403.jpg" n="403" xml:id="img_0403"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_403.jpg" n="403" xml:id="img_403"/>
 
 	<fw facs="#facs_403_TextRegion_1644218156042_996">
 		<lb facs="#facs_403_line_1625825365596_2422" n="N001"/>200
@@ -21298,7 +21293,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_404.jpg" n="404" xml:id="img_0404"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_404.jpg" n="404" xml:id="img_404"/>
 
 	<fw facs="#facs_404_TextRegion_1644218172581_1008">
 		<lb facs="#facs_404_r1l1" n="N001"/>200
@@ -21332,7 +21327,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_405.jpg" n="405" xml:id="img_0405"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_405.jpg" n="405" xml:id="img_405"/>
 
 	<fw facs="#facs_405_TextRegion_1644218191300_1023">
 		<lb facs="#facs_405_line_1625825492000_2546" n="N001"/>201
@@ -21380,7 +21375,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_406.jpg" n="406" xml:id="img_0406"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_406.jpg" n="406" xml:id="img_406"/>
 
 	<fw facs="#facs_406_TextRegion_1644218262555_1036">
 		<lb facs="#facs_406_r1l1" n="N001"/>201
@@ -21429,7 +21424,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_407.jpg" n="407" xml:id="img_0407"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_407.jpg" n="407" xml:id="img_407"/>
 
 	<fw facs="#facs_407_TextRegion_1644218283487_1052">
 		<lb facs="#facs_407_line_1625825645608_2658" n="N001"/>202
@@ -21487,7 +21482,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_408.jpg" n="408" xml:id="img_0408"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_408.jpg" n="408" xml:id="img_408"/>
 
 	<fw facs="#facs_408_TextRegion_1644218322204_1072">
 		<lb facs="#facs_408_r1l1" n="N001"/>202
@@ -21550,7 +21545,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_409.jpg" n="409" xml:id="img_0409"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_409.jpg" n="409" xml:id="img_409"/>
 
 	<fw facs="#facs_409_TextRegion_1644218342344_1088">
 		<lb facs="#facs_409_line_1625825798555_2808" n="N001"/>203
@@ -21607,7 +21602,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_410.jpg" n="410" xml:id="img_0410"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_410.jpg" n="410" xml:id="img_410"/>
 
 	<fw facs="#facs_410_TextRegion_1644218362166_1104">
 		<lb facs="#facs_410_r1l1" n="N001"/>203
@@ -21654,7 +21649,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_411.jpg" n="411" xml:id="img_0411"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_411.jpg" n="411" xml:id="img_411"/>
 
 	<fw facs="#facs_411_TextRegion_1644218382419_1122">
 		<lb facs="#facs_411_r4l1" n="N001"/>204
@@ -21706,7 +21701,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_412.jpg" n="412" xml:id="img_0412"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_412.jpg" n="412" xml:id="img_412"/>
 
 	<fw facs="#facs_412_TextRegion_1644218405356_1139">
 		<lb facs="#facs_412_r1l1" n="N001"/>204
@@ -21767,7 +21762,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_413.jpg" n="413" xml:id="img_0413"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_413.jpg" n="413" xml:id="img_413"/>
 
 	<fw facs="#facs_413_TextRegion_1644218429727_1162">
 		<lb facs="#facs_413_line_1625826063137_3017" n="N001"/>205
@@ -21835,7 +21830,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_414.jpg" n="414" xml:id="img_0414"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_414.jpg" n="414" xml:id="img_414"/>
 
 	<fw facs="#facs_414_TextRegion_1644218448660_1179">
 		<lb facs="#facs_414_r1l1" n="N001"/>205
@@ -21894,7 +21889,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_415.jpg" n="415" xml:id="img_0415"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_415.jpg" n="415" xml:id="img_415"/>
 
 	<fw facs="#facs_415_TextRegion_1644218806023_1199">
 		<lb facs="#facs_415_line_1625826271105_3164" n="N001"/>206
@@ -21973,7 +21968,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_416.jpg" n="416" xml:id="img_0416"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_416.jpg" n="416" xml:id="img_416"/>
 
 	<fw facs="#facs_416_TextRegion_1644218836756_1212">
 		<lb facs="#facs_416_r1l1" n="N001"/>206
@@ -22000,7 +21995,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_417.jpg" n="417" xml:id="img_0417"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_417.jpg" n="417" xml:id="img_417"/>
 
 	<fw facs="#facs_417_TextRegion_1644218866193_1232">
 		<lb facs="#facs_417_line_1625826378263_3255" n="N001"/>207
@@ -22070,7 +22065,7 @@ wirklich durchgestrichen? JA, Einschub, der doch nicht richtig war
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_418.jpg" n="418" xml:id="img_0418"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_418.jpg" n="418" xml:id="img_418"/>
 
 	<fw facs="#facs_418_TextRegion_1644218895253_1256">
 		<lb facs="#facs_418_r1l1" n="N001"/>207
@@ -22140,7 +22135,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_419.jpg" n="419" xml:id="img_0419"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_419.jpg" n="419" xml:id="img_419"/>
 
 	<fw facs="#facs_419_TextRegion_1644218919618_1277">
 		<lb facs="#facs_419_line_1625826613979_3428" n="N001"/>208
@@ -22209,7 +22204,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_420.jpg" n="420" xml:id="img_0420"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_420.jpg" n="420" xml:id="img_420"/>
 
 	<fw facs="#facs_420_TextRegion_1644218950396_1313">
 		<lb facs="#facs_420_r1l1" n="N001"/>208
@@ -22304,7 +22299,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_421.jpg" n="421" xml:id="img_0421"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_421.jpg" n="421" xml:id="img_421"/>
 
 	<fw facs="#facs_421_TextRegion_1644218977006_1337">
 		<lb facs="#facs_421_r2l3" n="N001"/>209
@@ -22375,7 +22370,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_422.jpg" n="422" xml:id="img_0422"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_422.jpg" n="422" xml:id="img_422"/>
 
 	<fw facs="#facs_422_TextRegion_1644219006822_1362">
 		<lb facs="#facs_422_r1l1" n="N001"/>209
@@ -22444,7 +22439,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_423.jpg" n="423" xml:id="img_0423"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_423.jpg" n="423" xml:id="img_423"/>
 
 	<fw facs="#facs_423_TextRegion_1644219033988_1389">
 		<lb facs="#facs_423_r3l1" n="N001"/>210
@@ -22535,7 +22530,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_424.jpg" n="424" xml:id="img_0424"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_424.jpg" n="424" xml:id="img_424"/>
 
 	<fw facs="#facs_424_TextRegion_1644219061014_1418">
 		<lb facs="#facs_424_r1l1" n="N001"/>210
@@ -22622,7 +22617,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_425.jpg" n="425" xml:id="img_0425"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_425.jpg" n="425" xml:id="img_425"/>
 
 	<fw facs="#facs_425_TextRegion_1644219091003_1446">
 		<lb facs="#facs_425_r4l1" n="N001"/>211
@@ -22709,7 +22704,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_426.jpg" n="426" xml:id="img_0426"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_426.jpg" n="426" xml:id="img_426"/>
 
 	<fw facs="#facs_426_TextRegion_1644219115933_1470">
 		<lb facs="#facs_426_r1l1" n="N001"/>211
@@ -22789,7 +22784,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_427.jpg" n="427" xml:id="img_0427"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_427.jpg" n="427" xml:id="img_427"/>
 
 	<fw facs="#facs_427_TextRegion_1644219136233_1486">
 		<lb facs="#facs_427_line_1625828246845_4106" n="N001"/>212
@@ -22829,7 +22824,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_428.jpg" n="428" xml:id="img_0428"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_428.jpg" n="428" xml:id="img_428"/>
 
 	<fw facs="#facs_428_TextRegion_1644219167954_1506">
 		<lb facs="#facs_428_line_1625828326522_4176" n="N001"/>212
@@ -22889,7 +22884,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_429.jpg" n="429" xml:id="img_0429"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_429.jpg" n="429" xml:id="img_429"/>
 
 	<fw facs="#facs_429_TextRegion_1644219191409_1526">
 		<lb facs="#facs_429_line_1625830301464_4233" n="N001"/>213
@@ -22946,7 +22941,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_430.jpg" n="430" xml:id="img_0430"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_430.jpg" n="430" xml:id="img_430"/>
 
 	<fw facs="#facs_430_TextRegion_1644219216723_1550">
 		<lb facs="#facs_430_r1l1" n="N001"/>213
@@ -23016,7 +23011,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_431.jpg" n="431" xml:id="img_0431"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_431.jpg" n="431" xml:id="img_431"/>
 
 	<fw facs="#facs_431_TextRegion_1644219507349_1566">
 		<lb facs="#facs_431_r2l2" n="N001"/>214
@@ -23062,7 +23057,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_432.jpg" n="432" xml:id="img_0432"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_432.jpg" n="432" xml:id="img_432"/>
 
 	<fw facs="#facs_432_TextRegion_1644219535124_1586">
 		<lb facs="#facs_432_r1l1" n="N001"/>214
@@ -23129,7 +23124,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_433.jpg" n="433" xml:id="img_0433"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_433.jpg" n="433" xml:id="img_433"/>
 
 	<fw facs="#facs_433_TextRegion_1644219551753_1598">
 		<lb facs="#facs_433_r3l1" n="N001"/>215
@@ -23191,7 +23186,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_434.jpg" n="434" xml:id="img_0434"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_434.jpg" n="434" xml:id="img_434"/>
 
 	<fw facs="#facs_434_TextRegion_1644219575253_1618">
 		<lb facs="#facs_434_r1l1" n="N001"/>215
@@ -23253,7 +23248,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_435.jpg" n="435" xml:id="img_0435"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_435.jpg" n="435" xml:id="img_435"/>
 
 	<fw facs="#facs_435_TextRegion_1644219586948_1626">
 		<lb facs="#facs_435_line_1625830769854_4629" n="N001"/>216
@@ -23279,7 +23274,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_436.jpg" n="436" xml:id="img_0436"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_436.jpg" n="436" xml:id="img_436"/>
 
 	<fw facs="#facs_436_TextRegion_1644219607963_1642">
 		<lb facs="#facs_436_r1l1" n="N001"/>216
@@ -23344,7 +23339,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_437.jpg" n="437" xml:id="img_0437"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_437.jpg" n="437" xml:id="img_437"/>
 
 	<fw facs="#facs_437_TextRegion_1644219631364_1662">
 		<lb facs="#facs_437_line_1625831325069_4721" n="N001"/>217
@@ -23407,7 +23402,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_438.jpg" n="438" xml:id="img_0438"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_438.jpg" n="438" xml:id="img_438"/>
 
 	<fw facs="#facs_438_TextRegion_1644219653443_1678">
 		<lb facs="#facs_438_line_1644219653483_1681" n="N001"/>217
@@ -23456,7 +23451,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_439.jpg" n="439" xml:id="img_0439"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_439.jpg" n="439" xml:id="img_439"/>
 
 	<fw facs="#facs_439_TextRegion_1644219693754_1701">
 		<lb facs="#facs_439_r2l2" n="N001"/>218
@@ -23510,7 +23505,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_440.jpg" n="440" xml:id="img_0440"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_440.jpg" n="440" xml:id="img_440"/>
 
 	<fw facs="#facs_440_TextRegion_1644219717313_1714">
 		<lb facs="#facs_440_r1l1" n="N001"/>218
@@ -23556,53 +23551,53 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_441.jpg" n="441" xml:id="img_0441"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_441.jpg" n="441" xml:id="img_441"/>
 
 	<fw facs="#facs_441_r1">
 		<lb facs="#facs_441_line_1625831637065_4940" n="N001"/>219
 		<lb facs="#facs_441_line_1625831637065_4941" n="N002"/>CCxx
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_442.jpg" n="442" xml:id="img_0442"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_442.jpg" n="442" xml:id="img_442"/>
 
 	<fw facs="#facs_442_region_1625831654103_4948">
 		<lb facs="#facs_442_line_1625831654111_4951" n="N001"/>219
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_443.jpg" n="443" xml:id="img_0443"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_443.jpg" n="443" xml:id="img_443"/>
 
 	<fw facs="#facs_443_r1">
 		<lb facs="#facs_443_line_1625831669002_4960" n="N001"/>220
 		<lb facs="#facs_443_line_1625831669002_4961" n="N002"/>CCxxi
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_444.jpg" n="444" xml:id="img_0444"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_444.jpg" n="444" xml:id="img_444"/>
 
 	<fw facs="#facs_444_region_1625831685803_4968">
 		<lb facs="#facs_444_line_1625831685811_4971" n="N001"/>220
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_445.jpg" n="445" xml:id="img_0445"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_445.jpg" n="445" xml:id="img_445"/>
 
 	<fw facs="#facs_445_r1">
 		<lb facs="#facs_445_line_1625831698720_4980" n="N001"/>221
 		<lb facs="#facs_445_line_1625831698720_4981" n="N002"/>CCxxii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_446.jpg" n="446" xml:id="img_0446"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_446.jpg" n="446" xml:id="img_446"/>
 
 	<fw facs="#facs_446_r1">
 		<lb facs="#facs_446_r1l1" n="N001"/>221
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_447.jpg" n="447" xml:id="img_0447"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_447.jpg" n="447" xml:id="img_447"/>
 
 	<fw facs="#facs_447_TextRegion_1636143645039_1578">
 		<lb facs="#facs_447_r2l1" n="N001"/>222
 		<lb facs="#facs_447_r1l1" n="N002"/>CCxxiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_448.jpg" n="448" xml:id="img_0448"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_448.jpg" n="448" xml:id="img_448"/>
 
 	<fw facs="#facs_448_r1">
 		<lb facs="#facs_448_r1l1" n="N001"/>222
@@ -23611,7 +23606,7 @@ Julian: Summa wirklich durchgestrichen? JA
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_449.jpg" n="449" xml:id="img_0449"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_449.jpg" n="449" xml:id="img_449"/>
 
 	<fw facs="#facs_449_TextRegion_1644219817530_1758">
 		<lb facs="#facs_449_r1l2" n="N001"/>223
@@ -23675,7 +23670,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_450.jpg" n="450" xml:id="img_0450"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_450.jpg" n="450" xml:id="img_450"/>
 
 	<fw facs="#facs_450_TextRegion_1644219857309_1792">
 		<lb facs="#facs_450_line_1625831852364_5081" n="N001"/>223
@@ -23756,7 +23751,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_451.jpg" n="451" xml:id="img_0451"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_451.jpg" n="451" xml:id="img_451"/>
 
 	<fw facs="#facs_451_TextRegion_1644219885747_1815">
 		<lb facs="#facs_451_line_1625832044845_5176" n="N001"/>224
@@ -23822,7 +23817,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_452.jpg" n="452" xml:id="img_0452"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_452.jpg" n="452" xml:id="img_452"/>
 
 	<fw facs="#facs_452_TextRegion_1644219918634_1844">
 		<lb facs="#facs_452_r1l1" n="N001"/>224
@@ -23901,7 +23896,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_453.jpg" n="453" xml:id="img_0453"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_453.jpg" n="453" xml:id="img_453"/>
 
 	<fw facs="#facs_453_TextRegion_1644219931543_1856">
 		<lb facs="#facs_453_line_1625832167059_5306" n="N001"/>225
@@ -23932,7 +23927,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_454.jpg" n="454" xml:id="img_0454"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_454.jpg" n="454" xml:id="img_454"/>
 
 	<fw facs="#facs_454_TextRegion_1644219958193_1880">
 		<lb facs="#facs_454_r1l1" n="N001"/>225
@@ -24007,7 +24002,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_455.jpg" n="455" xml:id="img_0455"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_455.jpg" n="455" xml:id="img_455"/>
 
 	<fw facs="#facs_455_TextRegion_1644219979333_1896">
 		<lb facs="#facs_455_line_1625832301561_5436" n="N001"/>226
@@ -24060,7 +24055,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_456.jpg" n="456" xml:id="img_0456"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_456.jpg" n="456" xml:id="img_456"/>
 
 	<fw facs="#facs_456_TextRegion_1644220054628_1935">
 		<lb facs="#facs_456_r1l1" n="N001"/>226
@@ -24144,7 +24139,7 @@ Julian: Summa wirklich durchgestrichen? JA
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_457.jpg" n="457" xml:id="img_0457"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_457.jpg" n="457" xml:id="img_457"/>
 
 	<fw facs="#facs_457_TextRegion_1644220130034_1955">
 		<lb facs="#facs_457_r1l9" n="N001"/>227
@@ -24214,7 +24209,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_458.jpg" n="458" xml:id="img_0458"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_458.jpg" n="458" xml:id="img_458"/>
 
 	<fw facs="#facs_458_TextRegion_1644220156846_1977">
 		<lb facs="#facs_458_line_1636144131175_1693" n="N001"/>227
@@ -24285,7 +24280,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_459.jpg" n="459" xml:id="img_0459"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_459.jpg" n="459" xml:id="img_459"/>
 
 	<fw facs="#facs_459_TextRegion_1644220181236_1993">
 		<lb facs="#facs_459_r2l2" n="N001"/>228
@@ -24340,7 +24335,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_460.jpg" n="460" xml:id="img_0460"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_460.jpg" n="460" xml:id="img_460"/>
 
 	<fw facs="#facs_460_TextRegion_1644220210666_2013">
 		<lb facs="#facs_460_line_1636144201739_1721" n="N001"/>228
@@ -24406,7 +24401,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_461.jpg" n="461" xml:id="img_0461"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_461.jpg" n="461" xml:id="img_461"/>
 
 	<fw facs="#facs_461_TextRegion_1644220231536_2030">
 		<lb facs="#facs_461_r2l2" n="N001"/>229
@@ -24465,7 +24460,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_462.jpg" n="462" xml:id="img_0462"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_462.jpg" n="462" xml:id="img_462"/>
 
 	<fw facs="#facs_462_TextRegion_1644220257296_2046">
 		<lb facs="#facs_462_r1l1" n="N001"/>229
@@ -24532,7 +24527,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_463.jpg" n="463" xml:id="img_0463"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_463.jpg" n="463" xml:id="img_463"/>
 
 	<fw facs="#facs_463_TextRegion_1644220296646_2077">
 		<lb facs="#facs_463_r1l3" n="N001"/>230
@@ -24617,7 +24612,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_464.jpg" n="464" xml:id="img_0464"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_464.jpg" n="464" xml:id="img_464"/>
 
 	<fw facs="#facs_464_TextRegion_1644220326516_2106">
 		<lb facs="#facs_464_r1l1" n="N001"/>230
@@ -24703,7 +24698,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_465.jpg" n="465" xml:id="img_0465"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_465.jpg" n="465" xml:id="img_465"/>
 
 	<fw facs="#facs_465_TextRegion_1644220355166_2136">
 		<lb facs="#facs_465_r1l2" n="N001"/>231
@@ -24772,7 +24767,7 @@ Julian: Summa wirklich durchgestrichen? JA
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_466.jpg" n="466" xml:id="img_0466"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_466.jpg" n="466" xml:id="img_466"/>
 
 	<fw facs="#facs_466_TextRegion_1644220382954_2168">
 		<lb facs="#facs_466_r1l1" n="N001"/>231
@@ -24878,7 +24873,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</ab>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_467.jpg" n="467" xml:id="img_0467"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_467.jpg" n="467" xml:id="img_467"/>
 
 	<fw facs="#facs_467_TextRegion_1644220409516_2194">
 		<lb facs="#facs_467_r2l2" n="N001"/>232
@@ -24954,7 +24949,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_468.jpg" n="468" xml:id="img_0468"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_468.jpg" n="468" xml:id="img_468"/>
 
 	<fw facs="#facs_468_TextRegion_1644220441426_2214">
 		<lb facs="#facs_468_r1l1" n="N001"/>232
@@ -25016,7 +25011,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_469.jpg" n="469" xml:id="img_0469"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_469.jpg" n="469" xml:id="img_469"/>
 
 	<fw facs="#facs_469_TextRegion_1644220471067_2245">
 		<lb facs="#facs_469_r2l2" n="N001"/>223
@@ -25099,7 +25094,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_470.jpg" n="470" xml:id="img_0470"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_470.jpg" n="470" xml:id="img_470"/>
 
 	<fw facs="#facs_470_TextRegion_1644220497557_2274">
 		<lb facs="#facs_470_r1l1" n="N001"/>233
@@ -25178,7 +25173,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_471.jpg" n="471" xml:id="img_0471"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_471.jpg" n="471" xml:id="img_471"/>
 
 	<fw facs="#facs_471_TextRegion_1644220521876_2294">
 		<lb facs="#facs_471_r3l2" n="N001"/>234
@@ -25237,7 +25232,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_472.jpg" n="472" xml:id="img_0472"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_472.jpg" n="472" xml:id="img_472"/>
 
 	<fw facs="#facs_472_TextRegion_1644220543405_2310">
 		<lb facs="#facs_472_r1l1" n="N001"/>234
@@ -25298,7 +25293,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_473.jpg" n="473" xml:id="img_0473"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_473.jpg" n="473" xml:id="img_473"/>
 
 	<fw facs="#facs_473_TextRegion_1644220572196_2334">
 		<lb facs="#facs_473_r3l2" n="N001"/>235
@@ -25361,7 +25356,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_474.jpg" n="474" xml:id="img_0474"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_474.jpg" n="474" xml:id="img_474"/>
 
 	<fw facs="#facs_474_TextRegion_1644220594848_2354">
 		<lb facs="#facs_474_r1l1" n="N001"/>235
@@ -25429,7 +25424,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_475.jpg" n="475" xml:id="img_0475"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_475.jpg" n="475" xml:id="img_475"/>
 
 	<fw facs="#facs_475_TextRegion_1644220620986_2370">
 		<lb facs="#facs_475_r2l2" n="N001"/>236
@@ -25481,7 +25476,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_476.jpg" n="476" xml:id="img_0476"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_476.jpg" n="476" xml:id="img_476"/>
 
 	<fw facs="#facs_476_TextRegion_1644221060240_2390">
 		<lb facs="#facs_476_line_1644221060278_2393" n="N001"/>236
@@ -25539,7 +25534,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_477.jpg" n="477" xml:id="img_0477"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_477.jpg" n="477" xml:id="img_477"/>
 
 	<fw facs="#facs_477_TextRegion_1644221074654_2400">
 		<lb facs="#facs_477_r5l2" n="N001"/>237
@@ -25558,7 +25553,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_478.jpg" n="478" xml:id="img_0478"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_478.jpg" n="478" xml:id="img_478"/>
 
 	<fw facs="#facs_478_TextRegion_1644221103806_2420">
 		<lb facs="#facs_478_r1l1" n="N001"/>237
@@ -25616,7 +25611,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_479.jpg" n="479" xml:id="img_0479"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_479.jpg" n="479" xml:id="img_479"/>
 
 	<fw facs="#facs_479_TextRegion_1644221262901_2440">
 		<lb facs="#facs_479_r4l2" n="N001"/>238
@@ -25681,7 +25676,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_480.jpg" n="480" xml:id="img_0480"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_480.jpg" n="480" xml:id="img_480"/>
 
 	<fw facs="#facs_480_TextRegion_1644221293947_2462">
 		<lb facs="#facs_480_r1l1" n="N001"/>238
@@ -25738,7 +25733,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_481.jpg" n="481" xml:id="img_0481"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_481.jpg" n="481" xml:id="img_481"/>
 
 	<fw facs="#facs_481_TextRegion_1644221331323_2483">
 		<lb facs="#facs_481_r3l2" n="N001"/>239
@@ -25799,7 +25794,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_482.jpg" n="482" xml:id="img_0482"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_482.jpg" n="482" xml:id="img_482"/>
 
 	<fw facs="#facs_482_TextRegion_1644221360148_2499">
 		<lb facs="#facs_482_r1l1" n="N001"/>239
@@ -25857,7 +25852,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_483.jpg" n="483" xml:id="img_0483"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_483.jpg" n="483" xml:id="img_483"/>
 
 	<fw facs="#facs_483_TextRegion_1644221414424_2519">
 		<lb facs="#facs_483_r1l2" n="N001"/>240
@@ -25909,7 +25904,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_484.jpg" n="484" xml:id="img_0484"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_484.jpg" n="484" xml:id="img_484"/>
 
 	<fw facs="#facs_484_TextRegion_1644221441377_2540">
 		<lb facs="#facs_484_r1l1" n="N001"/>240
@@ -25964,7 +25959,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_485.jpg" n="485" xml:id="img_0485"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_485.jpg" n="485" xml:id="img_485"/>
 
 	<fw facs="#facs_485_TextRegion_1644221468521_2560">
 		<lb facs="#facs_485_r4l2" n="N001"/>241
@@ -26027,7 +26022,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_486.jpg" n="486" xml:id="img_0486"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_486.jpg" n="486" xml:id="img_486"/>
 
 	<fw facs="#facs_486_TextRegion_1644221587503_2572">
 		<lb facs="#facs_486_r1l1" n="N001"/>241
@@ -26063,66 +26058,66 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_487.jpg" n="487" xml:id="img_0487"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_487.jpg" n="487" xml:id="img_487"/>
 
 	<fw facs="#facs_487_r1">
 		<lb facs="#facs_487_r1l2" n="N001"/>242
 		<lb facs="#facs_487_r1l1" n="N002"/>CCxliii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_488.jpg" n="488" xml:id="img_0488"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_488.jpg" n="488" xml:id="img_488"/>
 
 	<fw facs="#facs_488_r1">
 		<lb facs="#facs_488_r1l1" n="N001"/>242
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_489.jpg" n="489" xml:id="img_0489"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_489.jpg" n="489" xml:id="img_489"/>
 
 	<fw facs="#facs_489_r1">
 		<lb facs="#facs_489_r1l2" n="N001"/>243
 		<lb facs="#facs_489_r1l1" n="N002"/>CCxliiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_490.jpg" n="490" xml:id="img_0490"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_490.jpg" n="490" xml:id="img_490"/>
 
 	<fw facs="#facs_490_region_1626171060372_687">
 		<lb facs="#facs_490_line_1626171060387_690" n="N001"/>243
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_491.jpg" n="491" xml:id="img_0491"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_491.jpg" n="491" xml:id="img_491"/>
 
 	<fw facs="#facs_491_r1">
 		<lb facs="#facs_491_r1l2" n="N001"/>244
 		<lb facs="#facs_491_r1l1" n="N002"/>CCxlv
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_492.jpg" n="492" xml:id="img_0492"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_492.jpg" n="492" xml:id="img_492"/>
 
 	<fw facs="#facs_492_region_1626171084774_704">
 		<lb facs="#facs_492_line_1626171084774_707" n="N001"/>244
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_493.jpg" n="493" xml:id="img_0493"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_493.jpg" n="493" xml:id="img_493"/>
 
 	<fw facs="#facs_493_r1">
 		<lb facs="#facs_493_r1l2" n="N001"/>245
 		<lb facs="#facs_493_r1l1" n="N002"/>CCxlvi
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_494.jpg" n="494" xml:id="img_0494"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_494.jpg" n="494" xml:id="img_494"/>
 
 	<fw facs="#facs_494_r1">
 		<lb facs="#facs_494_r1l1" n="N001"/>245
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_495.jpg" n="495" xml:id="img_0495"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_495.jpg" n="495" xml:id="img_495"/>
 
 	<fw facs="#facs_495_r1">
 		<lb facs="#facs_495_r1l2" n="N001"/>246
 		<lb facs="#facs_495_r1l1" n="N002"/>CCxlvii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_496.jpg" n="496" xml:id="img_0496"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_496.jpg" n="496" xml:id="img_496"/>
 
 	<fw facs="#facs_496_r1">
 		<lb facs="#facs_496_r1l1" n="N001"/>246
@@ -26131,7 +26126,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 </div>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_497.jpg" n="497" xml:id="img_0497"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_497.jpg" n="497" xml:id="img_497"/>
 
 	<fw facs="#facs_497_TextRegion_1644221756834_2631">
 		<lb facs="#facs_497_r2l7" n="N001"/>247
@@ -26214,7 +26209,7 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_498.jpg" n="498" xml:id="img_0498"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_498.jpg" n="498" xml:id="img_498"/>
 
 	<fw facs="#facs_498_TextRegion_1644221775500_2648">
 		<lb facs="#facs_498_r1l1" n="N001"/>247
@@ -26264,61 +26259,61 @@ Julian: wirklich durchgestrichen? aber was sollte es bedeuten? JA, und durchgest
 	</p>
 </div>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_499.jpg" n="499" xml:id="img_0499"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_499.jpg" n="499" xml:id="img_499"/>
 
 	<fw facs="#facs_499_r1">
 		<lb facs="#facs_499_r1l2" n="N001"/>248
 		<lb facs="#facs_499_r1l1" n="N002"/>CCxlviiii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_500.jpg" n="500" xml:id="img_0500"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_500.jpg" n="500" xml:id="img_500"/>
 
 	<fw facs="#facs_500_region_1626171346623_890">
 		<lb facs="#facs_500_line_1626171346623_893" n="N001"/>248
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_501.jpg" n="501" xml:id="img_0501"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_501.jpg" n="501" xml:id="img_501"/>
 
 	<fw facs="#facs_501_r1">
 		<lb facs="#facs_501_line_1626171363951_902" n="N001"/>249
 		<lb facs="#facs_501_line_1626171363951_903" n="N002"/>CCl
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_502.jpg" n="502" xml:id="img_0502"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_502.jpg" n="502" xml:id="img_502"/>
 
 	<fw facs="#facs_502_r1">
 		<lb facs="#facs_502_r1l1" n="N001"/>249
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_503.jpg" n="503" xml:id="img_0503"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_503.jpg" n="503" xml:id="img_503"/>
 
 	<fw facs="#facs_503_r1">
 		<lb facs="#facs_503_line_1626171388186_914" n="N001"/>250
 		<lb facs="#facs_503_line_1626171388186_915" n="N002"/>CCli
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_504.jpg" n="504" xml:id="img_0504"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_504.jpg" n="504" xml:id="img_504"/>
 
 	<fw facs="#facs_504_region_1626171405808_921">
 		<lb facs="#facs_504_line_1626171405824_924" n="N001"/>250
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_505.jpg" n="505" xml:id="img_0505"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_505.jpg" n="505" xml:id="img_505"/>
 
 	<fw facs="#facs_505_TextRegion_1636146928531_2134">
 		<lb facs="#facs_505_r2l1" n="N001"/>251
 		<lb facs="#facs_505_r1l1" n="N002"/>CClii
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_506.jpg" n="506" xml:id="img_0506"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_506.jpg" n="506" xml:id="img_506"/>
 
 	<fw facs="#facs_506_region_1626171445762_946">
 		<lb facs="#facs_506_line_1626171445762_949" n="N001"/>251
 	</fw>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_507.jpg" n="507" xml:id="img_0507"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_507.jpg" n="507" xml:id="img_507"/>
 
-	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_508.jpg" n="508" xml:id="img_0508"/>
+	<pb facs="WStLA_Grundbuch_Stadt_Wien_B1_6a_508.jpg" n="508" xml:id="img_508"/>
 
 </div>
 </div>
