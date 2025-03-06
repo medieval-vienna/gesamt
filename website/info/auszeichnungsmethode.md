@@ -37,7 +37,7 @@ Alle für uns relevanten Formularteile werden markiert, nicht weiter ausgewertet
 
 Die Reihenfolge der Slots variiert. Ein grundlegender Unterschied ist zwischen Kaufbuch und Gewerbüchern: 
 * Kaufbuch: Agnes verkauft ein Objekt (mit Lage und Nachbarn) an Veit und Barbara
-* Gewerbücher: Veit und Barbara erhalt ein Objekt (mit Lage und Nachbarn) mit Kauf von Agnes
+* Gewerbücher: Veit und Barbara erhalten ein Objekt (mit Lage und Nachbarn) mit Kauf von Agnes
 
 Aber auch darüber hinaus ist die Reihenfolge nicht fix. Die Daten-Auswertung muss damit umgehen können.
 
@@ -126,15 +126,20 @@ Markierungen für Floskeln und anderes Slots, die wir nicht weiter auswerten, si
 
 
 rechtliche Details des Hausbesitzes:
+```
 erⓣdoch also daz der egenant Kuncz alczeit ganczen gewalt sol haben mit dem egenant haws allen seinen frumen zuschaffen 
 ⓢfurbaser allen Irn frumen damit zeschaffen wie sew verlusst 
+```
 
+Die neuen Eigentümer können mit dem Haus machen, was sie wollen. Insbesondere liegen keine Hypotheken auf dem Haus.
+
+```
 ⒶMicheln dem freisleben ze Wienn Margrethen seiner hausfraw
 ⓡund ir baider erben
 ⓠoder welchs under in baiden das ander uberlebt
+```
 
-Also dass die neuen Eigentümer mit dem Haus machen können, was sie wollen. Insbesondere liegen keine Hypotheken auf dem Haus.
-
+Erbregelung
 
 ## Entscheidungen bei der Formular-Ansicht
 
@@ -311,7 +316,7 @@ Insbesondere die Markierung der Ereignisse ist auch bei mir noch experimentell. 
 Hainreich Stumphwegk der sneider und Anna sein hausfraw 
 habent emphangen nucz und gewer 
 
-dann wäre das 3Ⓐ, also das "an" des letzten Ereignisses.
+dann wäre das LⒶ, also das "an" des letzten Ereignisses.
 
 Es müssen nicht alle Zustände und Ereignisse explizit dastehen. Zum Beispiel kann dastehen "das Haus, das vorher X und seiner Frau Y gehört hat" oder "das X und seine Frau Y gekauft hatten". Beides bedeutet, dass der Eintrag davor hoffentlich geendet hat mit dem Zustand "X und Y besitzen das Haus". Aber auch die Schreiber wollten ja, dass man die Einträge später noch versteht. 
 
