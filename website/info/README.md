@@ -8,8 +8,13 @@ HOME
 
 Projekt
 * [Einführung](projekt.md)
-* [Wiener Grundbücher: Erläuterungen, Struktur, Aufbau](wiener-grundbuecher.md)
 * [Über uns](about.md)
+
+[Workflows](workflows.md)
+* [Transkription](transkription.md)
+* [Transkriptionsrichtlinien](transkriptionsrichtlinien.md)
+* [Formular-Erstellung](formular-erstellung.md)
+* [Extraktion der Daten](daten-extraktion.md)
 
 Edition
 * [über die Edition](edition.md)
@@ -24,12 +29,6 @@ Edition
 * [Formular-Ansicht](formular-ansicht.md)
 * [Häuser](haeuser.md)
 * [Personen](personen.md)
-
-[Workflows](workflows.md)
-* [Transkription](transkription.md)
-* [Transkriptionsrichtlinien](transkriptionsrichtlinien.md)
-* [Formular-Erstellung](formular-erstellung.md)
-* [Extraktion der Daten](daten-extraktion.md)
 
 [Hilfsmittel](hilfsmittel.md)
 * [Modell für Transkribus](modell.md)
