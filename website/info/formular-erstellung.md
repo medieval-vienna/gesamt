@@ -1,6 +1,6 @@
 # Formular-Erstellung
 
-Für die Auswertung muss die Formularsicht erstellt werden, also Formular-Slots und ihre Markierungen. Anschließend müssen die Angaben in den Slots normalisiert und mit kontrolliertem Vokabular und IDs versehen werden. Details zur Formularsicht und der Normalisierung [hier](auszeichnungsmethode.md).
+Für die Auswertung muss die Formular-Ansicht erstellt werden, also Formular-Slots und ihre Markierungen. Anschließend müssen die Angaben in den Slots normalisiert und mit kontrolliertem Vokabular und IDs versehen werden. Details zur Formular-Ansicht und der Normalisierung [hier](formular-ansicht.md).
 
 Die diplomatische Version und die Formularversion sind in getrennten Dateien. Mit einem Skript wird regelmäßig kontrolliert, ob der zugrundeliegende Text in beiden Dateien noch identisch ist. 
 

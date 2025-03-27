@@ -1,8 +1,8 @@
-# Über die Edition 
+# Über die Edition
 
 Die vorliegende Edition ist keine klassische diplomatische Edition, sondern eine sogenannte **Protoedition**: Der originale Text wird von uns zwar so gut wie möglich angenähert, aber wir legen keinen Wert auf diplomatische Genauigkeit. Stattdessen soll die Transkription es uns ermöglichen, alle für uns relevanten Informationen aus dem Text zu ziehen (siehe die [Transkriptionsrichtlinien](transkriptionsrichtlinien.md)). 
 
-In der Edition kann man neben der normalen Ansicht auch eine Formular-Ansicht auswählen. Details zur Formular-Ansicht sind [hier](auszeichnungsmethode.md). 
+In der Edition kann man neben der normalen Ansicht auch eine Formular-Ansicht auswählen. Details zur Formular-Ansicht sind [hier](formular-ansicht.md). 
 
 ## Die einzelnen Grundbücher
 
