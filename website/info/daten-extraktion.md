@@ -1,5 +1,7 @@
 # Extraktion der Daten
 
+TODO 
+
 ## Ortsangaben
 
 ## Datumsangaben
@@ -17,7 +19,7 @@ diplomatisch:
 <rs type="ereignis" ref="#kauf">mit kauf an Sy <lb facs="#facs_371_r2l9" n="N008"/>komen ist</rs></seg> 
 ```
 
-("commodity" ist eine nicht vorgesehene Verwendung dieses Attributs, aber wir haben noch kein eigenes MMV-spezifisches Attribut definiert.)
+(`@commodity` ist eine nicht vorgesehene Verwendung dieses Attributs, aber wir haben noch kein eigenes MMV-spezifisches Attribut definiert.)
 
 Formular:
 ```
