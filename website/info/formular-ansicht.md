@@ -1,7 +1,5 @@
 # Formular-Ansicht
 
-Dass die Grundbuch-Einträge grob einem Formular folgen, ist seit längerem bekannt. Die Idee, dies als Formular-Ansicht für eine Grundbuch-Edition umzusetzen, ist jedoch neu. Wir nennen die Formular-Ansicht und die Markierungen der Formular-Slots deshalb das _Berliner Modell_. 
-
 Grundlage für die Formular-Ansicht ist so weit wie möglich die _intendierte Textgestalt_. In der normalen Ansicht verwenden wir `<unclear>`, wenn etwas nicht sicher zu lesen ist, und `<del>`, wenn etwas vom Schreiber direkt beim Schreiben durchgestrichen wurde. In der Formular-Ansicht sind unklare Stelle in Klammern, durchgestrichene Stellen sind ganz weggelassen.
 
 ## Formular-Slots

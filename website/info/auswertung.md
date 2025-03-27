@@ -1,10 +1,8 @@
 # Auswertung
 
-Übersicht über die Daten-Auswertung
+TODO: Übersicht über die Daten-Auswertung
 
-## Warum Formular-Ansicht und nicht TEI
-
-Wir nennen die Formular-Ansicht und die Markierungen der Formular-Slots das "Berliner Modell".
+## Formular-Ansicht statt TEI
 
 Mit TEI kann man gut beschreiben, wie der Text aussieht, mit Seitenumbrüchen, Zeilenumbrüchen, durchgestrichenen Stellen etc. So wird der Text dann auch in der Edition angezeigt.
 
@@ -14,3 +12,4 @@ Für die Formularansicht wollten wir erreichen, dass der Text auch ohne XML-View
 ```
 irgendwie TEI-konform auszudrücken. 
 
+Dass die Grundbuch-Einträge grob einem Formular folgen, ist seit längerem bekannt. Die Idee, dies als Formular-Ansicht für eine Grundbuch-Edition umzusetzen, ist jedoch neu. Wir nennen die Formular-Ansicht und die Markierungen der Formular-Slots deshalb das _Berliner Modell_. 
