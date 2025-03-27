@@ -19,6 +19,6 @@ WStLA Einzelstück 2.1.2.1.B1.6b.2 - [Gewährbuch C](../edition/KB-E2_GB-C.xml?i
 * WStLA Einzelstück 2.1.2.1.B1.8 - [Gewährbuch E](../edition/GB-E.xml?id=img_0002)
 
 
-Kaufbuch E / E2  ist nach dem Anfangsbuchstaben des Verkäufer-Vornamens (_Agnes hat verkaufft_) und dann nach Jahr sortiert, Gewährbuch C ist direkt nach Jahr sortiert. In Gewährbuch D wurde die Sortierung des Kaufbuchs nach Anfangsbuchstaben übernommen, durch die Eintragsstruktur der Gewährbücher ergibt sich eine Sortierung nach Empfänger-Vornamen (_Anna ist nucz und gewer bracht worden_). Gewährbuch E ist dann wieder nach Jahr sortiert. 
+Kaufbuch E / E2  ist nach dem Anfangsbuchstaben des Verkäufer-Vornamens (_Agnes hat verkaufft_) und dann nach Jahr rubriziert, Gewährbuch C ist direkt nach Jahr sortiert. In Gewährbuch D wurde die Rubrizierung des Kaufbuchs nach Anfangsbuchstaben übernommen, durch die Eintragsstruktur der Gewährbücher ergibt sich eine Sortierung nach Empfänger-Vornamen (_Anna ist nucz und gewer bracht worden_). Weil die Schreiber gleich am Anfang abschätzen mussten, wieviel Platz für jeden Buchstaben benötigt wird, erwies sich diese Rubrizierung als unpraktisch: Bei manchen Rubriken mussten mehrmals neue Lagen eingebunden werden, bei anderen blieben viele Seiten leer. Gewährbuch E ist deshalb wieder nach Jahr sortiert. 
 
 Im Archiv ist Kaufbuch E (Buchstaben A bis R) einzeln gebunden, Kaufbuch E2 (Buchstaben S bis W) ist mit Gewährbuch C zu einem Band gebunden.
