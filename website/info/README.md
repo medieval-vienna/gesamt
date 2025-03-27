@@ -1,4 +1,6 @@
-# Struktur der Info-Seiten
+# Info-Seiten
+
+Beachte: Die Seiten sind unverändert wie auf der Website. Links zu den Grundbüchern führen deshalb nicht zur Edition, sondern zu den entsprechenden TEI-Dateien.
 
 ## Reiterstruktur auf der Startseite
 
