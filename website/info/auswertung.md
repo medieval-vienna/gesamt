@@ -1,6 +1,14 @@
 # Auswertung
 
-TODO: Übersicht über die Daten-Auswertung
+Voraussetzung für die Auswertung war ein maschinenlesbarer Text. Die [Transkription](transkription.md) der vier ausgewählten Grundbücher erfolgte unter Zuhilfenahme von Transkribus. Es war dabei nicht unser Anspruch, die Handschriften diplomatisch zu transkribieren, sondern den Text leichter lesbar, durchsuchbar und bearbeitbar zu machen. Beschrieben sind die Transkriptionsrichtlinien [hier](transkriptionsrichtlinien.md). 
+
+
+## Häuser in Wien
+
+Hauptziel des Projekts war es, die Besitzhistorie einer jeden im Grundbuch genannten Liegenschaft zu rekonstruieren und ihre ungefähre Lage auf dem Stadtplan zu ermitteln. Das Ergebnis finden Sie [hier](haeuser.md). 
+
+Die Herausforderung bestand vor allem darin, dass die Position einer Immobilie an einem Verkehrsweg über die benachbarten Objekte referenziert wird, da das Konzept der Hausnummer noch unbekannt war. Deswegen haben wir ein an das Formular der Grundbücher angelehntes Annotationsschema entwickelt, durch das die essenziellen Informationen für die Lösung des Häuserpuzzles erfasst werden können. Eine Beschreibung der Auszeichnungsmethode befindet sich hier [hier](formular-ansicht.md). 
+
 
 ## Formular-Ansicht statt TEI
 
