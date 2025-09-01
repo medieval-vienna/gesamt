@@ -2,20 +2,20 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title type="main">Kaufbuch E2 1420-1437</title>
+				<title type="main">Kaufbuch E2 1420-1437</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher></publisher>
 			</publicationStmt>
 			<seriesStmt>
-			    <title>Mapping Medieval Vienna</title>
+				<title>Mapping Medieval Vienna</title>
 			</seriesStmt>
 			<sourceDesc>
 				<bibl>
-				    <title type="main">Kaufbuch E2 1420-1437</title>
-				    <idno type="Transkribus">742508</idno>
-				    <idno type="external">NA</idno>
-			    </bibl>
+					<title type="main">Kaufbuch E2 1420-1437</title>
+					<idno type="Transkribus">742508</idno>
+					<idno type="external">NA</idno>
+				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
