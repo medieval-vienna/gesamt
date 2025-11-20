@@ -1,0 +1,1563 @@
+eintrag,haus,lage,jahr,hypothek,typen,std-geb,gebühr,verhältnis,std-preis,preis,original
+KB-E 005-1,keine_id,vor Werdertor,1420,,verkauf ,144,0.5 tl. 24 d.,120,72,72 tl.,umb zway und Sybenczig phunt Wienner phennig 
+KB-E 005-2,keine_id,vor Widmertor / Weidenstraße,1420,ja,verkauf ,52,52 d.,120,26,26 tl.,umb Sechs und zwainczig phunt Wienner phenning 
+KB-E 005-3,DB5012a,Tiefer Graben,1420,ja,verkauf ,20,20 d.,120,10,10 tl.,umb zehen phunt Wienner pehning  
+KB-E 005-4,DB5012a,Tiefer Graben,1420,,kredit ,16,16 d.,,,,
+KB-E 006-1,keine_id,Kernerstraße,1420,,überschreibung ,340,11 s. 10 d.,,,,
+KB-E 006-2,keine_id,Krugstraße,1420,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phunt Wienner phenning 
+KB-E 006-3,keine_id,Weihenburg,1420,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb funf und Sechczig phunt Wienner phenning  
+KB-E 007-1,keine_id,Laimgrube / vor Widmertor,1420,,verkauf ,29,29 d.,120,14.5,14.5 tl.,umb funfczehenthalb phunt Wienner phenning 
+KB-E 007-2,keine_id,Kernerstraße,1420,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning 
+KB-E 007-3,keine_id,Heumarkt / vor Kernertor,1421,,verkauf ,56,56 d.,120,28,28 tl.,umb Acht und zwainczig phunt phenning  
+KB-E 008-1,keine_id,Lichtensteg,1421,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zway hundert phunt Wienner phenning 
+KB-E 008-2,keine_id,Weihenburg,1421,,verkauf ,24,24 d.,120,12,12 tl.,umb zwelf phunt Wienner phenning 
+KB-E 008-3,keine_id,Kernerstraße,1421,,schenkung ,250,1 tl. 10 d.,,,,
+KB-E 009-1,keine_id,Greut / vor Stubentor,1421,ja,verkauf ,180,6 s.,120,90,90 tl.,umb Newnczig phunt Wienner phenning  
+KB-E 009-2,keine_id,St. Jakob / Viehhof,1421,,verkauft ,36,36 d.,120,18,18 tl.,umb achczehen phunt Wienner phenning 
+KB-E 009-3,keine_id,Pippingerstraße,1421,,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning 
+KB-E 010-1,DB0047,#Alserstraße / vor Schottentor,1421,ja,verkauf ,84,84 d.,120,42,42 tl. 60 d.,umb zway und virczicg phunt und umb sechtzig Wienner phenning 
+KB-E 010-2,DB0047,#Alserstraße / vor Schottentor,1421,,verkauf ,,0 d.,,42,42 tl. 60 d.,umb zway und d virczigk pfunt Wienner pfenning und sechczig pfenning derselben Munss 
+KB-E 010-3,keine_id,Greut / vor Stubentor,1421,ja,verkauf ,48,48 d.,120,24,24 tl.,umb vier und zwainczigk phunt Wienner phenning 
+KB-E 011-1,keine_id,Predigerfreithof,1421,,verkauf ,700,2.5 tl. 3 s. 10 d.,120,350,350 tl.,umb drewhundert und funfczig phunt Wienner phenning 
+KB-E 011-2,DB6000,Scheffstraße / vor Stubentor,1422,ja,schenkung ,8,8 d.,120,4,4 tl.,umb vier phunt Wienner phenning 
+KB-E 011-3,keine_id,vor Stubentor,1422,,überschreibung ,90,3 s.,,,,
+KB-E 011-4,keine_id,unter den langen Tuchlauben,1422,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phunt Wienner phenning  
+KB-E 012-1,keine_id,vor Kernertor,1422,,überschreibung ,98,98 d.,,,,
+KB-E 012-2,keine_id,Peurertor,1422,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb funf und Sechczig phunt Wienner phenning 
+KB-E 012-3,keine_id,Himmelpforten,1422,ja,verkauf ,34,34 d.,120,17,17 tl.,umb Sibenczehen phunt Wienner phenning  
+KB-E 013-1,keine_id,Weihenburg,1422,,verkauf ,32,32 d.,120,16,16 tl.,umb sechczehen phunt Wienner phenning 
+KB-E 013-2,keine_id,Petersfreithof,1422,,verkauf ,30,30 d.,120,15,15 tl.,umb funfczehen phunt Wienner phenning  
+KB-E 013-3,DB0001,Neulucke / vor Widmertor,1422,,verkauf ,48,48 d.,120,24,24 tl.,umb vier und zwainczig phunt Wienner phenning 
+KB-E 013-4,DB5240,Wiltwerkerstraße,1422,,verkauf ,154,5 s. 4 d.,120,77,77 tl.,umb lxxvii tl. d.  
+KB-E 013-5,keine_id,Traibotenstraße,1422,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d. 
+KB-E 014-1,keine_id,Preidenstraße,1423,,überschreibung ,480,2 tl.,,,,
+KB-E 014-2,keine_id,Predigerfreithof,1423,,,730,3 tl. 10 d.,120,365,365 tl.,umb drewhundert und funfund Sechczig pfunt Wienner phenning  
+KB-E 014-3,keine_id,Singerstraße,1423,,verkauf ,384,12 s. 24 d.,120,192,192 tl.,umb hundert und zway undNewmczig pfunt Wienner pfenning  
+KB-E 014-4,DB6000,Rosstränke / Scheffstraße,1423,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 014-5,keine_id,Salzgries,1423,,verkauf ,150,5 s.,240,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 015-1,keine_id,Kernerstraße,1423,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb hundert und xxx tl. Wienner phenning  
+KB-E 015-2,keine_id,Singerstraße,1423,,verkauf ,,6 s. ?,,90,90 tl.,umb lxxxx tl. d.  
+KB-E 015-3,DB7001,Würffel,1423,,verkauf ,442,14 s. 22 d.,120,221,221 tl.,umb iiᶜ und xxi tl. phenning  
+KB-E 015-4,keine_id,vor Werdertor,1423,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 015-5,keine_id,Petersfreithof / Schottengrund*,1423,,verkauf ,,,,6,6 tl.,umb vi tl. d.  
+KB-E 016-1,keine_id,Kienmarkt,1423,,verkauf ,330,11 s.,120,165,165 tl.,umb hundert und funnfundSechczig pfunt Wienner phenning  
+KB-E 016-2,keine_id,Preidenstraße,1423,,verkauf ,540,18 s.,120,270,270 tl.,umb iiᶜ lxx tl. d. 
+KB-E 016-3,DB1057,Wiltwerkerstraße,1423,,verkauf ,460,15 s. 10 d.,120,230,230 tl.,umb iiᶜ xxx tl. d. 
+KB-E 016-4,keine_id,Stephansfreithof,1423,ja,,180,6 s.,,,,
+KB-E 016-5,keine_id,Kernerstraße,1423,,verkauf ,218,7 s. 8 d.,120,109,109 tl.,umb hundert newn pfunt d.  
+KB-E 017-1,keine_id,vor Kernertor,1424,ja,verkauf ,20,20 d.,1200,100,100 tl.,umb iᶜ tl. Wienner phenning  
+KB-E 017-2,keine_id,Alter Fleischmarkt,1424,,überschreibung ,450,15 s.,,,,
+KB-E 017-3,DB7028,Kernerstraße,1424,,verkauf ,1700,7 tl. 20 d.,35,250,250 tl.,umb dritthalb hundert phund Wienner phenning  
+KB-E 017-4,keine_id,Laimgrube / vor Widmertor,1424,,verkauf ,41,41 d.,120,20.5,20.5 tl.,umb xx tl. und ½ tl. d.  
+KB-E 017-5,keine_id,Wollzeile,1424,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. Wienner phenning  
+KB-E 018-1,keine_id,unter den Goldschmieden,1424,ja,verkauf ,420,14 s.,120,210,210 tl.,umb iiᶜ und x tl. d.  
+KB-E 018-2,keine_id,bei den Predigern,1424,,verkauf ,72,72 d.,121,36.5,36.5 tl.,umb xxxvi½ tl. Wienner phenning  
+KB-E 018-3,DB5486a,unter den langen Tuchlauben,1424,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. Wienner phenning  
+KB-E 018-4,keine_id,unter den Lederern / vor Werdertor,1425,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 018-5,keine_id,Ratstraße,1425,,verkauf ,,,,260,260 tl.,umb iiᶜ und lx tl. d.  
+KB-E 019-1,keine_id,Walichstraße,1425,,überschreibung ,120,0.5 tl.,,,,
+KB-E 019-2,keine_id,Traibotenstraße,1425,ja,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 019-3,keine_id,Münzerstraße,1426,,überschreibung ,1000,4 tl. 40 d.,,,,
+KB-E 019-4,keine_id,Laimgrube / vor Widmertor,1426,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 020-1,keine_id,Kernerstraße,1426,ja,verkauf ,68,68 d.,211,60,45 G,umb xlv guldein  
+KB-E 020-2,DB5230,Wiltwerkerstraße,1426,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. d.  
+KB-E 020-3,keine_id,Teinfaltstraße,1427,,verkauf ,14,14 d.,128,7.5,7.5 tl.,umb vii½ tl. d.  
+KB-E 020-4,keine_id,Alter Kohlmarkt,1427,,schenkung ,100,3 s. 10 d.,,,,
+KB-E 021-1,keine_id,St. Johannsstraße,1427,ja,verkauf ,134,0.5 tl. 14 d.,120,67,67 tl.,umb lxvii tl. d.  
+KB-E 021-2,keine_id,Greut / vor Stubentor,1427,,verkauf ,74,74 d.,126,39,39 tl.,umb xxxviiii tl. d.  
+KB-E 021-3,keine_id,vor Stubentor,1427,ja,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 021-4,keine_id,Singerstraße,1427,,verkauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. d.  
+KB-E 021-5,keine_id,Domprobsthof / Petersfreithof,1428,,verkauf ,200,6 s. 20 d.,132,110,110 tl.,umb iᶜ und x tl. d.  
+KB-E 022-1,keine_id,Schulstraße,1428,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb iᶜ und lx tl. d.  
+KB-E 022-2,keine_id,Haarmarkt,1428,,verkauf ,1600,6 tl. 5 s. 10 d.,120,800,800 tl.,umb viiiᶜ tl. d.  
+KB-E 022-3,keine_id,unter den Lederern / vor Werdertor,1428,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d. 
+KB-E 022-4,keine_id,St. Johannsstraße,1428,ja,verkauf ,94,3 s. 4 d.,120,47,47 tl.,umb xlvii tl. d. 
+KB-E 022-5,keine_id,vor Werdertor,1428,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und achtzig phunt phenning  
+KB-E 022-6,keine_id,Raubergäßchen / St. Stephan,1428,,verkauf ,360,12 s.,120,180,180 tl.,umb iᶜ und lxxx tl. d. 
+KB-E 023-1,keine_id,Alter Kohlmarkt,1429,,verkauf ,560,18 s. 20 d.,124,290,290 tl.,umb iiᶜ und lxxxx tl. d. 
+KB-E 023-2,keine_id,Krugstraße,1429,ja,verkauf ,,,,15,15 tl.,umb xv tl. d. 
+KB-E 023-3,keine_id,Krugstraße,1429,,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d. 
+KB-E 023-4,DB5240,Wiltwerkerstraße,1429,,verkauf ,162,5 s. 12 d.,120,81,81 tl.,umb lxxxi tl.  
+KB-E 023-5,keine_id,Walichstraße,1439,,verkauf ,228,7 s. 18 d.,120,114,114 tl.,umb hundert und xiiii tl. d.  
+KB-E 023-6,keine_id,Katerlucke,1429,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl. d. 
+KB-E 024-1,keine_id,Wollzeile,1429,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. d. 
+KB-E 024-2,DB6000,Scheffstraße,1429,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb hundert und lxx tl. d. 
+KB-E 024-3,DB0077a,Bognergasse,1429,,verkauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. Wiener pfenning 
+KB-E 024-4,DB0030,Alserstraße / vor Schottentor,1429,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. Wienner pfenning 
+KB-E 025-1,keine_id,Singerstraße,1430,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d. 
+KB-E 025-2,DB0002,Neulucke / vor Widmertor,1430,ja,verkauf ,62,62 d.,120,31,31 tl.,umb xxxi tl. d. 
+KB-E 025-3,keine_id,vor Stubentor,1430,,verkauf ,186,6 s. 6 d.,120,93,93 tl.,umb lxxxxiii tl. d. 
+KB-E 025-4,DB0123,hinter St. Pankraz,1430,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert tl. phenning  
+KB-E 026-1,keine_id,vor Widmertor,1430,ja,verkauf ,300,10 s.,160,200,200 tl.,umb iiᶜ tl. Wienner d. 
+KB-E 026-2,keine_id,Bürgerspital / vor Kernertor,1430,ja,verkauf ,166,5 s. 16 d.,120,83,83 tl.,umb lxxxiii phunt Wienner phenning 
+KB-E 026-3,DB6000,Scheffstraße,1430,ja,verkauf ,106,3 s. 16 d.,120,53,53 tl.,umb liii tl. d. 
+KB-E 026-4,DB6000,Scheffstraße,1430,,verkauf ,106,3 s. 16 d.,120,53,53 tl. 6 s.,umb liii tl. und vi s. d.  
+KB-E 027-1,DB1021,Wiltwerkerstraße,1430,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. Wienner phenning 
+KB-E 027-2,keine_id,Graben,1430,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. Wienner d.  
+KB-E 027-3,keine_id,Fischerstiege,1430,,verkauf ,540,18 s.,120,270,270 tl.,umb zwayhundert und Sybenczig phunt phenning  
+KB-E 028-1,keine_id,Fischerstiege,1430,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 028-2,keine_id,Fischerstiege,1430,,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. d.  
+KB-E 029-1,DB0002,Neulucke / vor Widmertor,1430,ja,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 029-2,DB0044,Alserstraße / vor Schottentor,1431,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 029-3,keine_id,Kienmarkt,1431,ja,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. Wienner d. 
+KB-E 030-1,DB5131,hinter St. Pankraz,1431,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E 030-2,DB5489,unter den langen Tuchlauben,1431,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 031-1,keine_id,Neunburgerstraße / vor Schottentor,1431,,verkauf ,32,32 d.,240,32,32 tl.,umb xxxii tl. d.  
+KB-E 032-1,keine_id,Petersfreithof,1432,,überschreibung ,1200,5 tl.,,,,
+KB-E 032-2,DB5205,Judengasse,1432,,verkauf ,510,17 s.,122,260,260 tl.,umb iiᶜ und lx tl. d. 
+KB-E 033-1,keine_id,Alter Kohlmarkt,1432,,überschreibung ,90,3 s.,,,,
+KB-E 033-2,keine_id,Münzerstraße,1432,,überschreibung ,480,2 tl.,,,,
+KB-E 034-1,keine_id,St. Johannsstraße,1433,,verkauf ,104,3 s. 14 d.,120,52,52 tl.,umb lii tl. d.  
+KB-E 034-2,keine_id,Brandstätte / Stephansfreithof,1433,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb ii½ᶜ tl. d.  
+KB-E 034-3,DB1022,Wiltwerkerstraße,1432,,verkauf ,610,2.5 tl. 10 d.,120,305,305 tl.,umb iiiᶜ v tl. d. 
+KB-E 035-1,keine_id,Graben,1433,,verkauf ,1440,6 tl.,133,800,800 tl.,umb viiiᶜ tl. Wienner d.  
+KB-E 035-2,DB0004,Neulucke / vor Widmertor,1433,,verkauf ,36,36 d.,126,19,19 tl.,umb xviiii tl. d.  
+KB-E 035-3,keine_id,vordere Peckenstraße,1433,,verkauf ,300,10 s.,240,300,300 tl.,umb iiiᶜ tl. Wienner d.  
+KB-E 036-1,DB9001,Alter Rossmarkt,1433,,,690,2 tl. 7 s.,69,200,200 tl.,umb cc tl. d.  
+KB-E 037-1,keine_id,Peckenstraße,1434,,überschreibung ,720,3 tl.,,,,
+KB-E 038-1,keine_id,unter den Goldschmieden,1434,,überschreibung ,80,80 d.,,,,
+KB-E 038-2,keine_id,Alter Kohlmarkt,1434,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 038-3,keine_id,unter den Goldschmieden,1434,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 039-1,keine_id,Roter Turm,1434,,verkauf ,800,3 tl. 80 d.,120,400.0,400 tl. / 400 tl.,umb iiiiᶜ tl. d.  umb iiiiᶜ tl. Wienner phenning  
+KB-E 039-2,keine_id,St. Stephan,1434,,verkauf ,420,14 s.,120,210,210 tl.,umb cc x tl. d.  
+KB-E 039-3,keine_id,Preidenstraße,1434,,verkauf ,300,10 s.,128,160,160 tl.,umb Clx tl. d.  
+KB-E 040-1,keine_id,Alter Kohlmarkt,1434,ja,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb hundert und sechczig phunt pfenning  
+KB-E 040-2,DB5220,Hohe Brücke / Wiltwerkerstraße,1434,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drewhundert phunt phenning  
+KB-E 040-3,keine_id,Greut / vor Stubentor,1434,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 041-1,keine_id,vor Stubentor,1434,,schenkung ,80,80 d.,,,,
+KB-E 041-2,keine_id,Laimgrube / vor Widmertor,1434,ja,verkauf ,22,22 d.,120,11,11 tl.,umb xi tl. d.  
+KB-E 041-3,keine_id,Neuer Markt,1434,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 043-1,keine_id,Graben,1435,,verkauf ,,,,300,300 tl.,umb ccc tl. d.  
+KB-E 043-2,keine_id,Rotgasse,1435,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 043-3,keine_id,Graben,1435,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb ccc tl. d.  
+KB-E 043-4,DB0075,Bognergasse,1435,ja,,,,,60,60 tl.,umb lx tl. d.  
+KB-E 044-1,keine_id,Alter Rossmarkt / unter den Schlossern,1435,ja,schenkung ,58,58 d.,,,,
+KB-E 044-2,keine_id,Stadtgraben / vor Widmertor,1435,ja,verkauf ,28,28 d.,120,14,14 tl. 6 s.,umb xiiii tl. vi s. d.  
+KB-E 044-3,keine_id,vor Werdertor,1435,,verkauf ,31,31 d.,120,15.5,15.5 tl.,umb xv½ tl. d.  
+KB-E 045-1,keine_id,Alter Kohlmarkt / #St. Michael,1435,,überschreibung ,200,6 s. 20 d.,,,,
+KB-E 045-2,keine_id,Laurenzerinnen / unter den Hafnern,1436,,,90,3 s.,,,,
+KB-E 045-3,keine_id,Pippingerstraße,1436,,überschreibung ,26,26 d.,,,,
+KB-E 046-1,DB1025,Schulhof,1436,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 046-2,keine_id,Münzerstraße,1436,,,400,13 s. 10 d.,121,203,203 tl.,umb cc iii tl. d.  
+KB-E 047-1,keine_id,Rosengasse / Teinfaltstraße,1436,,verkauf ,18,18 d.,120,9,9 tl.,umb Newn phunt Wienner phenning  
+KB-E 047-2,DB0111,Haarhof / hinter St. Pankraz,1436,,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. Wienner d.  
+KB-E 047-3,keine_id,Alter Fleischmarkt,1436,,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. Wienner d.  
+KB-E 048-1,DB0033,Alserstraße / vor Schottentor,1436,,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. d.  
+KB-E 048-2,keine_id,vor Werdertor,1437,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 048-3,keine_id,Alter Fleischmarkt,1437,,verkauf ,656,2 tl. 5 s. 26 d.,120,328,328 tl.,umb iiiᶜ xxviii tl. Wienner d.  
+KB-E 049-1,keine_id,Neuer Markt,1437,,verkauf ,210,7 s.,120,105,105 tl.,umb C und v tl. d.  
+KB-E 049-2,DB1005,Am Hof / Lederhof,1437,ja,verkauf ,18,18 d.,266,20,20 tl.,umb xx tl. d.  
+KB-E 049-3,keine_id,unter den Fischern / vor Werdertor,1437,,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl. Wienner d.  
+KB-E 049-4,keine_id,Riemergasse,1437,,verkauf ,48,48 d.,125,25,25 tl.,umb xxv tl. Wienner d.  
+KB-E 050-1,DB5118,hinter St. Pankraz,1437,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 057-1,keine_id,unter den langen Tuchlauben,1421,,verkauf ,84,84 d.,120,42,42 tl.,umb zway und virczig phunt Wienner phenning  
+KB-E 057-2,keine_id,Kienmarkt,1421,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achtzig phunt Wienner phenning  
+KB-E 057-3,keine_id,Roter Turm,1424,,verkauf ,168,5 s. 18 d.,120,84,84 tl.,umb lxxxiiii tl. d.  
+KB-E 058-1,keine_id,Alter Fleischmarkt,1425,,verkauf ,156,5 s. 6 d.,120,78,78 tl.,umb lxxviii tl. d.  
+KB-E 058-2,keine_id,Würffel,1427,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb lxxxviii tl. d.  
+KB-E 058-3,keine_id,Kernerstraße,1428,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl.  
+KB-E 059-1,DB0044,Alserstraße / vor Schottentor,1429,ja,verkauf ,16,16 d.,120,8,8 tl.,umb viii tl. d.  
+KB-E 059-2,keine_id,Traibotenstraße,1430,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 059-3,keine_id,Hochstraße,1431,,verkauf ,238,7 s. 28 d.,125,124,124 tl.,umb cxxiiii tl. d.  
+KB-E 060-1,keine_id,hintere Peckenstraße,1432,,verkauf ,530,2 tl. 50 d.,120,265,265 tl.,umb cclxv tl. d.  
+KB-E 061-1,keine_id,Hochstraße,1433,,verkauf ,240,1 tl.,132,132,132 tl.,umb C xxxii tl. d.  
+KB-E 061-2,keine_id,Kernerstraße,1433,,verkauf ,460,15 s. 10 d.,120,230,230 tl.,umb zway hundert und dreissig phunt Wienner phenning  
+KB-E 061-3,DB9003,Graben,1433,,,510,17 s.,,,,
+KB-E 062-1,keine_id,Schenkenstraße,1434,ja,überschreibung ,50,50 d.,,,,
+KB-E 062-2,keine_id,St. Johannsstraße,1435,,,,,,200,200 tl.,umb cc tl. d.  
+KB-E 063-1,keine_id,unter den Hafnern,1435,,,120,0.5 tl.,,,,
+KB-E 063-2,keine_id,Alter Fleischmarkt,1436,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 063-3,keine_id,Domprobsthof,1436,ja,verkauf ,470,15 s. 20 d.,120,235,235 tl.,umb ccxxxv tl. d.  
+KB-E 064-1,keine_id,Alter Fleischmarkt,1437,,verkauf ,,,,450,450 tl.,umb funfthalbhundert phunt Wienner d.  
+KB-E 065-1,keine_id,St. Johannsstraße,1420,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczigk phunt Wienner phenning  
+KB-E 065-2,keine_id,Fischhof,1420,,verkauf ,760,3 tl. 40 d.,120,380,380 tl.,umb drew hundert und Achtczig phunt Wienner phenning  
+KB-E 065-3,keine_id,auf dem Steig / Roter Turm,1420,,verkauf ,130,0.5 tl. 10 d.,,,na,umb ain Sum gelts  
+KB-E 067-1,keine_id,,1421,,,50,50 d.,,,,
+KB-E 067-2,keine_id,Kernerstraße,1421,,überschreibung ,720,3 tl.,,,,
+KB-E 067-3,keine_id,St. Stephan,1421,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczigk phunt Wienner phenning  
+KB-E 068-1,keine_id,Kernerstraße,1422,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb Sibenczig phunt Wienner phenning  
+KB-E 068-2,keine_id,Graben,1422,ja,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczig phunt Wienner phenning  
+KB-E 069-1,keine_id,Mentlerstraße,1422,,verkauf ,56,56 d.,120,28,28 tl.,umb Achtundzwainczigk phunt Wienner phenning  
+KB-E 069-2,DB6000,Scheffstraße / vor Stubentor,1422,,verkauf ,128,0.5 tl. 8 d.,120,64,64 tl.,umb vierundSechczig phunt Wienner phenning  
+KB-E 069-3,keine_id,Singerstraße,1422,ja,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb hundert und lxx tl. d.  
+KB-E 069-4,keine_id,Domprobsthof,1423,,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl. Wienner phenning  
+KB-E 070-1,DB5327,Judengasse,1423,,verkauf ,300,10 s.,240,300,300 tl.,umb drewhundert pfunt Wienner pfenning  
+KB-E 070-2,DB1048,Badstube zu den Röhren,1423,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner pfenning  
+KB-E 070-3,DB5031,Schiltergasse,1423,,verkauf ,216,7 s. 6 d.,120,108,108 tl.,umb hundert und Acht pfunt Wienner pfenning  
+KB-E 070-4,keine_id,Himmelpforten,1423,ja,verkauf ,,,,22,22 tl.,umb xxii tl. d.  
+KB-E 070-5,keine_id,vor Werdertor,1423,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 070-6,DB5345,Weiße Brüder,1423,,verkauf ,200,6 s. 20 d.,240,200,200 tl.,umb iiᶜ tl.  
+KB-E 071-1,DB1060,Wiltwerkerstraße,1423,,verkauf ,300,10 s.,212,266,200 G,umb zwayhundert guldein 
+KB-E 071-2,DB0112,Haarhof / hinter St. Pankraz,1423,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 071-3,DB1014,Hofgasse,1423,,verkauf ,360,12 s.,120,180,180 tl.,umb C lxxx tl. d.  
+KB-E 071-4,DB1056,Judengasse / Judenplatz,1423,,verkauf ,480,2 tl.,120,240,240 tl.,umb iiᶜ und xl tl. Wienner phenning  
+KB-E 071-5,DB1038,Judengasse / Judenplatz,1423,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. Wienner pfenning  
+KB-E 071-6,keine_id,hintere Peckenstraße,1423,,verkauf ,262,1 tl. 22 d.,120,131,131 tl.,umb C xxxi tl.  
+KB-E 072-1,DB1057,Judenplatz / Wiltwerkerstraße,1423,,verkauf ,160,5 s. 10 d.,240,160,160 tl.,umb iᶜ lx tl. d.  
+KB-E 072-2,DB0124,hinter St. Pankraz,1423,ja,verkauf ,58,58 d.,120,29,29 tl.,umb xxviiii tl.  
+KB-E 072-3,keine_id,Roter Turm,1423,ja,kredit ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E 072-4,DB1040,Weiße Brüder,1423,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb iᶜ xl tl. d.  
+KB-E 072-5,DB5201a,Wiltwerkerstraße,1423,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funf phund phenning  
+KB-E 073-1,keine_id,Singerstraße,1424,,überschreibung ,,,,,,
+KB-E 073-2,DB1001a,Herzoghof / Lederhof,1424,ja,verkauf ,10,10 d.,240,10,10 tl.,umb x tl. d.  
+KB-E 073-3,keine_id,Riemergasse,1424,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 073-4,keine_id,vor Werdertor,1424,,verkauf ,,,,25,25 tl.,umb xxv tl. d.  
+KB-E 073-5,DB1020,Wiltwerkerstraße,1424,,verkauf ,160,5 s. 10 d.,240,160,160 tl.,umb iᶜ und lx tl. d.  
+KB-E 074-1,DB1022,Wiltwerkerstraße,1424,,verkauf ,500,2 tl. 20 d.,240,500,500 tl.,umb vᶜ tl. d.  
+KB-E 074-2,DB5490,unter den Tuchlauben,1424,ja,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d. 
+KB-E 074-3,keine_id,Schlagbrücke,1424,,verkauf ,14,14 d.,240,14,14 tl.,umb xiiii tl. Wienner phenning  
+KB-E 074-4,DB1034,Weiße Brüder,1424,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 074-5,keine_id,Schulstraße,1425,,verkauf ,372,12 s. 12 d.,120,186,186 tl.,umb iᶜ und lxxxvi tl. d.  
+KB-E 075-1,keine_id,Alter Kohlmarkt,1424,ja,verkauf ,840,3.5 tl.,125,440,440 tl.,umb iiiiᶜ und xl tl. d.  
+KB-E 075-2,keine_id,Kernerstraße,1425,,verkauf ,1400,5 tl. 6 s. 20 d.,120,700,700 tl.,umb viiᶜ tl. d.  
+KB-E 075-3,keine_id,hintere Peckenstraße,1425,,verkauf ,370,12 s. 10 d.,120,185,185 tl.,umb hundert und funfundachczig phunt Wienner pfenning  
+KB-E 075-4,DB0091,Schaufellucke,1425,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. Wienner phenning  
+KB-E 076-1,keine_id,innerhalb Kernertor / Kernerstraße,1426,ja,,250,1 tl. 10 d.,120,125,125 tl.,umb iᶜ und xxv tl. d.  
+KB-E 076-2,DB0032,Alserstraße / vor Schottentor,1426,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen pfund Wienner phenning  
+KB-E 076-3,keine_id,Strauchgasse,1425,,verkauf ,12,12 d.,120,6,6 tl.,umb vi tl. d.  
+KB-E 076-4,keine_id,auf dem Steig / Roter Turm,1426,,überschreibung ,288,9 s. 18 d.,,,,
+KB-E 076-5,keine_id,Mietstatt / vor Kernertor,1426,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 077-1,keine_id,Singerstraße,1426,,verkauf ,290,9 s. 20 d.,120,145,145 tl.,umb hundert und xlv tl. d.  
+KB-E 077-2,DB0059,Alserstraße / vor Schottentor,1426,ja,verkauf ,16,16 d.,120,8,8 tl.,umb viii tl. d.  
+KB-E 077-3,DB5112,hinter St. Pankraz,1427,ja,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 077-4,keine_id,St. Johannsstraße,1427,ja,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 077-5,keine_id,Singerstraße,1427,,verkauf ,96,3 s. 6 d.,120,48,48 tl.,umb xlviii tl. d.  
+KB-E 078-1,keine_id,vor Kernertor / Weidenstraße,1428,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 078-2,DB0006,Heiligengeistspital / Neulucke,1428,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d. und iiii s. d.  
+KB-E 078-3,keine_id,Petersfreithof,1429,,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. d.  
+KB-E 078-4,keine_id,St. Johannsstraße,1429,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 078-5,DB0118,im Fluder,1429,ja,verkauf ,108,3 s. 18 d.,120,54,54 tl.,umb liiii tl. d.  
+KB-E 079-1,keine_id,Graben / unter den Schlossern,1429,ja,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 079-2,keine_id,Wollzeile,1429,,verkauf ,244,1 tl. 4 d.,120,122.5,122.5 tl.,umb hundert und xxii½ tl. d.  
+KB-E 079-3,keine_id,Domprobsthof,1429,,überschreibung ,76,76 d.,,,,
+KB-E 079-4,DB5032,Schiltergasse,1429,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 079-5,keine_id,Kernertor / Ringmauer,1429,,schenkung ,72,72 d.,,,,
+KB-E 080-1,keine_id,hintere Peckenstraße,1429,,schenkung ,200,6 s. 20 d.,,,,
+KB-E 080-2,keine_id,Roter Turm,1430,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczigk phunt  
+KB-E 080-3,keine_id,Mietstatt / vor Kernertor,1430,ja,verkauf ,124,0.5 tl. 4 d.,120,62,62 tl.,umb zwayundSechsczig phunt  
+KB-E 081-1,keine_id,vor Stubentor,1430,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. phenning  
+KB-E 081-2,keine_id,unter den Goldschmieden,1430,ja,schenkung ,216,7 s. 6 d.,,,,
+KB-E 081-3,keine_id,Walichstraße,1430,,verkauf ,63,63 d.,110,29,29 tl. 60 d.,umb xxviiii tl. und lx Wienner phenning  
+KB-E 081-4,keine_id,Mietstatt / vor Kernertor,1430,,verkauf ,316,10 s. 16 d.,120,158,158 tl.,umb c lviii tl. d.  
+KB-E 083-1,keine_id,vordere Peckenstraße,1431,,verkauf kauf ,230,7 s. 20 d.,120,115,115 tl.,umb iᶜ x v tl.  
+KB-E 083-2,keine_id,Kernertor / Ringmauer,1431,,verkauf ,,,,60,60 tl.,umb lx tl. d.  
+KB-E 083-3,keine_id,Kernerstraße,1431,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 083-4,DB5410,Hoher Markt / unter den Wendkremen,1430,ja,verkauf ,90,3 s.,240,90,90 tl.,umb lxxxx tl. d.  
+KB-E 084-1,DB5509,Münzerstraße,1431,,verkauf ,576,19 s. 6 d.,120,290,290 tl.,umb cc lxxxx tl. d.  
+KB-E 085-1,keine_id,Kernertor / Ringmauer,1432,,schenkung ,56,56 d.,,,,
+KB-E 085-2,keine_id,Alter Rossmarkt,1432,,verkauf ,180,6 s.,133,100,100 tl.,umb hundert phunt phenning  
+KB-E 085-3,keine_id,Landstraße / vor Stubentor,1432,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 086-1,keine_id,Petersfreithof,1432,,verkauf ,1680,7 tl.,120,840,840 tl.,umb Achthundert und vierczigk phunt phenning  
+KB-E 086-2,keine_id,Schulstraße,1432,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 086-3,DB5564,Hühnergässchen,1432,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 086-4,keine_id,Kumpflucke / vor Kernertor,1432,,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. d.  
+KB-E 087-1,DB5440,Hoher Markt,1432,,verkauf ,180,6 s.,120,90,90 tl.,umb Newnczig tl. Wienner d.  
+KB-E 087-2,keine_id,Kürsenhaus,1432,,verkauf ,240,1 tl.,150,150,150 tl.,umb i½ᶜ tl. Wienner d.  
+KB-E 087-3,keine_id,St. Johannsstraße,1432,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E 088-1,keine_id,Salzgries,1433,,verkauf ,110,3 s. 20 d.,240,110,110 tl.,umb C und x tl. d.  
+KB-E 088-2,keine_id,,1433,,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 089-1,keine_id,vor Stubentor,1432,,verkauf ,50,50 d.,139,29,29 tl.,umb xxviiii tl. d.  
+KB-E 089-2,DB6000,Scheffstraße,1433,,verkauf ,,,,70,70 tl.,umb lxx tl. d.  
+KB-E 089-3,keine_id,Mentlerstraße,1433,ja,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 089-4,keine_id,unter den Schlossern,1433,ja,verkauf ,116,3 s. 26 d.,120,58,58 tl.,umb lviii tl. Wienner d.  
+KB-E 090-1,(DB5423),Hoher Markt,1433,,verkauf ,450,15 s.,123,232,232 tl.,umb cc xxxii tl. d.  
+KB-E 090-2,keine_id,Salzgries,1433,,verkauf ,210,7 s.,125,110,110 tl.,umb cx tl. d.  
+KB-E 090-3,keine_id,Teinfaltstraße,1433,,verkauf ,60,60 d.,152,38,38 tl.,umb xxxviii tl. d.  
+KB-E 090-4,keine_id,Greut / vor Stubentor,1433,,verkauf ,36,36 d.,126,19,19 tl.,umb xviiii tl. d.  
+KB-E 091-1,keine_id,vordere Peckenstraße,1433,,verkauf ,230,7 s. 20 d.,123,118,118 tl.,umb hundert und Achtzehen tl. d.  
+KB-E 091-2,DB5534,unter den Sattlern,1433,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 091-3,keine_id,Greut / vor Stubentor,1433,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 092-1,keine_id,Stadtgraben / vor Stubentor,1433,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 092-2,DB5230,Wiltwerkerstraße,1433,,verkauf ,540,18 s.,124,280,280 tl.,umb cc lxxx tl. d.  
+KB-E 093-1,DB5509,Münzerstraße,1434,,verkauf ,720,3 tl.,133,400,400 tl.,umb iiiiᶜ tl. Wienner d.  
+KB-E 093-2,keine_id,Lichtensteg,1433,,verkauf ,1406,5 tl. 6 s. 26 d.,119,700,700 tl.,umb viiᶜ tl. Wienner d.  
+KB-E 093-3,keine_id,Preidenstraße,1434,,verkauf ,82,82 d.,120,41,41 tl.,umb xli tl. Wienner d.  
+KB-E 094-1,DB5531,unter den Sattlern,1434,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 094-2,DB5429,Hoher Markt,1434,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E 094-3,DB1017,Am Hof,1434,,verkauf ,142,0.5 tl. 22 d.,120,71,71 tl.,umb lxxi tl. d.  
+KB-E 095-1,keine_id,Fischerstiege,1435,,verkauf ,330,11 s.,123,170,170 tl.,umb Clxx tl. d.  
+KB-E 095-2,keine_id,unter den Segnern,1435,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 096-1,keine_id,Gässlein zu unser lieben Frau,1435,,verkauf ,,,,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E 096-2,keine_id,innerhalb Werdertor / unter den Goldschmieden,1436,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen pfunt pfenning  
+KB-E 097-1,DB0052,#Alserstraße / vor Schottentor,1436,,verkauf ,16,16 d.,120,8,8 tl.,umb viii tl. Wienner d.  
+KB-E 097-2,keine_id,unter den Hafnern,1436,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. Wienner d.  
+KB-E 097-3,keine_id,Wollzeile,1437,,verkauf ,,,,238,238 tl.,umb cc xxxviii tl. d.  
+KB-E 098-1,keine_id,St. Johannsstraße,1437,,verkauf ,240,1 tl.,120,120,120 tl.,umb C und xx tl. d.  
+KB-E 098-2,keine_id,Kernerstraße,1437,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E 098-3,keine_id,Kienmarkt,1437,,verkauf ,417,13 s. 27 d.,119,208,208 tl.,umb CC viii tl.  
+KB-E 107-1,keine_id,Rosstränke / vor Werdertor,1420,,verkauf ,16,16 d.,120,8,8 tl.,umb Acht phunt Wienner phenning  
+KB-E 107-2,DB0004,Neulucke / vor Widmertor,1420,,verkauf ,42,42 d.,120,21,21 tl.,umb ains und zwainczig phunt Wienner phenning  
+KB-E 108-1,DB7005,Walichstraße,1421,ja,überschreibung ,60,60 d.,,,,
+KB-E 108-2,DB5116,hinter St. Pankraz,1421,ja,verkauf ,30,30 d.,400,50,50 tl. !,umb funfcz phunt Wienner phenning  
+KB-E 109-1,keine_id,Stubentor,1422,,verkauf ,470,15 s. 20 d.,120,235,235 tl.,umb iiᶜ und xxxv tl. d.  
+KB-E 109-2,keine_id,vordere Peckenstraße,1423,,verkauf ,330,11 s.,127,175,175 tl.,umb hundert und funfund Sibenczig phunt Wienner  
+KB-E 109-3,keine_id,Singerstraße,1424,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb hundert und dreissig pfunt Wienner phenning  
+KB-E 109-4,keine_id,Stubentor,1424,,überschreibung ,96,3 s. 6 d.,,,,
+KB-E 110-1,keine_id,Laurenzerinnen / unter den Hafnern,1425,,verkauf ,198,6 s. 18 d.,120,99,99 tl.,umb lxxxxviiii tl. d.  
+KB-E 110-2,DB5432,Hoher Markt,1426,,verkauf ,,,,65,65 tl.,umb lxv tl. d.  
+KB-E 110-3,DB6000,Scheffstraße,1426,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 110-4,DB6000,Scheffstraße / vor Stubentor,1426,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 111-1,DB6000,Scheffstraße,1427,,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. d.  
+KB-E 111-2,keine_id,innerhalb Werdertor,1428,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 111-3,keine_id,Singerstraße,1428,,verkauf ,282,9 s. 12 d.,120,141,141 tl.,umb hundert und Ainsundvierczigk phunt  
+KB-E 111-4,DB6000,Scheffstraße / vor Stubentor,1429,ja,überschreibung ,45,45 d.,,,,
+KB-E 111-5,keine_id,Kernerstraße,1429,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phund phenning  
+KB-E 112-1,keine_id,Lichtensteg,1429,ja,verkauf ,266,1 tl. 26 d.,120,133,133 tl. 80 d.,umb C xxxiii tl. und lxxx d.  
+KB-E 113-1,keine_id,Rotgasse,1431,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funf tl. d.  
+KB-E 113-2,keine_id,Alter Rossmarkt,1431,,verkauf ,960,4 tl.,125,500,500 tl.,umb vᶜ tl. d.  
+KB-E 114-1,keine_id,unter den Flößern / vor Werdertor,1433,,verkauf ,36,36 d.,126,19,19 tl.,umb xviiii tl. Wienner d. 
+KB-E 115-1,keine_id,vordere Peckenstraße,1434,,schenkung ,300,10 s.,,,,
+KB-E 115-2,keine_id,Stadtgraben / vor Stubentor,1434,,schenkung ,300,10 s.,,,,
+KB-E 115-3,DB0044,Alserstraße / vor Schottentor,1434,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d. 
+KB-E 116-1,DB5100,hinter St. Pankraz,1434,,,160,5 s. 10 d.,,,,
+KB-E 117-1,keine_id,Singerstraße,1435,,verkauf ,360,12 s.,120,180,180 tl.,umb C lxxx tl. d.  
+KB-E 117-2,DB0080,Bognergasse,1435,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 118-1,keine_id,Riemhaus,1435,,verkauf ,24,24 d.,120,12,12 tl. 65 d.,umb xii tl. lxv d.  
+KB-E 118-2,keine_id,St. Johannsstraße,1435,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 118-3,keine_id,vor Kernertor / Weidenstraße,1436,,verkauf ,80,80 d.,126,42,42 tl.,umb xlii tl. d.  
+KB-E 118-4,keine_id,vor Kernertor / Weidenstraße,1436,,verkauf ,80,80 d.,126,42,42 tl.,umb xlii tl. d.  
+KB-E 119-1,keine_id,Teinfaltstraße,1436,,verkauf ,20,20 d.,120,10,10 tl. 3 s.,umb x tl. iii s. d.  
+KB-E 119-2,keine_id,Kienmarkt,1436,,schenkung ,350,11 s. 20 d.,,,,
+KB-E 119-3,DB0029,Alserstraße / vor Schottentor,1436,,verkauf ,16,16 d.,,,,
+KB-E 120-1,keine_id,vor Stubentor,1436,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb lxxxviii tl. Wienner d.  
+KB-E 120-2,keine_id,Laimgrube,1437,ja,verkauf ,16,16 d.,120,8,8 tl.,umb viii tl. d.  
+KB-E 120-3,keine_id,Preidenstraße,1437,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. Wienner d.  
+KB-E 123-1,DB0047,#Alserstraße / vor Schottentor,1420,,verkauf ,86,86 d.,120,43,43 tl.,umb drew und virczig phunt Wienner phenning  
+KB-E 123-2,keine_id,unter den Fischern,1420,ja,verkauf ,66,66 d.,120,33,33 tl.,umb drew und dreissig phunt Wienner phenning  
+KB-E 123-3,keine_id,Wollzeile,1420,,überschreibung ,200,6 s. 20 d.,,,,
+KB-E 124-1,keine_id,Preidenstraße,1420,,verkauf ,480,2 tl.,120,240,240 tl.,umb zway hundert und virczig phunt Wienner phenning  
+KB-E 124-2,DB6000,Scheffstraße / vor Stubentor,1420,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb Sechczig phunt Wienner phenning  
+KB-E 124-3,keine_id,vordere Peckenstraße,1420,ja,überschreibung ,288,9 s. 18 d.,,,,
+KB-E 125-1,keine_id,Wollzeile,1421,ja,verkauf ,32,32 d.,120,16,16 tl.,umb Sechczehen phunt Wienner phenning  
+KB-E 125-2,keine_id,Kernerstraße,1421,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen phunt Wienner phenninng  
+KB-E 126-1,keine_id,vor Werdertor,1421,ja,,100,3 s. 10 d.,,,,
+KB-E 126-2,keine_id,Alter Rossmarkt / Raubergäßchen,1421,ja,verkauf ,308,10 s. 8 d.,118,152,152 tl.,umb hundert und zway und funfczig phunt Wienner phenning  
+KB-E 127-1,keine_id,Alter Kohlmarkt,1421,,verkauf ,264,1 tl. 24 d.,120,132,132 tl.,umb hundert und zway und dreissig phunt Wienner phenning  
+KB-E 127-2,keine_id,Wollzeile,1422,ja,verkauf ,32,32 d.,120,16,16 tl.,umb Sechczehen phunt Wienner phenning  
+KB-E 127-3,keine_id,Landstraße / vor Stubentor,1422,ja,verkauf ,32,32 d.,120,16,16 tl.,umb sechczehen phunt Wienner phenning  
+KB-E 128-1,keine_id,Wollzeile,1422,ja,verkauf ,135,0.5 tl. 15 d.,240,135,135 tl.,umb hundert und xxxv tl. d.  
+KB-E 128-2,keine_id,Laimgrube / vor Widmertor,1423,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 128-3,keine_id,Kienmarkt,1423,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb hundert und xxx tl. Wienner pfenning  
+KB-E 128-4,keine_id,Kernerstraße,1423,,verkauf ,580,19 s. 10 d.,120,290,290 tl.,umb iiᶜ und lxxxx tl.  
+KB-E 129-1,keine_id,unter den Spenglern,1423,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 129-2,DB1048,Badstube zu den Röhren,1423,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb lxxxviii tl. d.  
+KB-E 129-3,keine_id,Katerlucke / vor Widmertor,1424,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phund Wienner phenning  
+KB-E 129-4,keine_id,vordere Peckenstraße,1424,ja,verkauf ,214,7 s. 4 d.,120,107,107 tl.,umb iᶜ vii tl. Wienner phenning  
+KB-E 130-1,DB0035,Alserstraße / vor Schottentor,1425,,,,,,,,
+KB-E 130-2,keine_id,hintere Peckenstraße,1426,,verkauf ,590,2 tl. 3 s. 20 d.,120,295,295 tl.,umb iiᶜ und lxxxxv tl. Wienner phenning  
+KB-E 130-3,keine_id,Ratstraße,1426,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 130-4,keine_id,Brandstätte,1426,,verkauf ,350,11 s. 20 d.,113,165,165 tl.,umb hundert und lxv tl.  
+KB-E 131-1,keine_id,vor Kernertor,1426,,verkauf ,212,7 s. 2 d.,120,106,106 tl.,umb hundert und vi tl.  
+KB-E 131-2,keine_id,Schenkenstraße,1427,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 131-3,DB6000,Scheffstraße,1427,ja,verkauf ,132,0.5 tl. 12 d.,120,66,66 tl.,umb lxvi tl. d.  
+KB-E 131-4,DB0030,#Alserstraße / vor Schottentor,1428,ja,schenkung ,40,40 d.,,,,
+KB-E 132-1,keine_id,innerhalb Werdertor,1428,,verkauf ,44,44 d.,229,42,42 tl.,umb xlii tl. d.  
+KB-E 132-2,keine_id,vor Werdertor,1428,ja,verkauf ,116,3 s. 26 d.,120,58,58 tl.,umb lviii tl. d.  
+KB-E 132-3,DB0113,Haarhof,1429,ja,verkauf ,72,72 d.,120,36,36 tl.,umb xxxvi tl. d.  
+KB-E 132-4,keine_id,Katerlucke / vor Widmertor,1429,ja,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 132-5,DB0058,#Alserstraße / vor Schottentor,1429,,überschreibung ,14,14 d.,,,,
+KB-E 133-1,DB5220,Hohe Brücke / Wiltwerkerstraße,1429,,verkauf ,680,2 tl. 6 s. 20 d.,120,340,340 tl.,umb iiiᶜ und xl tl. d.  
+KB-E 133-2,keine_id,St. Johannsstraße / Traibotenstraße,1429,,verkauf ,84,84 d.,120,42,42 tl.,umb xlii tl.  
+KB-E 133-3,keine_id,Mentlerstraße,1429,ja,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 133-4,keine_id,Kernerstraße,1430,,verkauf ,614,2.5 tl. 14 d.,120,307,307 tl.,umb drewhundert und Syben phunt  
+KB-E 134-1,keine_id,vor Kernertor,1430,,verkauf ,90,3 s.,120,45,45 tl.,umb funfundvierczigk phunt  
+KB-E 134-2,keine_id,Salzgries,1430,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funf tl. d.  
+KB-E 134-3,keine_id,Ratstraße,1426,,verkauf ,,,,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 135-1,keine_id,Alter Kohlmarkt,1430,ja,verkauf ,174,5 s. 24 d.,120,87,87 tl.,umb lxxxvii tl. d.  
+KB-E 135-2,DB7002,Kernerstraße,1431,ja,schenkung ,54,54 d.,,,,
+KB-E 135-3,keine_id,Wollzeile,1431,,verkauf ,1280,5 tl. 80 d.,120,640,640 tl.,umb viᶜ und xl tl. d.  
+KB-E 136-1,keine_id,Mietstatt / vor Kernertor,1431,,verkauf ,390,13 s.,123,200,200 tl.,umb cc tl. d.  
+KB-E 137-1,keine_id,Krugstraße,1431,,verkauf ,190,6 s. 10 d.,240,190,190 tl.,umb iᶜ und lxxxx tl. d.  
+KB-E 137-2,keine_id,Hochstraße,1432,,verkauf ,240,1 tl.,120,120,120 tl.,umb C und xx tl. d.  
+KB-E 137-3,keine_id,Stadtgraben / vor Widmertor,1432,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 139-1,keine_id,Salzgries,1433,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. Wienner d.  
+KB-E 139-2,keine_id,unter den Flößern / vor Werdertor,1433,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E 139-3,keine_id,Salzgries,1433,,verkauf ,390,13 s.,123,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 139-4,keine_id,Laimgrube / vor Widmertor,1433,ja,verkauf ,240,1 tl.,120,120,120 tl.,umb Cxx tl. d.  
+KB-E 140-1,keine_id,St. Michael,1434,,verkauf ,390,13 s.,123,200,200 tl.,umb iiᶜ tl. Wienner d.  
+KB-E 140-2,keine_id,Kumpfgasse,1430,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb sechczig phunt phenning  
+KB-E 140-3,DB5404,Fischhof / Hoher Markt / neue Schranne,1434,ja,verkauf ,48,48 d.,120,24,24 tl. 4 s. 10 d.,umb xxiiii tl. iiii s. und x d.  
+KB-E 141-1,DB5345,Weiße Brüder,1435,,verkauf ,720,3 tl.,133,400,400 tl.,umb cccc tl. d.  
+KB-E 141-2,DB0077b,Bognergasse,1435,,verkauf ,62,62 d.,120,31,31 tl.,umb xxxi tl. d.  
+KB-E 141-3,keine_id,Preidenstraße / St. Michael,1435,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E 142-1,keine_id,unter den Flößern / vor Werdertor,1435,,verkauf ,,,,11,11 tl.,umb ix tl. d.  
+KB-E 142-2,keine_id,Haarmarkt / Vechtbrunnen,1435,,verkauf ,660,2.5 tl. 60 d.,120,330,330 tl.,umb ccc xxx tl. d.  
+KB-E 142-3,keine_id,St. Johannsstraße / Traibotenstraße,1436,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 143-1,DB5109,hinter St. Pankraz,1436,ja,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 143-2,DB0048,Alserstraße,1437,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. Wienner d.  
+KB-E 144-1,keine_id,Brandstätte / Stephansfreithof,1437,,verkauf ,470,15 s. 20 d.,120,235,235 tl.,umb cc xxxv tl. Wienner d.  
+KB-E 144-2,DB0002,Neulucke / vor Widmertor,1437,ja,,80,80 d.,120,40,40 tl.,umb xl tl. d. 
+KB-E 144-3,DB0050,#Alserstraße / unter den Lederern / vor Schottentor,1437,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. Wienner d.  
+KB-E 145-1,keine_id,unter den Fischern / vor Werdertor,1437,,verkauf ,100,3 s. 10 d.,120,50,50 tl. 6 s.,umb l tl. und vi s. d.  
+KB-E 145-2,DB0031,Alserstraße / vor Schottentor,1437,,verkauf ,,,,20,20 tl.,umb xx tl. d.  
+KB-E 155-1,keine_id,vordere Peckenstraße,1421,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczigk phunt Wienner phenning  
+KB-E 155-2,keine_id,vordere Peckenstraße,1421,,verkauf ,580,2 tl. 3 s. 10 d.,120,290,290 tl.,umb zway hundert und Newnczig phunt Wienner phenning  
+KB-E 156-1,keine_id,Alter Fleischmarkt / Laurenzerinnen,1421,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb Acht und Achczig phunt Wienner phenning  
+KB-E 157-1,keine_id,Alter Kohlmarkt / St. Michael,1423,ja,verkauf ,170,5 s. 20 d.,120,85,85 tl.,umb lxxxv tl. Wienner pfenning  
+KB-E 157-2,keine_id,Lichtensteg / unter den Fleischbänken,1423,,,186,6 s. 6 d.,,,,
+KB-E 157-3,keine_id,vor Stubentor,1423,ja,verkauf ,82,82 d.,120,41,41 tl.,umb xli tl.  
+KB-E 157-4,keine_id,Alter Kohlmarkt / #St. Michael,1423,ja,verkauf ,172,5 s. 22 d.,120,86,86 tl.,umb lxxxvi tl. Wienner phenning  
+KB-E 158-1,keine_id,Kienmarkt,1424,,verkauf ,452,15 s. 2 d.,120,226,226 tl.,umb iiᶜ tl. und xxvi tl. d.  
+KB-E 158-2,DB1060,Wiltwerkerstraße,1425,,überschreibung ,75,75 d.,,,,
+KB-E 158-3,keine_id,Brandstätte,1426,ja,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 159-1,keine_id,auf dem Steig,1427,,verkauf ,1060,4 tl. 3 s. 10 d.,120,530,530 tl.,umb funfhundert und dreissig phund Wienner phenning  
+KB-E 159-2,keine_id,Walichstraße,1430,,verkauf ,,,,64,64 tl.,umb lxiiii tl. d.  
+KB-E 159-3,keine_id,Kernerstraße,1430,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner d.  
+KB-E 160-1,DB1060,Wiltwerkerstraße,1430,,,,,,,,
+KB-E 161-1,keine_id,unter den Fischern,1431,ja,verkauf ,,,,40,40 tl.,umb xl tl. Wienner d.  
+KB-E 161-2,keine_id,unter den Fischern,1431,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 162-1,keine_id,Walichstraße,1432,,verkauf ,180,6 s.,266,200,200 tl.,umb iiᶜ phunt phenning  
+KB-E 162-2,DB5460,Fischhof,1432,ja,verkauf ,90,3 s.,133,50,50 tl.,umb L tl. d.  
+KB-E 162-3,keine_id,Preidenstraße,1432,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl.  
+KB-E 163-1,keine_id,Kürsenhaus,1432,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt phenning  
+KB-E 163-2,keine_id,Kienmarkt,1434,,verkauf ,960,4 tl.,125,500,500 tl.,umb vᶜ tl. d.  
+KB-E 163-3,keine_id,Krugstraße / Ringmauer,1434,,verkauf ,120,0.5 tl.,118,59,59 tl.,umb lviiii tl. Wienner d.  
+KB-E 164-1,DB5436,Hoher Markt / unter den Wendkremen,1435,,verkauf ,510,17 s.,122,260,260 tl.,umb cc lx tl. d.  
+KB-E 164-2,keine_id,Roter Turm,1436,,verkauf überschreibung ,630,2 tl. 5 s.,120,315,315 tl.,umb ccc und xv tl. Wienner d.  
+KB-E 171-1,keine_id,Petersfreithof,1422,,überschreibung ,150,5 s.,,,,
+KB-E 171-2,keine_id,Alter Rossmarkt / St. Stephan,1422,ja,,,,,,,
+KB-E 171-3,keine_id,bei den Predigern,1424,,verkauf ,132,0.5 tl. 12 d.,212,117,88 UG,umb lxxxviii ungrischer guldein  
+KB-E 172-4,keine_id,Schenkenstraße,1430,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczig phunt Wienner phenning  
+KB-E 173-1,keine_id,Neuer Markt,1431,ja,verkauf ,50,50 d.,120,25,25 tl.,umb xxv phunt Wienner phenning  
+KB-E 173-2,keine_id,Roter Turm,1431,ja,verkauf ,300,10 s.,242,303,303 tl.,umb iiiᶜ und iii tl. d.  
+KB-E 173-3,keine_id,St. Johannsstraße,1431,,verkauf ,118,3 s. 28 d.,109,54,54 tl.,umb liiii tl. Wienner phenning  
+KB-E 174-1,DB1023,Wiltwerkerstraße,1432,ja,verkauf ,142,0.5 tl. 22 d.,121,72,72 tl.,umb lxxii tl. d.  
+KB-E 174-2,keine_id,Roter Turm,1435,,verkauf ,,,,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E 175-1,keine_id,Haarmarkt,1437,,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb Tausent phunt Wienner phenning  
+KB-E 175-2,keine_id,Neunburgerstraße / vor Schottentor,1437,,verkauf ,15360,64 tl.,0,32,32 tl.,umb xxxii tl. d.  
+KB-E 183-1,keine_id,vor Stubentor,1420,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drew hundert phunt Wienner phenning  
+KB-E 183-2,DB5512a,unter den Sattlern,1420,,verkauf ,464,15 s. 14 d.,120,232,232 tl.,umb zway hundert und zway und dreissig phunt Wienner phenning  
+KB-E 183-3,keine_id,Münzerstraße,1420,,verkauf ,480,2 tl.,120,240,240 tl.,umb zway hundert und virczig phunt Wienner phenning  
+KB-E 183-4,DB1007,Herzoghof / Lederhof,1420,,verkauf ,32,32 d.,120,16,16 tl.,umb sechczehen phunt Wienner phenning  
+KB-E 184-1,keine_id,Neuer Markt,1420,,verkauf ,112,3 s. 22 d.,120,56,56 tl.,umb Sechs und funfczig phunt Wienner phenning  
+KB-E 184-2,keine_id,Roter Turm,1420,ja,verkauf ,400,13 s. 10 d.,76,128,128 tl.,umb hundert und Acht und zwainczig phunt Wienner phenning  
+KB-E 184-3,keine_id,Alter Fleischmarkt,1420,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczig phunt Wienner phenning  
+KB-E 185-1,keine_id,Kernerstraße,1420,,,40,40 d.,120,20,20 tl.,umb zwainczig phunt Wienner phenning  
+KB-E 185-2,keine_id,Schenkenstraße,1420,,,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phunt Wienner phinning  
+KB-E 185-3,DB5113,hinter St. Pankraz,1420,,verkauf ,5,5 d.,240,5,5 tl.,umb funf phunt Wienner phenning  
+KB-E 186-1,keine_id,Ratstraße,1420,,verkauf ,134,0.5 tl. 14 d.,120,67,67 tl.,umb Syben und Sechczig phunt Wienner phenning  
+KB-E 186-2,keine_id,Lichtensteg,1420,,schenkung ,72,72 d.,,,,
+KB-E 186-3,keine_id,Stadtgraben / vor Widmertor,1420,ja,verkauf ,46,46 d.,120,23,23 tl.,umb drew und zwainczig phunt Wienner phenning  
+KB-E 187-1,keine_id,Teinfaltstraße,1420,,verkauf ,24,24 d.,125,12.5,12.5 tl.,umb dreiczenhenthalb phunt Wienner phenning  
+KB-E 187-2,keine_id,Hochstraße,1420,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achczig phunt Wienner phenning  
+KB-E 187-3,keine_id,Roter Turm,1420,ja,verkauf ,300,10 s.,240,300,300 tl.,umb drew hundert phunt Wienner phenning  
+KB-E 188-1,keine_id,Salzgries,1420,,verkauf ,424,14 s. 4 d.,120,212,212 tl.,umb zway hundert und zwelif phunt Wienner phenning  
+KB-E 188-2,DB0060,Alserstraße / vor Schottentor,1420,,verkauf ,98,3 s. 8 d.,120,49,49 tl.,umb Newn und virczig phunt Wienner phenning  
+KB-E 188-3,keine_id,unter den Fischern,1420,,verkauf ,42,42 d.,120,21,21 tl.,umb ains und zwainczig phunt Wienner phenning  
+KB-E 188-4,keine_id,unter den Fischern / vor Werdertor,1420,,verkauf ,232,7 s. 22 d.,120,116,116 tl.,umb hundert und Sechczehen phunt Wienner phenning  
+KB-E 189-1,keine_id,Münzerstraße,1420,,verkauf ,1260,5 tl. 60 d.,120,630,630 tl.,umb Sechs hundert und dreissig phunt Wienner phenning der Swarczen munzz  
+KB-E 189-2,keine_id,Wollzeile,1421,,verkauf ,560,18 s. 20 d.,120,280,280 tl.,umb zway hundert und Achczig phunt Wienner phenninig  
+KB-E 189-3,DB0038,Alserstraße / vor Schottentor,1421,ja,verkauf ,300,10 s.,120,150,150 tl.,umb Anderthalbhundert phunt Wienner phenning  
+KB-E 190-1,keine_id,vor Widmertor / Weidenstraße,1421,ja,verkauf ,42,42 d.,120,21,21 tl.,umb ains und zwainczig phunt Wienner phenning  
+KB-E 190-2,keine_id,Greut / vor Stubentor,1421,,verkauf ,,,,250,250 tl.,umb dritthalb hundert phunt Wienner phenning  
+KB-E 191-1,keine_id,Singerstraße,1421,,verkauf ,100,3 s. 10 d.,192,80,80 tl.,umb Achczig phunt Wienner phenning  
+KB-E 191-2,keine_id,Haarmarkt,1421,,,590,19 s. 20 d.,120,295,295 tl.,umb zway hundert und funif und Newnczig phunt Wienner phenning  
+KB-E 193-1,keine_id,Haarmarkt,1421,,,590,19 s. 20 d.,120,295,295 tl.,umb zway hundert und funif und Newnczig phunt Wienner phenning  
+KB-E 194-1,DB5482,Kammerhof / unter den langen Tuchlauben,1421,,schenkung ,200,6 s. 20 d.,,,,
+KB-E 194-2,keine_id,Mietstatt / vor Kernertor,1421,ja,verkauf ,300,10 s.,120,150,150 tl.,umb hundert und funfczig phunt Wienner phenning  
+KB-E 194-3,keine_id,Alter Fleischmarkt,1421,,verkauf ,630,2.5 tl. 30 d.,120,315,315 tl.,umb drewhundert und funfczehen phunt Wienner phenning  
+KB-E 194-4,keine_id,Kumpflucke / vor Kernertor,1421,ja,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning  
+KB-E 195-1,keine_id,vor Stubentor,1421,,,160,5 s. 10 d.,,,,
+KB-E 195-2,DB1069,Wiltwerkerstraße,1421,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb Sibenczig phunt Wienner phenning  
+KB-E 195-3,keine_id,Mietstatt / vor Kernertor,1421,,verkauf ,42,42 d.,120,21,21 tl.,umb ains und zwainczig phunt Wienner phenning  
+KB-E 196-1,keine_id,St. Johannsstraße,1422,ja,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning  
+KB-E 196-2,keine_id,Kernerstraße,1422,ja,verkauf ,80,80 d.,120,40,40 tl.,umb virczig phunt phenning  
+KB-E 196-3,keine_id,Lichtensteg,1422,,verkauf ,24,24 d.,120,12,12 tl.,umb zwelf phunt Wienner phenning  
+KB-E 197-1,keine_id,Neuer Markt,1422,,verkauf ,514,2 tl. 34 d.,120,257,257 tl.,umb zway hundert und siben und funfzig phunt Wienner phenning  
+KB-E 197-2,(DB5478),unter den Pfeilschnitzern,1422,,schenkung ,100,3 s. 10 d.,,,,
+KB-E 197-3,DB5105,hinter St. Pankraz,1422,ja,verkauf ,80,80 d.,120,40,40 tl.,umb virczig phunt Wienner phenning  
+KB-E 197-4,keine_id,Alter Kohlmarkt,1422,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drewhundert phunt Wienner phenning  
+KB-E 198-1,DB1062,Wiltwerkerstraße,1422,,verkauf ,170,5 s. 20 d.,437,310,310 tl.,umb drewhundert und zehen phunt Wienner phenning 
+KB-E 198-2,keine_id,Bürgerspital / Greut / vor Kernertor,1422,,verkauf ,94,3 s. 4 d.,120,47,47 tl.,umb siben und virczig phunt Wienner phenning  
+KB-E 198-3,keine_id,vor Widmertor,1422,,verkauf ,220,7 s. 10 d.,117,107.5,107.5 tl.,umb hundert und Achthalb phunt Wienner phenning  
+KB-E 198-4,keine_id,unter den langen Tuchlauben,1422,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczigk phunt Wienner phenning  
+KB-E 199-1,keine_id,Alter Fleischmarkt,1422,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb dritthalbhundert phunt Wienner phenning  
+KB-E 199-2,keine_id,Münzerstraße,1422,ja,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb tausent phunt Wienner phenning  
+KB-E 199-3,keine_id,hinter der Ringmauer / Kernertor / Ringmauer,1422,,verkauf ,55,55 d.,120,27.5,27.5 tl.,umb Achthalbs undzwainczigk phunt Wienner phenning  
+KB-E 200-1,keine_id,Stadtgraben / vor Stubentor,1422,ja,verkauf ,134,0.5 tl. 14 d.,,,,
+KB-E 200-2,keine_id,Schulstraße,1422,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb hundert und xl tl. d.  
+KB-E 200-3,keine_id,Lichtensteg / unter den Fleischbänken,1422,,,,,,,,
+KB-E 201-1,keine_id,Kumpflucke / vor Kernertor,1422,,verkauf ,32,32 d.,120,16,16 tl.,umb sechczehen pfunt Wienner pfenning  
+KB-E 201-2,keine_id,Alter Kohlmarkt,1422,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E 201-3,keine_id,Krugstraße,1423,,verkauf ,126,0.5 tl. 6 d.,120,63,63 tl.,umb drewundSechczig phunt Wienner phenning  
+KB-E 201-4,keine_id,Tirna,1423,,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. Wienner pfenning  
+KB-E 201-5,keine_id,Mentlerstraße / Ringmauer,1423,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 202-1,keine_id,Rosstränke / vor Werdertor,1423,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. Wienner phenning  
+KB-E 202-2,keine_id,vor Kernertor,1423,,verkauf ,118,3 s. 28 d.,120,59,59 tl.,umb lviiii tl. d.  
+KB-E 202-3,keine_id,bei den Predigern,1423,,verkauf ,,,,60,60 tl.,umb lx tl. d.  
+KB-E 202-4,keine_id,Wiltwerkerstraße,1423,,verkauf ,114,3 s. 24 d.,120,57,57 tl.,umb lvii tl. d.  
+KB-E 202-5,DB5032,Schiltergasse,1423,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen pfunt Wienner pfenning  
+KB-E 202-6,keine_id,Schulstraße,1424,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfunt Wienner phenning  
+KB-E 203-1,keine_id,Kernerstraße,1423,,verkauf ,660,2.5 tl. 60 d.,120,330,330 tl.,umb drewhundert und dreissig pfunt Wienner phenning  
+KB-E 203-2,DB0057,Alserstraße / vor Schottentor,1423,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig pfunt phenning  
+KB-E 203-3,DB0003,Neulucke / vor Widmertor,1423,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. Wienner d. 
+KB-E 203-4,keine_id,Neuer Markt,1423,,verkauf ,390,13 s.,120,195,195 tl.,umb iᶜ und lxxxxv tl. d.  
+KB-E 203-5,DB0078,Bognergasse,1423,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczig tl. d.  
+KB-E 203-6,DB1069,Wiltwerkerstraße,1423,,verkauf ,158,5 s. 8 d.,120,79,79 tl.,umb lxxviiii tl. d.  
+KB-E 203-7,keine_id,Schulstraße,1424,,verkauf ,,,,39,39 tl.,umb xxxviiii tl. d.  
+KB-E 204-1,DB0047,#Alserstraße / vor Schottentor,1423,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 204-2,keine_id,vor Widmertor,1423,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner phenning  
+KB-E 204-3,DB5474,Peurertor,1423,,verkauf ,1360,5 tl. 5 s. 10 d.,120,680,680 tl.,umb Sechshundert und Achczig phunt Wienner phenning  
+KB-E 204-4,keine_id,Singerstraße,1424,,schenkung ,,,,,,
+KB-E 204-5,keine_id,vor Widmertor,1424,,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 204-6,keine_id,vor Kernertor,1434,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb dritthalb hundert phund Wienner phenning  
+KB-E 205-1,DB0021,Alserstraße / vor Schottentor,1424,,,33,33 d.,65,9,9 tl.,umb newn pfunt Wienner pfenning  
+KB-E 205-2,DB5211,Wiltwerkerstraße,1424,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb vier hundert phund Wienner pfenning 
+KB-E 205-3,DB0072,Bognergasse,1424,,verkauf ,184,6 s. 4 d.,120,92,92 tl.,umb lxxxxii tl.  
+KB-E 205-4,keine_id,unter den Fleischbänken,1424,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funf pfunt Wienner phenning  
+KB-E 206-1,DB5327,Judengasse,1424,,verkauf ,700,2 tl. 7 s. 10 d.,120,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E 206-2,DB0132,Altdonau / vor Stubentor,1434,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 206-3,keine_id,Tirna,1424,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 206-4,keine_id,Lichtensteg,1424,,verkauf ,132,0.5 tl. 12 d.,120,66,66 tl.,umb lxvi tl. Wienner phenning  
+KB-E 206-5,keine_id,Stadtgraben / vor Stubentor,1424,,verkauf ,316,10 s. 16 d.,120,158,158 tl.,umb iᶜ lviii tl. d.  
+KB-E 207-1,keine_id,Kumpflucke,1424,,verkauf ,14,14 d.,120,7,7 tl.,umb vii tl. d.  
+KB-E 207-2,DB1020,Wiltwerkerstraße,1424,,,200,6 s. 20 d.,,,,
+KB-E 207-3,keine_id,St. Johannsstraße,1424,ja,verkauf ,140,0.5 tl. 20 d.,137,80,80 tl.,umb lxxx tl. d.  
+KB-E 208-1,keine_id,Münzerstraße,1424,,,450,15 s.,,,,
+KB-E 208-2,keine_id,Katerlucke,1424,,verkauf ,148,0.5 tl. 28 d.,120,74,74 tl.,umb lxxiiii tl. d.  
+KB-E 208-3,DB5440,Hoher Markt,1425,,verkauf ,108,3 s. 18 d.,120,54,54 tl.,umb liiii tl. d.  
+KB-E 208-4,DB1020,Wiltwerkerstraße,1425,,,,,,,,
+KB-E 208-5,keine_id,Katerlucke / vor Kernertor,1425,,verkauf ,12,12 d.,120,6,6 tl.,umb vi tl. d.  
+KB-E 209-1,keine_id,auf dem Steig / Predigerkloster,1425,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d. 
+KB-E 209-2,keine_id,Krugstraße,1425,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 209-3,keine_id,bei den Predigern,1435,ja,verkauf ,322,10 s. 22 d.,120,162,162 tl.,umb hundert und lxii tl. d.  
+KB-E 209-4,keine_id,Pippingerstraße,1425,,,200,6 s. 20 d.,,,,
+KB-E 209-5,keine_id,bei den Predigern,1425,ja,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb hundert und lx tl. d.  
+KB-E 210-1,keine_id,innerhalb Werdertor / unter den Goldschmieden,1425,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 210-2,keine_id,Walichstraße,1425,ja,verkauf ,74,74 d.,120,37,37 tl.,umb xxxvii tl. d.  
+KB-E 210-3,keine_id,Lichtensteg,1425,,verkauf ,272,9 s. 2 d.,120,136,136 tl.,umb hundert und xxxvi tl. d.  
+KB-E 210-4,keine_id,Schenkenstraße,1425,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 210-5,DB1018,Gässlein vom Schulhof zum Herzoghof,1425,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und x tl. d.  
+KB-E 211-1,keine_id,Haarmarkt,1425,,verkauf ,600,2.5 tl.,,,na,umb ain Sum gelts  
+KB-E 211-2,keine_id,Krugstraße,1425,ja,verkauf ,188,6 s. 8 d.,120,94,94 tl.,umb lxxxxiiii tl. d.  
+KB-E 211-3,DB1053,Schiltergasse,1425,,verkauf ,760,3 tl. 40 d.,120,380,380 tl.,umb drew hundert und Achczig phund 
+KB-E 211-4,keine_id,St. Johannsstraße,1426,,verkauf ,58,58 d.,120,29,29 tl.,umb xxviiii tl. d.  
+KB-E 212-1,keine_id,hintere Peckenstraße / Hochschule,1426,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 212-2,DB5129,hinter St. Pankraz,1426,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 212-3,keine_id,hintere Peckenstraße,1426,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfund Wienner phenning  
+KB-E 212-4,DB5201b,Hohe Brücke,1426,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 212-5,keine_id,Alter Fleischmarkt,1426,,verkauf ,620,2.5 tl. 20 d.,120,310,310 tl.,umb iiiᶜ x tl. Wienner pfenning  
+KB-E 213-1,keine_id,Kernerstraße,1426,,verkauf ,560,18 s. 20 d.,120,280,280 tl.,umb zwaihundert und Achtzigk pfund Wienner phenning  
+KB-E 213-2,DB1039,Weiße Brüder,1426,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 213-3,DB0117,Retzengraben,1426,,verkauf ,12,12 d.,120,6,6 tl.,umb vi tl. d.  
+KB-E 213-4,keine_id,hintere Peckenstraße,1426,,verkauf ,190,6 s. 10 d.,176,140,140 tl.,umb hundert und xl tl.  
+KB-E 214-1,keine_id,Lichtensteg,1426,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 214-2,keine_id,Laimgrube / vor Widmertor,1426,,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 214-3,keine_id,vor Kernertor,1426,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 214-4,keine_id,Schwabgasse / vor Kernertor,1426,,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. d.  
+KB-E 214-5,keine_id,Fischerstiege,1426,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. d.  
+KB-E 214-6,keine_id,Kernerstraße,1426,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen pfund  
+KB-E 214-7,keine_id,vor Widmertor / Weidenstraße,1426,ja,verkauf ,106,3 s. 16 d.,9,4,4 tl.,umb iiii tl. d.  
+KB-E 215-1,keine_id,St. Jakob / Viehhof,1426,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d. und ainem Guldein  
+KB-E 215-2,keine_id,Kienmarkt / Kürsenhaus,1426,,verkauf ,124,0.5 tl. 4 d.,120,62,62 tl.,umb lxii tl. d.  
+KB-E 215-3,keine_id,Greut / vor Stubentor,1426,ja,verkauf ,74,74 d.,120,37,37 tl.,umb xxxvii tl. d.  
+KB-E 215-4,keine_id,innerhalb Werdertor,1427,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 215-5,DB0049,Alserstraße / vor Schottentor,1427,ja,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 215-6,keine_id,Kernerstraße,1427,ja,verkauf ,206,6 s. 26 d.,120,103,103 tl.,umb hundert und drew tl. Wienner d.  
+KB-E 216-1,keine_id,Salzgries,1427,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb dritthalbhundert pfund Wienner phenning  
+KB-E 216-2,keine_id,unter den Fischern,1427,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 216-3,DB1064,Wiltwerkerstraße,1427,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 216-4,DB5428,Hoher Markt,1427,,verkauf ,3000,12.5 tl.,120,1500,1500 tl.,umb xvᶜ tl. d.  
+KB-E 216-5,keine_id,Stadtgraben / vor Widmertor,1427,,verkauf ,350,11 s. 20 d.,,,na,umb ain Sum gelts  
+KB-E 217-1,keine_id,Lichtensteg,1427,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 217-2,keine_id,Alter Fleischmarkt,1428,ja,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 217-3,DB1023,Wiltwerkerstraße,1427,ja,verkauf ,80,80 d.,420,140,140 tl.,umb iᶜ und xl tl. d.  
+KB-E 217-4,keine_id,unter den Hafnern,1427,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb hundert und vierczig phund Wienner phenning  
+KB-E 217-5,keine_id,Wollzeile,1428,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb iᶜ und lxx tl. d.  
+KB-E 218-1,keine_id,Kienmarkt,1428,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funif phund Wienner phenning  
+KB-E 218-2,keine_id,Kienmarkt,1428,,verkauf ,310,10 s. 10 d.,120,155,155 tl.,umb hundert und funifundfunczig pfund phenning  
+KB-E 218-3,keine_id,Salzgries,1428,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phund Wienner phenning  
+KB-E 218-4,keine_id,Kumpflucke,1428,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 218-5,DB5116,hinter St. Pankraz,1428,,verkauf ,72,72 d.,120,36,36 tl.,umb xxxvi tl. d.  
+KB-E 219-1,keine_id,Mietstatt / vor Kernertor,1428,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 219-2,keine_id,Rosengasse / Teinfaltstraße,1428,,,6,6 d.,120,3,3 tl.,umb iii tl. d.  
+KB-E 219-3,keine_id,Himmelpforten,1428,ja,verkauf ,30,30 d.,124,15.5,15.5 tl.,umb xv½ tl. d.  
+KB-E 219-4,DB5427,Hoher Markt,1428,,verkauf ,340,10 s. 40 d.,225,320,320 tl.,umb iiiᶜ und xx tl. d.  
+KB-E 220-1,keine_id,Neuer Markt,1428,ja,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb lxxxxv tl. d.  
+KB-E 220-2,DB5508,Kammerhof / Münzerstraße,1428,,verkauf ,,,,1000,1000 tl.,umb tausent phund phenning  
+KB-E 220-3,keine_id,bei den Predigern,1429,ja,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb hundert und lx tl. d.  
+KB-E 220-4,keine_id,vor Werdertor,1429,,verkauf ,32,32 d.,123,16.5,16.5 tl.,umb xvi½ tl. d.  
+KB-E 220-5,DB5213,Wiltwerkerstraße,1429,,verkauf ,330,11 s.,120,165,165 tl.,umb hundert und lxv tl. d.  
+KB-E 221-1,DB5510,Kammerhof / unter den Sattlern,1429,,verkauf ,1370,5.5 tl. 50 d.,122,700,700 tl.,umb viiᶜ tl. d.  
+KB-E 221-2,keine_id,Kernerstraße,1429,,verkauf ,700,2 tl. 7 s. 10 d.,120,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E 221-3,keine_id,Alter Fleischmarkt,1429,ja,verkauf überschreibung ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 221-4,keine_id,Weihenburg,1429,,verkauf ,680,2.5 tl. 80 d.,120,340,340 tl.,umb iiiᶜ und xl t.  
+KB-E 221-5,keine_id,Krugstraße,1429,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 222-1,keine_id,Alter Kohlmarkt,1430,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. d.  
+KB-E 222-2,DB5324,Wiltwerkerstraße,1430,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d. 
+KB-E 222-3,keine_id,Wollzeile,1430,,verkauf ,245,1 tl. 5 d.,120,122.5,122.5 tl.,umb hundert und dritthalbs undzwainczig phunt  
+KB-E 222-4,keine_id,auf dem Anger,1430,ja,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. d.  
+KB-E 223-1,keine_id,St. Stephan,1430,,verkauf ,750,3 tl. 30 d.,213,666,500 UG,umb funfhundert ungerisch guldein  
+KB-E 223-2,keine_id,Gässlein zu unser lieben Frau / Rathaus,1429,,verkauf ,1500,6 tl. 60 d.,120,750,750 tl.,umb Sybenhundert und umb funfczig phunt  
+KB-E 223-3,keine_id,St. Johannsstraße,1429,,verkauf ,70,70 d.,120,35,35 tl.,umb funfunddreifsigk phunt  
+KB-E 223-4,keine_id,Salzgries,1430,,verkauf ,86,86 d.,120,43,43 tl.,umb xliii tl. d.  
+KB-E 224-1,keine_id,Neuer Markt,1430,ja,verkauf ,66,66 d.,120,33,33 tl.,umb drewund dreissig phunt Wienner phenning  
+KB-E 224-2,DB1058,Wiltwerkerstraße,1430,,verkauf ,480,2 tl.,120,240,240 tl.,umb iiᶜ und xl tl. d.  
+KB-E 224-3,keine_id,bei den Predigern,1430,,verkauf ,400,13 s. 10 d.,120,200,200 tl. 6 s.,umb zwayhundert phunt und sechs schilling  
+KB-E 225-1,keine_id,Kienmarkt,1430,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx phunt phenning  
+KB-E 225-2,keine_id,Salzgries,1430,ja,verkauf ,84,84 d.,120,42,42 tl.,umb zwayundvierczig phunt  
+KB-E 225-3,DB5411,Hoher Markt / unter den Wendkremen,1430,,verkauf ,150,5 s.,240,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 226-1,keine_id,Weihenburg,1430,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb iᶜ tl. d.  
+KB-E 226-2,keine_id,Weihenburg,1430,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E 226-3,keine_id,Alter Fleischmarkt / Laurenzerinnen,1430,,verkauf ,300,10 s.,126,158,158 tl.,umb hundert und Achtund funfczigk phunt  
+KB-E 226-4,DB0006,Heiligengeistspital / Neulucke,1430,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 227-1,DB1007,Herzoghof / Lederhof,1430,,verkauf ,76,76 d.,123,39,39 tl.,umb xxxviiii tl. d.  
+KB-E 227-2,keine_id,Stadtgraben / vor Stubentor,1430,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 227-3,DB5508,Kammerhof / Münzerstraße,1430,,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb tausent phunt pfenning  
+KB-E 227-4,keine_id,Wienfluss,1430,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d.  
+KB-E 228-1,keine_id,Fischerstiege,1430,,verkauf ,88,88 d.,120,44,44 tl.,umb xliiii tl. d.  
+KB-E 228-2,keine_id,Landstraße,1430,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt phenning  
+KB-E 228-3,DB5149,hinter St. Pankraz,1430,,verkauf ,200,6 s. 20 d.,144,120,120 tl.,umb C und xx tl. d.  
+KB-E 229-1,keine_id,Roter Turm,1430,,verkauf ,720,3 tl.,133,400,400 tl.,umb iiiiᶜ tl. Wienner d.  
+KB-E 229-2,DB5316,Am Hof,1429,,verkauf ,,,,170,170 tl.,umb C und lxx tl. d.  
+KB-E 230-1,keine_id,Alter Kohlmarkt / #St. Michael,1430,ja,,,,,87,87 tl.,umb lxxxvii tl. d.  
+KB-E 231-1,keine_id,St. Johannsstraße,1431,,,160,5 s. 10 d.,,,,
+KB-E 231-2,DB5487a,unter den langen Tuchlauben / unter den Sattlern,1431,,,150,5 s.,248,155,155 tl.,umb C lv tl. d.  
+KB-E 231-3,keine_id,vor Stubentor,1431,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 232-1,keine_id,Münzhof / Schulstraße,1431,,verkauf ,,,,74,74 tl.,umb lxxiiii tl. d.  
+KB-E 232-2,DB5535b,unter den Sattlern,1431,,verkauf ,700,2 tl. 7 s. 10 d.,120,350,350 tl.,umb iii½ᶜ tl. Wienner d.  
+KB-E 232-3,keine_id,Kernerstraße,1431,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb hundert und dreissigk phunt phenning  
+KB-E 232-4,DB6000,Scheffstraße / Stadtgraben,1431,,verkauf ,18,18 d.,120,9,9 tl.,umb viiii tl d.  
+KB-E 233-1,keine_id,Alter Fleischmarkt,1431,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb c tl. d.  
+KB-E 233-2,keine_id,Greut / vor Stubentor,1431,,verkauf ,38,38 d.,113,18,18 tl.,umb xviii tl. d.  
+KB-E 233-3,keine_id,St. Johannsstraße,1431,,verkauf ,640,2.5 tl. 40 d.,120,320,320 tl.,umb iiiᶜ und xx tl. d.  
+KB-E 234-1,keine_id,Schweinemarkt,1431,ja,verkauf ,180,6 s.,133,100,100 tl.,umb C tl. Wienner d.  
+KB-E 234-2,keine_id,unter den Spenglern,1431,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. Wienner phenning  
+KB-E 235-1,DB1018,Gässlein vom Schulhof zum Herzoghof,1432,,verkauf ,210,7 s.,120,105,105 tl.,umb Cv tl. d. 
+KB-E 235-2,keine_id,Greut / vor Stubentor,1432,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl. d.  
+KB-E 235-3,DB5563,Hühnergässchen / Münzerstraße,1432,,verkauf ,,,,200,200 tl.,umb iiᶜ tl. Wienner d.  
+KB-E 236-1,DB5434,Hoher Markt,1432,,verkauf ,70,70 d.,240,70,70 tl.,umb lxx phunt phenning  
+KB-E 236-2,DB5508,Kammerhof / Münzerstraße,1432,,verkauf ,1300,5 tl. 3 s. 10 d.,240,1300,1300 tl.,umb xiiiᶜ tl. d.  
+KB-E 236-3,keine_id,auf dem Steig,1432,,verkauf ,480,2 tl.,242,485,485 tl.,umb iiiiᶜ und lxxxv tl. d.  
+KB-E 237-1,keine_id,Weihenburg,1432,,verkauf ,,,,70,70 tl.,umb lxx tl. d.  
+KB-E 237-2,keine_id,Lichtensteg,1432,,verkauf ,380,12 s. 20 d.,120,190,190 tl.,umb hundert und Newnczig phunt  
+KB-E 237-3,DB0111,Haarhof / hinter St. Pankraz,1432,,verkauf ,44,44 d.,120,22,22 tl. 6 s.,umb xxii tl. und vi s. d.  
+KB-E 238-1,keine_id,Greut / vor Stubentor,1432,ja,verkauf ,510,17 s.,122,261,261 tl.,umb iiᶜ und lxi tl. d.  
+KB-E 238-2,keine_id,Kumpflucke,1432,,verkauf ,14,14 d.,120,7,7 tl.,umb vii tl. d.  
+KB-E 238-3,DB5211,Wiltwerkerstraße,1432,,verkauf ,1320,5.5 tl.,127,700,700 tl.,umb viiᶜ tl. Wienner d.  
+KB-E 238-4,keine_id,Greut / vor Stubentor,1432,,verkauf ,510,17 s.,122,261,261 tl.,umb iiᶜ und lxi tl. d.  
+KB-E 239-1,keine_id,Krotental / vor Stubentor,1432,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. d.  
+KB-E 239-2,keine_id,Hochstraße,1432,,verkauf ,40,40 d.,240,40,40 tl.,umb xl tl. Wienner d.  
+KB-E 240-1,keine_id,Kernerstraße,1433,,verkauf ,158,5 s. 8 d.,120,79,79 tl.,umb lxxviiii tl. Wienner d.  
+KB-E 240-2,keine_id,vor Werdertor,1433,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 240-3,DB6000,Scheffstraße,1433,,verkauf ,160,5 s. 10 d.,,,,
+KB-E 240-4,keine_id,Salzgries,1433,,überschreibung ,120,0.5 tl.,,,,
+KB-E 241-1,keine_id,Kienmarkt,1433,,verkauf ,480,2 tl.,120,240,240 tl.,umb iiᶜ xl tl. d.  
+KB-E 241-2,keine_id,Biberturm / vor Stubentor,1433,,verkauf ,134,0.5 tl. 14 d.,120,67,67 tl.,umb lxvii tl. d.  
+KB-E 241-3,DB1060,Wiltwerkerstraße,1433,,verkauf ,390,13 s.,123,200,200 tl.,umb cc tl. d. 
+KB-E 242-1,keine_id,St. Michael,1433,,verkauf ,230,7 s. 20 d.,135,130,130 tl.,umb C und xxx tl. d.  
+KB-E 242-2,keine_id,bei den Predigern,1433,,verkauf ,120,0.5 tl.,130,65,65 tl.,umb lxv tl. d.  
+KB-E 242-3,keine_id,Mietstatt / vor Kernertor,1433,,verkauf ,,,,56,56 tl.,umb lvi tl. d.  
+KB-E 243-1,keine_id,Katerlucke,1433,ja,verkauf ,24,24 d.,125,12.5,12.5 tl.,umb xii½ tl. d.  
+KB-E 243-2,keine_id,unter den Hafnern,1433,,überschreibung ,120,0.5 tl.,,,,
+KB-E 243-3,keine_id,unter den Spenglern,1433,,verkauf ,720,3 tl.,133,400,400 tl.,umb iiiiᶜ ze Wienner d.  
+KB-E 244-1,keine_id,vordere Peckenstraße,1433,,verkauf ,480,2 tl.,135,270,270 tl.,umb cclxx tl. d.  
+KB-E 244-2,keine_id,Greut / vor Stubentor,1433,,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d.  
+KB-E 244-3,keine_id,Greut / vor Stubentor,1433,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 245-1,keine_id,Greut / vor Stubentor,1434,,verkauf ,,,,14,14 tl.,umb xiiii tl. d.  
+KB-E 245-2,keine_id,Pippingerstraße,1434,,verkauf ,480,2 tl.,125,250,250 tl.,umb ii½ᶜ tl. Wienner phenning  
+KB-E 245-3,keine_id,Judenfreithof / vor Kernertor,1434,,verkauf ,28,28 d.,240,28,28 tl.,umb xxviii tl. Wienner d. 
+KB-E 246-1,keine_id,Schweinemarkt,1434,,verkauf ,,,,450,450 tl.,umb funffthalbhundert tl. d.  
+KB-E 246-2,keine_id,St. Johannsstraße,1434,,verkauf ,256,1 tl. 16 d.,,,,
+KB-E 246-3,keine_id,Domprobsthof,1434,,verkauf ,960,4 tl.,127,510,510 tl.,umb vᶜ x tl. d.  
+KB-E 246-4,keine_id,Fischmarkt,1434,ja,verkauf ,420,14 s.,122,214,214 tl.,umb cc xiiii tl. d.  
+KB-E 247-1,DB0026,Alserstraße,1434,,verkauf ,120,0.5 tl.,64,32,32 tl.,umb xxxii tl. d.  
+KB-E 247-2,keine_id,Würffel,1434,,verkauf ,390,13 s.,123,200,200 tl.,umb cc tl. d.  
+KB-E 247-3,DB5118,hinter St. Pankraz / Peurertor,1434,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 247-4,keine_id,Lichtensteg,1434,,verkauf ,600,2.5 tl.,124,310,310 tl.,umb ccc und x tl. d.  
+KB-E 248-1,keine_id,vordere Peckenstraße,1434,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 248-2,keine_id,vor Werdertor,1434,,verkauf ,128,0.5 tl. 8 d.,120,64,64 tl.,umb lxiiii tl. Wienner pfenning  
+KB-E 248-3,DB0092,Schaufellucke / St. Michael,1434,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb c x tl. Wienner d.  
+KB-E 249-1,keine_id,Alter Fleischmarkt / Laurenzerinnen,1434,,verkauf ,180,6 s.,120,90,90 tl.,umb Newnczig pfund pfenning  
+KB-E 249-2,keine_id,Landskron,1434,,verkauf ,860,3.5 tl. 20 d.,120,430,430 tl.,umb cccc xxx tl. d.  
+KB-E 249-3,DB5405,Fischhof / Hoher Markt / Riemhaus,1434,ja,verkauf ,24,24 d.,120,12,12 tl. 70 d. !,umb xii lvv d.  
+KB-E 250-1,DB5407,Fischhof / Hoher Markt / Riemhaus,1434,ja,verkauf ,24,24 d.,120,12,12 tl. 65 d.,umb xii tl. lxv d.  
+KB-E 250-2,DB5415,Hoher Markt,1434,,verkauf ,400,13 s. 10 d.,240,400,400 tl.,umb virhundert phunt phenning  
+KB-E 251-1,keine_id,vor Stubentor,1435,,verkauf ,40,40 d.,120,20,20 tl. 60 d.,umb xx tl. lx d.  
+KB-E 251-2,DB0002,Neulucke / vor Widmertor,1435,ja,verkauf ,90,3 s.,213,80,60 G,umb lx guld 
+KB-E 252-1,keine_id,Krotental / vor Stubentor,1435,,schenkung ,,,,,,
+KB-E 252-2,keine_id,unter den langen Tuchlauben,1435,,verkauf ,,,,70,70 tl.,umb lxx tl. d.  
+KB-E 253-1,keine_id,St. Johannsstraße,1435,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E 254-1,keine_id,Himmelpforten,1435,,verkauf ,60,60 d.,112,28,28 tl.,umb xxviii tl. d.  
+KB-E 254-2,keine_id,Peckenstraße,1435,,verkauf ,240,1 tl.,120,120,120 tl.,umb Cxx tl. d.  
+KB-E 255-1,keine_id,Greut / vor Stubentor,1435,,schenkung ,,,,,,
+KB-E 255-2,keine_id,Kienmarkt,1435,,verkauf ,750,3 tl. 30 d.,123,385,385 tl.,umb ccc lxxxv tl. d.  
+KB-E 255-3,keine_id,vordere Peckenstraße,1435,,verkauf ,870,3 tl. 5 s.,120,435,435 tl.,umb ccccxxxv tl. d.  
+KB-E 256-1,DB5449b,Hühnergässchen / Taschnerhaus,1435,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 256-2,keine_id,unter den Fischern,1435,,verkauf ,26,26 d.,120,13,13 tl.,umb xiii tl. d.  
+KB-E 256-3,keine_id,Kumpfgasse,1435,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb C xl tl. d.  
+KB-E 256-4,keine_id,Fischhof / Riemhaus,1435,ja,verkauf ,24,24 d.,120,12,12 tl. 70 d.,umb xii tl. lxx d.  
+KB-E 257-1,keine_id,Singerstraße,1435,,verkauf ,210,7 s.,123,108,108 tl.,umb hundert und Acht phunt pfenning  
+KB-E 257-2,keine_id,St. Johannsstraße,1435,,verkauf ,400,13 s. 10 d.,122,204,204 tl.,umb cc iiii tl. d.  
+KB-E 257-3,keine_id,Laurenzerinnen / unter den Hafnern,1435,ja,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 258-1,DB0065,Alserstraße / vor Schottentor,1435,,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 258-2,DB0035,Alserstraße / vor Schottentor,1435,,verkauf ,20,20 d.,120,10,10 tl. 6 s.,umb x tl. und vi s. d.  
+KB-E 259-1,keine_id,Lichtensteg,1435,,verkauf ,310,10 s. 10 d.,139,180,180 tl.,umb C lxxx tl. d.  
+KB-E 259-2,DB5564,Hühnergässchen,1435,,verkauf ,288,9 s. 18 d.,120,144,144 tl.,umb hundert vir und virczig pfunt pfenning  
+KB-E 260-1,DB5300,Schulhof / Weiße Brüder,1436,,verkauf ,35,35 d.,120,17.5,17.5 tl.,umb xvii½ tl. d.  
+KB-E 260-2,keine_id,bei den Predigern / Hochschule,1436,,verkauf ,330,11 s.,120,165,165 tl.,umb Clxv tl. d.  
+KB-E 261-1,DB1057,Wiltwerkerstraße,1436,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zwaihundert pfunt pfenning 
+KB-E 261-2,keine_id,auf dem Anger,1436,ja,verkauf ,172,5 s. 22 d.,120,86,86 tl.,umb lxxxvi tl. d.  
+KB-E 261-3,keine_id,Hochstraße,1436,,verkauf ,,,,140,140 tl.,umb C und xl tl. d.  
+KB-E 262-1,keine_id,bei den Predigern,1435,,verkauf ,82,82 d.,120,41,41 tl.,umb xli tl. d.  
+KB-E 262-2,DB5030,Schiltergasse,1436,ja,verkauf ,196,6 s. 16 d.,115,94,94 tl.,umb virundnewnczig phunt Wienner phenning 
+KB-E 262-3,keine_id,Katerlucke,1436,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. Wienner d.  
+KB-E 263-1,keine_id,vor Stubentor / Wienfluss,1436,,verkauf ,25,25 d.,240,25,25 tl.,umb xxv tl. d.  
+KB-E 263-2,DB0041,Alserstraße,1436,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 263-3,DB5132,hinter St. Pankraz,1436,ja,verkauf ,4,4 d.,120,2,2 tl.,umb ii tl. d.  
+KB-E 264-1,keine_id,Graben,1436,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. Wienner d.  
+KB-E 264-2,keine_id,Kienmarkt,1436,,verkauf ,458,15 s. 8 d.,120,229,229 tl.,umb cc xxviiii tl. Wienner d.  
+KB-E 264-3,DB5544,unter den Sattlern,1436,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczig phunt phenning  
+KB-E 264-4,keine_id,Alter Fleischmarkt,1437,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. Wienner d.  
+KB-E 265-1,keine_id,Alter Fleischmarkt,1437,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. Wienner d.  
+KB-E 265-2,keine_id,Weihenburg,1437,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb c und x tl. Wienner d.  
+KB-E 265-3,keine_id,Alter Fleischmarkt / Ringmauer,1437,,,200,6 s. 20 d.,,,,
+KB-E 266-1,keine_id,Lichtensteg,1436,,verkauf ,256,1 tl. 16 d.,120,128,128 tl.,umb hundert acht und zwainczig phund phenning  
+KB-E 266-2,keine_id,vor Werdertor,1437,,,50,50 d.,120,25,25 tl.,umb xxv tl. Wienner d.  
+KB-E 266-3,keine_id,Wollzeile,1437,,verkauf ,332,11 s. 2 d.,123,171,171 tl.,umb c lxxi tl. d.  
+KB-E 267-1,keine_id,Stephansfreithof,1437,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. Wienner d.  
+KB-E 267-2,DB5317a,Am Hof,1437,,verkauf ,250,1 tl. 10 d.,240,250,250 tl.,umb ii½ᶜ tl. Wienner d. 
+KB-E 268-1,DB1032,Schulhof / Weiße Brüder,1437,,verkauf ,,3 s 10 d.,,100,100 tl.,umb C tl. d. 
+KB-E 268-2,DB5303,Schulhof,1437,,verkauf ,86,86 d.,240,86,86 tl.,umb lxxxvi tl. d. 
+KB-E 268-3,keine_id,Salzgries,1437,,verkauf ,268,1 tl. 28 d.,120,134,134 tl.,umb C xxxiiii tl. Wienner d.  
+KB-E 269-1,DB5030,Schiltergasse,1437,ja,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb C und xl tl. Wienner d. 
+KB-E 269-2,keine_id,Stadtgraben / vor Widmertor,1437,ja,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. d.  
+KB-E 269-3,DB5109,hinter St. Pankraz,1437,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. Wienner d.  
+KB-E 270-1,keine_id,Stadtgraben / vor Kernertor,1437,,verkauf ,70,70 d.,240,70,70 tl.,umb lxx tl. d.  
+KB-E 270-2,keine_id,Weihenburg,1437,,verkauf ,720,3 tl.,120,360,360 tl.,umb iiiᶜ und lx tl. Wienner d.  
+KB-E 270-3,keine_id,Kernerstraße,1437,,verkauf ,,,,410,410 tl.,umb virhundert und zehen phunt phenning  
+KB-E 271-1,keine_id,Kernerstraße,1437,,verkauf ,230,7 s. 20 d.,120,115,115 tl.,umb hundert und funfczehen phunt Wienner d.  
+KB-E 271-2,keine_id,hintere Peckenstraße,1437,,verkauf ,148,4 s. 28 d.,120,74,74 tl.,umb lxxiiii tl. d.  
+KB-E 271-3,keine_id,Neuer Markt,1437,,verkauf ,148,4 s. 28 d.,120,74,74 tl.,umb lxxiiii tl. Wienner d.  
+KB-E 272-1,DB5442,Berghof,1437,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb hundert und Sibenczig phunt Wienner phenning  
+KB-E 272-2,keine_id,Lichtensteg,1437,,verkauf ,170,5 s. 20 d.,225,160,160 tl.,umb C und lx tl. Wienner d.  
+KB-E 272-3,keine_id,vordere Peckenstraße,1437,,verkauf ,1040,4 tl. 80 d.,120,520,520 tl.,umb vᶜxx tl. Wienner d.  
+KB-E 273-1,keine_id,St. Johann / vor Werdertor,1437,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. Wienner d.  
+KB-E 273-2,keine_id,Stadtgraben / vor Stubentor,1437,,verkauf ,,0 d.,,6,6 tl.,umb vi tl. Wienner d.  
+KB-E 273-3,keine_id,St. Michael,1437,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 274-1,DB6000,Biberturm / Scheffstraße,1437,,verkauf ,18,18 d.,146,11,11 tl.,umb ix tl. d.  
+KB-E 274-2,DB6000,Scheffstraße,1437,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. d.  
+KB-E 274-3,keine_id,innerhalb Werdertor,1437,,verkauf ,132,0.5 tl. 12 d.,116,64,64 tl.,umb lxiiii tl. d.  
+KB-E 287-1,keine_id,vor Stubentor,1420,ja,,100,3 s. 10 d.,120,50,50 tl.,umb funfczikg pfunt Wienner pfenning  
+KB-E 287-2,keine_id,vor Kernertor,1420,ja,verkauf ,50,50 d.,120,25,25 tl.,umb funf und zwainczig phunt Wienner phenning  
+KB-E 287-3,keine_id,Fischerstiege,1420,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und Achczig phunt Wienner phenning  
+KB-E 287-4,keine_id,vor Stubentor,1420,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczig phunt Wienner phenning  
+KB-E 288-1,keine_id,vor Kernertor,1420,,verkauf ,84,84 d.,120,42,42 tl.,umb zway und virczig phunt Wienner phenning  
+KB-E 289-1,keine_id,Alter Fleischmarkt,1421,ja,verkauf ,84,84 d.,120,42,42 tl.,umb zway und virczig phunt Wienner phenning  
+KB-E 290-1,DB5482,Kammerhof / unter den langen Tuchlauben,1421,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb dritthalb hundert phunt Wienner phenning  
+KB-E 290-2,DB5126,hinter St. Pankraz,1421,ja,verkauf ,14,14 d.,120,7,7 tl. 3 s.,umb Siben phunt und umb drey schilling Wienner phenning  
+KB-E 291-1,keine_id,Krotental / vor Stubentor,1421,ja,verkauf ,24,24 d.,120,12,12 tl.,umb zwelif pfunt Wienner pfenning  
+KB-E 292-1,keine_id,unter den Spenglern,1422,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb vier hundert phunt phenning  
+KB-E 292-2,keine_id,Neuer Markt,1422,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb Sechczig phunt Wienner phenning  
+KB-E 292-3,DB0006,Neulucke,1422,ja,verkauf ,8,8 d.,120,4,4 tl.,umb vir phunt Wienner phenning  
+KB-E 293-1,keine_id,Singerstraße,1422,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczigk phunt Wienner phenning  
+KB-E 293-2,DB4000,St. Johannsstraße,1422,,verkauf ,90,3 s.,120,45,45 tl.,umb funf und virczigk phunt Wienner phenning  
+KB-E 293-3,keine_id,Alter Kohlmarkt,1422,ja,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zwayhundert phunt Wienner phenning  
+KB-E 294-1,keine_id,Kernertor / Ringmauer,1423,,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d.  
+KB-E 294-2,DB7024,niedere Au,1423,,verkauf ,50,50 d.,235,49,49 tl.,umb xlviiii tl. Wienner phenning  
+KB-E 294-3,keine_id,Salzgries,1423,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb ii½ᶜ tl. Wienner pfenning  
+KB-E 294-4,DB0005,Neulucke / vor Kernertor,1423,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 294-5,keine_id,innerhalb Stubentor,1423,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 295-1,keine_id,Krotental / vor Stubentor,1423,,überschreibung ,32,32 d.,,,,
+KB-E 295-2,keine_id,Kumpfgasse,1423,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E 295-3,keine_id,Kienmarkt,1424,,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. d.  
+KB-E 295-4,keine_id,Krotental / vor Stubentor,1424,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 295-5,keine_id,Alter Kohlmarkt,1423,,verkauf ,248,1 tl. 8 d.,120,125,125 tl.,umb hundert und xxv tl. d.  
+KB-E 295-6,DB1049,Judengasse,1424,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb hundert und lx tl. d.  
+KB-E 296-1,keine_id,Wieden,1424,,,720,3 tl.,283,850,850 tl.,umb newnthalb hundert pfund  
+KB-E 296-2,keine_id,Petersfreithof,1424,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 296-3,keine_id,Traibotenstraße,1425,ja,verkauf ,82,82 d.,120,41,41 tl.,umb xli tl. d.  
+KB-E 296-4,keine_id,vordere Peckenstraße,1425,,überschreibung ,50,50 d.,,,,
+KB-E 297-1,keine_id,Mietstatt / vor Kernertor,1425,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 297-2,keine_id,auf dem Anger,1425,ja,verkauf ,90,3 s.,120,45,45 tl. 6 s.,umb xlv tl. und vi s. d.  
+KB-E 297-3,keine_id,Alter Kohlmarkt / St. Michael,1427,,,200,6 s. 20 d.,,,,
+KB-E 297-4,keine_id,Alter Kohlmarkt,1427,,überschreibung ,200,6 s. 20 d.,,,,
+KB-E 298-1,keine_id,St. Johannsstraße,1427,,,4,4 d.,15000,250,250 tl. 30 d.,umb ii½ᶜ tl. und xxx d.  
+KB-E 298-2,keine_id,innerhalb Stubentor,1428,,verkauf ,230,7 s. 20 d.,120,115,115 tl.,umb hundert und xv tl. d.  
+KB-E 298-3,keine_id,Pippingerstraße,1429,ja,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 298-4,keine_id,Kernerstraße,1429,,verkauf ,440,14 s. 20 d.,120,220,220 tl.,umb iiᶜ und xx tl. d.  
+KB-E 298-5,keine_id,vor Werdertor,1429,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner phenning  
+KB-E 299-1,DB5444,Hoher Markt,1429,,verkauf ,250,1 tl. 10 d.,120,125,125 tl.,umb hundert und xxv tl. d.  
+KB-E 299-2,keine_id,Hochstraße,1430,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 300-1,keine_id,Kernerstraße,1430,,verkauf ,900,3 tl. 6 s.,120,450,450 tl.,umb iiiiᶜ und funfczig phunt  
+KB-E 301-1,DB5535b,unter den Sattlern,1431,,verkauf ,700,2 tl. 7 s. 10 d.,120,350,350 tl.,umb iii½ᶜ tl. Wienner d.  
+KB-E 301-2,keine_id,St. Jakob,1431,,verkauf ,250,1 tl. 10 d.,240,250,250 tl.,umb ii½ᶜ tl. Wienner phenning  
+KB-E 301-3,DB7003,unter den Flößern / vor Werdertor,1431,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl. d.  
+KB-E 302-1,keine_id,Alter Fleischmarkt,1432,,schenkung ,180,6 s.,,,,
+KB-E 303-1,keine_id,Heumarkt,1432,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. Wienner d.  
+KB-E 303-2,keine_id,Kienmarkt,1433,ja,verkauf ,88,88 d.,117,43,43 tl.,umb xliii tl. Wienner d.  
+KB-E 303-3,keine_id,Stubentor,1433,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb iiiᶜ tl. d.  
+KB-E 303-4,keine_id,Burg,1433,,verkauf ,292,9 s. 22 d.,120,146,146 tl.,umb iᶜ xlvi tl. d.  
+KB-E 304-1,keine_id,Burg,1433,,verkauf ,,,,146,146 tl.,umb hundert und Sechsundvierczigk tl. d.  
+KB-E 304-2,keine_id,Neunburgerstraße / vor Schottentor,1433,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. Wienner d.  
+KB-E 304-3,keine_id,Pippingerstraße,1433,,verkauf ,,,,250,250 tl.,umb ii½ᶜ tl. d.  
+KB-E 305-1,keine_id,Alter Kohlmarkt,1434,,verkauf ,330,11 s.,120,165,165 tl.,umb Clxv tl. d.  
+KB-E 305-2,keine_id,Wollzeile,1434,,verkauf ,1080,4.5 tl.,122,550,550 tl.,umb v½ᶜ tl. Wienner phenning  
+KB-E 305-3,keine_id,Bretzeneck / Lichtensteg,1434,,verkauf ,300,10 s.,128,160,160 tl.,umb Clx tl. d.  
+KB-E 306-1,keine_id,Schottenau,1434,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 306-2,keine_id,Burg,1434,,verkauf ,200,6 s. 20 d.,252,210,210 tl.,umb iiᶜ und x tl. Wienner d.  
+KB-E 306-3,keine_id,vordere Peckenstraße,1424,,verkauf ,200,6 s. 20 d.,122,102,102 tl.,umb C und ii tl. d.  
+KB-E 307-1,keine_id,Wollzeile,1434,,verkauf ,1458,6 tl. 18 d.,120,729,729 tl.,umb viiᶜ xxviiii tl. d.  
+KB-E 309-1,keine_id,Schulstraße,1435,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 309-2,keine_id,Stadtgraben / vor Stubentor,1435,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 309-3,keine_id,vordere Peckenstraße,1440,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb cccc tl. d.  
+KB-E 310-1,keine_id,Salzgries,1435,ja,verkauf ,256,1 tl. 16 d.,120,128,128 tl.,umb C xxviii tl. d.  
+KB-E 310-2,keine_id,Greut / vor Stubentor,1435,,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 310-3,DB1037,Weiße Brüder,1436,ja,verkauf ,90,3 s.,144,54,54 tl.,umb liiii tl. d.  
+KB-E 311-1,keine_id,Himmelpforten,1436,,verkauf ,144,0.5 tl. 24 d.,120,72,72 tl.,umb lxxii tl. d.  
+KB-E 311-2,keine_id,Grashof / Heiligenkreuzerhof,1436,ja,verkauf ,214,7 s. 4 d.,103,92,92 tl.,umb lxxxxii tl. Wienner d.  
+KB-E 311-3,keine_id,Wollzeile,1437,,verkauf ,266,8 s. 26 d.,133,148,148 tl.,umb C xlviii tl. Wienner d.  
+KB-E 312-1,keine_id,Haarmarkt,1437,,verkauf ,620,2.5 tl. 20 d.,259,670,670 tl.,umb Sechshundert und Sibenczig phunt Wienner phenning  
+KB-E 312-2,keine_id,Greut,1437,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 312-3,DB6000,Scheffstraße / Stadtgraben,1437,,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. d.  
+KB-E 313-1,DB4000,St. Johannsstraße,1437,,,,,,,,
+KB-E 313-2,DB0033,Alserstraße / vor Schottentor,1437,,verkauf ,11,11 d.,109,5,5 tl. 5 s.,umb v tl. v s. Wienner d.  
+KB-E 313-3,keine_id,Alter Kohlmarkt / #St. Michael,1436,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb C und xl tl. d.  
+KB-E 314-1,keine_id,unter den Spenglern,1437,,verkauf ,310,10 s. 10 d.,120,155,155 tl.,umb C lv tl. d.  
+KB-E 331-1,keine_id,Kernerstraße,1420,,überschreibung ,64,64 d.,,,,
+KB-E 331-2,keine_id,Alter Fleischmarkt / Laurenzerinnen,1420,ja,verkauf ,106,3 s. 16 d.,120,53,53 tl.,umb drew und funfczig phunt Wienner phenning  
+KB-E 332-1,keine_id,Scheffstraße / vor Stubentor,1420,ja,,50,50 d.,124,26,25 tl. + 1 G,umb funf und zwainczig phunt Wienner phenning  und umb aine guldein  
+KB-E 332-2,keine_id,Salzgries,1420,,verkauf ,550,18 s. 10 d.,120,275,275 tl.,umb zway hundert und umb funf und Sybenczig phunt Wienner phenning  
+KB-E 333-1,keine_id,Krotental / vor Stubentor,1421,,verkauf ,90,3 s.,120,45,45 tl.,umb funf und virczig phunt Wienner phenning  
+KB-E 333-2,keine_id,Strauchgasse,1421,ja,verkauf ,10,10 d.,120,5,5 tl.,umb funf phunt Wienner phenning  
+KB-E 333-3,keine_id,unter den langen Tuchlauben,1421,,überschreibung ,,,,,,
+KB-E 334-1,keine_id,Greut / vor Stubentor,1421,,verkauf ,34,34 d.,120,17,17 tl.,umb Sibenczehen phunt Wienner phenning  
+KB-E 334-2,keine_id,vor Stubentor,1421,ja,überschreibung ,200,6 s. 20 d.,,,,
+KB-E 335-1,keine_id,Heumarkt / vor Kernertor,1422,,verkauf ,42,42 d.,120,21,21 tl.,umb Ains und zwainczig phunt Wienner phenning  
+KB-E 335-2,DB5030,Schiltergasse,1422,ja,verkauf ,152,5 s. 2 d.,120,76,76 tl.,umb sechs und Sibenczig phunt Wienner phenning 
+KB-E 335-3,DB5533,unter den Sattlern,1422,,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb funf und Newnczig phunt Wienner phenning  
+KB-E 336-1,DB0003,Neulucke / vor Widmertor,1422,,verkauf ,60,60 d.,160,40,40 tl.,umb virczig phunt Wienner phenning 
+KB-E 336-2,keine_id,St. Stephan / unter den Goldschmieden,1423,ja,überschreibung ,540,18 s.,,,,
+KB-E 337-1,keine_id,Preidenstraße,1423,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen pfunt Wienner pfenning  
+KB-E 337-2,keine_id,Walichstraße,1423,ja,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. Wienner pfenning  
+KB-E 337-3,keine_id,Kernerstraße / St. Clara,1424,,verkauf ,170,5 s. 20 d.,120,85,85 tl.,umb lxxxv tl. d.  
+KB-E 337-4,keine_id,Burg,1424,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phund phenning  
+KB-E 337-5,DB1007,Herzoghof / Lederhof,1424,,verkauf ,88,88 d.,120,44,44 tl.,umb xliiii tl. d.  
+KB-E 338-1,keine_id,Judenfreithof / vor Kernertor,1424,,verkauf ,62,62 d.,120,31,31 tl.,umb xxxi tl. d.  
+KB-E 338-2,keine_id,hintere Peckenstraße,1424,,verkauf ,550,18 s. 10 d.,120,275,275 tl.,umb iiᶜ lxxv tl. d.  
+KB-E 338-3,keine_id,Wollzeile,1425,,verkauf ,1690,7 tl. 10 d.,120,850,850 tl.,umb viii½ᶜ tl. d.  
+KB-E 338-4,DB0092,Schaufellucke,1425,,verkauf ,,,,58,58 tl.,umb lviii tl. d.  
+KB-E 339-1,keine_id,Alter Fleischmarkt,1425,,schenkung ,80,80 d.,,,,
+KB-E 339-2,keine_id,Traibotenstraße,1426,,überschreibung ,80,80 d.,,,,
+KB-E 339-3,DB0048,Alserstraße,1426,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 339-4,keine_id,hintere Peckenstraße / vordere Peckenstraße,1426,,verkauf ,720,3 tl.,120,360,360 tl.,umb iiiᶜ und lx tl. Wienner pfenning  
+KB-E 339-5,keine_id,Katerlucke / vor Kernertor,1426,,verkauf ,12,12 d.,120,6,6 tl.,umb vi tl. d.  
+KB-E 340-1,DB1044,Weiße Brüder,1426,,verkauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. d.  
+KB-E 340-2,keine_id,Ringmauer / Salzgries,1427,,schenkung ,50,50 d.,,,,
+KB-E 340-3,keine_id,vor Stubentor,1427,,überschreibung ,120,0.5 tl.,,,,
+KB-E 340-4,keine_id,Alter Kohlmarkt,1427,ja,überschreibung ,,,,,,
+KB-E 340-5,keine_id,Stadtgraben / vor Widmertor,1427,,verkauf ,350,11 s. 20 d.,,,,
+KB-E 341-1,keine_id,Salzgries,1427,ja,verkauf ,440,14 s. 20 d.,120,220,220 tl.,umb iiᶜ xx tl. d.  
+KB-E 341-2,keine_id,innerhalb Kernertor,1427,,verkauf ,432,14 s. 12 d.,120,216,216 tl.,umb iiᶜ xvi tl. d.  
+KB-E 341-3,keine_id,unter den Lederern / vor Werdertor,1427,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 341-4,keine_id,Domprobsthof,1427,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zway hundert phund Wienner phenning  
+KB-E 342-1,keine_id,Salzgries,1428,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phund phenning  
+KB-E 342-2,keine_id,Brandstätte,1429,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zwaihundert phund phenning  
+KB-E 342-3,keine_id,Weihenburg,1429,ja,verkauf ,16,16 d.,120,8,8 tl. 6 s.,umb viii tl. vi s. d.  
+KB-E 343-1,DB5203,Hohe Brücke / Wiltwerkerstraße,1429,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und v tl. d.  
+KB-E 343-2,keine_id,Krugstraße,1429,ja,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl. d.  
+KB-E 343-3,keine_id,vor Stubentor / Wienfluss,1429,,,224,7 s. 14 d.,,,,
+KB-E 343-4,DB6000,Scheffstraße / vor Stubentor,1429,,verkauf ,501,2 tl. 21 d.,119,250,250 tl.,umb ii½ᶜ tl. Wienner pfenning  
+KB-E 343-5,keine_id,vor Kernertor / Weidenstraße,1429,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl.  
+KB-E 344-1,DB5208,Wiltwerkerstraße,1430,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb hundert und Sechczig phunt  
+KB-E 344-2,keine_id,unter den Spenglern,1430,,verkauf ,264,1 tl. 24 d.,120,132,132 tl.,umb hundert und zwayunddreissig phunt phenning  
+KB-E 344-3,keine_id,bei den Predigern,1430,,verkauf ,240,1 tl.,138,138,138 tl.,umb C xxxviii tl. d.  
+KB-E 345-1,keine_id,Neuer Markt,1430,ja,verkauf ,170,5 s. 20 d.,127,90,90 tl.,umb lxxxx phunt phenning  
+KB-E 345-2,keine_id,Schweinemarkt,1430,ja,verkauf ,147,0.5 tl. 27 d.,240,147,147 tl.,umb c xlvii tl. d.  
+KB-E 345-3,DB6000,Scheffstraße,1430,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 346-1,keine_id,St. Johannsstraße,1431,,verkauf ,90,3 s.,146,55,55 tl.,umb lv tl. d. und vi s. d.  
+KB-E 346-2,DB0081,Bognergasse / Peurertor,1431,,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb lxxxxv tl. d.  
+KB-E 346-3,keine_id,Alter Fleischmarkt,1431,,verkauf ,272,9 s. 2 d.,208,236,236 tl.,umb iiᶜ und xxxvi tl. d.  
+KB-E 346-4,keine_id,Alter Kohlmarkt,1431,,verkauf ,460,15 s. 10 d.,120,230,230 tl.,umb iiᶜ und xxx tl. d.  
+KB-E 347-1,keine_id,Neuer Markt,1431,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 347-2,keine_id,Schweinemarkt,1431,ja,verkauf ,120,0.5 tl.,160,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E 348-1,keine_id,unter den Spenglern,1431,,,200,6 s. 20 d.,,,,
+KB-E 348-2,keine_id,hintere Peckenstraße,1432,,verkauf ,180,6 s.,4,3,3 tl.,umb drew phunt Wienner phenning  
+KB-E 349-1,keine_id,unter den Hafnern,1432,ja,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. d.  
+KB-E 349-2,keine_id,unter den Hafnern,1432,ja,überschreibung ,72,72 d.,,,,
+KB-E 349-3,keine_id,Krugstraße / Ringmauer,1432,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. Wienner d.  
+KB-E 349-4,keine_id,Greut / vor Stubentor,1432,,verkauf ,16,16 d.,120,8,8 tl. 7 s.,umb viii tl. vii s. d.  
+KB-E 350-1,keine_id,Salzgries,1432,,verkauf ,240,1 tl.,70,70,70 tl. !,umb ½ᶜ und xx tl. d.  
+KB-E 350-2,DB0110,Haarhof,1432,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx t. Wienner d.  
+KB-E 350-3,keine_id,Alter Kohlmarkt,1437,,,100,3 s. 10 d.,,,,
+KB-E 351-1,keine_id,Lichtensteg,1433,,verkauf ,380,12 s. 20 d.,120,190,190 tl.,umb hundert und Newnczigk tl. d.  
+KB-E 351-2,keine_id,Greut / vor Stubentor,1433,ja,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 351-3,keine_id,Neunburgerstraße / vor Schottentor,1433,,verkauf ,62,62 d.,120,31,31 tl.,umb xxxi tl. d.  
+KB-E 351-4,keine_id,Weihenburg,1433,,verkauf ,120,0.5 tl.,154,77,77 tl.,umb lxxvii tl. d.  
+KB-E 351-5,keine_id,Traibotenstraße,1438,,verkauf ,,,,29,29 tl.,umb xxviiii tl. d.  
+KB-E 352-1,keine_id,Stephansfreithof,1433,,schenkung ,480,2 tl.,,,,
+KB-E 352-2,DB5427,Hoher Markt,1437,,,320,10 s. 20 d.,,,,
+KB-E 352-3,keine_id,Alter Rossmarkt / unter den Schlossern,1437,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 353-1,keine_id,Schulstraße,1434,ja,verkauf ,570,2 tl. 3 s.,124,295,295 tl.,umb iiᶜ lxxxxv tl. d.  
+KB-E 353-2,keine_id,Singerstraße,1434,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 353-3,keine_id,vordere Peckenstraße,1434,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb iiiiᶜ tl. d.  
+KB-E 353-4,DB0110,Haarhof,1437,ja,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 354-1,keine_id,unter den Hafnern,1434,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 354-2,DB0056,#Alserstraße / vor Schottentor,1434,ja,überschreibung ,120,0.5 tl.,,,,
+KB-E 354-3,DB5523,Am Gestade,1434,,verkauf ,1300,5 tl. 3 s. 10 d.,1,6.5,6.5 tl.,umb vi½ tl. d.  
+KB-E 355-1,keine_id,Kernerstraße,1434,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. Wienner pfenning  
+KB-E 355-2,keine_id,Lichtensteg,1434,,überschreibung ,720,3 tl.,,,,
+KB-E 355-3,keine_id,Alter Kohlmarkt,1434,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb cxxx tl. d.  
+KB-E 356-1,keine_id,Werdertor,1435,,verkauf ,680,2 tl. 6 s. 20 d.,121,344,344 tl.,umb ccc und xliiii tl. d.  
+KB-E 356-2,keine_id,Neuer Markt,1435,,,200,6 s. 20 d.,,,,
+KB-E 356-3,DB1042,Weiße Brüder,1437,,verkauf ,200,6 s. 20 d.,240,200,200 tl.,umb iiᶜ tl. Wienner d.  
+KB-E 357-1,keine_id,Salzgries,1435,ja,,,,,,,
+KB-E 357-2,DB0047,Alserstraße / unter den Lederern / vor Schottentor,1435,,verkauf ,32,32 d.,116,15.5,15.5 tl.,umb xv½ tl. d.  
+KB-E 357-3,keine_id,Lichtensteg,1435,,,480,2 tl.,,,,
+KB-E 358-1,DB5522,Am Gestade,1436,,,210,7 s.,,,,
+KB-E 358-2,DB0049,Alserstraße,1436,ja,verkauf ,18,18 d.,120,9,9 tl.,umb viiii tl. d.  
+KB-E 358-3,keine_id,Greut / vor Stubentor,1436,,,120,0.5 tl.,800,400,400 tl. ?,umb cccc tl. Wienner d.  
+KB-E 359-1,DB0005,Neulucke / vor Kernertor,1420,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczig phunt phenning  
+KB-E 359-2,keine_id,innerhalb Werdertor,1420,ja,verkauf ,44,44 d.,120,22,22 tl.,umb zway und zwainczig pfunt Wienner pfenning  
+KB-E 359-3,keine_id,vor Werdertor,1420,,verkauf ,32,32 d.,120,16,16 tl.,umb Sechczehen phunt Wienner phenning  
+KB-E 359-4,keine_id,unter den Lederern / vor Werdertor,1436,ja,verkauf ,18,18 d.,120,9,9 tl.,umb viiii tl. d.  
+KB-E 360-1,DB5510,unter den Sattlern,1421,,verkauf ,1200,5 tl.,120,600,600 tl.,umb Sechs hundert phunt Wienner phenning 
+KB-E 360-2,keine_id,Stephansfreithof,1421,ja,überschreibung ,,5 s. 10 d. ?,,,,
+KB-E 360-3,DB5213,Wiltwerkerstraße,1421,,verkauf ,262,1 tl. 22 d.,120,131,131 tl.,umb hundert und ains und dreissig phunt Wienner phenning  
+KB-E 361-1,keine_id,St. Johannsstraße / Traibotenstraße,1422,ja,verkauf ,80,80 d.,150,50.0,60 tl. / 40 tl.,umb Sechczig phunt Wienner phenning  umb virczig phunt Wienner phenning 
+KB-E 361-2,keine_id,innerhalb Schottentor,1422,,verkauf ,58,58 d.,120,29,29 tl.,umb Newn und zwainczig pfunt Wienner pfenning 
+KB-E 362-1,keine_id,Ratstraße,1423,,verkauf ,,,,300,300 tl.,umb drewhundert phunt Wienner pfenning  
+KB-E 362-2,keine_id,Wollzeile,1423,,verkauf ,578,2 tl. 3 s. 8 d.,120,289,289 tl.,umb iiᶜ lxxxviiii tl. d.  
+KB-E 362-3,keine_id,innerhalb Werdertor,1423,ja,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 362-4,keine_id,Rotgasse,1423,ja,verkauf ,15,15 d.,120,7.5,7.5 tl.,umb Achthalbs phund Wienner phenning  
+KB-E 363-1,keine_id,unter den Segnern,1424,ja,schenkung ,16,16 d.,,,,
+KB-E 363-2,keine_id,Alter Kohlmarkt / #St. Michael,1424,ja,verkauf ,440,14 s. 20 d.,120,220,220 tl.,umb iiᶜ und xx tl. d.  
+KB-E 363-3,keine_id,Kienmarkt,1424,,verkauf ,900,3 tl. 6 s.,93,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E 363-4,DB0056,#Alserstraße / vor Schottentor,1425,ja,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 364-1,keine_id,Neuer Markt,1425,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 364-2,keine_id,Kienmarkt,1425,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl.  
+KB-E 364-3,DB5480,unter den langen Tuchlauben,1426,,verkauf ,600,2.5 tl. ,120,300,300 tl.,umb iiiᶜ tl. d.  
+KB-E 364-4,keine_id,Burg,1427,,,80,80 d.,120,40,40 tl.,umb xl tl. d. 
+KB-E 365-1,DB6000,Scheffstraße,1427,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d.  
+KB-E 365-2,keine_id,unter den Fischern,1428,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E 365-3,(DB5412),Hoher Markt,1428,,verkauf ,180,6 s.,213,160,120 G,umb hundert und xx gulden  
+KB-E 365-4,keine_id,Kienmarkt,1428,,verkauf ,196,6 s. 16 d.,240,196,196 tl.,umb hundert und lxxxxvi tl. d.  
+KB-E 365-5,keine_id,Wollzeile,1429,,verkauf ,330,11 s.,120,165,165 tl.,umb hundert und lxv tl. d.  
+KB-E 366-1,keine_id,bei den Predigern,1429,,verkauf ,104,3 s. 14 d.,214,93,70 G,umb lxx guldein  
+KB-E 366-2,keine_id,St. Johannsstraße,1429,,verkauf ,116,3 s. 26 d.,126,61,61 tl.,umb lxi tl. d.  
+KB-E 366-3,keine_id,Münzerstraße,1429,,verkauf ,864,3 tl. 4 s. 24 d.,120,432,432 tl.,umb iiiiᶜ und xxxii tl.  
+KB-E 366-4,DB5542,unter den Sattlern,1429,,verkauf ,760,3 tl. 40 d.,120,380,380 tl.,umb iiiᶜ lxxx tl. d.  
+KB-E 367-1,DB0061,Alserstraße / vor Schottentor,1429,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 367-2,keine_id,Salzgries,1430,,,80,80 d.,,,,
+KB-E 368-1,keine_id,vor Kernertor,1430,,verkauf ,276,9 s. 6 d.,120,138,138 tl.,umb C und xxxviii phunt phenning 
+KB-E 368-2,keine_id,Graben,1430,,verkauf ,1360,5 tl. 5 s. 10 d.,120,680,680 tl.,umb Sechs hundert und Achczig pfund Wienner pfenning 
+KB-E 368-3,DB5012a,Tiefer Graben,1430,ja,verkauf ,24,24 d.,120,12,12 tl.,umb zwelf tl. d. 
+KB-E 368-4,keine_id,Domprobsthof,1437,,verkauf ,480,2 tl.,180,360,360 tl.,umb iiiᶜ l x tl. d.  
+KB-E 369-1,DB5103,hinter St. Pankraz,1431,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. Wienner d.  
+KB-E 369-2,keine_id,Schulstraße,1431,,verkauf ,366,12 s. 6 d.,120,183,183 tl.,umb C und lxxxiii tl. Wienner d.  
+KB-E 369-3,keine_id,Preidenstraße,1431,,verkauf ,600,2.5 tl.,,,,
+KB-E 369-4,keine_id,Kienmarkt,1437,,verkauf ,170,5 s. 20 d.,120,85,85 tl.,umb lxxxv tl. Wienner d.  
+KB-E 370-1,keine_id,Katerlucke / vor Kernertor,1432,,verkauf ,10,10 d.,120,5,5 tl.,umb v tl. d.  
+KB-E 370-2,keine_id,Stephansfreithof,1432,ja,verkauf ,448,14 s. 28 d.,120,224,224 tl.,umb iiᶜ und xxiiii tl. d.  
+KB-E 370-3,DB0021,Alserstraße / vor Schottentor,1432,,verkauf ,60,60 d.,120,30,30 tl.,umb xxx tl. Wienner d.  
+KB-E 370-4,keine_id,Stephansfreithof,1432,ja,verkauf ,,,,224,224 tl.,umb iiᶜ xxiiii tl. d.  
+KB-E 371-1,keine_id,Ringmauer / Salzgries,1432,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 371-2,keine_id,hintere Peckenstraße,1436,,,500,2 tl. 20 d.,,,,
+KB-E 371-3,keine_id,Alter Kohlmarkt,1437,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb iiᶜ tl. Wienner d.  
+KB-E 371-4,DB0121,hinter St. Pankraz,1437,,verkauf ,242,8 s. 2 d.,117,118,118 tl.,umb C xviii tl. d.  
+KB-E 372-1,keine_id,,1433,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E 372-2,keine_id,Bürgerspital / vor Kernertor,1434,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 372-3,DB5509,Münzerstraße,1434,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb cccc tl. Wienner pfenning  
+KB-E 372-4,keine_id,Münzerstraße,1436,,verkauf ,450,15 s.,120,225,225 tl.,umb cc xxv tl. d.  
+KB-E 372-5,keine_id,Strauchgasse,1437,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 373-1,keine_id,Greut / vor Stubentor,1435,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 373-2,keine_id,Ringmauer / Salzgries,1440,,verkauf ,180,6 s.,126,95,95 tl.,umb lxxxxv tl. d.  
+KB-E 373-3,keine_id,Haarmarkt,1435,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb ccc tl. d.  
+KB-E 373-4,keine_id,Graben,1436,ja,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. Wienner d.  
+KB-E 374-1,DB4000,Roter Turm,1435,,,630,2 tl. 5 s.,120,315,315 tl.,umb ccc xv tl. d.  
+KB-E 374-2,keine_id,Rosengasse / Teinfaltstraße,1436,,,20,20 d.,120,10,10 tl. 3s.,umb x tl. iii s. d.  
+KB-E 374-3,DB1044,Weiße Brüder,1436,,verkauf ,84,84 d.,120,42,42 tl.,umb xlii tl. d.  
+KB-E 374-4,DB1072,Wiltwerkerstraße,1436,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 375-1,keine_id,Alter Kohlmarkt,1420,,,180,6 s.,120,90,90 tl.,umb Newnczig phunt Wienner phennig  
+KB-E 375-2,keine_id,Greut / vor Stubentor,1420,ja,verkauf ,38,38 d.,120,19,19 tl.,umb Newnczehen phunt Wienner phenning  
+KB-E 375-3,keine_id,Wollzeile,1420,,verkauf ,64,64 d.,120,32,32 tl.,umb zway und dreissig phunt Wienner phenning  
+KB-E 376-1,DB0110,Haarhof,1420,,verkauf ,23,23 d.,114,11,11 tl. 5 s.,umb Ayndlef phunt und funf schilling Wienner phenning  
+KB-E 377-1,keine_id,Singerstraße,1421,,verkauf ,192,6 s. 12 d.,120,96,96 tl.,umb Sechs und Newnczig phunt Wienner phenning  
+KB-E 377-2,keine_id,innerhalb Werdertor,1432,ja,verkauf ,46,46 d.,120,23,23 tl.,umb drew und zwainczig phunt Wienner phenning  
+KB-E 377-3,keine_id,Domprobsthof,1422,,verkauf ,106,3 s. 16 d.,120,53,53 tl.,umb drew und funfczig phunt Wienner phenning  
+KB-E 378-1,keine_id,auf dem Steig / bei den Predigern,1422,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achczig phunt Wienner phenning  
+KB-E 378-2,DB5012a,Tiefer Graben,1422,ja,verkauf ,22,22 d.,120,11,11 tl.,umb Aindlef phunt Wienner phenning  
+KB-E 378-3,DB5102,hinter St. Pankraz,1422,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning 
+KB-E 379-1,keine_id,Rosstränke / vor Werdertor,1422,ja,verkauf ,,,,40,40 tl.,umb virczicg phunt Wienner phenning  
+KB-E 379-2,keine_id,bei den Predigern / Hochschule,1422,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phunt Wienner phenning  
+KB-E 379-3,keine_id,Alter Kohlmarkt,1422,,überschreibung ,,,,,,
+KB-E 380-1,keine_id,Alter Fleischmarkt / Laurenzerinnen,1422,,überschreibung ,60,60 d.,,,,
+KB-E 380-2,keine_id,bei den Predigern / Hochschule,1422,,verkauf ,180,6 s.,120,90,90 tl.,umb Newnczigk phunt Wienner phenning  
+KB-E 380-3,DB5012a,Tiefer Graben,1422,ja,verkauf ,28,28 d.,120,14,14 tl.,umb vierczehen phunt Wienner phenning  
+KB-E 381-1,keine_id,Mietstatt / vor Kernertor,1422,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 381-2,keine_id,Rosstränke / vor Werdertor,1422,,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl d.  
+KB-E 381-3,keine_id,auf dem Anger,1422,,verkauf ,,,,16,16 tl.,umb sechczehen pfunt Wienner pfenning  
+KB-E 381-4,keine_id,Domprobsthof,1423,,verkauf ,136,0.5 tl. 16 d.,120,68,68 tl.,umb lxviii tl. Wienner pfenning  
+KB-E 381-5,keine_id,Laurenzerinnen / unter den Hafnern,1423,,verkauf ,162,5 s. 12 d.,120,81,81 tl.,umb lxxxi tl. d.  
+KB-E 382-1,keine_id,Alter Kohlmarkt,1423,,überschreibung ,150,5 s.,,,,
+KB-E 382-2,DB5470,Peurertor,1423,ja,überschreibung ,45,45 d.,,,,
+KB-E 382-3,keine_id,Katerlucke / vor Widmertor,1423,ja,verkauf ,20,20 d.,120,10,10 tl. 6 s.,umb x tl. vi s. d.  
+KB-E 382-4,DB5472,Peurertor,1423,,verkauf ,940,3 tl. 7 s. 10 d.,120,470,470 tl.,umb vierhundert und Sibenczig phunt Wienner phenning  
+KB-E 382-5,DB0111,Haarhof,1423,,verkauf ,8,8 d.,120,4,4 tl. 6 s.,umb vier phund und sex schilling phenning  
+KB-E 383-1,DB0091,Schaufellucke,1424,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig pfunt phenning  
+KB-E 383-2,keine_id,unter den Segnern,1424,ja,verkauf ,22,22 d.,120,11,11 tl.,umb xi tl. d.  
+KB-E 383-3,keine_id,bei den Predigern,1424,,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb lxxxxv tl. Wienner phenning  
+KB-E 383-4,keine_id,St. Johannsstraße,1424,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 383-5,DB0042,Alserstraße,1425,,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. d.  
+KB-E 384-1,keine_id,Rosstränke / vor Werdertor,1425,ja,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 384-2,DB5116,hinter St. Pankraz,1425,,verkauf ,108,3 s. 18 d.,120,54,54 tl.,umb liiii tl. d.  
+KB-E 384-3,keine_id,Alter Fleischmarkt,1425,,verkauf ,640,2.5 tl. 40 d.,120,320,320 tl.,umb iiiᶜ und xx tl. d.  
+KB-E 384-4,keine_id,Bürgerspital / vor Kernertor,1425,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 385-1,keine_id,Kernerstraße,1426,,verkauf ,168,5 s. 18 d.,120,84,84 tl.,umb lxxxiiii tl. d.  
+KB-E 385-2,keine_id,hintere Peckenstraße / Hochschule,1426,,verkauf ,224,7 s. 14 d.,120,112,112 tl.,umb hundert und xii tl. d.  
+KB-E 385-3,keine_id,vor Stubentor,1426,ja,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. Wienner phenning  
+KB-E 385-4,keine_id,Petersfreithof,1426,,verkauf ,430,14 s. 10 d.,120,215,215 tl.,umb iiᶜ und xv tl. d.  
+KB-E 385-5,keine_id,hintere Peckenstraße,1426,,verkauf ,,,,140,140 tl.,umb hundert und xl tl. d.  
+KB-E 385-6,keine_id,Fundlucke,1426,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl.  
+KB-E 386-1,keine_id,Weihenburg,1426,,verkauf ,242,1 tl. 2 d.,134,136,136 tl.,umb hundert xxxvi tl. d.  
+KB-E 386-2,keine_id,auf dem Steig,1426,,verkauf ,1200,5 tl.,120,600,600 tl.,umb viᶜ tl. d.  
+KB-E 386-4,keine_id,Kienmarkt,1426,,schenkung ,75,75 d.,,,,
+KB-E 386-5,keine_id,St. Johann / Werd,1426,,verkauf ,240,1 tl.,150,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 387-1,DB0114,Haarhof / hinter St. Pankraz,1427,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 387-2,keine_id,Domprobsthof / Graben,1427,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 387-3,DB5454,Berghof,1427,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 387-4,keine_id,Schwabgasse / vor Kernertor,1427,,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. Wienner phenning  
+KB-E 387-5,keine_id,vor Werdertor,1427,ja,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 387-6,keine_id,innerhalb Schottentor,1427,,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl. d.  
+KB-E 388-1,DB1007,Herzoghof / Lederhof,1427,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 388-2,keine_id,innerhalb Schottentor,1427,,verkauf ,58,58 d.,99,24,24 tl.,umb xxiiii tl. d.  
+KB-E 388-3,DB5418,unter den kurzen Tuchlauben,1427,,verkauf ,32,32 d.,123,16.5,16.5 tl.,umb xvi½ tl. d.  
+KB-E 388-4,keine_id,Alter Rossmarkt,1428,,überschreibung ,400,13 s. 10 d.,,,,
+KB-E 388-5,keine_id,Landstraße,1428,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phund phenning  
+KB-E 389-1,keine_id,Peckenstraße,1428,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E 389-2,keine_id,Rosengasse / Teinfaltstraße,1428,,verkauf ,16,16 d.,120,8,8 tl. 60 d.,umb viii tl. und lx d.  
+KB-E 389-3,DB0114,Haarhof / hinter St. Pankraz,1428,ja,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. d.  
+KB-E 389-4,DB5429,Hoher Markt,1429,,überschreibung ,90,3 s.,,,,
+KB-E 390-1,DB5103,hinter St. Pankraz,1429,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 390-2,keine_id,Teinfaltstraße,1429,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. d.  
+KB-E 390-3,keine_id,Kumpflucke,1429,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 390-4,DB1042,Weiße Brüder,1429,,verkauf ,460,15 s. 10 d.,120,230,230 tl.,umb CC xxx tl. d.  
+KB-E 390-5,keine_id,Haarmarkt,1429,,verkauf ,1440,6 tl.,120,720,720 tl.,umb viiᶜ xx tl. d.  
+KB-E 391-1,DB5487a,unter den Sattlern,1430,,verkauf ,240,8 s.,140,140,140 tl.,umb C und xl tl. d.  
+KB-E 391-2,DB5116,hinter St. Pankraz,1430,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig phunt Wienner d.  
+KB-E 391-3,DB1072,Wiltwerkerstraße,1430,,schenkung ,144,0.5 tl. 24 d.,,,,
+KB-E 391-4,keine_id,Himmelpforten,1430,ja,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 392-1,DB5112,hinter St. Pankraz,1430,ja,,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 392-2,DB1014,Hofgasse,1430,,verkauf ,290,9 s. 20 d.,120,145,145 tl.,umb cxlv tl. d. 
+KB-E 392-3,keine_id,Kienmarkt,1430,,verkauf ,600,2.5 tl.,133,333,333 tl.,umb dreuhundert und drey und dreissig phunt phenning  
+KB-E 392-4,DB0130,Altdonau,1430,,verkauf ,82,82 d.,120,41,41 tl.,umb xli tl. d.  
+KB-E 393-1,DB1023,Wiltwerkerstraße,1430,ja,verkauf ,270,9 s.,124,140,140 tl.,umb hundert und vierczig phunt phenning  
+KB-E 393-2,keine_id,Kienmarkt,1430,,schenkung ,120,4 s.,,,,
+KB-E 393-3,DB1049,Judengasse,1431,,,350,11 s. 20 d.,130,190,190 tl.,umb clxxxx tl. d.  
+KB-E 395-1,keine_id,Alter Kohlmarkt / Walichstraße,1430,,schenkung ,540,18 s.,,,,
+KB-E 395-2,keine_id,Weihenburg,1440,,schenkung ,214,7 s. 4 d.,,,,
+KB-E 395-3,DB1057,Wiltwerkerstraße,1431,,verkauf ,454,15 s. 4 d.,120,227,227 tl.,umb iiᶜ xxvii tl. d. 
+KB-E 396-1,keine_id,Kienmarkt,1431,,,260,1 tl. 20 d.,,,,
+KB-E 396-2,keine_id,Wollzeile,1431,,verkauf ,720,3 tl.,120,360,360 tl.,umb iiiᶜ und lx tl. phenning  
+KB-E 397-1,keine_id,Mietstatt / vor Kernertor,1431,,verkauf ,60,60 d.,120,30,30 tl.,umb xxx tl. d.  
+KB-E 397-2,keine_id,Bürgerspital / vor Kernertor,1432,,schenkung ,72,72 d.,,,,
+KB-E 397-3,keine_id,Weihenburg,1432,,schenkung ,200,6 s. 20 d.,,,,
+KB-E 397-4,keine_id,Alter Kohlmarkt,1432,,verkauf ,300,10 s.,96,120.0,150 tl. / 90 tl.,umb i½ᶜ tl. d.  umb lxxxx tl. d.  
+KB-E 398-1,DB5451,Hoher Markt,1432,,überschreibung ,1440,6 tl.,,,,
+KB-E 398-2,DB5533,unter den Sattlern,1432,,verkauf ,,,,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 398-3,DB0126,hinter St. Pankraz,1432,ja,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 398-4,DB1049,Judengasse,1432,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb Clx tl. d. 
+KB-E 399-1,DB5512b,unter den Sattlern,1432,ja,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 399-2,keine_id,Jakobsfreithof / St. Jakob,1432,,verkauf ,270,9 s.,120,135,135 tl.,umb cxxxv tl. d.  
+KB-E 399-3,keine_id,Münzerstraße,1432,,verkauf ,900,3 tl. 6 s.,120,450,450 tl.,umb funfthalb hundert tl. d.  
+KB-E 400-1,DB5429,Hoher Markt,1433,,verkauf ,,,,200,200 tl. 6 s.,umb iiᶜ tl. vi s. d.  
+KB-E 400-2,keine_id,Alter Kohlmarkt,1433,,verkauf ,440,14 s. 20 d.,120,220,220 tl.,umb cc xx tl. d.  
+KB-E 400-3,keine_id,Alter Rossmarkt,1433,,überschreibung ,400,13 s. 10 d.,,,,
+KB-E 401-1,keine_id,Greut / vor Stubentor,1433,ja,verkauf ,20,20 d.,120,10,10 tl. 60 d.,umb x tl. lx d.  
+KB-E 401-2,keine_id,vor Werdertor,1433,,verkauf ,38,38 d.,113,18,18 tl.,umb xviii tl. d.  
+KB-E 401-3,DB0052,#Alserstraße / vor Schottentor,1433,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 402-1,DB5038,Wiltwerkerstraße,1434,,verkauf ,840,3.5 tl.,120,423,423 tl.,umb ccccxxiii tl. d.  
+KB-E 402-2,keine_id,vor Stubentor,1434,,überschreibung ,80,80 d.,,,,
+KB-E 402-3,keine_id,Hochschule,1434,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb c lx tl. Wienner pfenning  
+KB-E 403-1,keine_id,Mietstatt / vor Kernertor,1434,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. Wienner pfenning  
+KB-E 403-2,keine_id,Weihenburg,1434,ja,verkauf ,91,3 s. 1 d.,94,36,36 tl.,umb xxxvi tl. d.  
+KB-E 403-3,keine_id,Krugstraße,1434,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E 404-1,DB5406,Hoher Markt / neue Schranne / Riemhaus,1434,ja,verkauf ,24,24 d.,120,12,12 tl. 65 d.,umb xii tl. lxv d.  
+KB-E 404-2,keine_id,vor Werdertor,1434,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E 405-1,DB6000,Scheffstraße / vor Stubentor,1435,ja,verkauf ,240,1 tl.,120,120,120 tl.,umb Cxx tl. d.  
+KB-E 405-2,DB5107,hinter St. Pankraz,1435,,verkauf ,230,7 s. 20 d.,121,116,116 tl.,umb C xvi tl. d.  
+KB-E 406-1,keine_id,Roter Turm,1435,,verkauf ,360,12 s.,120,180,180 tl.,umb Clxxx tl. d.  
+KB-E 406-2,DB5507,Kammerhof,1435,,verkauf ,600,2.5 tl.,128,320,320 tl.,umb cccxx tl. d.  
+KB-E 407-1,keine_id,Alter Rossmarkt / unter den Schlossern,1435,ja,überschreibung ,58,58 d.,,,,
+KB-E 407-2,keine_id,Traibotenstraße,1435,,verkauf ,120,0.5 tl.,68,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 407-3,keine_id,Strauchgasse,1435,,verkauf ,53,53 d.,122,27,27 tl.,umb xxvii tl. d.  
+KB-E 408-1,keine_id,Fischhof,1435,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb Cxxx tl. d.  
+KB-E 408-2,keine_id,unter den Hafnern,1435,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 408-3,keine_id,Kumpflucke / vor Kernertor,1435,,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 408-4,keine_id,Stadtgraben / vor Stubentor,1435,,verkauf ,30,30 d.,120,15,15 tl.,umb xv tl. d.  
+KB-E 409-1,keine_id,unter den Hafnern,1435,ja,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 409-2,keine_id,Petersfreithof,1435,,verkauf ,1200,5 tl.,120,600,600 tl.,umb Sechshundert phunt Wienner pfenning  
+KB-E 409-3,DB0050,#Alserstraße / unter den Lederern / vor Schottentor,1435,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl.  
+KB-E 410-1,keine_id,unter den Goldschmieden,1436,ja,,30,30 d.,120,15,15 tl.,umb xv tl. d.  
+KB-E 410-2,keine_id,Salzgries,1436,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczig phunt Wienner phenning  
+KB-E 411-1,keine_id,vor Werdertor,1436,,verkauf ,110,3 s. 20 d.,327,150,150 tl.,umb c und l tl. Wienner d.  
+KB-E 411-2,keine_id,Alter Fleischmarkt,1436,,verkauf ,380,12 s. 20 d.,120,190,190 tl.,umb Clxxxx tl. d.  
+KB-E 411-3,DB0110,Haarhof,1436,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 412-1,keine_id,vor Kernertor,1436,ja,verkauf ,,,,63,63 tl.,umb lxiii tl. Wienner d.  
+KB-E 412-2,DB5111,hinter St. Pankraz,1436,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 412-3,keine_id,Alter Rossmarkt,1436,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 413-1,keine_id,Ringmauer / Salzgries,1437,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E 413-2,keine_id,Fischhof / St. Jakob,1437,,verkauf ,106,3 s. 16 d.,120,53,53 tl.,umb liii tl. d.  
+KB-E 413-3,keine_id,Singerstraße,1437,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. Wienner d.  
+KB-E 414-1,keine_id,Singerstraße,1437,,verkauf ,220,7 s. 10 d.,125,115,115 tl.,umb hundert und funfczehen phunt Wienner phenning  
+KB-E 414-2,keine_id,Neuer Markt,1437,,verkauf ,130,0.5 tl. 10 d.,240,130,130 tl.,umb C und xxx tl. d.  
+KB-E 414-3,DB0051,Alserstraße / unter den Lederern / vor Schottentor,1435,,verkauf ,26,26 d.,120,13,13 tl.,umb xiii tl. Wienner d.  
+KB-E 415-1,keine_id,vor Stubentor,1420,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achczig phunt Wienner phenning  
+KB-E 415-2,keine_id,vor Werdertor,1420,,verkauf ,48,48 d.,120,24,24 tl.,umb vier und zwainczig phunt Wienner phenning  
+KB-E 415-3,keine_id,Haarmarkt,1420,,verkauf ,480,2 tl.,120,240,240 tl.,umb zway hundert und virczig phunt Wienner phenning  
+KB-E 416-1,keine_id,St. Johannsstraße,1420,ja,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning  
+KB-E 417-1,keine_id,bei den Predigern,1421,,verkauf ,56,56 d.,120,28,28 tl.,umb Acht und zwainczig phunt Wienner phenning  
+KB-E 417-2,keine_id,Tirna,1421,,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning  
+KB-E 417-3,DB0004,Neulucke / vor Widmertor,1421,,verkauf ,47,47 d.,120,23.5,23.5 tl.,umb vierdhalbs und zwainczig phunt Wienner phenning  
+KB-E 418-1,keine_id,Neuer Markt,1421,,verkauf ,,,,161,161 tl.,umb hundert und ains und Sechczig phunt Wienner phenning  
+KB-E 418-2,keine_id,Mietstatt / vor Kernertor,1421,,,84,84 d.,117,41,41 tl.,umb ains und vierczig phunt Wienner phenning  
+KB-E 418-3,DB0044,Alserstraße / vor Schottentor,1421,ja,verkauf ,46,46 d.,120,23,23 tl.,umb drew und zwainczigk phunt Wienner phenning  
+KB-E 418-4,keine_id,Neuer Markt,1421,,verkauf ,322,10 s. 22 d.,120,161,161 tl.,umb hundert und Ains und Sechczigk phunt Wienner pehnning  
+KB-E 419-1,keine_id,Würffel,1421,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb Sechczig phunt Wienner phenning  
+KB-E 419-2,DB5571,Kammerhof / Münzerstraße,1421,,verkauf ,1030,4 tl. 70 d.,120,515,515 tl.,umb funf hundert und funfczehen pfunt Wienner pfenning  
+KB-E 419-3,keine_id,vor Kernertor,1423,,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. Wienner phenning  
+KB-E 420-1,keine_id,Landskron,1423,,verkauf ,780,3 tl. 60 d.,120,390,390 tl.,umb drewhundtert und Newnczig phunt Wienner phenning  
+KB-E 420-2,keine_id,vor Stubentor / Wienfluss,1423,,verkauf ,222,7 s. 12 d.,120,111,111 tl.,umb C und xi tl. pfenning  
+KB-E 420-3,keine_id,Krugstraße,1424,ja,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 420-4,DB1003,Lederhof,1424,ja,verkauf ,20,20 d.,126,10.5,10.5 tl.,umb x½ tl. d.  
+KB-E 420-5,keine_id,St. Jakob / Viehhof,1425,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 421-1,DB5111,hinter St. Pankraz,1425,,verkauf ,54,54 d.,142,32,32 tl.,umb xxxii tl. d.  
+KB-E 421-2,keine_id,Preidenstraße,1426,,überschreibung ,,,,,,
+KB-E 421-3,keine_id,Kernerstraße,1426,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d.  
+KB-E 421-4,keine_id,Pippingerstraße,1426,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 422-1,DB5212,Wiltwerkerstraße / Würffel,1426,,verkauf ,330,11 s.,247,340,340 tl.,umb iiiᶜ xxxx tl. d.  
+KB-E 422-2,keine_id,Kumpfgasse,1426,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. d.  
+KB-E 422-3,keine_id,Neuer Markt,1426,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 422-4,keine_id,vordere Peckenstraße,1426,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 422-5,keine_id,unter den langen Tuchlauben,1426,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb funfczig pfund Wienner phenning  
+KB-E 423-1,keine_id,Stadtgraben / vor Widmertor,1428,ja,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 423-2,keine_id,Peckenstraße,1428,,verkauf ,450,15 s.,240,450,450 tl.,umb iiii½ᶜ tl. d.  
+KB-E 423-3,keine_id,Schwabgasse / vor Kernertor,1428,,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. d.  
+KB-E 423-4,DB0031,#Alserstraße / vor Schottentor,1428,ja,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d.  
+KB-E 423-5,keine_id,Kernerstraße,1428,ja,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 424-1,keine_id,vor Stubentor,1428,,verkauf ,156,5 s. 6 d.,120,78,78 tl.,umb lxxviii tl. d.  
+KB-E 424-2,keine_id,Teinfaltstraße,1429,,verkauf ,12,12 d.,240,12,12 tl.,umb xii tl. d.  
+KB-E 424-3,DB1043,Weiße Brüder,1429,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfund Wienner phenning  
+KB-E 424-4,DB5571,Lichtensteg / unter den Taschnern,1429,,verkauf ,900,3 tl. 6 s.,120,450,450 tl.,umb iiii½ᶜ tl. Wienner phenning  
+KB-E 424-5,keine_id,Alter Fleischmarkt,1429,,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 425-1,DB7002,Kernerstraße,1429,ja,verkauf ,54,54 d.,120,27,27 tl.,umb xxvii tl. d.  
+KB-E 425-2,keine_id,unter den Gürtlern,1429,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 425-3,keine_id,vordere Peckenstraße,1429,,verkauf ,106,3 s. 16 d.,120,53,53 tl.,umb liii tl. d.  
+KB-E 425-4,keine_id,auf dem Anger,1429,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 425-5,keine_id,vor Stubentor,1429,,verkauf ,170,5 s. 20 d.,120,85,85 tl.,umb lxxxv tl. d.  
+KB-E 426-1,keine_id,vor Werdertor,1429,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. Wienner pfenning  
+KB-E 426-2,keine_id,Teinfaltstraße,1430,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 426-3,keine_id,Laimgrube / vor Widmertor,1430,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl. d.  
+KB-E 426-4,keine_id,Heumarkt,1430,,verkauf ,46,46 d.,120,23,23 tl.,umb xxiii tl. Wienner d.  
+KB-E 427-1,keine_id,Rosengasse / Teinfaltstraße,1431,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 427-2,keine_id,Neuer Markt,1431,,verkauf ,140,0.5 tl. 20 d.,240,140,140 tl.,umb C und xl tl. phenning  
+KB-E 428-1,keine_id,Lichtensteg,1432,ja,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. Wienner d.  
+KB-E 428-2,keine_id,Schenkenstraße,1432,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 428-3,keine_id,Salzgries,1432,,verkauf ,450,15 s.,120,225,225 tl.,umb iiᶜ xxv tl. d.  
+KB-E 429-1,keine_id,vordere Peckenstraße,1432,,verkauf ,,0 d.,,250,250 tl.,umb ii½ᶜ tl. d.  
+KB-E 429-2,keine_id,Biberturm / Laurenzerinnen,1432,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. phenning  
+KB-E 429-3,DB0031,#Alserstraße / vor Schottentor,1432,,verkauf ,60,60 d.,80,20,20 tl.,umb xx tl. d.  
+KB-E 429-4,DB5536,unter den Sattlern,1432,,verkauf ,,,,1100,1100 tl.,umb ixᶜ tl. Wienner d.  
+KB-E 430-1,keine_id,vordere Peckenstraße,1433,,verkauf ,1260,5 tl. 60 d.,120,632,632 tl.,umb viᶜ xxxii tl. Wienner d.  
+KB-E 430-2,DB6000,Scheffstraße,1433,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E 430-3,keine_id,Strauchgasse,1433,,verkauf ,356,11 s. 26 d.,113,168,168 tl.,umb hundert und Achtundsechczig phunt phenning  
+KB-E 430-4,keine_id,Stadtgraben / vor Stubentor,1433,,verkauf ,300,10 s.,126,158,158 tl.,umb C lviii tl. d.  
+KB-E 431-1,keine_id,vor Werdertor,1433,,verkauf ,32,32 d.,120,16,16 tl.,umb xvi tl. Wienner d.  
+KB-E 431-2,keine_id,Alter Fleischmarkt,1433,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E 432-1,keine_id,St. Johannsstraße,1434,ja,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. Wienner d.  
+KB-E 432-2,keine_id,Biberturm / Rosstränke / vor Stubentor,1434,,schenkung ,90,3 s.,,,,
+KB-E 432-3,DB5476,Peurertor / unter den Spenglern,1434,,verkauf ,1500,6 tl. 60 d.,128,800,800 tl.,umb viiiᶜ tl. Wienner d.  
+KB-E 433-1,keine_id,unter den Lederern / vor Werdertor,1434,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E 433-2,keine_id,Roter Turm,1434,,überschreibung ,720,3 tl.,,,,
+KB-E 434-1,keine_id,Fischhof,1434,,verkauf ,266,1 tl. 26 d.,120,133,133 tl.,umb C xxxiii tl. d.  
+KB-E 434-2,keine_id,Salzgries,1434,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drewhundert pfund phenning  
+KB-E 434-3,keine_id,Kernerstraße,1434,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E 434-4,keine_id,Kernerstraße,1434,,verkauf ,360,12 s.,120,180,180 tl.,umb c lxxx tl. d.  
+KB-E 435-1,keine_id,Münzerstraße,1434,ja,verkauf ,2400,10 tl.,120,1200,1200 tl.,umb zwelfhundert phunt phenning  
+KB-E 436-1,DB1211,Wiltwerkerstraße,1435,,verkauf ,1200,5 tl.,120,600,600 tl.,umb viᶜ tl. d. 
+KB-E 436-2,DB1022,Wiltwerkerstraße,1435,,verkauf ,554,2 tl. 74 d.,120,277,277 tl.,umb cc lxxvii tl. d. 
+KB-E 437-1,keine_id,Domprobsthof,1435,,verkauf ,390,13 s.,123,200,200 tl.,umb cc tl. d.  
+KB-E 437-2,keine_id,Rotgasse,1436,,verkauf ,132,0.5 tl. 12 d.,120,66,66 tl.,umb lxvi tl. d.  
+KB-E 437-3,keine_id,St. Johannsstraße,1436,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 438-1,keine_id,Kernertor,1436,,verkauf ,330,11 s.,122,169,165 tl. + 3 G,umb hundert funfund sechczig pfunt  und drey guldein zu lerkauf  
+KB-E 438-2,DB6000,Scheffstraße,1436,,verkauf ,,,,28,28 tl.,umb xxviii tl. Wienner d.  
+KB-E 438-3,keine_id,Rotgasse,1436,,verkauf ,250,8 s. 10 d.,105,110,110 tl.,umb c x tl. d.  
+KB-E 439-1,keine_id,vor Stubentor / Wienfluss,1437,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. Wienner d.  
+KB-E 439-2,keine_id,Krotental / vor Stubentor,1437,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 439-3,keine_id,Stadtgraben / vor Stubentor,1437,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb lxxxviii tl. d.  
+KB-E 440-1,DB5477,Peurertor / unter den Spenglern,1437,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczig pfunt pfenning  
+KB-E 440-2,DB5220,Hohe Brücke / Wiltwerkerstraße,1437,,verkauf ,480,2 tl.,120,240,240 tl.,umb iiᶜ und xl tl. Wienner d.  
+KB-E 449-1,keine_id,vor Kernertor / Weidenstraße,1420,ja,verkauf ,24,24 d.,120,12,12 tl.,umb zwelif pfunt Wienner pfenning  
+KB-E 449-2,DB5501,Kammerhof,1420,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E 450-1,keine_id,Büßerinnenkloster zu St. Hieronymus,1420,,verkauf ,40,40 d.,,,,
+KB-E 450-2,DB0006,Neulucke,1421,,verkauf ,32,32 d.,120,16,16 tl.,umb sechczechen pfunt Wienner pfenning  
+KB-E 450-3,keine_id,Katerlucke / vor Kernertor,1422,,verkauf ,11,11 d.,120,5.5,5.5 tl.,umb Sechstalb phunt Wienner phenning 
+KB-E 450-4,keine_id,Salzgries,1423,,verkauf ,120,0.5 tl.,,,na,umb ain Sum gelts  
+KB-E 451-1,keine_id,Traibotenstraße,1424,ja,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E 451-2,keine_id,Lichtensteg,1424,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb hundert und lxx tl. d.  
+KB-E 451-3,DB6000,Scheffstraße,1426,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d.  
+KB-E 452-1,keine_id,unter den Goldschmieden,1429,,schenkung ,48,48 d.,,,,
+KB-E 452-2,keine_id,Kienmarkt,1429,ja,schenkung ,400,13 s. 10 d.,,,,
+KB-E 452-4,keine_id,Singerstraße,1430,,verkauf ,246,1 tl. 6 d.,120,123,123 tl.,umb hundert und drewundzwainczigk phunt phenning  
+KB-E 453-1,DB5490,unter den langen Tuchlauben,1431,ja,verkauf ,300,10 s.,160,200,200 tl.,umb iiᶜ tl. d.  
+KB-E 454-1,keine_id,Weihenburg,1434,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen phunt Wienner phenning  
+KB-E 454-2,keine_id,Salzgries,1434,,verkauf ,280,9 s. 10 d.,122,143,143 tl.,umb c xliii tl. d.  
+KB-E 454-3,keine_id,innerhalb Stubentor / Wollzeile,1435,,verkauf ,470,15 s. 20 d.,120,235,235 tl.,umb cc xxxv tl. d.  
+KB-E 455-1,DB5230,Wiltwerkerstraße,1435,,verkauf ,536,2 tl. 56 d.,120,268,268 tl.,umb cc lxviii tl. d.  
+KB-E 455-2,DB5503,Singerstraße,1435,,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb M tl. d.  
+KB-E 455-3,keine_id,Domprobsthof / Petersfreithof,1435,,verkauf ,900,3 tl. 6 s.,114,430,430 tl.,umb cccc xxx tl. d.  
+KB-E 456-1,keine_id,Wollzeile,1436,,,640,2 tl. 5 s. 10 d.,120,320,320 tl.,umb drewhundert und zwainczig pfunt pfenning  
+KB-E 456-2,keine_id,Rosengasse,1436,,verkauf ,14,14 d.,120,7,7 tl.,umb vii tl. d.  
+KB-E 456-3,keine_id,vor Stubentor,1437,,,,0 d.,,,,
+KB-E 457-1,keine_id,Kernerstraße,1420,ja,verkauf ,60,60 d.,120,30,30 tl.,umb dreissig phunt Wienner phenning  
+KB-E 457-2,keine_id,Katerlucke,1420,ja,verkauf ,28,28 d.,120,14,14 tl.,umb virczehen phunt Wienner phenning  
+KB-E 457-3,keine_id,Kernerstraße,1437,,verkauf ,1600,6 tl. 5 s. 10 d.,120,800,800 tl.,umb viiiᶜ tl. Wienner d.  
+KB-E 458-1,keine_id,Hochstraße,1421,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und zehen phunt Wienner phenning  
+KB-E 458-2,DB5126,hinter St. Pankraz,1421,,verkauf ,12,12 d.,120,6,6 tl.,umb sechs phunt Wienner phenning  
+KB-E 458-3,keine_id,Gries / vor Kernertor,1421,,verkauf ,20,20 d.,120,10,10 tl.,umb zehen phunt Wienner phenning  
+KB-E 459-1,DB1063,Wiltwerkerstraße,1421,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb hundert und virczig phunt Wienner phenning 
+KB-E 459-2,keine_id,Gries,1421,,verkauf ,36,36 d.,120,18,18 tl.,umb Achtzehen phunt Wienner phenning  
+KB-E 460-1,DB0132,Altdonau / vor Stubentor,1422,,verkauf ,20,20 d.,120,10,10 tl.,umb zehen phunt Wienner phenning  
+KB-E 460-2,DB1037,Weiße Brüder,1422,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb Sibenczig phunt Wienner phenning 
+KB-E 460-3,DB5112,hinter St. Pankraz,1422,,verkauf ,58,58 d.,120,29,29 tl.,umb Newn und zwainczig phunt Wienner phenning  
+KB-E 461-1,keine_id,vor Widmertor / Weidenstraße,1422,ja,verkauf ,22,22 d.,120,11,11 tl.,umb Aindlef phunt Wienner phenning  
+KB-E 461-2,DB5012a,Tiefer Graben,1422,ja,verkauf ,22,22 d.,120,11,11 tl.,umb Andlef phunt Wienner phenning  
+KB-E 461-3,DB0063,Alserstraße / vor Schottentor,1422,,verkauf ,24,24 d.,120,12,12 tl.,umb zwelif phunt Wienner phenning  
+KB-E 462-1,DB5512a,unter den Sattlern,1422,,verkauf ,472,15 s. 22 d.,120,236,236 tl.,umb zwayhundert und sechs und dreissig phunt Wienner phenning  
+KB-E 462-2,keine_id,Kernerstraße,1422,ja,verkauf ,52,52 d.,,,26  tl.,umb sechsundzwinczig phunt Wienner phenning  
+KB-E 462-3,keine_id,Hochstraße,1422,,verkauf ,,,,110,110 tl.,umb hundert und zehen phunt Wienner phenning  
+KB-E 463-1,keine_id,Wollzeile,1423,,überschreibung ,150,5 s.,,,,
+KB-E 463-2,keine_id,Krugstraße,1424,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfunt Wienner phenning  
+KB-E 463-3,keine_id,vordere Peckenstraße,1424,,verkauf ,176,5 s. 26 d.,120,88,88 tl.,umb lxxxviii tl. d.  
+KB-E 463-4,DB0110,Haarhof,1424,,verkauf ,26,26 d.,120,13,13 tl.,umb xiii tl. Wienner phenning  
+KB-E 464-1,keine_id,vordere Peckenstraße,1424,,verkauf ,156,5 s. 6 d.,120,78,78 tl.,umb lxxviii tl. d.  
+KB-E 464-2,keine_id,hintere Peckenstraße,1424,,verkauf ,,,,185,185 tl.,umb iᶜ lxxxv tl. d.  
+KB-E 464-3,keine_id,Rosstränke / vor Werdertor,1425,ja,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. d.  
+KB-E 464-4,keine_id,Greut / vor Stubentor,1425,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E 464-5,DB5561,Hühnergässchen,1425,,verkauf ,224,7 s. 14 d.,120,112,112 tl.,umb hundert und xii tl. d.  
+KB-E 464-6,keine_id,Alter Kohlmarkt,1425,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drewy hundert phund phenning  
+KB-E 465-1,keine_id,Kernerstraße,1426,,verkauf ,560,18 s. 20 d.,120,280,280 tl.,umb zwaihundert und Achczigk pfund Wienner phenning  
+KB-E 465-2,keine_id,vordere Peckenstraße,1426,ja,kredit ,,,,,,
+KB-E 465-3,keine_id,Alter Kohlmarkt / #St. Michael,1426,,verkauf ,400,13 s. 10 d.,123,205,205 tl.,umb iiᶜ v tl. d.  
+KB-E 465-4,keine_id,innerhalb Schottentor,1426,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E 466-1,keine_id,Stadtgraben / vor Stubentor,1427,,3 verkauf 1 2 3 ,28,28 d.,171,20,20 tl.,umb xx tl. d.  
+KB-E 466-2,keine_id,unter den langen Tuchlauben,1427,,verkauf ,220,7 s. 10 d.,130,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 466-3,keine_id,Lichtensteg,1427,,verkauf ,220,7 s. 10 d.,130,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 466-4,keine_id,vor Kernertor,1427,ja,verkauf ,15,15 d.,240,15,15 tl.,umb xv tl. d.  
+KB-E 466-5,keine_id,Mietstatt / vor Kernertor,1427,,verkauf ,184,6 s. 4 d.,120,92,92 tl.,umb lxxxxii tl. d.  
+KB-E 467-1,DB5240,Wiltwerkerstraße,1427,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 467-2,keine_id,Pippingerstraße,1427,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E 467-3,keine_id,Krugstraße,1427,,verkauf ,25,25 d.,480,50,50 tl.,umb funfczig phund Wienner phenning  
+KB-E 467-4,DB1004,Herzoghof / Lederhof,1427,ja,verkauf ,8,8 d.,240,8,8 tl.,umb viii tl. d.  
+KB-E 467-5,DB5012bc,Tiefer Graben,1427,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E 468-1,DB1019,Wiltwerkerstraße,1427,,verkauf ,120,0.5 tl.,280,140,140 tl.,umb hundert und xl tl. d.  
+KB-E 468-2,keine_id,Riemergasse,1427,,verkauf ,116,3 s. 26 d.,120,58,58 tl.,umb Achtundfunfczig phund Wienner phenning  
+KB-E 468-3,keine_id,Riemergasse,1424,,verkauf ,161,5 s. 11 d.,119,80,80 tl.,umb Achczig phund Wienner phenning  
+KB-E 468-4,keine_id,Salzgries,1427,,verkauf ,68,68 d.,120,34,34 tl.,umb xxixiii tl. Wienner d.  
+KB-E 469-1,keine_id,,1428,,verkauf ,210,7 s.,120,105,105 tl.,umb hundert und funf phund Wienner phenning  
+KB-E 469-2,keine_id,Hochstraße,1428,,verkauf ,260,1 tl. 20 d.,120,130,130 tl.,umb hundert und xxx tl. d.  
+KB-E 469-3,keine_id,Ringmauer / Salzgries,1428,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 469-4,keine_id,Weihenburg,1428,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E 469-5,keine_id,St. Johannsstraße,1429,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E 470-1,keine_id,Ringmauer / Weihenburg,1429,,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 470-2,DB0055,#Alserstraße / vor Schottentor,1429,,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E 470-3,keine_id,Weihenburg,1429,,verkauf ,150,5 s.,120,75,75 tl.,umb lxxv tl. d.  
+KB-E 470-4,keine_id,innerhalb Werdertor,1429,,verkauf ,166,5 s. 16 d.,120,83,83 tl.,umb lxxxiii tl. Wienner d.  
+KB-E 470-5,keine_id,Graben,1429,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E 471-1,keine_id,unter den Fischern,1430,,verkauf ,,,,16.5,16.5 tl.,umb xvi½ tl. d.  
+KB-E 471-2,keine_id,Singerstraße,1430,,verkauf ,116,3 s. 26 d.,120,58,58 tl.,umb Achtundfunfczig phunt Wienner d.  
+KB-E 471-3,keine_id,vor Werdertor,1430,,,,,,9,9 tl.,umb Newn phunt Wienner phenning  
+KB-E 472-1,keine_id,Lichtensteg,1430,,,180,6 s.,120,90,90 tl.,umb Newnczig phunt phenning  
+KB-E 472-2,keine_id,Kernerstraße,1430,,verkauf ,380,12 s. 20 d.,120,190,190 tl.,umb hundert und Newnczigk phunt  
+KB-E 472-3,keine_id,Lichtensteg / unter den Fleischbänken,1430,,verkauf ,180,6 s.,120,90,90 tl.,umb Newnczig phund Wienner phenning  
+KB-E 473-1,keine_id,innerhalb Schottentor,1430,,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E 473-2,keine_id,Singerstraße,1430,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx phunt phenning  
+KB-E 473-3,keine_id,Greut / vor Stubentor,1430,,verkauf ,30,30 d.,120,15,15 tl.,umb xv phunt d.  
+KB-E 473-4,(DB5430),Hoher Markt,1427,,,,,,,,
+KB-E 474-1,DB5474,Peurertor,1431,,,650,2.5 tl. 50 d.,,,,
+KB-E 474-2,keine_id,unter den Goldschmieden,1431,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E 474-3,keine_id,Kienmarkt,1431,ja,verkauf ,72,72 d.,153,46,46 tl.,umb xlvi tl. Wienner d.  
+KB-E 475-1,DB5562,Hühnergässchen,1431,,verkauf ,114,3 s. 24 d.,120,57,57 tl. 6 s.,umb lvii tl. und vi s. d.  
+KB-E 475-2,keine_id,Haarmarkt,1431,,verkauf ,720,3 tl.,120,360,360 tl.,umb iiiᶜ und lx phunt Wienner phenning  
+KB-E 475-3,keine_id,,1431,,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. Wienner phenning  
+KB-E 476-1,keine_id,Hochstraße,1432,,verkauf ,,,,30,30 tl.,umb xxx tl. d.  
+KB-E 476-2,keine_id,Lichtensteg,1432,,verkauf ,420,14 s.,127,222.5,222.5 tl.,umb iiᶜ und xxii½ tl. d.  
+KB-E 476-3,keine_id,Lichtensteg,1432,ja,verkauf ,,,,222.5,222.5 tl.,umb iiᶜ und xxii½ tl. d.  
+KB-E 477-1,DB1001a,Herzoghof / Lederhof,1432,,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. Wienner d.  
+KB-E 478-1,keine_id,Rotgasse,1433,,verkauf ,212,7 s. 2 d.,120,106,106 tl.,umb c und vi tl. d.  
+KB-E 478-2,DB1039,Gässlein zu den Weißen Brüdern / Weiße Brüder,1433,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb ii½ᶜ tl. Wienner phenning  
+KB-E 478-3,keine_id,Kienmarkt,1433,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb iᶜ lxx tl. d.  
+KB-E 479-1,DB1044,Weiße Brüder,1433,,verkauf ,120,0.5 tl.,130,65,65 tl.,umb lxv tl. d.  
+KB-E 479-2,DB0024,Alserstraße / vor Schottentor,1433,ja,verkauf ,150,5 s.,121,76,76 tl.,umb lxxvi tl. d.  
+KB-E 479-3,keine_id,Kumpflucke / vor Kernertor,1433,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 479-4,keine_id,Katerlucke / vor Widmertor,1433,ja,verkauf ,16,16 d.,,,,
+KB-E 480-1,keine_id,Niederes Burgfeld,1434,ja,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. Wienner phenning  
+KB-E 480-2,DB5012bc,Hohe Brücke / Tiefer Graben,1434,,verkauf ,44,44 d.,120,22,22 tl.,umb xxii tl. d.  
+KB-E 480-3,keine_id,Wollzeile,1434,,verkauf ,660,2 tl. 6 s.,120,330,330 tl.,umb ccc xxx tl. d.  
+KB-E 481-1,keine_id,Singerstraße,1434,,verkauf ,870,3 tl. 5 s.,122,445,445 tl.,umb cccc xlv tl. d.  
+KB-E 481-2,keine_id,St. Michael,1434,,verkauf ,630,2 tl. 5 s.,120,315,315 tl.,umb ccc xv tl. Wienner d.  
+KB-E 481-3,keine_id,vor Werdertor,1434,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 481-4,keine_id,unter den Fischern / vor Werdertor,1434,,verkauf ,19200,80 tl.,0,40,40 tl.,umb xl tl. d.  
+KB-E 482-1,keine_id,bei den Predigern,1434,ja,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb C x tl. d.  
+KB-E 482-2,DB0024,Alserstraße / vor Schottentor,1434,ja,verkauf ,114,3 s. 24 d.,120,57,57 tl.,umb lvii tl. d.  
+KB-E 482-3,DB1049,Judenplatz / Weiße Brüder,1434,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb c lx tl. d. 
+KB-E 483-1,DB5140,hinter St. Pankraz,1435,ja,verkauf ,240,1 tl.,120,120,120 tl.,umb c xx tl. d.  
+KB-E 483-2,DB1007,Herzoghof / Lederhof,1435,,verkauf ,78,78 d.,120,39,39 tl.,umb xxxviiii tl. d.  
+KB-E 483-3,keine_id,Kienmarkt / Kürsenhaus,1435,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E 484-1,keine_id,unter den Fischern,1435,,verkauf ,22,22 d.,120,11,11 tl.,umb xi tl. d.  
+KB-E 484-2,keine_id,Lichtensteg,1435,ja,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. d.  
+KB-E 484-3,keine_id,Greut / vor Stubentor,1437,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 485-1,keine_id,Färberstraße / St. Dorothea,1436,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczig phunt phenning  
+KB-E 485-2,keine_id,Graben,1437,,verkauf ,650,2.5 tl. 50 d.,120,325,325 tl.,umb ccc und xxv tl. d.  
+KB-E 485-3,keine_id,Singerstraße,1437,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. Wienner d.  
+KB-E 486-1,DB5323,Schulhof,1437,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb ii½ᶜ tl. d.  
+KB-E 486-2,keine_id,innerhalb Werdertor,1437,ja,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E 497-1,DB5424b,Hoher Markt,1421,,verkauf ,340,11 s. 10 d.,120,170,170 tl.,umb hundert und Sibenczig phunt Wienner phenning  
+KB-E 497-2,keine_id,vor Werdertor,1421,ja,verkauf ,19,19 d.,120,9.5,9.5 tl.,umb zehenthalb phunt Wienner phenning  
+KB-E 497-3,DB5442,Berghof,1429,,verkauf ,302,10 s. 2 d.,120,151,151 tl.,umb C li tl. d.  
+KB-E 498-1,DB1060,Wiltwerkerstraße,1432,,überschreibung ,180,6 s.,,,,
+KB-E 498-2,DB5571,Lichtensteg / unter den Taschnern,1432,,verkauf ,450,15 s.,240,450,450 tl.,umb funfthalbhundert phunt phenning  
+KB-E2 509-1,DB6000,Scheffstraße / vor Stubentor,1420,,,200,6 s. 20 d.,,,,
+KB-E2 509-2,keine_id,Petersfreithof,1420,,verkauf ,464,15 s. 14 d.,120,232,232 tl.,umb zway hundert und zway und dreissig phunt Wienner phenning  
+KB-E2 509-3,keine_id,Hoher Markt,1420,,verkauf ,256,1 tl. 16 d.,120,128,128 tl.,umb hundert und Acht und zwainczig phunt Wienner phenning  
+KB-E2 510-1,DB5306,Herzoghof,1420,,verkauf ,790,3 tl. 70 d.,83,275,275 tl.,umb zway hundert und funf und Sybenczig phunt Wienner phenning  
+KB-E2 510-2,keine_id,Fundlucke,1420,,verkauf ,24,24 d.,120,12,12 tl.,umb zwelif phunt Wienner phenning  
+KB-E2 510-3,DB0030,#Alserstraße / vor Schottentor,1420,ja,verkauf ,20,20 d.,120,10,10 tl.,umb zehen phunt Wienner phenning  
+KB-E2 511-1,keine_id,Kumpflucke / vor Kernertor,1420,,verkauf ,52,52 d.,120,26,26 tl.,umb sechs und zwainczig phunt Wienner phenning  
+KB-E2 512-1,keine_id,Rotgasse,1421,ja,verkauf ,50,50 d.,120,25,25 tl.,umb funf und zwainczig phunt Wienner phenning  
+KB-E2 512-2,keine_id,Walichstraße,1421,ja,verkauf ,17,17 d.,120,8.5,8.5 tl.,umb Newnthalb phunt Wienner phenning  
+KB-E2 513-1,keine_id,Möring / Roter Turm,1420,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczig phunt Wienner phenning  
+KB-E2 513-2,keine_id,Mietstatt,1421,,verkauf ,114,3 s. 24 d.,120,57,57 tl.,umb Siben und funfczig phunt Wienner phenning  
+KB-E2 513-3,keine_id,Neuer Markt,1422,ja,verkauf ,,,,39,39 tl.,umb Newn und dreissig phunt Wienner phenning  
+KB-E2 514-1,keine_id,Neuer Markt,1422,ja,verkauf ,78,78 d.,120,39,39 tl.,umb Newn und dreissig phunt Wienner phenning  
+KB-E2 514-2,DB0110,Haarhof,1422,,verkauf ,22,22 d.,120,11,11 tl.,umb Aindlef phunt Wienner phenning  
+KB-E2 514-3,DB0091,Schaufellucke,1422,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb Sibenczigk phunt Wienner phenning  
+KB-E2 514-4,keine_id,Schenkenstraße,1422,,verkauf ,162,5 s. 12 d.,127,86,86 tl.,umb sechsundAchczig pfunt Wienner pfenning  
+KB-E2 515-1,keine_id,Katerlucke / vor Widmertor,1423,,verkauf ,58,58 d.,120,29,29 tl.,umb xxviiii tl. d.  
+KB-E2 515-2,keine_id,Neuer Markt,1423,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E2 515-3,keine_id,Kernerstraße,1423,,verkauf ,300,10 s.,120,150,150 tl.,umb hundert und funfczig pfunt Wienner phenning  
+KB-E2 515-4,keine_id,auf dem Steig / Roter Turm,1423,,verkauf ,284,9 s. 14 d.,120,142,142 tl.,umb hundert und xlii tl.  
+KB-E2 516-1,keine_id,Neuer Markt,1423,,verkauf ,204,6 s. 24 d.,120,102,102 tl.,umb hundert und zway pfunt pfenning  
+KB-E2 516-2,keine_id,Domprobsthof,1424,,verkauf ,152,5 s. 2 d.,120,76,76 tl.,umb lxxvi tl. d.  
+KB-E2 516-3,keine_id,Salzgries,1424,ja,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E2 516-4,DB5108,hinter St. Pankraz,1424,,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E2 516-5,keine_id,Alter Fleischmarkt,1424,,verkauf ,560,2 tl. 80 d.,120,280,280 tl.,umb iiᶜ und lxxx tl. Wienner phenning  
+KB-E2 517-1,DB5521,Am Gestade,1424,ja,verkauf ,142,0.5 tl. 22 d.,120,71,71 tl.,umb lxxi tl. Wienner pfenning  
+KB-E2 517-2,DB5213,Wiltwerkerstraße,1425,,verkauf ,380,12 s. 20 d.,120,190,190 tl.,umb iᶜ und lxxxx tl. d.  
+KB-E2 517-3,keine_id,Neuer Markt,1425,,verkauf ,258,1 tl. 18 d.,120,129,129 tl.,umb hundert und xxviiii tl. d.  
+KB-E2 517-4,keine_id,Kernerstraße,1425,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 517-5,keine_id,unter den Spenglern,1425,,verkauf ,78,78 d.,120,39,39 tl.,umb xxxviiii tl. d.  
+KB-E2 518-1,keine_id,auf dem Steig / Predigerkloster,1425,,verkauf ,136,0.5 tl. 16 d.,120,68,68 tl.,umb lxviii tl. d. 
+KB-E2 518-2,keine_id,Petersfreithof,1426,,verkauf ,1680,7 tl.,120,840,840 tl.,umb viiiᶜ und xl tl. d.  
+KB-E2 518-3,keine_id,vor Kernertor,1426,,verkauf ,222,7 s. 12 d.,120,111,111 tl.,umb hundert und Aindlef pfund Wienner phenning  
+KB-E2 518-4,DB5486b,unter den langen Tuchlauben,1426,,verkauf ,350,11 s. 20 d.,120,175,175 tl.,umb hundert und funfund Sibenczig pfund Wienner phenning  
+KB-E2 518-5,DB1003,Lederhof,1426,ja,verkauf ,36,36 d.,120,18,18 tl.,umb xviii tl. d.  
+KB-E2 519-1,keine_id,Alter Kohlmarkt / #St. Michael,1426,ja,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfund Wienner phenning  
+KB-E2 519-2,keine_id,Pippingerstraße,1426,,verkauf ,250,1 tl. 10 d.,240,250,250 tl.,umb ii½ᶜ tl. d.  
+KB-E2 519-3,DB0005,Neulucke / vor Kernertor,1428,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E2 519-4,DB0062,Alserstraße / vor Schottentor,1428,,schenkung ,84,84 d.,,,,
+KB-E2 519-5,keine_id,unter den Fischern / vor Werdertor,1428,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E2 519-6,DB0038,Alserstraße / vor Schottentor,1428,ja,verkauf ,300,10 s.,120,150,150 tl.,umb i½ᶜ tl. Wienner d.  
+KB-E2 520-1,keine_id,Ratstraße,1429,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 520-2,keine_id,Pippingerstraße,1429,,überschreibung ,10,10 d.,,,,
+KB-E2 520-3,keine_id,vor Werdertor,1429,,,30,30 d.,116,14.5,14.5 tl.,umb xiiii½ tl. d.  
+KB-E2 520-4,keine_id,Brandstätte,1429,ja,verkauf ,250,8 s. 10 d.,192,200,200 tl.,umb iiᶜ tl. Wienner pfenning  
+KB-E2 520-5,keine_id,Brandstätte,1429,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d.  
+KB-E2 521-1,keine_id,Kernerstraße,1430,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb funfundsechczig phunt phenning  
+KB-E2 521-2,keine_id,Münzerstraße,1430,,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb Tausent phunt phenning  
+KB-E2 522-1,keine_id,vor Stubentor,1431,,verkauf ,180,6 s.,120,90,90 tl. 6 s.,umb lxxxx tl. und vi s. d.  
+KB-E2 523-1,keine_id,St. Johannsstraße,1432,,überschreibung ,160,5 s. 10 d.,,,,
+KB-E2 523-2,DB0057,Alserstraße / vor Schottentor,1432,,verkauf ,80,80 d.,120,40,40 tl. 4 s.,umb xl tl. iiii s. d.  
+KB-E2 523-3,keine_id,Kumpflucke,1432,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E2 524-1,DB0058,#Alserstraße / vor Schottentor,1433,,verkauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. d.  
+KB-E2 524-2,keine_id,unter den Lederern / vor Werdertor,1433,ja,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. Wienner d.  
+KB-E2 525-1,keine_id,vor Stubentor,1434,,verkauf ,50,50 d.,122,25.5,25.5 tl.,umb xxv½ tl. d.  
+KB-E2 525-2,keine_id,bei den Predigern,1434,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E2 525-3,keine_id,Alter Rossmarkt,1434,,verkauf ,460,15 s. 10 d.,120,230,230 tl.,umb cc xxx tl. d.  
+KB-E2 526-1,keine_id,vor Stubentor,1434,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. Wienner pfenning  
+KB-E2 526-2,keine_id,Greut / vor Stubentor,1434,,verkauf ,230,7 s. 20 d.,120,115,115 tl.,umb c xv tl. d.  
+KB-E2 526-3,keine_id,hintere Peckenstraße,1434,,verkauf ,960,4 tl.,125,500,500 tl.,umb ccccc tl. d.  
+KB-E2 527-1,keine_id,Raubergäßchen / St. Stephan,1435,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb ccc tl. d.  
+KB-E2 527-2,DB0112,Haarhof / hinter St. Pankraz,1436,ja,verkauf ,42,42 d.,120,21,21 tl.,umb xxi tl. Wienner d.  
+KB-E2 528-1,DB5449a,Hühnergässchen / Taschnerhaus,1435,,verkauf ,210,7 s.,125,110,110 tl.,umb C x tl. d.  
+KB-E2 528-2,keine_id,Alter Kohlmarkt / St. Michael,1435,,verkauf ,690,2 tl. 7 s.,120,345,345 tl.,umb cccxlv tl. d.  
+KB-E2 529-1,keine_id,Lichtensteg / unter den Fleischbänken,1436,,verkauf ,250,8 s. 10 d.,134,140,140 tl.,umb cxl tl. Wienner d.  
+KB-E2 529-2,DB5131,hinter St. Pankraz,1437,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E2 530-1,keine_id,Kernerstraße,1437,,verkauf ,430,14 s. 10 d.,120,215,215 tl.,umb cc xv tl. d.  
+KB-E2 530-2,DB5132,hinter St. Pankraz,1437,ja,verkauf ,21,21 d.,125,11,11 tl.,umb xi tl. Wienner d.  
+KB-E2 530-3,keine_id,St. Johannsstraße,1437,,verkauf ,102,3 s. 12 d.,120,51,51 tl.,umb li tl. Wienner d.  
+KB-E2 530-4,DB1042,Weiße Brüder,1437,,verkauf ,200,6 s. 20 d.,240,200,200 tl.,umb iiᶜ tl. d.  
+KB-E2 531-1,keine_id,St. Johannsstraße,1437,,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. d.  
+KB-E2 531-2,keine_id,Schwabgasse / vor Kernertor,1437,,,32,32 d.,,,,
+KB-E2 531-3,keine_id,Graben / Mehlzeile,1437,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E2 535-1,DB0003,Neulucke / vor Widmertor,1420,,verkauf ,64,64 d.,120,32,32 tl.,umb zway und dreissig phunt Wienner phenning  
+KB-E2 535-2,keine_id,Salzgries,1420,ja,verkauf ,,,,64,64 tl.,umb vier und Sechczig phunt Wienner phenning  
+KB-E2 536-1,DB0041,Alserstraße / vor Schottentor,1421,,verkauf ,44,44 d.,120,22,22 tl.,umb zway und zwainczig phunt Wienner phenning  
+KB-E2 536-2,keine_id,Alter Fleischmarkt / Laurenzerinnen,1421,,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb funf und Newnczig phunt Wienner phenning  
+KB-E2 536-3,DB5454,Berghof,1422,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E2 537-1,keine_id,Kienmarkt,1422,,verkauf ,680,2 tl. 6 s. 20 d.,120,340,340 tl.,umb drewhundert und vierczigk phunt Wienner phenning  
+KB-E2 537-2,keine_id,Neuer Markt,1422,,verkauf ,264,6 s. 84 d.,120,132,132 tl.,umb hundert und zway und dreissigk phunt Wienner phenning  
+KB-E2 537-3,keine_id,Salzgries,1423,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner phenning  
+KB-E2 538-1,keine_id,Neuer Markt,1423,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E2 538-2,DB0122,hinter St. Pankraz,1423,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E2 538-3,keine_id,Lichtensteg,1429,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 539-1,DB1048,Badstube zu den Röhren,1430,ja,,120,0.5 tl.,176,88,88 tl.,umb lxxxviii tl. d. 
+KB-E2 539-2,keine_id,Wollzeile,1431,ja,verkauf ,258,1 tl. 18 d.,119,128,128 tl.,umb C xxviii tl. d.  
+KB-E2 540-1,keine_id,Predigerfreithof,1432,,,,0 d.,,,,
+KB-E2 541-1,keine_id,Teinfaltstraße,1432,,verkauf ,18,18 d.,120,9,9 tl.,umb Newn phunt phenning  
+KB-E2 541-2,keine_id,Teinfaltstraße,1433,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E2 541-3,keine_id,Teinfaltstraße,1433,,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E2 541-4,keine_id,Graben,1433,,,,,,,,
+KB-E2 542-1,DB0049,Alserstraße / vor Schottentor,1434,ja,verkauf ,74,74 d.,38,12,12 tl.,umb xii tl. Wienner phenning  
+KB-E2 542-2,keine_id,Neuer Markt,1434,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfunt Wiener phenning  
+KB-E2 543-1,keine_id,Alter Fleischmarkt,1434,,verkauf ,240,1 tl.,120,120,120 tl.,umb Cxx tl. d.  
+KB-E2 543-2,DB5503,Münzerstraße,1435,,verkauf ,800,3 tl. 80 d.,270,900,900 tl.,umb Newnhundert pfunt pfenning  
+KB-E2 543-3,DB5504,Kammerhof,1435,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E2 544-1,keine_id,bei den Predigern,1437,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zwayhundert phunt phenning  
+KB-E2 545-1,keine_id,vor Werdertor,1436,,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E2 545-2,keine_id,St. Jakob,1446,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E2 545-3,keine_id,unter den Flößern / vor Werdertor,1436,,,32,32 d.,120,16,16 tl.,umb xvi tl. Wienner d.  
+KB-E2 546-1,keine_id,Stadtgraben / vor Stubentor,1437,,verkauf ,20,20 d.,120,10,10 tl.,umb x tl. Wienner d.  
+KB-E2 546-2,DB5031,Schiltergasse,1437,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb cc tl. d. 
+KB-E2 546-3,DB0072,Bognergasse,1437,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. Wienner d.  
+KB-E2 547-1,keine_id,innerhalb Werdertor / unter den Goldschmieden,1420,ja,verkauf ,20,20 d.,120,10,10 tl.,umb zehen phunt Wienner phenning  
+KB-E2 547-2,keine_id,Haarmarkt,1420,,überschreibung ,480,2 tl.,,,,
+KB-E2 547-3,keine_id,Greut / vor Stubentor,1420,,verkauf ,74,74 d.,120,37,37 tl.,umb Siben und dreissig phunt Wienner phenning  
+KB-E2 547-4,keine_id,vordere Peckenstraße,1437,,verkauf ,540,18 s.,120,270,270 tl.,umb iiᶜ und lxx tl. Wienner d.  
+KB-E2 548-1,keine_id,bei den Predigern,1421,,verkauf ,192,6 s. 12 d.,121,97,95 tl. + 2 G,umb funf und Newnczig phunt Wienner phenning  und umb zwen guldein  
+KB-E2 548-2,keine_id,Mentlerstraße,1421,,verkauf ,58,58 d.,120,29,29 tl.,umb Newn und zwainczig phunt Wienner phenning  
+KB-E2 548-3,keine_id,Kienmarkt,1421,ja,überschreibung ,180,6 s.,,,,
+KB-E2 549-1,DB5536,unter den Sattlern,1422,,verkauf ,700,2.5 tl. 3 s. 10 d.,120,350,350 tl.,umb drewhundert und funfczig phunt Wienner phenning  
+KB-E2 549-2,keine_id,Kernerstraße,1422,ja,verkauf ,60,60 d.,120,30,30 tl.,umb dreissig phunt Wienner phenning  
+KB-E2 549-3,DB5203,Hohe Brücke / Wiltwerkerstraße,1422,,verkauf ,208,6 s. 28 d.,120,104,104 tl.,umb hundert und vier phunt  
+KB-E2 550-1,keine_id,Münzerstraße,1422,,verkauf ,500,2 tl. 20 d.,120,250,250 tl.,umb dritthalbhundert phunt Wienner phenning  
+KB-E2 550-2,keine_id,Graben / Mehlzeile,1422,ja,verkauf ,77,77 d.,171,55,55 tl.,umb funf und funfczig phunt Wienner phenning  
+KB-E2 550-3,DB5105,hinter St. Pankraz,1422,ja,verkauf ,120,0.5 tl.,120,60,60 tl.,umb Sechczig phunt Wienner phenning  
+KB-E2 551-1,keine_id,Laurenzerinnen,1422,,verkauf ,96,3 s. 6 d.,120,48,48 tl.,umb Acht und virczig phunt Wienner phenning  
+KB-E2 551-2,DB1044,Weiße Brüder,1422,,verkauf ,24,24 d.,400,40,40 tl.,umb virczigk phunt Wienner phenning  
+KB-E2 551-3,DB5220b,Wiltwerkerstraße,1422,,verkauf ,120,0.5 tl.,240,120,120 tl.,umb hundert und zwainczig pfunt Wienner pfenning  
+KB-E2 551-4,keine_id,vor Widmertor / Weidenstraße,1422,ja,verkauf ,56,56 d.,120,28,28 tl.,umb xxviii tl. d.  
+KB-E2 552-1,keine_id,Rotgasse,1423,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. d.  
+KB-E2 552-2,keine_id,Graben / Mehlzeile,1423,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfunt Wienner phenning  
+KB-E2 552-3,keine_id,Alter Kohlmarkt,1423,,verkauf ,360,12 s.,120,180,180 tl.,umb hundert und lxxx tl. d.  
+KB-E2 552-4,keine_id,vor Widmertor,1423,,verkauf ,50,50 d.,120,25,25 tl.,umb xxv tl. d.  
+KB-E2 552-5,DB5474,Peurertor,1424,,verkauf ,1300,5 tl. 3 s. 10 d.,120,650,650 tl.,umb vi½ᶜ tl.  
+KB-E2 553-1,keine_id,Greut / vor Stubentor,1424,,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E2 553-2,DB5112,hinter St. Pankraz,1424,,verkauf ,68,68 d.,120,34,34 tl.,umb xxxiiii tl. d.  
+KB-E2 553-3,DB1064,Wiltwerkerstraße,1424,,verkauf ,444,14 s. 24 d.,111,207,207 tl.,umb iiᶜ und vii tl. d.  
+KB-E2 553-4,DB5127,hinter St. Pankraz,1425,,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E2 553-5,keine_id,Kienmarkt,1425,,verkauf ,1100,4.5 tl. 20 d.,120,550,550 tl.,umb v½ᶜ tl. d.  
+KB-E2 554-1,keine_id,Strauchgasse,1426,ja,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. Wienner phenning  
+KB-E2 554-2,keine_id,Kernerstraße,1426,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zwaihundert pfund Wienner phenning  
+KB-E2 554-3,keine_id,vor Kernertor,1426,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 555-1,DB0037,Alserstraße / vor Schottentor,1427,,verkauf ,14,14 d.,120,7,7 tl.,umb vii tl. d.  
+KB-E2 555-2,keine_id,Alter Kohlmarkt / #St. Michael,1427,ja,überschreibung ,112,3 s. 22 d.,,,,
+KB-E2 555-3,DB0043,#Alserstraße / vor Schottentor,1427,ja,verkauf ,128,0.5 tl. 8 d.,120,64,64 tl.,umb lxiiii tl. d.  
+KB-E2 555-4,keine_id,Wollzeile,1427,,verkauf ,,,,310,310 tl.,umb iiiᶜ und x tl. d.  
+KB-E2 556-1,keine_id,Alter Kohlmarkt,1427,,verkauf ,80,80 d.,120,40,40 tl.,umb xl tl. d.  
+KB-E2 556-2,keine_id,Lichtensteg / unter den Fleischbänken,1420,,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb hundert und x tl. d.  
+KB-E2 556-3,keine_id,vordere Peckenstraße,1428,,verkauf ,200,6 s. 20 d.,240,200,200 tl.,umb iiᶜ tl. d.  
+KB-E2 556-4,keine_id,Greut / vor Stubentor,1428,,verkauf ,78,78 d.,120,39,39 tl.,umb xxxviiii tl. d.  
+KB-E2 557-1,keine_id,unter den Fischern / vor Werdertor,1428,,,80,80 d.,,,,
+KB-E2 557-2,keine_id,hintere Peckenstraße,1429,,verkauf ,540,18 s.,120,270,270 tl.,umb zwai hundert und lxx tl. d.  
+KB-E2 557-3,keine_id,hintere Peckenstraße,1429,,verkauf ,800,3 tl. 80 d.,120,400,400 tl.,umb iiiiᶜ tl. d.  
+KB-E2 557-4,keine_id,Lichtensteg,1429,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 557-5,keine_id,St. Jakob / Viehhof,1429,,verkauf ,110,3 s. 20 d.,120,55,55 tl.,umb lv tl. d.  
+KB-E2 559-1,DB1125,Herzoghof,1431,,,470,15 s. 20 d.,,,,
+KB-E2 559-2,DB0113,Haarhof,1431,ja,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. Wienner d.  
+KB-E2 559-3,keine_id,Biberturm / vor Stubentor,1431,ja,verkauf ,12720,53 tl.,0,26,26 tl.,umb xxvi tl. d.  
+KB-E2 560-1,DB0026,Alserstraße,1431,,verkauf ,52,52 d.,129,28,28 tl.,umb xxviii tl. d.  
+KB-E2 560-2,keine_id,vor Kernertor / Weidenstraße,1431,ja,verkauf ,105,3 s. 15 d.,121,53,53 tl.,umb drewundfunfczig phunt Wienner phenning  
+KB-E2 560-3,keine_id,Singerstraße,1431,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E2 560-4,keine_id,Schenkenstraße,1431,,verkauf ,84,84 d.,120,42,42 tl.,umb xlii tl. d.  
+KB-E2 561-1,DB5135,hinter St. Pankraz / Nadlergasse,1432,,verkauf ,64,64 d.,,,na,umb ain Sum gelts  
+KB-E2 561-2,DB5135,hinter St. Pankraz,1432,,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E2 561-3,DB6000,Scheffstraße / vor Stubentor,1432,ja,verkauf ,52,52 d.,120,26,26 tl.,umb xxvi tl. d.  
+KB-E2 562-1,keine_id,Greut,1432,ja,verkauf ,16,16 d.,120,8,8 tl. 50 d.,umb viii tl. l d.  
+KB-E2 562-2,keine_id,Schenkenstraße,1432,,verkauf ,84,84 d.,120,42,42 tl.,umb xlii tl. d.  
+KB-E2 563-1,keine_id,Salzgries,1433,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E2 563-2,keine_id,Heumarkt,1433,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. Wienner d.  
+KB-E2 563-3,keine_id,Greut / vor Stubentor,1433,ja,verkauf ,20,20 d.,132,11,11 tl. 6 s.,umb xi tl. vi s. d.  
+KB-E2 564-1,keine_id,Alter Kohlmarkt / #St. Michael,1433,ja,verkauf ,360,12 s.,128,192,192 tl.,umb hundert und zwayundnewnczig phunt phenning  
+KB-E2 564-2,keine_id,Stadtgraben / vor Widmertor,1433,ja,verkauf ,40,40 d.,120,20,20 tl.,umb xx tl. d.  
+KB-E2 564-3,DB0081,Bognergasse,1433,,verkauf ,180,6 s.,126,95,95 tl.,umb lxxxxv tl. d.  
+KB-E2 564-4,keine_id,Schenkenstraße,1437,,überschreibung ,48,48 d.,,,,
+KB-E2 564-5,keine_id,Kernerstraße,1437,ja,verkauf ,220,7 s. 10 d.,120,110,110 tl.,umb C x tl. d.  
+KB-E2 565-1,DB0047,#Alserstraße / vor Schottentor,1434,,überschreibung ,140,0.5 tl. 20 d.,,,,
+KB-E2 565-2,DB0030,Alserstraße,1434,ja,verkauf ,90,3 s.,120,45,45 tl.,umb xlv tl. d.  
+KB-E2 565-3,keine_id,vordere Peckenstraße,1434,,verkauf ,420,14 s.,125,220,220 tl.,umb ccxx tl. d.  
+KB-E2 565-4,DB5420b,Hoher Markt / unter den Wendkremen,1434,,verkauf ,280,9 s. 10 d.,137,160,160 tl.,umb hundert und sechczig phunt pfenning  
+KB-E2 566-1,DB5137,hinter St. Pankraz,1434,,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E2 566-2,DB1007,Herzoghof / Lederhof,1434,,verkauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. d.  
+KB-E2 566-3,keine_id,Riemhaus,1434,ja,verkauf ,48,48 d.,120,24,24 tl. 4 s. 10 d.,umb xxiiii tl. iiii s. und x d.  
+KB-E2 566-4,keine_id,unter den Fischern,1437,,verkauf ,24,24 d.,120,12,12 tl.,umb xii tl. Wienner d.  
+KB-E2 567-1,DB0077c,Bognergasse,1435,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb lxx tl. d.  
+KB-E2 567-2,keine_id,Roter Turm,1435,,verkauf ,420,14 s.,125,220,220 tl.,umb cc xx tl. d.  
+KB-E2 567-3,DB0050,#Alserstraße / vor Schottentor,1437,,verkauf ,28,28 d.,120,14,14 tl.,umb xiiii tl. d.  
+KB-E2 568-1,keine_id,Weihenburg,1435,,verkauf ,,,,225,225 tl.,umb cc xxv tl. d.  
+KB-E2 568-2,DB5129,hinter St. Pankraz,1435,ja,verkauf ,38,38 d.,120,19,19 tl.,umb xviiii tl. d.  
+KB-E2 568-3,keine_id,Neuer Markt,1435,ja,verkauf ,180,6 s.,120,90,90 tl.,umb lxxxx tl. d.  
+KB-E2 568-4,DB5345,Weiße Brüder,1436,,verkauf ,400,13 s. 10 d.,120,200,200 tl.,umb zway hundert pfunt pfenning  
+KB-E2 569-1,keine_id,Salzgries,1435,,verkauf ,190,6 s. 10 d.,120,95,95 tl.,umb lxxxxv tl. d.  
+KB-E2 569-2,keine_id,vor Werdertor,1436,,verkauf ,840,28 s.,4,14,14 tl.,umb xiiii tl. d.  
+KB-E2 569-3,DB5103,hinter St. Pankraz,1436,,verkauf ,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
+KB-E2 569-4,keine_id,Krugstraße,1437,,verkauf ,132,4 s. 12 d.,120,66,66 tl.,umb lxvi tl. d.  
+KB-E2 570-1,DB5449b,Hühnergässchen / Taschnerhaus,1436,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. d.  
+KB-E2 570-2,keine_id,Walichstraße,1436,,verkauf ,174,5 s. 24 d.,120,87,87 tl.,umb Sibenundachczig phunt phenning  
+KB-E2 570-3,DB5524,Am Gestade,1436,ja,,120,0.5 tl.,148,74,74 tl.,umb lxxiiii tl. Wienner d.  
+KB-E2 570-4,keine_id,Kernerstraße / Kernertor,1436,,verkauf ,,0 d.,,165,165 tl.,umb Clxv tl. d.  
+KB-E2 571-1,DB0092,Schaufellucke,1420,,verkauf ,76,76 d.,120,38,38 tl.,umb Acht und dreissig phunt Wienner phenning  
+KB-E2 571-2,keine_id,Himmelpforten,1420,ja,überschreibung ,120,0.5 tl.,,,,
+KB-E2 571-3,DB5535,unter den Sattlern,1420,,verkauf ,600,2.5 tl.,120,300,300 tl.,umb drew hundert phunt Wienner phenning  
+KB-E2 571-4,keine_id,Petersfreithof,1437,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb lxxx tl. d.  
+KB-E2 572-1,keine_id,St. Johannsstraße,1420,ja,verkauf ,50,50 d.,120,25,25 tl.,umb funf und zwainczig phunt Wienner phenning  
+KB-E2 573-1,keine_id,Alter Kohlmarkt,1420,,verkauf ,140,0.5 tl. 20 d.,120,70,70 tl.,umb Sybenczig phunt Wienner phenning  
+KB-E2 574-1,keine_id,Himmelpforten,1421,,verkauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achczig phunt Wienner phenning  
+KB-E2 574-2,keine_id,Kernerstraße,1421,,verkauf ,664,2.5 tl. 64 d.,120,332,332 tl.,umb drew hundert phunt und umb zway und dreissig phunt Wienner phenning  
+KB-E2 575-1,keine_id,Stadtgraben / vor Stubentor,1422,ja,verkauf ,12,12 d.,120,6,6 tl.,umb sechs phunt Wienner phenning  
+KB-E2 575-2,keine_id,auf dem Anger,1422,ja,verkauf ,25,25 d.,120,12.5,12.5 tl.,umb dreiczehenthalb phunt Wienner phenning  
+KB-E2 575-3,keine_id,Walichstraße,1423,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E2 576-1,DB5207,Wiltwerkerstraße,1424,,verkauf ,190,6 s. 10 d.,214,170,170 tl.,umb hundert und Sibenczig phund  
+KB-E2 576-2,keine_id,Kienmarkt,1424,,verkauf ,360,12 s.,120,180,180 tl.,umb iᶜ und lxxx tl. d.  
+KB-E2 576-3,keine_id,Kernerstraße,1424,,verkauf ,260,1 tl. 20 d.,121,132,132 tl.,umb hundert und xxxii tl. d.  
+KB-E2 577-1,keine_id,Kernerstraße,1425,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert pfunt d.  
+KB-E2 577-2,keine_id,St. Johannsstraße,1425,ja,verkauf ,240,1 tl.,120,120,120 tl.,umb hundert und xx tl. d.  
+KB-E2 578-1,keine_id,innerhalb Stubentor,1426,,,220,7 s. 10 d.,120,110,110 tl.,umb iᶜ und x tl. d.  
+KB-E2 578-2,DB1082,Schiltergasse,1426,,verkauf ,108,3 s. 18 d.,120,54,54 tl.,umb liiii tl. d. 
+KB-E2 578-3,keine_id,Kernerstraße,1426,ja,verkauf ,76,76 d.,120,38,38 tl.,umb xxxviii tl. d.  
+KB-E2 578-4,DB5453,Hoher Markt,1437,ja,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. Wienner d.  
+KB-E2 579-1,keine_id,Neuer Markt,1427,,verkauf ,162,5 s. 12 d.,120,81,81 tl.,umb lxxxi tl. d.  
+KB-E2 579-2,keine_id,Schenkenstraße,1427,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E2 579-3,keine_id,Salzgries,1428,,verkauf ,250,1 tl. 10 d.,120,125,125 tl.,umb hundert und xxv tl. d.  
+KB-E2 579-4,keine_id,Preidenstraße,1428,,verkauf ,48,48 d.,120,24,24 tl.,umb xxiiii tl. d.  
+KB-E2 579-5,keine_id,Greut / vor Stubentor,1435,ja,verkauf ,132,0.5 tl. 12 d.,120,66,66 tl.,umb lxvi tl. d.  
+KB-E2 580-1,keine_id,Walichstraße,1428,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 580-2,keine_id,St. Johannsstraße,1429,,schenkung ,90,3 s.,,,,
+KB-E2 580-3,DB1062,Wiltwerkerstraße,1429,,verkauf ,694,2 tl. 7 s. 4 d.,120,347,347 tl.,umb iiiᶜ und xlvii tl. d. 
+KB-E2 580-4,keine_id,Schenkenstraße,1428,,verkauf ,70,70 d.,120,35,35 tl.,umb xxxv tl. d.  
+KB-E2 580-5,keine_id,Schenkenstraße,1437,,verkauf ,96,3 s. 6 d.,120,48,48 tl.,umb xlviii tl. Wienner d.  
+KB-E2 580-6,keine_id,Haarmarkt,1437,,verkauf ,1650,6 tl. 7 s.,120,825,825 tl.,umb viiiᶜ xxv tl. d.  
+KB-E2 581-1,keine_id,vor Werdertor,1429,,verkauf ,174,4 s. 54 d.,119,86.5,86.5 tl.,umb lxxxvi½ tl. d.  
+KB-E2 581-2,keine_id,Alter Kohlmarkt / #St. Michael,1429,,,420,14 s.,120,210,210 tl.,umb CC und x tl. d.  
+KB-E2 581-3,keine_id,hintere Peckenstraße,1429,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb C xl tl. d.  
+KB-E2 581-4,keine_id,vor Kernertor / Weidenstraße,1429,,verkauf ,88,88 d.,120,44,44 tl.,umb xliiii tl. d.  
+KB-E2 582-1,DB0065,Alserstraße / vor Schottentor,1430,,verkauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d.  
+KB-E2 582-2,keine_id,Haarmarkt,1430,,verkauf ,1500,6 tl. 60 d.,120,750,750 tl.,umb Achthalb hundert phunt phenning  
+KB-E2 582-3,keine_id,Himmelpforten,1430,,verkauf ,38,38 d.,120,19,19 tl. 4 s.,umb Newnczehen phunt und vier schilling  
+KB-E2 582-4,keine_id,Graben,1430,,verkauf ,280,9 s. 10 d.,120,140,140 tl.,umb hundert und vierczigk phunt  
+KB-E2 582-5,keine_id,Heiligenkreuzerhof,1436,,,164,5 s. 14 d.,120,82,82 tl.,umb lxxxii tl. d.  
+KB-E2 583-1,DB1072,Wiltwerkerstraße,1430,,verkauf ,72,72 d.,120,36,36 tl.,umb xxxvi tl. d.  
+KB-E2 583-2,keine_id,Fischerstiege,1435,,verkauf ,320,10 s. 20 d.,120,160,160 tl.,umb C lx tl. d.  
+KB-E2 583-3,DB5521,Am Gestade,1435,ja,verkauf ,136,0.5 tl. 16 d.,118,67,67 tl.,umb lxvii tl.  
+KB-E2 583-4,DB5483,Kammerhof,1436,,verkauf ,2000,8 tl. 80 d.,120,1000,1000 tl.,umb Tawsent pfunt pfenning  
+KB-E2 584-1,DB1044,Weiße Brüder,1432,,verkauf ,130,0.5 tl. 10 d.,120,65,65 tl.,umb lxv tl. d.  
+KB-E2 584-2,keine_id,Kernertor / Ringmauer,1432,,verkauf ,120,0.5 tl.,120,60,60 tl.,umb lx tl. d.  
+KB-E2 584-3,keine_id,Kernerstraße / Neuer Markt,1435,,verkauf ,700,2 tl. 7 s. 10 d.,120,350,350 tl.,umb iii½ᶜ tl. d.  
+KB-E2 585-1,keine_id,Jakobsfreithof,1433,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb hundert phunt Wienner phenning  
+KB-E2 585-2,keine_id,vor Stubentor,1433,,verkauf ,72,72 d.,120,36,36 tl.,umb xxxvi tl. d.  
+KB-E2 585-3,keine_id,Preidenstraße / St. Michael,1433,,verkauf ,300,10 s.,,,,
+KB-E2 585-4,keine_id,Krotental / vor Stubentor,1435,,verkauf ,64,64 d.,120,32,32 tl.,umb xxxii tl. d.  
+KB-E2 586-1,keine_id,Kienmarkt,1433,,verkauf ,960,4 tl.,125,500,500 tl.,umb vᶜ tl. Wienner d.  
+KB-E2 586-2,DB5201,Hohe Brücke / Wiltwerkerstraße,1434,,verkauf ,200,6 s. 20 d.,120,100,100 tl.,umb C tl. Wienner d.  
+KB-E2 586-3,keine_id,Alter Rossmarkt,1434,,verkauf ,1140,4 tl. 6 s.,122,580,580 tl.,umb vᶜ lxxx tl. d.  
+KB-E2 586-4,keine_id,Graben,1434,,verkauf ,840,3.5 tl.,120,420,420 tl.,umb cccc xx tl. d.  
