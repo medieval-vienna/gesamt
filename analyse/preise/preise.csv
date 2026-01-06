@@ -906,7 +906,7 @@ KB-E 357-2,DB0047,Alserstraße / unter den Lederern / vor Schottentor,1435,,verk
 KB-E 357-3,keine_id,Lichtensteg,1435,,,480,2 tl.,,,,
 KB-E 358-1,DB5522,Am Gestade,1436,,,210,7 s.,,,,
 KB-E 358-2,DB0049,Alserstraße,1436,ja,verkauf ,18,18 d.,120,9,9 tl.,umb viiii tl. d.  
-KB-E 358-3,keine_id,Greut / vor Stubentor,1436,,,120,0.5 tl.,800,400,400 tl. ?,umb cccc tl. Wienner d.  
+KB-E 358-3,keine_id,Greut / vor Stubentor,1436,,,120,0.5 tl.,800,400,400 tl.,umb cccc tl. Wienner d.  
 KB-E 359-1,DB0005,Neulucke / vor Kernertor,1420,,verkauf ,40,40 d.,120,20,20 tl.,umb zwainczig phunt phenning  
 KB-E 359-2,keine_id,innerhalb Werdertor,1420,ja,verkauf ,44,44 d.,120,22,22 tl.,umb zway und zwainczig pfunt Wienner pfenning  
 KB-E 359-3,keine_id,vor Werdertor,1420,,verkauf ,32,32 d.,120,16,16 tl.,umb Sechczehen phunt Wienner phenning  
@@ -2578,7 +2578,7 @@ GB-D 0007-1,keine_id,Lichtensteg,1438,,,72,72 d.,,,,
 GB-D 0007-2,keine_id,unter den Fischern / vor Werdertor,1439,,,72,72 d.,,,,
 GB-D 0007-3,keine_id,Wollzeile,1439,,,960,4 tl.,,,,
 GB-D 0008-1,keine_id,Riemergasse / St. Jakob,1439,ja,,100,3 s. 10 d.,120,50,50 tl.,umb l tl. d.  
-GB-D 0008-2,keine_id,vor Werdertor,1439,,kauf ,400,13 s. 10 d.,2400,4000,4000 tl.,umb cccc tl. d.  
+GB-D 0008-2,keine_id,vor Werdertor,1439,,kauf ,400,13 s. 10 d.,240,400,400 tl.,umb cccc tl. d.  
 GB-D 0008-3,keine_id,vor Werdertor,1439,,kauf ,34,34 d.,120,17,17 tl.,umb xvii tl. d.  
 GB-D 0008-4,keine_id,St. Johannsstraße,1439,ja,,72,72 d.,,,,
 GB-D 0009-1,keine_id,vor Werdertor,1439,,,72,72 d.,,,,
@@ -2755,7 +2755,7 @@ GB-D 0052-1,keine_id,Kumpflucke,1458,,,72,72 d.,,,,
 GB-D 0052-2,DB1063,Wiltwerkerstraße,1458,,kauf ,500,2 tl. 20 d.,120,250,250 tl.,umb drithalbhundert phunt phenning  
 GB-D 0052-3,keine_id,Stadtgraben / vor Kernertor,1458,,,144,0.5 tl. 24 d.,,,,
 GB-D 0052-4,DB5240,Wiltwerkerstraße,1458,,kauf ,330,11 s.,120,165,165 tl.,umb hundert und funfundsechczig phunt phenning  
-GB-D 0052-5,keine_id,vordere Peckenstraße,1458,,kauf ,800,3 tl. 80 d.,1200,4000,4000 tl.,umb cccc tl. d.  
+GB-D 0052-5,keine_id,vordere Peckenstraße,1458,,kauf ,800,3 tl. 80 d.,120,400,400 tl.,umb cccc tl. d.  
 GB-D 0052-6,keine_id,Lichtensteg / unter den Fleischbänken,1458,,kauf ,3000,12.5 tl.,120,1500,1500 tl.,umb funfczehen hundert phunt phenning  
 GB-D 0053-1,keine_id,Kernerstraße,1458,,,144,0.5 tl. 24 d.,,,,
 GB-D 0053-2,keine_id,Stadtgraben / vor Kernertor,1459,,kauf ,240,1 tl.,120,120,120 tl.,umb hundert und zwainczigk phunt phenning  
@@ -5626,7 +5626,7 @@ GB-D 0982-2,keine_id,bei den Predigern,1470,,,800,3 tl. 80 d.,99,333,250 UG,umb 
 GB-D 0982-3,DB1032,Schulhof,1470,,,480,2 tl.,120,240,240 tl.,umb zwayhundert und virtzigkh phunt phenning  
 GB-D 0982-4,keine_id,Singerstraße,1471,,,,,,,,
 GB-D 0983-1,DB0028,Alserstraße / vor Schottentor,1472,,kauf ,,,,400,300 UG,umb drew hundert ungrisch guldein  
-GB-D 0983-2,keine_id,vordere Peckenstraße,1472,,,650,2 tl. 5 s. 20 d.,12307,33333,25000 UG,umb ii½ᶜ hundert hungrisch guldein  
+GB-D 0983-2,keine_id,vordere Peckenstraße,1472,,,650,2 tl. 5 s. 20 d.,122,333,250 UG,umb ii½ᶜ hundert hungrisch guldein  
 GB-D 1002-1,keine_id,Pippingerstraße,1437,ja,kauf ,66,66 d.,120,33,33 tl.,umb xxxiii tl. d.  
 GB-D 1002-2,DB1048,Badstube zu den Röhren,1438,ja,kauf ,164,5 s. 14 d.,120,82,82 tl.,umb lxxxii tl. d.  
 GB-D 1002-3,keine_id,vor Kernertor,1438,ja,,310,10 s. 10 d.,120,155,155 tl.,umb C lv tl. Wienner d.  
@@ -6006,7 +6006,7 @@ GB-D 1121-2,DB5219,Otto und Haimo,1449,ja,,,,,,,
 GB-D 1121-3,keine_id,Kernerstraße,1449,,kauf ,280,9 s. 10 d.,120,140,140 tl.,umb hundert und virczig phunt phenning  
 GB-D 1122-1,keine_id,Haarmarkt,1451,,,72,72 d.,,,,
 GB-D 1122-2,keine_id,Weihenburg,1451,,,6,6 d.,10800,270,270 tl.,umb zwaihundert und Sibenczig phund phenning  
-GB-D 1122-3,keine_id,Alter Kohlmarkt,1452,,,950,3 tl. 7 s. 20 d.,1029,4075,4075 tl. ?,umb cccc und lxxv tl. d.  
+GB-D 1122-3,keine_id,Alter Kohlmarkt,1452,,,950,3 tl. 7 s. 20 d.,120,475,475 tl.,umb cccc und lxxv tl. d.  
 GB-D 1122-4,keine_id,Alter Rossmarkt / Raubergäßchen,1452,,,72,72 d.,,,,
 GB-D 1123-1,keine_id,bei den Predigern,1452,,kauf ,160,5 s. 10 d.,120,80,80 tl.,umb Achczig phund phenning  
 GB-D 1123-2,keine_id,innerhalb Schottentor,1452,,,,0 d.,,100,100 tl.,umb hundert phund phenning  
@@ -8824,7 +8824,7 @@ GB-E 0939-2,DB5316,Herzoghof,1505,,,450,15 s.,120,225,225 tl.,umb zwayhundert un
 GB-E 0940-1,DB6000,Scheffstraße / Stadtgraben,1505,,,510,2 tl. 30 d.,35,75,75 tl.,umb funfundsibentzig phundt phenning  
 GB-E 0941-1,DB1038,Judenplatz / Schulhof,1505,,,,,,277,277 tl.,umb zwayhundert unnd Sibenundsibenntzig phund phening  
 GB-E 0942-1,DB6000,Scheffstraße / vor Stubentor,1505,,,,,,100,100 tl.,umb hundert phund phening  
-GB-E 0942-2,keine_id,Münzerstraße,1505,,,,,,600,"600 tl., bar bezahlt",umb dieselb Summa Sechshundert phundt phenning  
+GB-E 0942-2,keine_id,Münzerstraße,1505,,,,,,600,600 tl. (bar bezahlt),umb dieselb Summa Sechshundert phundt phenning  
 GB-E 0944-1,keine_id,,1505,,,120,4 s.,120,60,60 tl.,umb Sechtzig phundt phening  
 GB-E 0944-2,DB1053,Schiltergasse,1505,,,780,3 tl. 60 d.,156,510,510 tl.,umb funfhundert und zehen phuntt phening  
 GB-E 0945-1,DB6000,Scheffstraße,1505,,,200,6 s. 20 d.,,,na,umb ain Summa gelts  
