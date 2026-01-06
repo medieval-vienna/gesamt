@@ -5,7 +5,10 @@
 			<publicationStmt><publisher></publisher></publicationStmt>
 			<seriesStmt><title>Mapping Medieval Vienna</title></seriesStmt>
 			<sourceDesc>
-				<bibl><title type="main">Gewerbuch E 1474-1517</title><idno type="Transkribus">834340</idno><idno type="external">NA</idno></bibl>
+				<bibl>
+					<title type="main">Gewerbuch E 1474-1517</title>
+					<idno type="Transkribus">834340</idno>
+				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -876,7 +879,7 @@
 		<lb facs="#facs_16_r1l31" n="N014"/>den funfhundert phunt phenning haimstewr und morgngab die weilend Michel Weiss
 		<lb facs="#facs_16_r1l32" n="N015"/>burger zu Wienn des obgenant Micheln vater seligen seiner hausfraun Annen Arnolts
 		<lb facs="#facs_16_r1l33" n="N016"/>Galander seligen tochter vor darauf verschriben und verphennt hat nach lautt ains
-		<lb facs="#facs_16_r1l34" n="N017"/>Gemechtbriefs mit der Stat gruntInsigl gefertigt darumb ausgangen der noch unver
+		<lb facs="#facs_16_r1l34" n="N017"/>Gemechtbriefs mit der Stat gruntInsigl gefertigt darumb ausgangen der noch unver-
 		<lb facs="#facs_16_r1l35" n="N018"/>serter vorhannden ist <date>Actum an Freitag nach des heiligen Kreucz tag Erfindung Anno
 		<lb facs="#facs_16_r1l38" n="N019"/>domini etc. lxxiiiiᵗº</date>
 		<lb facs="#facs_16_r1l40" n="N020"/>Summa iiii s. xxiiii d.
@@ -1432,7 +1435,7 @@
 		<lb facs="#facs_24_line_1637678452424_572" n="N004"/>ist und hat die egnant Helen sein hausfraun zu im schreiben lassen Also das Sy baide
 		<lb facs="#facs_24_line_1637678448447_567" n="N005"/>das egnant haws Innhaben nuczen und niessen sullen und mugen Irn frumen damit ze
 		<lb facs="#facs_24_line_1637678457107_576" n="N006"/>hanndeln verchauffen verseczen schaffen machen und geben wem Sy verlust als gesambter
-		<lb facs="#facs_24_line_1637678461046_580" n="N007"/>hannd und der Stat zu Wienn Recht und in Irer heirat abgeredt ist getreulich und unge
+		<lb facs="#facs_24_line_1637678461046_580" n="N007"/>hannd und der Stat zu Wienn Recht und in Irer heirat abgeredt ist getreulich und unge-
 		<lb facs="#facs_24_r2l49" n="N008"/>verlich <date>Actum an Freitag nach Sand Jacobs tag im Snit Anno domini etc. lxxiiiiº</date>
 		<lb facs="#facs_24_r2l50" n="N009"/>Summa propter priorem
 		<lb facs="#facs_24_r2l51" n="N010"/>iiii s. xxiiii d.
@@ -1736,7 +1739,7 @@
 		<lb facs="#facs_29_r3l4" n="N004"/>Auch sullen In die liecht von der padstuben unverpawt beleiben die da gent aus
 		<lb facs="#facs_29_r3l5" n="N005"/>dem stublein und aus der kemnaten daneben auf der padstuben zwain Gwelben
 		<lb facs="#facs_29_r3l6" n="N006"/>und was wassers kumbt von dem dach das da leit auf dem egnanten Stublein
-		<lb facs="#facs_29_r3l7" n="N007"/>und der kemnaten des sullen Sy Recht haben zu furn und zulaitten an yeg
+		<lb facs="#facs_29_r3l7" n="N007"/>und der kemnaten des sullen Sy Recht haben zu furn und zulaitten an yeg-
 		<lb facs="#facs_29_r3l8" n="N008"/>lichem Egk in ainer Rynnen auf der bemelten padstuben dach in die Rynnen
 		<lb facs="#facs_29_r3l9" n="N009"/>Als es auch von allter herchomen ist Es sol auch der ober den undernn bewaren
 		<lb facs="#facs_29_r3l10" n="N010"/>mit dach vor Regen und der under den obern mit dem Grunt uncz an den obern
@@ -2418,7 +2421,7 @@
 		<lb facs="#facs_39_r1l26" n="N003"/>von sand Mareinzell haws Als das von fraun Annen seiner erern hausfraun die
 		<lb facs="#facs_39_r1l27" n="N004"/>vormaln Mathesen Wisler seligen auch elichen gehabt hat mit gescheft an In komen
 		<lb facs="#facs_39_r1l28" n="N005"/>ist nach lautt irs geschefts das im Statpuch hie geschriben stet <date>Actum an Mitichen
-		<lb facs="#facs_39_r1l29" n="N006"/>nach dem Suntag Letare zu Mittervasten Anno domini etc. lxxvº</date> doch unver
+		<lb facs="#facs_39_r1l29" n="N006"/>nach dem Suntag Letare zu Mittervasten Anno domini etc. lxxvº</date> doch unver-
 		<lb facs="#facs_39_r1l30" n="N007"/>griffen den vir phunt phenning Jerlicher gult so frau Anna Kunrats Leittner seligen
 		<lb facs="#facs_39_r1l31" n="N008"/>witib den Achtern zu sand Steffan hie zu zwain Jartegen vor darauf verschaft
 		<lb facs="#facs_39_r1l32" n="N009"/>hat
@@ -2533,7 +2536,7 @@
 		<lb facs="#facs_41_r2l3" n="N001"/>Kathrey Hannsen Tenngk zu Kloster Newnburg hausfrau hat emphangen nucz und gwer
 		<lb facs="#facs_41_r2l4" n="N002"/>Ains hawss gelegen vor Werdertor gegn Sand Johanns Cappelln uber zunagst Niclasen
 		<lb facs="#facs_41_r2l5" n="N003"/>Huber haws davon man Jerlich dint dem Caplan der yeczgnant sand Johans kappellen
-		<lb facs="#facs_41_r2l6" n="N004"/>im Werd zu dem ewigen Jartag den Steffan von Weissenpach seliger in derselben kap
+		<lb facs="#facs_41_r2l6" n="N004"/>im Werd zu dem ewigen Jartag den Steffan von Weissenpach seliger in derselben kap-
 		<lb facs="#facs_41_r2l7" n="N005"/>pelln zu stifften geschaft hat zehen schilling phenning zu purkrecht und nicht mer Als
 		<lb facs="#facs_41_r2l8" n="N006"/>das von Jacoben Maws dem ledrer Irm vater und Dorothe seiner hausfraun Irer Muter
 		<lb facs="#facs_41_r2l9" n="N007"/>Erblich und mit gescheft an sey komen ist nach lautt Irer beweisten frewntschaft und
@@ -2707,7 +2710,7 @@
 	<p facs="#facs_44_TextRegion_1643359228866_878">
 		<lb facs="#facs_44_line_1643359223349_874" n="N001"/>Peter Anthofer hat emphangen nucz und gwer ains stadls und Gartnns dar
 		<lb facs="#facs_44_r2l3" n="N002"/>an gelegen vor Kernertor hinder dem spital bey dem prugklein im Grewt zunagst
-		<lb facs="#facs_44_r2l4" n="N003"/>Michlen Hawnolten des Oler Stadl darumb er und Gilig sein pruder auch Bar
+		<lb facs="#facs_44_r2l4" n="N003"/>Michlen Hawnolten des Oler Stadl darumb er und Gilig sein pruder auch Bar-
 		<lb facs="#facs_44_r2l5" n="N004"/>bara Michlen Veichsner zu sand Veit hausfrau Ir Swester vormaln nucz und gwer
 		<lb facs="#facs_44_r2l6" n="N005"/>geschriben gewesen sein und nu von demselben Giligen Anthofer und Barbaren
 		<lb facs="#facs_44_r2l7" n="N006"/>Veichsnerin seinen geswistreiden mit lediger ubergab an In komen ist furbaser allen seinen
@@ -2935,7 +2938,7 @@
 		<lb facs="#facs_47_r2l12" n="N002"/>hawss ganczes gelegen in der Wiltbergerstrass zunagst der Stat Mawthaws
 		<lb facs="#facs_47_r2l13" n="N003"/>an aim tail und an dem andern zunagst Niclasen Haller haws und ist der
 		<lb facs="#facs_47_r2l14" n="N004"/>ander tail mit alln den gemechen und gemainen stukhen so nach lautt der
-		<lb facs="#facs_47_r2l15" n="N005"/>Tailbrief darczu gehoren des gegentail Hanns Herbart Innhat und von Barbar
+		<lb facs="#facs_47_r2l15" n="N005"/>Tailbrief darczu gehoren des gegentail Hanns Herbart Innhat und von Barbar-
 		<lb facs="#facs_47_r2l16" n="N006"/>en Hartmans Municher des kursner hausfraun Ir Swester die nachmalen Hansen
 		<lb facs="#facs_47_r2l17" n="N007"/>Wienner auch elich gehabt hat Erblich an sey komen ist nach lautt Irer beweisten
 		<lb facs="#facs_47_r2l18" n="N008"/>frewntschaft die im Statpuch zu Wienn geschriben stet <date>Actum an Freytag
@@ -3126,7 +3129,7 @@
 		<lb facs="#facs_50_r3l18" n="N003"/>gelegen vor Kernertor auf der Mietstat zunagst Hannsen Zochman haws an
 		<lb facs="#facs_50_r3l19" n="N004"/>ainem tail und ains Garten hinder dem egnanten haws gelegen der da stosset
 		<lb facs="#facs_50_r3l20" n="N005"/>auf den Goczakher und was zu dem egnanten hawss gehort darauf und andern
-		<lb facs="#facs_50_r3l21" n="N006"/>gutern die der Stat grunt nicht sein Ludweig Wolfstain des egnant Bertl
+		<lb facs="#facs_50_r3l21" n="N006"/>gutern die der Stat grunt nicht sein Ludweig Wolfstain des egnant Bertl-
 		<lb facs="#facs_50_r3l22" n="N007"/>me vater seiner hausfraun Agnesen seiner Muter drithalb hundert phund phenning
 		<lb facs="#facs_50_r3l23" n="N008"/>zu haimstewr und morgngab nach dem Statrechten hie verschriben gehabt
 		<lb facs="#facs_50_r3l24" n="N009"/>hat und nach Ir baider tod auf den egnanten Pertlme Irn Sun gevallen sein
@@ -3794,7 +3797,7 @@
 		<lb facs="#facs_61_r4l3" n="N003"/>nu furbaser die obgnanten Sebastian und Junkfraw Ursula sein Swester die egnant
 		<lb facs="#facs_61_r4l4" n="N004"/>zwen tail hawss mit Irn zugehorungen Innhaben nuczen und niessen sullen
 		<lb facs="#facs_61_r4l5" n="N005"/>und mugen und alln Irn frumen damit zuhandln nach der Stat Rechten zu
-		<lb facs="#facs_61_r4l6" n="N006"/>Wienn doch das Sy davon leiden als ander mitburger daselbs. <date>Actum an Mit
+		<lb facs="#facs_61_r4l6" n="N006"/>Wienn doch das Sy davon leiden als ander mitburger daselbs <date>Actum an Mit
 		<lb facs="#facs_61_r4l7" n="N007"/>tichen vor unser lieben frawn tag der Liechtmess Anno etc. lxxvi</date>
 		<lb facs="#facs_61_r4l8" n="N008"/>Summa iiii s. xxiiii d.
 	</p>
@@ -4172,7 +4175,7 @@
 		<lb facs="#facs_67_r2l7" n="N007"/>seyn nach lautt Ir beweisten frewntschaft und ainer kuntschaft baid in dem
 		<lb facs="#facs_67_r2l8" n="N008"/>Statpuch hie geschriben Also das Sy nu furbaser dasselb haws ganczes ledig
 		<lb facs="#facs_67_r2l9" n="N009"/>clich und freylichen Innhaben nuczen und niessen und alln Iren frumen damit
-		<lb facs="#facs_67_r2l10" n="N010"/>handln sol und mag wie sy verlust. Doch also das Sy und alle die das vor
+		<lb facs="#facs_67_r2l10" n="N010"/>handln sol und mag wie sy verlust Doch also das Sy und alle die das vor
 		<lb facs="#facs_67_r2l11" n="N011"/>genant haws Innhabnt und besiczent mit der egnanten Stat hie davon leiden
 		<lb facs="#facs_67_r2l12" n="N012"/>sulln als ander mitburger daselbs ungeverlich <date>Actum an Mitichen nach sand
 		<lb facs="#facs_67_r2l13" n="N013"/>Gregorien tag Anno etc. lxxviº</date>
@@ -4364,7 +4367,7 @@
 <div type="entry" n="0070-2">
 	<p facs="#facs_70_TextRegion_1643361010006_1376">
 		<lb facs="#facs_70_r1l22" n="N001"/>Wilhalm Krempl weilend Jorgen Krempl und Juliana seiner hausfraun seligen
-		<lb facs="#facs_70_r1l24" n="N002"/>Sun hat emphangen ains hawss gelegen mit dem vordern tail in den Kamer
+		<lb facs="#facs_70_r1l24" n="N002"/>Sun hat emphangen ains hawss gelegen mit dem vordern tail in den Kamer-
 		<lb facs="#facs_70_r1l25" n="N003"/>hof und mit dem hindern an die langen Tuchlauben mitsambt dem Gwant
 		<lb facs="#facs_70_r1l26" n="N004"/>Gwelb daselbs undern Turn daz darzu gehort zunagst weilend Symons
 		<lb facs="#facs_70_r1l27" n="N005"/>Salczer haws das yecz Jorg Kranperger Innhat Ausgenomen des obern gwant
@@ -4502,7 +4505,7 @@
 		<lb facs="#facs_72_r2l35" n="N003"/>vor Widmertor zunagst ettwenn Petern Durring des Goltsmids
 		<lb facs="#facs_72_r2l36" n="N004"/>haws darumb der egnant Erhart und Kunrat sein bruder
 		<lb facs="#facs_72_r2l37" n="N005"/>vormalen nucz und gwer geschribn gewesen sein und der obgnant
-		<lb facs="#facs_72_r2l38" n="N006"/>Otilien lediclichen uber geben haben nach lautt der Aufsand und
+		<lb facs="#facs_72_r2l38" n="N006"/>Otilien lediclichen uber- geben haben nach lautt der Aufsand und
 		<lb facs="#facs_72_r2l39" n="N007"/>besiglten kuntschaftbrief die zu dem gruntpuch erlegt sein <date>Actum
 		<lb facs="#facs_72_r2l40" n="N008"/>an Freitag vor Palmarum Anno domini etc. lxxviº</date>
 		<lb facs="#facs_72_r2l41" n="N009"/>Summa lxxii d.
@@ -5112,7 +5115,7 @@
 		<lb facs="#facs_82_r3l36" n="N003"/>selb Ir man vor miteinander nucz und gwer geschriben gewesn sein und von dem
 		<lb facs="#facs_82_r3l37" n="N004"/>selbn Irm Man mit gescheft an Sy komen ist doch also das Sy davon und
 		<lb facs="#facs_82_line_1665492886000_574" n="N005"/>von anderm Irm geschaftn gut Junkfraun Dorothen Margreten Barbaren
-		<lb facs="#facs_82_r3l39" n="N006"/>und Elspeten Irn baiden kindern ausricht und geb yedem xl tl. d. und Junk
+		<lb facs="#facs_82_r3l39" n="N006"/>und Elspeten Irn baiden kindern ausricht und geb yedem xl tl. d. und Junk-
 		<lb facs="#facs_82_r3l40" n="N007"/>fraun Margreten der yzgnanten kinder Swester l tl. d. und yedem geben seinen
 		<lb facs="#facs_82_r3l41" n="N008"/>tail wann es vogtper wirdet Ging aber Ir ains oder mernigers ungevogt
 
@@ -5462,7 +5465,7 @@
 		<lb facs="#facs_88_r2l27" n="N002"/>Ains hawss gelegen gegen dem Brobsthof uber zunagst weilend Hannsen Grunt
 		<lb facs="#facs_88_r2l28" n="N003"/>Reichs haws an aim tail und an dem andern zunagst des Weissen kinder haws
 		<lb facs="#facs_88_r2l29" n="N004"/>Als das von dem obgenant Cristoffen Epishawser Irm Mann seligen mit Gemecht
-		<lb facs="#facs_88_r2l30" n="N005"/>ans Sy kommen ist und der Allerdurchleuchtigist furst und herr her Fridreich Rom
+		<lb facs="#facs_88_r2l30" n="N005"/>ans Sy kommen ist und der Allerdurchleuchtigist furst und herr her Fridreich Rom-
 		<lb facs="#facs_88_r2l31" n="N006"/>ischer kaiser zu allnczeiten merer des Reichs zu Hungern Dalmacien Croacien etc. kunig
 		<lb facs="#facs_88_r2l32" n="N007"/>herzogen zu Osterrich zu Steir zu Kernden und zu Crain etc. daselbst Gemecht
 		<lb facs="#facs_88_r2l33" n="N008"/>bestett und sey darumb nucz und gwer zu schreiben geschaft hat nach lautt seiner
@@ -5631,7 +5634,7 @@
 		<lb facs="#facs_91_r2l12" n="N012"/>Nurmberg und Irer gesellschaft und iiᶜ xxv tl. d. Maister Hannsen Aichl
 		<lb facs="#facs_91_r2l13" n="N013"/>perger gevallen sein und iiᶜ xxv tl. d. Morgngab Dorotheen des Dehnhawpts
 		<lb facs="#facs_91_r2l14" n="N014"/>Tochter weilend Jorgn von Nicolspurg hausfraun sind gevallen darumb
-		<lb facs="#facs_91_r2l15" n="N015"/>sich derselb Tehnhaubt Ambrosy per Ir Man und Sy gegen den egnant Ger
+		<lb facs="#facs_91_r2l15" n="N015"/>sich derselb Tehnhaubt Ambrosy per Ir Man und Sy gegen den egnant Ger-
 		<lb facs="#facs_91_r2l16" n="N016"/>haben haben verschribn wider anzulegen nach lautt ains briefs darumb gegeben
 		<lb facs="#facs_91_r2l17" n="N017"/>und iiᶜ und x tl. d. die dem egnant Jacoben Aichlperger vor darauf verschriben
 		<lb facs="#facs_91_r2l18" n="N018"/>gewesen sein und die ubrigen viiiᶜ lxiii tl. d. der egnant Teschler Als Gerhab
@@ -5856,7 +5859,7 @@
 		<lb facs="#facs_95_r1l2" n="N002"/>am placz und ist der tail am Egk darumb vormaln die egnant Orea alain
 		<lb facs="#facs_95_line_1638200242111_877" n="N003"/>nucz und gwer gehabt und hat den bemelten Hannsen Leschnprant Irn Man
 		<lb facs="#facs_95_r1l4" n="N004"/>durch sunder lieb und von kendlicher trew wegen zu Ir haissn schreiben in der
-		<lb facs="#facs_95_r1l5" n="N005"/>Maynung das Sy baide nu furbaser dasselb halb haws mit seiner zugehor
+		<lb facs="#facs_95_r1l5" n="N005"/>Maynung das Sy baide nu furbaser dasselb halb haws mit seiner zugehor-
 		<lb facs="#facs_95_r1l6" n="N006"/>ung Innhabn nuczen und niessen sulln und mugen und Irn frumm damit
 		<lb facs="#facs_95_r1l7" n="N007"/>Schaffn verkauffen verseczen schaffen machen und geben wem Sy verlust Als ge-
 		<lb facs="#facs_95_r1l8" n="N008"/>sambter hannd und der Stat zu Wienn Recht ist doch das Sy davon leiden
@@ -6028,7 +6031,7 @@
 	<p facs="#facs_98_TextRegion_1643362452591_1926">
 		<lb facs="#facs_98_r3l2" n="N001"/>Steffan Span hafner mitburger zu Wienn und Margreth sein hausfrau habnt
 		<lb facs="#facs_98_r3l3" n="N002"/>emphangn nucz und gwer Ains hawss gelegn undern Hafern zunagst Ulrichs
-		<lb facs="#facs_98_r3l4" n="N003"/>Grebmer des hafner haws an aim tail darumb vormaln die bemelt Mar
+		<lb facs="#facs_98_r3l4" n="N003"/>Grebmer des hafner haws an aim tail darumb vormaln die bemelt Mar-
 		<lb facs="#facs_98_r3l5" n="N004"/>gret Alain nucz und gwer geschriben gestannden ist Und hat nu den benant
 		<lb facs="#facs_98_r3l6" n="N005"/>Steffan Span Irn Man aus sunder lieb und kendlicher trew wegen zu Ir
 		<lb facs="#facs_98_r3l7" n="N006"/>schreibn lassn Also welhs under In baiden das ander uberlebt das sol
@@ -6083,7 +6086,7 @@
 		<lb facs="#facs_99_r1l4" n="N002"/>und seinen nachkomen Caplen der Mess So fraw Anna Hainreichs Hagmans
 		<lb facs="#facs_99_r1l5" n="N003"/>seins vater seligen witib sein Muter zu sand Steffan hie zustifften geschaft hat zu
 		<lb facs="#facs_99_r1l6" n="N004"/>hannden derselben Mess emphangen nucz und gwer Ains hewsleins gelegen bey
-		<lb facs="#facs_99_r1l7" n="N005"/>den Predigern zunagst der Slesiten haws Als das von Annen Kunczen Obern
+		<lb facs="#facs_99_r1l7" n="N005"/>den Predigern zunagst der Slesiten haws Als das von Annen Kunczen Obern-
 		<lb facs="#facs_99_r1l8" n="N006"/>perger des zymermans seligen witiben umb xlii tl. d. mit kauf an In komen ist
 		<lb facs="#facs_99_r1l9" n="N007"/>ut littera sonat <date>Actum an Montag nach sand Margreten tag Anno etc. lxviiº</date>
 		<lb facs="#facs_99_r1l10" n="N008"/>Nota der obgenant Maister Hanns hat sich und sein nachkomen verschriben Jerlich fur
@@ -6442,7 +6445,7 @@
 		<lb facs="#facs_104_r3l20" n="N007"/>anderm Irm geschaften gut Ausrichten und geben Junkfraun Appolonien
 		<lb facs="#facs_104_r3l21" n="N008"/>Irer tochter und Swester iiᶜ ungrsch guldein wann Sy vogtper wirdet
 		<lb facs="#facs_104_r3l22" n="N009"/>wer aber das Sy ungevogt abging So sullen Sy erben und gevallen auf
-		<lb facs="#facs_104_r3l23" n="N010"/>die egnant Ir Muter und Steffan Irn bruder Gingen aber dieselben geswis
+		<lb facs="#facs_104_r3l23" n="N010"/>die egnant Ir Muter und Steffan Irn bruder Gingen aber dieselben geswis-
 		<lb facs="#facs_104_r3l24" n="N011"/>treid baide ungevogt ab So sol das bemelt zuhaws mitsambt den iiᶜ
 		<lb facs="#facs_104_r3l25" n="N012"/>guldein gevallen auf die yeczgnant Ir baider Muter lediclich nach lautt
 		<lb facs="#facs_104_r3l26" n="N013"/>des bemelten Swanczen seligen gescheft das Im Statpuch zu Wienn
@@ -6536,7 +6539,7 @@
 	<p facs="#facs_106_TextRegion_1670854814009_54">
 		<lb facs="#facs_106_line_1638262695403_263" n="N001"/>Fraw Margreth des edln Hainreichen Schrutawer dieczeit des Rats der Stat zu Wienn
 		<lb facs="#facs_106_r2l10" n="N002"/>hausfrau Steffans Gibing weilend burger zu Wienn seligen tochter hat emphangen
-		<lb facs="#facs_106_r2l11" n="N003"/>nucz und gwer hawss gelegen in der Munnsserstrass mit dem vordern tail zu
+		<lb facs="#facs_106_r2l11" n="N003"/>nucz und gwer hawss gelegen in der Munnsserstrass mit dem vordern tail zu-
 		<lb facs="#facs_106_r2l12" n="N004"/>nagst Maister Harttungs von Cappelln haws und mit dem hindern in den Kamer
 		<lb facs="#facs_106_r2l13" n="N005"/>hof darumb Sy vormaln umb halbn tail der Ir gegn Steffan Gibing Irem
 		<lb facs="#facs_106_r2l14" n="N006"/>bruder gevalln nucz und gwer gestannden ist und der ander halb tail von dem yecz
@@ -6547,7 +6550,7 @@
 		<lb facs="#facs_106_r2l19" n="N011"/>lxxviº</date>
 		<lb facs="#facs_106_r2l21" n="N012"/>Summa lxxii d.
 		<lb facs="#facs_106_r1l2" n="N013"/>{obtinuit libro Novo E folio 31}
-		<lb facs="#facs_106_r2l22" n="N014"/>Nota der Gmechtbrief umb die Tausut phunt phenning haimstewr und Morgen
+		<lb facs="#facs_106_r2l22" n="N014"/>Nota der Gmechtbrief umb die Tausut phunt phenning haimstewr und Morgen-
 		<lb facs="#facs_106_r2l23" n="N015"/>gab den Steffan Gibing der Ellter seiner hausfraun Margreten ist noch unverserter
 		<lb facs="#facs_106_r2l24" n="N016"/>verhanden und so man verrer mit dem haws handln wurd sol man den
 		<lb facs="#facs_106_r2l25" n="N017"/>selben brief vernichten umb den Gemechtbrief ist von des benant Gibing kinder aim
@@ -6616,7 +6619,7 @@
 		<lb facs="#facs_107_r5l20" n="N002"/>am Altn Fleischmarkht zunagst weilend Ulrichs Drosndorffer haws an aim
 		<lb facs="#facs_107_r5l21" n="N003"/>tail das Sy vormaln halbs auf tailung nucz und gwer gestannden und der
 		<lb facs="#facs_107_r5l22" n="N004"/>ander halb tail desselbn hawss von Margreten Petern Weyler hausfrawn
-		<lb facs="#facs_107_r5l23" n="N005"/>Irer Mumen mit lediger uber gab an sey komen ist furbaser mit dem ganczen
+		<lb facs="#facs_107_r5l23" n="N005"/>Irer Mumen mit lediger uber- gab an sey komen ist furbaser mit dem ganczen
 		<lb facs="#facs_107_r5l24" n="N006"/>haws allen Iren frumen damit zuschaffen wie sey verlust nach lautt
 		<lb facs="#facs_107_r5l25" n="N007"/>ains ubergabbriefs <date>Actum an Montag nach des heiligen Krewcz tag
 		<lb facs="#facs_107_r5l26" n="N008"/>Exaltacionis Anno etc. lxxiº</date>
@@ -6630,7 +6633,7 @@
 		<lb facs="#facs_107_r5l29" n="N003"/>emphangen nucz und gwr Ains Gwantgwelbs under den Langn tuchlauben
 		<lb facs="#facs_107_r5l30" n="N004"/>gelegen und Symons des Salczer haws zunagst Mathesen Salczer gwant
 		<lb facs="#facs_107_r5l31" n="N005"/>gwelb Als das von dem egnant Hainreichen Frankhen Irem vater seligen mit
-		<lb facs="#facs_107_r5l32" n="N006"/>gescheft an sey komen ist ut liber civitatis sonat <date>Actum an Mitichen nach Pan
+		<lb facs="#facs_107_r5l32" n="N006"/>gescheft an sey komen ist ut liber civitatis sonat <date>Actum an Mitichen nach Pan-
 		<lb facs="#facs_107_r5l33" n="N007"/>grac Anno etc. lvº</date>
 		<lb facs="#facs_107_r4l1" n="N008"/><unclear>lolih frac
 		<lb facs="#facs_107_r4l2" n="N009"/>osn 33
@@ -7624,7 +7627,7 @@
 		<lb facs="#facs_124_r1l7" n="N006"/>und gwer geschriben gewesen sein und halbs von denselben geswistreiden an die obgenanten
 		<lb facs="#facs_124_r1l8" n="N007"/>kannlewt umb achtundvirczig phunt phenning mit kauff komen ist nach lautt ains be¬
 		<lb facs="#facs_124_r1l9" n="N008"/>siglten kauffbriefs mit der Stat gruntInsigl gevertigt und umb den andern halben
-		<lb facs="#facs_124_r1l10" n="N009"/>tail hat die benant Barbara den egenanten Iren Man aus sunder lieb und von kannd
+		<lb facs="#facs_124_r1l10" n="N009"/>tail hat die benant Barbara den egenanten Iren Man aus sunder lieb und von kannd-
 		<lb facs="#facs_124_r1l11" n="N010"/>licher trew wegen zu Ir schreiben lassen Also daz Si Nun furbaser das bemelt haws
 		<lb facs="#facs_124_r1l12" n="N011"/>mitsambt der kram und dem Gwelb darInn Innhaben Nuczen und nyessen sullen und
 		<lb facs="#facs_124_r1l13" n="N012"/>mugen als gesambter hannd und der Stat zu Wienn Recht ist doch Ob von desselben haws
@@ -7804,7 +7807,7 @@
 <div type="entry" n="0127-2">
 	<p facs="#facs_127_TextRegion_1645788107828_507">
 		<lb facs="#facs_127_r4l9" n="N001"/>Barbara Hannsen Grym hausfraw hat emphangen Nucz und gwer Ains
-		<lb facs="#facs_127_r4l10" n="N002"/>hawss gelegen vor Stubentor In der Schefstrass zenagsten Kunczen vas
+		<lb facs="#facs_127_r4l10" n="N002"/>hawss gelegen vor Stubentor In der Schefstrass zenagsten Kunczen vas-
 		<lb facs="#facs_127_r4l11" n="N003"/>czieher haws Als daz von Even Niclasen Weyderfelder Rebgen witib
 		<lb facs="#facs_127_r4l12" n="N004"/>Ir Mueter Erblich an sey komen ist nach lautt Irer beweissten frewntschafft
 		<lb facs="#facs_127_r4l13" n="N005"/>die Im Statpuch hie geschriben stet doch Ob In Rechten tegen icht mer
@@ -8239,9 +8242,9 @@
 		<lb facs="#facs_133_r3l22" n="N005"/>Caplan der ewign Mess die darauf gestifft sein zehn guldein
 		<lb facs="#facs_133_r3l23" n="N006"/>ungrisch die abzulosen sein mit zwain hundert guldein ungrisch
 		<lb facs="#facs_133_r3l24" n="N007"/>nach lautt des Stifftbriefs darumb ausgangen darumb der egnant
-		<lb facs="#facs_133_r3l25" n="N008"/>her Caspar Griessnpekh und fraw Barbara geporn von Zinczn
+		<lb facs="#facs_133_r3l25" n="N008"/>her Caspar Griessnpekh und fraw Barbara geporn von Zinczn-
 		<lb facs="#facs_133_r3l26" n="N009"/>dorf sein gemahl mit gesambter hannd nucz und gewer geschriben
-		<lb facs="#facs_133_r3l27" n="N010"/>gewesn sein und Im daran Ir gerechtikait und tail lediclich uber
+		<lb facs="#facs_133_r3l27" n="N010"/>gewesn sein und Im daran Ir gerechtikait und tail lediclich uber-
 		<lb facs="#facs_133_r3l28" n="N011"/>geben hat furbaser alln seinen frumen damit zuschaffen wie In verlust
 		<lb facs="#facs_133_r3l29" n="N012"/>ut littera sonat <date>Actum an Montag nach sand Larenczen tag Anno
 		<lb facs="#facs_133_line_1673452034232_78" n="N013"/>domini etc. lxxviiº</date>
@@ -9061,7 +9064,7 @@
 		<lb facs="#facs_145_r3l29" n="N004"/>haws an ainem tail Als das von dem egnant Hannsen Dorner seinem vater
 		<lb facs="#facs_145_r3l30" n="N005"/>und Annen seiner hausfraun seiner Muter erblich an In komen ist nach lautt
 		<lb facs="#facs_145_r3l31" n="N006"/>seiner beweistn frewndschaft im Statpuch hie geschriben doch also ob In
-		<lb facs="#facs_145_r3l32" n="N007"/>Rechten tegen icht mer als nahent erben herfur kemen denselbn an Irer gererch
+		<lb facs="#facs_145_r3l32" n="N007"/>Rechten tegen icht mer als nahent erben herfur kemen denselbn an Irer gererch-
 		<lb facs="#facs_145_r3l33" n="N008"/>tigkait unvergriffn und anschaden <date>Actum an Mitichn nach Ambrosy
 		<lb facs="#facs_145_r3l34" n="N009"/>Anno etc. lxxviiiº</date>
 		<lb facs="#facs_145_r3l35" n="N010"/>Summa lxxii d.
@@ -9792,7 +9795,7 @@
 		<lb facs="#facs_156_r2l38" n="N005"/>sol darumb Emaln der egnant Kristoff alain nucz und gwer gestannden ist
 		<lb facs="#facs_156_r2l39" n="N006"/>und hat die obgnant sein hausfraun zu Im schreibn lassn furbaser Irn
 		<lb facs="#facs_156_r2l40" n="N007"/>frumen damit zuschaffen wie Sy verlust als gesambter hannd und der
-		<lb facs="#facs_156_r2l41" n="N008"/>Stat zu Wienn Recht ist doch sullen Sy des egnant Kristoffn Weidn
+		<lb facs="#facs_156_r2l41" n="N008"/>Stat zu Wienn Recht ist doch sullen Sy des egnant Kristoffn Weidn-
 		<lb facs="#facs_156_r2l42" n="N009"/>pach kindern Gabrieln Kolman Annen und Annen von dem obgnant
 		<lb facs="#facs_156_r2l43" n="N010"/>Irn zwain hewsern ausrichten und geben zehn phund phenning yedem seinen
 		<lb facs="#facs_156_r2l44" n="N011"/>tail wann Es vogtper wirdet als das in Ir baider abred der heirat
@@ -10016,7 +10019,7 @@
 		<lb facs="#facs_160_r2l5" n="N004"/>Angerfelder haws uber mitsambt den drein fleischpenkhn aneinander under demselben
 		<lb facs="#facs_160_r2l6" n="N005"/>haws und ist der ander tail mit alln den gemechen und gemainen stukhen so nach
 		<lb facs="#facs_160_r2l7" n="N006"/>lautt der Tailbrief darzu gehorn darumb Sy und weilent Peter Margreth und
-		<lb facs="#facs_160_r2l8" n="N007"/>Kunigund Hannsen von Gera burger zu Wienn Irs vater seligen kinder Ire geswist
+		<lb facs="#facs_160_r2l8" n="N007"/>Kunigund Hannsen von Gera burger zu Wienn Irs vater seligen kinder Ire geswist-
 		<lb facs="#facs_160_r2l9" n="N008"/>treid miteinander nucz und gwer geschribn gewesn sein daran derselben Irer geswistreid
 		<lb facs="#facs_160_r2l10" n="N009"/>gerechtikait Erblich an sey komen ist Also das Sy nu das bemelt halb haws
 		<lb facs="#facs_160_r2l11" n="N010"/>mit seiner zugehorung mitsambt den egnant fleischpenkhen Innhaben nuczen
@@ -10954,7 +10957,7 @@
 		<lb facs="#facs_174_r1l27" n="N007"/>Ir Swiger und Muter mit Spruchen komen ist nach lautt der Spruchbrief
 		<lb facs="#facs_174_r1l28" n="N008"/>darumb ausgangn der ainer bey dem puch ligt Iren frumen damit zuhanndln
 		<lb facs="#facs_174_r1l29" n="N009"/>wie sey verlust doch unvergriffn den vi tl. d. gelts purkrechts die wey-
-		<lb facs="#facs_174_r1l30" n="N010"/>lend Mertt diener und die egnant Anna Ernstingerin sein hausfrau dem Cap
+		<lb facs="#facs_174_r1l30" n="N010"/>lend Mertt diener und die egnant Anna Ernstingerin sein hausfrau dem Cap-
 		<lb facs="#facs_174_r1l31" n="N011"/>plan der Mess die Maister Albertinus der pucharczt auf unser fraun Altar zu
 		<lb facs="#facs_174_r1l32" n="N012"/>sand Steffan hie gestifft hat vor darauf verschribn und mit funfczig phunt
 		<lb facs="#facs_174_r1l33" n="N013"/>phenning abzulosn sein nach lautt ains purkrechtbriefs darumb ausgangenn
@@ -11348,7 +11351,7 @@
 		<lb facs="#facs_180_r2l32" n="N014"/>her gerunnen ist darInn dann das wasser das aus der Rynn auf dem
 		<lb facs="#facs_180_r2l33" n="N015"/>hindern zymer desselbn Windisch und zeinstrikher haws in des von
 		<lb facs="#facs_180_r2l34" n="N016"/>Starhmberg haws fellt wann das der von Starhmberg und sein
-		<lb facs="#facs_180_r2l35" n="N017"/>Erbn nicht mer duldn welln so sulln die egnant konleut und Ir nach
+		<lb facs="#facs_180_r2l35" n="N017"/>Erbn nicht mer duldn welln so sulln die egnant konleut und Ir nach-
 		<lb facs="#facs_180_r2l36" n="N018"/>komen dasselb wasser in ainer Rynnen laitten und furn das es vall in Ir
 		<lb facs="#facs_180_r2l37" n="N019"/>hofl des egnant zuhewsleins aim alle Irrung Aber daz Sicret so
 		<lb facs="#facs_180_r2l38" n="N020"/>an den egnant Gang durch die Mawr der vorgnant kemer in dem
@@ -11759,7 +11762,7 @@
 		<lb facs="#facs_187_r3l10" n="N001"/>Jorg Stetter hannsgraff in Osterreich burger zu Wienn hat emphangen Nucz und
 		<lb facs="#facs_187_r3l11" n="N002"/>gwer Ains hawss gelegen am alten Fleischmarkt zenagst ‧‧ des Trosendorffer
 		<lb facs="#facs_187_r3l12" n="N003"/>haws darumb er und Andre Kornmess burger zu Prespurg Auch fraw Barbara
-		<lb facs="#facs_187_r3l13" n="N004"/>Augustins Adloff Richter zu Judenburg hausfraw und Margreth Jorgen Schon
+		<lb facs="#facs_187_r3l13" n="N004"/>Augustins Adloff Richter zu Judenburg hausfraw und Margreth Jorgen Schon-
 		<lb facs="#facs_187_r3l14" n="N005"/>berg hausfraw vormalen miteinander Nucz und gwer und gwer gwer geschriben
 		<lb facs="#facs_187_r3l15" n="N006"/>gewesen sein und halbs von den egenanten Kornmess und Barbaren und Margrethen
 		<lb facs="#facs_187_r3l16" n="N007"/>seinen Swestern mit Spruchen umb ain Summa gelts an In komen ist nach lautt der
@@ -13416,7 +13419,7 @@
 
 <div type="entry" n="0212-1">
 	<p facs="#facs_212_TextRegion_1646215167330_1160">
-		<lb facs="#facs_212_r1l9" n="N001"/>Gabriel Griessenpekh weilent des Ersamen hochgelerten Maister Ulrichs Griessn
+		<lb facs="#facs_212_r1l9" n="N001"/>Gabriel Griessenpekh weilent des Ersamen hochgelerten Maister Ulrichs Griessn-
 		<lb facs="#facs_212_r1l10" n="N002"/>pekhn licenciat geistlicher Rechten Statschreiber zu Wienn selign Sun hat em-
 		<lb facs="#facs_212_r1l11" n="N003"/>phangen nucz und gwer ains halbn hawss ganczes gelegen im Schulhof am
 		<lb facs="#facs_212_r1l12" n="N004"/>Judnplacz mit aim tail zunagst Michels PhuntImaschn seligen haws und
@@ -13707,7 +13710,7 @@
 		<lb facs="#facs_216_line_1646215311797_1249" n="N001"/>Linhart Kriczinger der Tischergesell hat emphangen Nucz und gwer ains halben hawss gelegen in der Kernerstrass zenagst
 		<lb facs="#facs_216_r2l28" n="N002"/>Hannsen Haml hawss an ainem tail des gegentail Niclas Rauch des tischer Innhat Als das von Dorothen
 		<lb facs="#facs_216_r2l30" n="N003"/>Hannsen Kriczinger des tischer seligen witib seiner Mueter die <del>Nachmalen</del> Nachmalen Linharten Stainberger seinen Steuf
-		<lb facs="#facs_216_r2l32" n="N004"/>vater auch elichen gehabt hat erblich an In komen ist nach lautt sein beweisten frewntschafft Im Stat
+		<lb facs="#facs_216_r2l32" n="N004"/>vater auch elichen gehabt hat erblich an In komen ist nach lautt sein beweisten frewntschafft Im Stat-
 		<lb facs="#facs_216_r2l33" n="N005"/>puch hie geschriben <date>Actum an Mitichen vor sannd Steffans tag Im Snit Anno etc. lxxxⁱˢᵗᵉⁿ Jare</date>
 		<lb facs="#facs_216_r2l36" n="N006"/>Summa lxxii d.
 		<lb facs="#facs_216_r2l25" n="N007"/>{vendidit purkrecht libro
@@ -14015,7 +14018,7 @@
 <div type="entry" n="0221-1">
 	<p facs="#facs_221_TextRegion_1646215550848_1382">
 		<lb facs="#facs_221_line_1662479891915_4903" n="N001"/>Her Steffan Popp Briester Wienner bistumbs dieczeit kaplan der Mess die weilent Gregori Sweller
-		<lb facs="#facs_221_r3l2" n="N002"/>burger zu KornNewnburg und Margreth sein hausfrau zu der Himlportn hie in des Yncz
+		<lb facs="#facs_221_r3l2" n="N002"/>burger zu KornNewnburg und Margreth sein hausfrau zu der Himlportn hie in des Yncz-
 		<lb facs="#facs_221_r3l3" n="N003"/>inger Capelln gestifft haben hat Im und sein nachkomen Caplen zuhandn derselben Mess
 		<lb facs="#facs_221_r3l4" n="N004"/>nucz und gwer emphangen Ains Oden flechs darauf vormaln ain hewsl gepaut
 		<lb facs="#facs_221_r3l5" n="N005"/>gewesn und abgeprunnen ist daselbs gegen der Himlportn uber an aim tail zunagst dem
@@ -15331,7 +15334,7 @@
 		<lb facs="#facs_240_r5l33" n="N001"/>Steffan huber ledrer und Kathrey sein Swester Mertten Huber des floczer hausfrau habnt Emphangen
 		<lb facs="#facs_240_r5l34" n="N002"/>Nucz und gwer ains hawss gelegn vor Werdertor bey sannd Johans Capelln Im winkhl zunagst
 		<lb facs="#facs_240_r5l35" n="N003"/>Hansn Domine des ledrer haws an aim tail und an dem andern zunagst weilent Hansen Ernst
-		<lb facs="#facs_240_r5l36" n="N004"/>seligen haws als das von Niclasen Huber dem ledrer Irem vater seligen erblich an Sy komen ist Inn
+		<lb facs="#facs_240_r5l36" n="N004"/>seligen haws als das von Niclasen Huber dem ledrer Irem vater seligen erblich an Sy komen ist Inn-
 		<lb facs="#facs_240_r5l37" n="N005"/>halt Irer beweisten frewntschaft Im Statpuch hie geschribn <date>Actum an Mitichn vor Michaelis
 		<lb facs="#facs_240_r5l38" n="N006"/>Anno domini etc. lxxxiº</date>
 		<lb facs="#facs_240_r5l39" n="N007"/>Summa iiii s. xxiiii d.
@@ -15456,7 +15459,7 @@
 		<lb facs="#facs_242_r2l38" n="N011"/>an goczleichnamstag die loblich process der ausfurung unsers liebn herrn Jhesu Cristi
 		<lb facs="#facs_242_r2l39" n="N012"/>als man In mit den zwain Schachner an dem heiligen Korfreitag zu krewczigen auf
 		<lb facs="#facs_242_r2l40" n="N013"/>gefurt hat begen lassn wie dann das in der bemelten kirchen puch geschriben stet und
-		<lb facs="#facs_242_r2l41" n="N014"/>was die zu Richtung derselben process und auffurung furan Jerlich mit zuberait
+		<lb facs="#facs_242_r2l41" n="N014"/>was die zu Richtung derselben process und auffurung furan Jerlich mit zuberait-
 		<lb facs="#facs_242_r2l42" n="N015"/>tung umb gwant ven und ander notdurft gesten wirdet sol man von der kirchen
 		<lb facs="#facs_242_r2l43" n="N016"/>gut verlegen ausrichten und gebn und auch der person so dieselb process gestifft hat
 		<lb facs="#facs_242_r2l44" n="N017"/>Jerlich und ewiclichn an dem nagstn Freitag nach goczleichnamstag begen lassn
@@ -15566,7 +15569,7 @@
 		<lb facs="#facs_244_r4l25" n="N004"/>haws darumb Sy und der vorgnant Ir Man seliger vormalen mit gesambter
 		<lb facs="#facs_244_r4l26" n="N005"/>hand nucz und gwer geschribn gewesn sein und von Im mit gescheft an sey
 		<lb facs="#facs_244_r4l27" n="N006"/>komen ist nach lautt seins geschefts Im Statpuch hie geschriben doch unvergriffn
-		<lb facs="#facs_244_r4l28" n="N007"/>den vir hundert ungrischn gulden darumb es Maister Erharten von Pechlorn kor
+		<lb facs="#facs_244_r4l28" n="N007"/>den vir hundert ungrischn gulden darumb es Maister Erharten von Pechlorn kor-
 		<lb facs="#facs_244_r4l29" n="N008"/>maister zu sand Steffan und weilent hern Hansn Hofmullner briester Passawer bistumbs
 		<lb facs="#facs_244_r4l30" n="N009"/>versaczt ist nach lautt ains Saczgeltbriefs <date>Actum an Phincztag sand Andres abnt
 		<lb facs="#facs_244_line_1675951139473_881" n="N010"/>Anno domini etc. lxxiiº</date>
@@ -18153,7 +18156,7 @@ Eintrag gelöscht?
 	<pb facs="#facs_283" n="283" xml:id="img_0283"/>
 
 	<p facs="#facs_283_TextRegion_1662478562282_4309" part="F">
-		<lb facs="#facs_283_r2l1" n="N001"/>welhs under In baiden das ander uberlebt das sol und mag das obgnant haws ledig
+		<lb facs="#facs_283_r2l1" n="N001"/>welhs under In baiden das ander uberlebt das sol und mag das obgnant haws ledig-
 		<lb facs="#facs_283_r2l2" n="N002"/>clich und freilich Innhabn nuczn und niessn und alln seinen frumen damit zuhandeln
 		<lb facs="#facs_283_r2l3" n="N003"/>verkauffn verseczn Schaffn machn und gebn wem Es verlust an des abgangen Ge-
 		<lb facs="#facs_283_r2l4" n="N004"/>mecheids Erben Irrung und hindernuss ungeverlich <date>Actum an Freitag nach sand
@@ -18689,7 +18692,7 @@ Eintrag gelöscht?
 
 <div type="entry" n="0290-4">
 	<p facs="#facs_290_TextRegion_1662478202348_4080">
-		<lb facs="#facs_290_r3l42" n="N001"/>Barbara Mertten Bischolf hausfrau hat emphangen nucz und gwer ains hawss mit seiner zuge
+		<lb facs="#facs_290_r3l42" n="N001"/>Barbara Mertten Bischolf hausfrau hat emphangen nucz und gwer ains hawss mit seiner zuge-
 		<lb facs="#facs_290_r3l43" n="N002"/>horung gelegen am Alten Fleischmarkht gegen sand Larenczen uber am Egk zunagst der Kadrey die
 		<lb facs="#facs_290_r3l44" n="N003"/>weilent Pauln Kurczinn seligen gewesen ist darumb weilent Ruprecht korbler mit Ir gegn Irem
 		<lb facs="#facs_290_r3l45" n="N004"/>halbn tail hawss ganczes gelegen zunagst weilent Petern Gwerlich seligen haws ainem aus
@@ -18764,8 +18767,8 @@ Eintrag gelöscht?
 
 <div type="entry" n="0292-1">
 	<p facs="#facs_292_TextRegion_1662478104547_3971">
-		<lb facs="#facs_292_r3l2" n="N001"/>Paul Poglinger und Tibolt Pheffer burger zu Wienn an stat und zu handen Jorgn und Mat
-		<lb facs="#facs_292_r3l3" n="N002"/>hesn Ruprechtn korbler selign kinder gerhabn und Ursula Jorgn Stettner hausfrau die vor
+		<lb facs="#facs_292_r3l2" n="N001"/>Paul Poglinger und Tibolt Pheffer burger zu Wienn an stat und zu handen Jorgn und Mat-
+		<lb facs="#facs_292_r3l3" n="N002"/>hesn Ruprechtn korbler selign kinder gerhabn und Ursula Jorgn Stettner hausfrau die vor-
 		<lb facs="#facs_292_r3l4" n="N003"/>maln denselben korbler seligen auch elichn gehabt hat fur sich selbs habnt Emphanngen
 		<lb facs="#facs_292_r3l5" n="N004"/>nucz und gwer ains halbn hawss ganczes gelegn am Harmarkht zunagst weilent
 		<lb facs="#facs_292_r3l6" n="N005"/>Petern Gwerlich seligen hawss des gegntail Mertt Knab Innhat und ist der ander tail
@@ -20459,7 +20462,7 @@ eigentlich un- gevogt
 		<lb facs="#facs_315_r2l32" n="N005"/>gehabt haben unnd der annder halb tail von Margrethnn Hannsenn Rakhnndorffer den
 		<lb facs="#facs_315_r2l33" n="N006"/>man auch genannt hat Pekhnnhofer des fleischakher selignn wittib umb hundert und zwen¬
 		<lb facs="#facs_315_r2l34" n="N007"/>und Newnczig unngrisch gulden mit kauf an Sy komen ist furbaser das obgenannt haws
-		<lb facs="#facs_315_r2l35" n="N008"/>gannzes lnnzehabnn zunucznn unnd zeniessenn allnn Irnn frumen damit zuhanndlnn ver
+		<lb facs="#facs_315_r2l35" n="N008"/>gannzes lnnzehabnn zunucznn unnd zeniessenn allnn Irnn frumen damit zuhanndlnn ver-
 		<lb facs="#facs_315_r2l36" n="N009"/>kauffnn versecznn schaffnn machnn und gebnn wem Sy verlust ut littera sonat <date>Actum an Montag
 		<lb facs="#facs_315_r2l37" n="N010"/>vor Sannd Veits tag Anno domini etc. lxxxvᵗº</date>
 		<lb facs="#facs_315_r2l38" n="N011"/>Summa xv s. xiiii d.
@@ -21152,7 +21155,7 @@ eigentlich un- gevogt
 		<lb facs="#facs_325_r2l13" n="N003"/>gegen herrn Otten und Haimen kappelln uber mit dem vordern tail zunagst dem
 		<lb facs="#facs_325_r2l14" n="N004"/>gesslein als man In daz Schiltergessl geet an ainer seittn und stosset an Hainreichn
 		<lb facs="#facs_325_r2l15" n="N005"/>Stumpbekh des Sneider selign haws und ist der tail und auch das Ekh desselbn
-		<lb facs="#facs_325_r2l16" n="N006"/>hawss in der Wildbergerstrass nebn dem egenant gesslein und gegn der vorbe
+		<lb facs="#facs_325_r2l16" n="N006"/>hawss in der Wildbergerstrass nebn dem egenant gesslein und gegn der vorbe-
 		<lb facs="#facs_325_r2l17" n="N007"/>stimbtn kappelln uber und mit der andern seitten zunagst Hannsn Littinger
 		<lb facs="#facs_325_r2l18" n="N008"/>des vasczieher selign drittail desselbn hawss das sich zwischen In baidn tailt
 		<lb facs="#facs_325_r2l19" n="N009"/>an dem pheiler der enmittn in dem hof daran aufget und auch der gemain-
@@ -25207,7 +25210,7 @@ eigentlich un- gevogt
 		<lb facs="#facs_388_r3l33" n="N008"/>vor Stephani Invencionis Anno etc. lxxxxviiiᵛº</date>
 		<lb facs="#facs_388_r3l37" n="N009"/>Summa v s. xxvi d.
 		<lb facs="#facs_388_r3l34" n="N010"/>desselb haws ist an Gemaine Stat Wienn
-		<lb facs="#facs_388_r3l35" n="N011"/>mit Erbrecht gefallen und verrer Leon
+		<lb facs="#facs_388_r3l35" n="N011"/>mit Erbrecht gefallen und verrer Leon-
 		<lb facs="#facs_388_r3l36" n="N012"/>harden <unclear>Hanneperger</unclear> und Cristina
 		<lb facs="#facs_388_r3l38" n="N013"/>seiner hausfraw von bemelter Stat
 		<lb facs="#facs_388_line_1701255748894_81" n="N014"/>Wienn verkaufft worden
@@ -30301,7 +30304,7 @@ eigentlich un- gevogt
 <div type="entry" n="0471-2">
 	<p facs="#facs_471_TextRegion_1662302672986_433">
 		<lb facs="#facs_471_r4l11" n="N001"/>Anna Jorgen Hiliprannts des floczer seligen witib hat emphangn nucz und
-		<lb facs="#facs_471_r4l12" n="N002"/>gewer ains haws gelegen vor Werderthor in der Rostrenkh zu nagst weilend
+		<lb facs="#facs_471_r4l12" n="N002"/>gewer ains haws gelegen vor Werderthor in der Rostrenkh zu- nagst weilend
 		<lb facs="#facs_471_r4l13" n="N003"/>Micheln Payr des vischer haws an ainem tail Als das von prueder Hannsen
 		<lb facs="#facs_471_r4l14" n="N004"/>Pennczen Reitter der heiligen geschrift doctor diezeit prior unser lieben frawn
 		<lb facs="#facs_471_r4l15" n="N005"/>prueder ordns von dem perg Carmel an der Herczogen hoff hie zu Wienn

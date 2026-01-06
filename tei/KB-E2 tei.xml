@@ -14,7 +14,6 @@
 				<bibl>
 					<title type="main">Kaufbuch E2 1420-1437</title>
 					<idno type="Transkribus">742508</idno>
-					<idno type="external">NA</idno>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -1149,7 +1148,7 @@
 		<lb facs="#facs_19_r1l16" n="N004"/><del>ges</del> gewesen ist und das Sy in der Burgerschrann <del>umb</del> mit dem Rechten erlangt
 		<lb facs="#facs_19_r1l17" n="N005"/>und behabt habent nach laut der Grichtbrief und Anpotbrief daruber gegeben
 		<lb facs="#facs_19_r1l18" n="N006"/>umb xlv tl. d. dem erbern Hannsen polan dem underkewffl mitburger ze Wienn
-		<lb facs="#facs_19_r1l19" n="N007"/>Elspeten seiner hausfrawn und Irn paiden erben ut doch das der benant polan alczeit
+		<lb facs="#facs_19_r1l19" n="N007"/>Elspeten seiner hausfrawn und Irn paiden erben <surplus>ut</surplus> doch das der benant polan alczeit
 		<lb facs="#facs_19_r1l20" n="N008"/>ganczen gewalt haben sol mit den egenant haws allen seinen frumen <del>dan</del> zeschaffen ut littera sonat
 		<lb facs="#facs_19_r1l21" n="N009"/><date>Actum an Montag nach sant Erasms tag Anno etc. xxxiiiiº</date>
 		<lb facs="#facs_19_r1l22" n="N010"/>Summa iii s. d.
@@ -4592,7 +4591,7 @@
 		<lb facs="#facs_75_line_1634473413475_2456" n="N001"/>Wolfgang Molter burger zu Karnnewnburg und Anna sein hausfraw
 		<lb facs="#facs_75_line_1634473403228_2451" n="N002"/>habent verrchaufft ain haus gelegen am alten Kolmarkt zu Wienn zenagst
 		<lb facs="#facs_75_r3l19" n="N003"/>Ulreichs des Solln haus an aimtail und an dem andern zenagst des fuchsleins
-		<lb facs="#facs_75_line_1634473462438_2475" n="N004"/>haus umb CC und x tl. d. dem erbern Hannsen Megenprecht dem golt
+		<lb facs="#facs_75_line_1634473462438_2475" n="N004"/>haus umb CC und x tl. d. dem erbern Hannsen Megenprecht dem golt-
 		<lb facs="#facs_75_r3l21" n="N005"/>smid Kathrein seiner hausfrawn und irn paiden erben ipse gwalt ut littera
 		<lb facs="#facs_75_r3l22" n="N006"/>sonat <date>Actum feria sexta ante Thome Apostoli Anno etc. xxviiiiº</date>
 		<lb facs="#facs_75_r3l24" n="N007"/>Summa xiiii s. d.
